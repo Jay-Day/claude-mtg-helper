@@ -11,13 +11,14 @@ This repository contains comprehensive Magic: The Gathering reference materials 
 
 ## Core Reference Files
 - `CLAUDE.md` (this file) - Main project configuration and overview
-- `rules/comprehensive-rules-summary.md` - Key rules and interactions
-- `rules/tournament-procedures.md` - Tournament and competitive play rules
-- `formats/banned-restricted.md` - Current banned/restricted lists for all formats
-- `formats/format-specifications.md` - Deck construction rules by format
-- `rulings/common-interactions.md` - Frequently asked ruling questions
-- `cards/card-database.md` - Searchable card reference
-- `tools/deck-analysis-tools.md` - Templates for deck legality checking
+- `formats/formats.md` - Complete format specifications and rules
+- `card-library/` - Complete Standard card database by set
+- `scripts/fetch_set_cards.py` - Tool to fetch new sets from Scryfall API
+- `rules/comprehensive-rules-summary.md` - Key rules and interactions (planned)
+- `rules/tournament-procedures.md` - Tournament and competitive play rules (planned)
+- `formats/banned-restricted.md` - Current banned/restricted lists (planned)
+- `rulings/common-interactions.md` - Frequently asked ruling questions (planned)
+- `tools/deck-analysis-tools.md` - Templates for deck legality checking (planned)
 
 ## Custom Commands Available
 When working in this project, you can use these slash commands:
@@ -138,9 +139,11 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 When asked about MTG topics, Claude should:
 
-1. **For rules questions**: Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md`
-2. **For format legality**: Check `formats/banned-restricted.md` and `formats/format-specifications.md`
-3. **For tournament questions**: Reference `rules/tournament-procedures.md`
-4. **For deck analysis**: Use templates in `tools/deck-analysis-tools.md`
+1. **For format questions**: Reference `formats/formats.md` for complete format specifications
+2. **For card searches**: Search `card-library/` directories for specific cards
+3. **For Standard legality**: Check current Standard sets list and `card-library/` contents
+4. **For rules questions**: Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (when available)
+5. **For tournament questions**: Reference `rules/tournament-procedures.md` (when available)
+6. **For deck analysis**: Use templates in `tools/deck-analysis-tools.md` (when available)
 
 Remember: This repository aims to eliminate the need for web searches on common MTG questions by providing comprehensive, current, and well-organized reference materials.

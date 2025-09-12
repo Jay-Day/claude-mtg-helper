@@ -13,9 +13,10 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
 ## 📁 Repository Structure
 
 ```
-├── card-library/           # Card databases by set
-├── rules/                  # Comprehensive rules and interactions (planned)
-├── formats/               # Format specifications and ban lists (planned)
+├── card-library/           # Complete Standard card database by set
+├── formats/               # Format specifications and rules
+├── scripts/               # Data fetching and utility scripts
+├── rules/                 # Comprehensive rules and interactions (planned)
 ├── rulings/               # Common ruling scenarios (planned)
 ├── tools/                 # Deck analysis templates (planned)
 └── README.md              # This file
@@ -83,14 +84,11 @@ The script automatically handles API rate limiting and creates organized directo
 
 ## 📊 Current Data
 
-- **Last Updated**: September 11, 2025
+- **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Current Standard Sets**:
-  - Magic: The Gathering—FINAL FANTASY
-  - Tarkir: Dragonstorm
-  - Magic: The Gathering Foundations
-  - Duskmourn: House of Horror
-  - Bloomburrow
+- **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
+- **Card Database**: All current Standard sets (~3,133 cards) with complete JSON data
+- **Current Standard Sets**: 11 sets from Edge of Eternities through Wilds of Eldraine
 
 ## 🔧 Features
 
