@@ -14,7 +14,11 @@ from typing import List, Dict, Any, Optional
 def load_card_data() -> List[Dict[str, Any]]:
     """Load all card data from the card-library directory"""
     cards = []
-    card_library_path = Path("card-library")
+    
+    # Find the project root directory (where this script is located)
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent
+    card_library_path = project_root / "card-library"
     
     if not card_library_path.exists():
         return cards
@@ -46,8 +50,14 @@ def search_cards(query: str, set_filter: Optional[str] = None) -> List[Dict[str,
         if set_filter and card.get('set', '').lower() != set_filter.lower():
             continue
             
-        # Search in card name
-        if pattern.search(card.get('name', '')):
+        # Search in card name, oracle text, and type line
+        searchable_text = ' '.join([
+            card.get('name', ''),
+            card.get('oracle_text', ''),
+            card.get('type_line', '')
+        ])
+        
+        if pattern.search(searchable_text):
             results.append(card)
     
     # Sort results by exact match first, then alphabetically
@@ -114,6 +124,7 @@ def format_card_output(card: Dict[str, Any]) -> str:
     set_name = card.get('set_name', '')
     set_code = card.get('set', '').upper()
     collector_number = card.get('collector_number', '')
+    rarity = card.get('rarity', 'unknown')
     
     # Card dimensions
     card_width = 50
@@ -151,12 +162,18 @@ def format_card_output(card: Dict[str, Any]) -> str:
         pt_text = f"{power}/{toughness}"
         output += f"|{' ' * (card_width - len(pt_text) - 3)}{pt_text} |\n"
     
-    # Set info
+    # Set info with rarity
     output += "+" + "-" * (card_width - 2) + "+\n"
+    
+    # Get rarity letter
+    rarity_letter = rarity[0].upper() if rarity else 'U'
+    
     set_info = f"{set_name} ({set_code}) #{collector_number}"
-    if len(set_info) > card_width - 4:
-        set_info = set_info[:card_width - 7] + "..."
-    output += f"| {set_info:<{card_width - 3}} |\n"
+    if len(set_info) > card_width - 6:  # Leave space for rarity
+        set_info = set_info[:card_width - 9] + "..."
+    
+    # Add rarity letter on the left side
+    output += f"| {rarity_letter} {set_info:<{card_width - 5}} |\n"
     
     # Close the card
     output += "+" + "-" * (card_width - 2) + "+\n"
@@ -186,25 +203,24 @@ def main():
     results = search_cards(query, set_filter)
     
     if not results:
-        print(f"No cards found matching '{query}'", file=sys.stderr)
+        print(f"No cards found matching '{query}'")
         if set_filter:
-            print(f"in set '{set_filter}'", file=sys.stderr)
+            print(f"in set '{set_filter}'")
         sys.exit(0)
     
-    # Display results - using stderr so it's not collapsible
-    
-    print(f"Found {len(results)} card(s) matching '{query}':", file=sys.stderr)
+    # Display results
+    print(f"Found {len(results)} card(s) matching '{query}':")
     if set_filter:
-        print(f"(filtered to set: {set_filter})", file=sys.stderr)
-    print(file=sys.stderr)
+        print(f"(filtered to set: {set_filter})")
+    print()
     
     for i, card in enumerate(results[:10]):  # Limit to 10 results
-        print(format_card_output(card), file=sys.stderr)
+        print(format_card_output(card))
         if i < len(results) - 1 and i < 9:
-            print("---", file=sys.stderr)
+            print("---")
     
     if len(results) > 10:
-        print(f"... and {len(results) - 10} more results", file=sys.stderr)
+        print(f"... and {len(results) - 10} more results")
 
 if __name__ == "__main__":
     main()

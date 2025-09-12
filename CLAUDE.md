@@ -20,45 +20,30 @@ This repository contains comprehensive Magic: The Gathering reference materials 
 - `rulings/common-interactions.md` - Frequently asked ruling questions (planned)
 - `tools/deck-analysis-tools.md` - Templates for deck legality checking (planned)
 
-## Custom Commands Available
-When working in this project, you can use these slash commands:
+## Available Commands
+When working in this project, you can ask Claude to help with:
 
-### /ruling [card name or interaction]
-Quickly look up rulings for specific cards or interactions
+### Card Search
+Ask Claude to search for specific cards: "search for Lightning Bolt" or "find cards with 'dragon' in the name"
+- Uses the efficient `scripts/search_cards.py` script
+- Displays results in ASCII MTG card format
+- Supports partial name matching and set filtering
 
-### /legal [format] [card name]
-Check if a card is legal in a specific format
+### Rulings Lookup
+Ask for rulings on specific cards or interactions: "what are the rulings for Kaalia of the Vast?"
 
-### /format [format name]
-Get complete format information including banned list and deck construction rules
+### Format Information  
+Ask about format specifications: "what are the deck construction rules for Modern?"
 
-### /fetch [set_code or "set_name"]
-Fetch a new MTG set from Scryfall API and add to local card database
+### Card Legality
+Ask about card legality: "is Lightning Bolt legal in Standard?"
 
-**Examples:**
-- `/fetch blb` - Fetch using set code
-- `/fetch "Dominaria United"` - Fetch using full set name
-- `/fetch --list` - Show available sets to fetch
-- `/fetch --recent` - Fetch all sets from current year
+### Set Data Management
+Ask Claude to fetch new sets: "fetch the Bloomburrow set" or "add Dominaria United to the database"
+- Uses `scripts/fetch_set_cards.py` to get data from Scryfall API
 
-### /search [card name]
-Search the local card database for a specific card and display its details
-
-**Examples:**
-- `/search Lightning Bolt` - Find Lightning Bolt across all sets
-- `/search "Jace, the Mind Sculptor"` - Search for planeswalker with exact name
-- `/search Uril` - Partial name search (finds "Uril, the Miststalker")
-- `/search --set blb Lightning` - Search only within Bloomburrow set
-
-**Returns:**
-- Card name, mana cost, type, power/toughness
-- Oracle text and abilities
-- Set information and collector number
-- Format legality status
-- Multiple printings if available in different sets
-
-### /update-bans
-Instructions for updating banned/restricted lists when new announcements are made
+### Ban List Updates
+Ask for help updating banned/restricted lists when new announcements are made
 
 ## Scripts Available
 ### `scripts/fetch_set_cards.py`
@@ -135,20 +120,65 @@ All files are organized with clear headers, consistent formatting, and searchabl
 ## Version Information
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Card Database**: ~10,230+ cards across 39 complete sets
+- **Card Database**: ~11,500+ cards across 42 complete sets
 - **Format Coverage**: Complete Modern (2003+), extensive Legacy, current Standard
-- **Current Standard Sets** (as of 2025 rotation): 
-  - Edge of Eternities (EOE)
-  - Magic: The Gathering—FINAL FANTASY (FIN) 
-  - Tarkir: Dragonstorm (TDM)
-  - Aetherdrift (DFT)
-  - Magic: The Gathering Foundations (FDN)
-  - Duskmourn: House of Horror (DSK)
-  - Bloomburrow (BLB)
-  - Outlaws of Thunder Junction (OTJ) (including The Big Score)
-  - Murders at Karlov Manor (MKM)
-  - The Lost Caverns of Ixalan (LCI)
-  - Wilds of Eldraine (WOE)
+
+## Complete Set Database with Release Dates
+
+### Current Standard Sets (2025):
+- **Edge of Eternities (EOE)** - August 1, 2025
+- **Magic: The Gathering—FINAL FANTASY (FIN)** - June 13, 2025  
+- **Tarkir: Dragonstorm (TDM)** - April 11, 2025
+- **Aetherdrift (DFT)** - February 14, 2025
+- **Magic: The Gathering Foundations (FDN)** - November 15, 2024
+- **Duskmourn: House of Horror (DSK)** - September 27, 2024
+- **Bloomburrow (BLB)** - August 2, 2024
+- **Outlaws of Thunder Junction (OTJ)** - April 19, 2024
+- **Murders at Karlov Manor (MKM)** - February 9, 2024
+- **The Lost Caverns of Ixalan (LCI)** - November 17, 2023
+- **Wilds of Eldraine (WOE)** - September 8, 2023
+
+### Supplemental Sets (2024-2025):
+- **Murders at Karlov Manor Commander (MKC)** - February 9, 2024
+- **Modern Horizons 3 (MH3)** - June 14, 2024
+- **Fallout (PIP)** - March 8, 2024
+- **Ravnica Remastered (RVR)** - January 12, 2024
+- **Innistrad: Crimson Vow (VOW)** - November 19, 2021
+- **Innistrad Remastered (INR)** - January 24, 2025
+
+### Historic Standard Sets:
+- **Foundations (FDN)** - November 15, 2024
+- **War of the Spark (WAR)** - May 3, 2019
+- **Guilds of Ravnica (GRN)** - October 5, 2018
+- **Return to Ravnica (RTR)** - October 5, 2012
+- **Gatecrash (GTC)** - February 1, 2013
+- **Throne of Eldraine (ELD)** - October 4, 2019
+- **Dominaria (DOM)** - April 27, 2018
+- **Theros (THS)** - September 27, 2013
+- **Khans of Tarkir (KTK)** - September 26, 2014
+
+### Core Modern Sets:
+- **Innistrad (ISD)** - September 30, 2011
+- **Dark Ascension (DKA)** - February 3, 2012  
+- **Avacyn Restored (AVR)** - May 4, 2012
+- **Scars of Mirrodin (SOM)** - October 1, 2010
+- **Mirrodin Besieged (MBS)** - February 4, 2011
+- **New Phyrexia (NPH)** - May 13, 2011
+- **Zendikar (ZEN)** - October 2, 2009
+- **Worldwake (WWK)** - February 5, 2010
+- **Rise of the Eldrazi (ROE)** - April 23, 2010
+- **Shards of Alara (ALA)** - October 3, 2008
+- **Conflux (CON)** - February 6, 2009
+- **Alara Reborn (ARB)** - April 30, 2009
+- **Lorwyn (LRW)** - October 12, 2007
+- **Mirrodin (MRD)** - October 2, 2003
+- **Time Spiral (TSP)** - October 6, 2006
+
+### Master/Remaster Sets:
+- **Ravnica: Clue Edition (CLU)** - February 23, 2024
+- **Time Spiral Remastered (TSR)** - March 19, 2021
+- **Modern Masters (MMA)** - June 7, 2013
+- **Eternal Masters (EMA)** - June 10, 2016
 - **Historic Sets Available**:
   - Modern cornerstones: Mirrodin, Time Spiral, Lorwyn, Scars of Mirrodin
   - Classic blocks: Zendikar, Innistrad, Return to Ravnica, Theros, Khans
@@ -178,5 +208,35 @@ When asked about MTG topics, Claude should:
 4. **For rules questions**: Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (when available)
 5. **For tournament questions**: Reference `rules/tournament-procedures.md` (when available)
 6. **For deck analysis**: Use templates in `tools/deck-analysis-tools.md` (when available)
+
+## Commander Deck Building Guidelines
+
+**CRITICAL: When recommending cards for Commander decks, ALWAYS respect color identity restrictions:**
+
+- **Mono-White**: Only White (W) and colorless cards
+- **Mono-Blue**: Only Blue (U) and colorless cards  
+- **Mono-Black**: Only Black (B) and colorless cards
+- **Mono-Red**: Only Red (R) and colorless cards
+- **Mono-Green**: Only Green (G) and colorless cards
+- **Dimir (UB)**: Only Blue, Black, and colorless cards
+- **Azorius (WU)**: Only White, Blue, and colorless cards
+- **Rakdos (BR)**: Only Black, Red, and colorless cards
+- **Gruul (RG)**: Only Red, Green, and colorless cards
+- **Selesnya (GW)**: Only Green, White, and colorless cards
+- **Orzhov (WB)**: Only White, Black, and colorless cards
+- **Izzet (UR)**: Only Blue, Red, and colorless cards
+- **Golgari (BG)**: Only Black, Green, and colorless cards
+- **Boros (RW)**: Only Red, White, and colorless cards
+- **Simic (GU)**: Only Green, Blue, and colorless cards
+
+**Examples:**
+- For Mirko, Obsessive Theorist (Dimir): Only recommend Blue, Black, and colorless cards
+- For Uril, the Miststalker (Naya): Only recommend Red, Green, White, and colorless cards
+- Never recommend Green cards for a Dimir commander or Black cards for a Selesnya commander
+
+**When searching for commander synergies:**
+1. First identify the commander's color identity
+2. Only search for and recommend cards within those colors
+3. Focus on colorless utility when color restrictions are tight
 
 Remember: This repository aims to eliminate the need for web searches on common MTG questions by providing comprehensive, current, and well-organized reference materials.

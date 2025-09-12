@@ -40,10 +40,11 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
    claude
    ```
 
-4. **Use custom commands** (when available):
-   - `/ruling [card name]` - Look up specific rulings
-   - `/legal [format] [card]` - Check card legality  
-   - `/format [format]` - Get format details and banned lists
+4. **Ask Claude for help with MTG questions**:
+   - "Search for Lightning Bolt" - Find cards in the database
+   - "What are the rulings for Kaalia?" - Get specific card rulings
+   - "Is Lightning Bolt legal in Modern?" - Check format legality
+   - "What are Modern format rules?" - Get format specifications
 
 ## 🔄 Fetching Card Data
 
