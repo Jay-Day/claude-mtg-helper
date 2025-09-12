@@ -13,6 +13,7 @@ This repository contains comprehensive Magic: The Gathering reference materials 
 - `CLAUDE.md` (this file) - Main project configuration and overview
 - `formats/formats.md` - ✅ Complete format specifications and rules
 - `formats/banned-restricted.md` - ✅ Current banned/restricted lists 
+- `formats/commander-color-identity.md` - ✅ Comprehensive Commander color identity guide
 - `card-library/` - ✅ Comprehensive card database by set (44+ sets)
 - `scripts/fetch_set_cards.py` - ✅ Tool to fetch new sets from Scryfall API
 - `scripts/search_cards.py` - ✅ Efficient card search with ASCII display
@@ -215,30 +216,22 @@ When asked about MTG topics, Claude should:
 
 **CRITICAL: When recommending cards for Commander decks, ALWAYS respect color identity restrictions:**
 
-- **Mono-White**: Only White (W) and colorless cards
-- **Mono-Blue**: Only Blue (U) and colorless cards  
-- **Mono-Black**: Only Black (B) and colorless cards
-- **Mono-Red**: Only Red (R) and colorless cards
-- **Mono-Green**: Only Green (G) and colorless cards
-- **Dimir (UB)**: Only Blue, Black, and colorless cards
-- **Azorius (WU)**: Only White, Blue, and colorless cards
-- **Rakdos (BR)**: Only Black, Red, and colorless cards
-- **Gruul (RG)**: Only Red, Green, and colorless cards
-- **Selesnya (GW)**: Only Green, White, and colorless cards
-- **Orzhov (WB)**: Only White, Black, and colorless cards
-- **Izzet (UR)**: Only Blue, Red, and colorless cards
-- **Golgari (BG)**: Only Black, Green, and colorless cards
-- **Boros (RW)**: Only Red, White, and colorless cards
-- **Simic (GU)**: Only Green, Blue, and colorless cards
+- Only cards matching the commander's color identity can be included in the deck
+- Color identity includes mana symbols in casting cost, rules text, and reminder text
+- Colorless cards can be included in any Commander deck
 
-**Examples:**
-- For Mirko, Obsessive Theorist (Dimir): Only recommend Blue, Black, and colorless cards
-- For Uril, the Miststalker (Naya): Only recommend Red, Green, White, and colorless cards
-- Never recommend Green cards for a Dimir commander or Black cards for a Selesnya commander
+**For complete color identity reference, see:** `formats/commander-color-identity.md`
 
-**When searching for commander synergies:**
-1. First identify the commander's color identity
+**Quick Examples:**
+- **Dimir Commander (UB)**: Only Blue, Black, and colorless cards
+- **Naya Commander (RGW)**: Only Red, Green, White, and colorless cards  
+- **Four-Color Commander (WUBG)**: Only White, Blue, Black, Green, and colorless cards
+- **Five-Color Commander (WUBRG)**: All colors and colorless cards allowed
+
+**When building Commander decks:**
+1. First identify the commander's color identity using `formats/commander-color-identity.md`
 2. Only search for and recommend cards within those colors
 3. Focus on colorless utility when color restrictions are tight
+4. Never recommend cards outside the commander's color identity
 
 Remember: This repository aims to eliminate the need for web searches on common MTG questions by providing comprehensive, current, and well-organized reference materials.
