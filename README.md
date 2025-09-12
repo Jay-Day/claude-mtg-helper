@@ -1,6 +1,6 @@
 # Magic: The Gathering Claude Code Helper
 
-A comprehensive Magic: The Gathering reference repository optimized for use with Claude Code, providing instant access to rules, format information, and card data without requiring web searches.
+A comprehensive Magic: The Gathering reference repository optimized for use with Claude Code, providing instant access to rules, format information, and complete card databases covering Modern, Legacy, Commander, and Standard formats without requiring web searches.
 
 ## 🎯 Purpose
 
@@ -88,19 +88,25 @@ The script automatically handles API rate limiting and creates organized directo
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
 - **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
 - **Banned/Restricted Lists**: Current ban lists for all competitive formats (240+ cards)
-- **Card Database**: 16 complete sets (~4,660 cards) with full JSON data
-- **Standard Coverage**: All 11 current Standard-legal sets
-- **Supplemental Sets**: Modern Horizons 3, Fallout, Ravnica sets, and recent remastered editions
+- **Card Database**: 39 complete sets (~10,230+ cards) with full JSON data
+- **Standard Coverage**: All 11 current Standard-legal sets (2023-2025)
+- **Modern Coverage**: Complete Modern card pool from Eighth Edition forward (2003+)
+- **Historic Sets**: Classic blocks including Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
+- **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered with format staples
+- **Commander Support**: Comprehensive multicolor and tribal support sets
 
 ## 🔧 Features
 
 - **No Web Dependencies**: All data stored locally for instant access
 - **Claude Code Optimized**: Structured for AI consumption with clear headers and searchable keywords
-- **Comprehensive Coverage**: Standard + supplemental sets for complete format support
+- **Comprehensive Coverage**: 39 complete sets spanning Modern format's entire history (2003-2025)
 - **Current Ban Lists**: Up-to-date banned/restricted cards for all competitive formats
+- **Complete Modern Pool**: Every card legal in Modern format with full metadata
+- **Eternal Format Support**: Extensive Legacy and Commander card coverage
 - **Easy Updates**: Automated scripts for fetching new set releases
 - **Format Specifications**: Complete rules and deck construction for all major formats
 - **Searchable Database**: JSON format enables fast card lookup and filtering
+- **Historic Coverage**: From original Mirrodin through current Standard rotation
 
 ## 🤝 Contributing
 
@@ -116,4 +122,4 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 ---
 
-**Built for Claude Code** | **Maintained by the MTG Community** | **Always Up-to-Date**
+**Built for Claude Code** | **10,230+ Cards Across 39 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**

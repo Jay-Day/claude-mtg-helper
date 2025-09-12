@@ -110,7 +110,8 @@ All files are organized with clear headers, consistent formatting, and searchabl
 ## Version Information
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Card Database**: ~4,660 cards across 16 sets
+- **Card Database**: ~10,230+ cards across 39 complete sets
+- **Format Coverage**: Complete Modern (2003+), extensive Legacy, current Standard
 - **Current Standard Sets** (as of 2025 rotation): 
   - Edge of Eternities (EOE)
   - Magic: The Gathering—FINAL FANTASY (FIN) 
@@ -123,12 +124,12 @@ All files are organized with clear headers, consistent formatting, and searchabl
   - Murders at Karlov Manor (MKM)
   - The Lost Caverns of Ixalan (LCI)
   - Wilds of Eldraine (WOE)
-- **Supplemental Sets Available**:
-  - Modern Horizons 3 (MH3)
-  - Fallout (PIP)
-  - Ravnica: Clue Edition (CLU)
-  - Ravnica Remastered (RVR)
-  - Innistrad Remastered (INR)
+- **Historic Sets Available**:
+  - Modern cornerstones: Mirrodin, Time Spiral, Lorwyn, Scars of Mirrodin
+  - Classic blocks: Zendikar, Innistrad, Return to Ravnica, Theros, Khans
+  - Recent Standard: Dominaria, Guilds of Ravnica, War of the Spark, Throne of Eldraine
+  - Master sets: Modern Masters, Eternal Masters, Time Spiral Remastered
+  - Commander staples: Alara block, New Phyrexia, supplemental sets
 
 ## Contributing
 When updating this repository:
