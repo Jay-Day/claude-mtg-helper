@@ -29,15 +29,47 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
    cd claude-mtg-helper
    ```
 
-2. **Start Claude Code**:
+2. **Install Python dependencies** (if fetching new sets):
+   ```bash
+   pip install requests
+   ```
+
+3. **Start Claude Code**:
    ```bash
    claude
    ```
 
-3. **Use custom commands** (when available):
+4. **Use custom commands** (when available):
    - `/ruling [card name]` - Look up specific rulings
    - `/legal [format] [card]` - Check card legality  
    - `/format [format]` - Get format details and banned lists
+
+## 🔄 Fetching Card Data
+
+### Requirements
+- Python 3.x
+- `requests` library (`pip install requests`)
+- Internet connection
+
+### Usage
+Use the included script to fetch card data from any MTG set:
+
+```bash
+python scripts/fetch_set_cards.py <set_code>
+python scripts/fetch_set_cards.py "<set_name>"
+```
+
+**Examples:**
+```bash
+python scripts/fetch_set_cards.py blb                    # Bloomburrow
+python scripts/fetch_set_cards.py "Dominaria United"    # Full set name
+```
+
+**Output:** Creates `card-library/<set-name>/` with:
+- `all_cards_<code>.json` - Complete set data
+- `set_info_<code>.json` - Set metadata
+
+The script automatically handles API rate limiting and creates organized directories for easy querying.
 
 ## 🎮 Supported Formats
 
