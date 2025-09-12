@@ -13,12 +13,17 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
 ## 📁 Repository Structure
 
 ```
-├── card-library/           # Complete Standard card database by set
-├── formats/               # Format specifications and rules
-├── scripts/               # Data fetching and utility scripts
-├── rules/                 # Comprehensive rules and interactions (planned)
-├── rulings/               # Common ruling scenarios (planned)
-├── tools/                 # Deck analysis templates (planned)
+├── card-library/           # ✅ Complete card database by set (44+ sets)
+├── formats/                # ✅ Format specifications and banned lists
+│   ├── formats.md         # ✅ Complete format rules and specifications
+│   └── banned-restricted.md # ✅ Current banned/restricted lists
+├── scripts/                # ✅ Data fetching and utility scripts
+│   ├── fetch_set_cards.py # ✅ Scryfall API fetcher
+│   └── search_cards.py    # ✅ Card search with ASCII display
+├── rules/                  # 📋 Comprehensive rules and interactions (planned)
+├── rulings/                # 📋 Common ruling scenarios (planned)
+├── tools/                  # 📋 Deck analysis templates (planned)
+├── CLAUDE.md              # ✅ Main project configuration
 └── README.md              # This file
 ```
 
@@ -41,10 +46,11 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
    ```
 
 4. **Ask Claude for help with MTG questions**:
-   - "Search for Lightning Bolt" - Find cards in the database
-   - "What are the rulings for Kaalia?" - Get specific card rulings
-   - "Is Lightning Bolt legal in Modern?" - Check format legality
-   - "What are Modern format rules?" - Get format specifications
+   - "Search for Lightning Bolt" - ✅ Find cards with ASCII display
+   - "What are the rulings for Kaalia?" - 📋 Get specific card rulings (planned)
+   - "Is Lightning Bolt legal in Modern?" - ✅ Check format legality
+   - "What are Modern format rules?" - ✅ Get complete format specifications
+   - "What's banned in Pioneer?" - ✅ Get current banned/restricted lists
 
 ## 🔄 Fetching Card Data
 
@@ -89,9 +95,9 @@ The script automatically handles API rate limiting and creates organized directo
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
 - **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
 - **Banned/Restricted Lists**: Current ban lists for all competitive formats (240+ cards)
-- **Card Database**: 39 complete sets (~10,230+ cards) with full JSON data
+- **Card Database**: 44 complete sets (~11,500+ cards) with full JSON data
 - **Standard Coverage**: All 11 current Standard-legal sets (2023-2025)
-- **Modern Coverage**: Complete Modern card pool from Eighth Edition forward (2003+)
+- **Modern Coverage**: Complete Modern card pool from Mirrodin forward (2003+)
 - **Historic Sets**: Classic blocks including Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
 - **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered with format staples
 - **Commander Support**: Comprehensive multicolor and tribal support sets
@@ -100,7 +106,7 @@ The script automatically handles API rate limiting and creates organized directo
 
 - **No Web Dependencies**: All data stored locally for instant access
 - **Claude Code Optimized**: Structured for AI consumption with clear headers and searchable keywords
-- **Comprehensive Coverage**: 39 complete sets spanning Modern format's entire history (2003-2025)
+- **Comprehensive Coverage**: 44 complete sets spanning Modern format's entire history (2003-2025)
 - **Current Ban Lists**: Up-to-date banned/restricted cards for all competitive formats
 - **Complete Modern Pool**: Every card legal in Modern format with full metadata
 - **Eternal Format Support**: Extensive Legacy and Commander card coverage
@@ -123,4 +129,4 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 ---
 
-**Built for Claude Code** | **10,230+ Cards Across 39 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**
+**Built for Claude Code** | **11,500+ Cards Across 44 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**

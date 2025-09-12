@@ -11,23 +11,24 @@ This repository contains comprehensive Magic: The Gathering reference materials 
 
 ## Core Reference Files
 - `CLAUDE.md` (this file) - Main project configuration and overview
-- `formats/formats.md` - Complete format specifications and rules
-- `card-library/` - Complete Standard card database by set
-- `scripts/fetch_set_cards.py` - Tool to fetch new sets from Scryfall API
-- `rules/comprehensive-rules-summary.md` - Key rules and interactions (planned)
-- `rules/tournament-procedures.md` - Tournament and competitive play rules (planned)
-- `formats/banned-restricted.md` - Current banned/restricted lists (planned)
-- `rulings/common-interactions.md` - Frequently asked ruling questions (planned)
-- `tools/deck-analysis-tools.md` - Templates for deck legality checking (planned)
+- `formats/formats.md` - ✅ Complete format specifications and rules
+- `formats/banned-restricted.md` - ✅ Current banned/restricted lists 
+- `card-library/` - ✅ Comprehensive card database by set (44+ sets)
+- `scripts/fetch_set_cards.py` - ✅ Tool to fetch new sets from Scryfall API
+- `scripts/search_cards.py` - ✅ Efficient card search with ASCII display
+- `rules/comprehensive-rules-summary.md` - 📋 Key rules and interactions (planned)
+- `rules/tournament-procedures.md` - 📋 Tournament and competitive play rules (planned)
+- `rulings/common-interactions.md` - 📋 Frequently asked ruling questions (planned)
+- `tools/deck-analysis-tools.md` - 📋 Templates for deck legality checking (planned)
 
 ## Available Commands
 When working in this project, you can ask Claude to help with:
 
 ### Card Search
 Ask Claude to search for specific cards: "search for Lightning Bolt" or "find cards with 'dragon' in the name"
-- Uses the efficient `scripts/search_cards.py` script
-- Displays results in ASCII MTG card format
-- Supports partial name matching and set filtering
+- ✅ Uses the efficient `scripts/search_cards.py` script
+- ✅ Displays results in ASCII MTG card format
+- ✅ Supports partial name matching and set filtering
 
 ### Rulings Lookup
 Ask for rulings on specific cards or interactions: "what are the rulings for Kaalia of the Vast?"
@@ -40,7 +41,7 @@ Ask about card legality: "is Lightning Bolt legal in Standard?"
 
 ### Set Data Management
 Ask Claude to fetch new sets: "fetch the Bloomburrow set" or "add Dominaria United to the database"
-- Uses `scripts/fetch_set_cards.py` to get data from Scryfall API
+- ✅ Uses `scripts/fetch_set_cards.py` to get data from Scryfall API
 
 ### Ban List Updates
 Ask for help updating banned/restricted lists when new announcements are made
@@ -120,7 +121,7 @@ All files are organized with clear headers, consistent formatting, and searchabl
 ## Version Information
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Card Database**: ~11,500+ cards across 42 complete sets
+- **Card Database**: ~11,500+ cards across 44 complete sets
 - **Format Coverage**: Complete Modern (2003+), extensive Legacy, current Standard
 
 ## Complete Set Database with Release Dates
@@ -202,12 +203,13 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 When asked about MTG topics, Claude should:
 
-1. **For format questions**: Reference `formats/formats.md` for complete format specifications
-2. **For card searches**: Search `card-library/` directories for specific cards
-3. **For Standard legality**: Check current Standard sets list and `card-library/` contents
-4. **For rules questions**: Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (when available)
-5. **For tournament questions**: Reference `rules/tournament-procedures.md` (when available)
-6. **For deck analysis**: Use templates in `tools/deck-analysis-tools.md` (when available)
+1. **For format questions**: ✅ Reference `formats/formats.md` for complete format specifications
+2. **For card searches**: ✅ Search `card-library/` directories for specific cards using `scripts/search_cards.py`
+3. **For Standard legality**: ✅ Check current Standard sets list and `card-library/` contents
+4. **For banned/restricted lists**: ✅ Reference `formats/banned-restricted.md`
+5. **For rules questions**: 📋 Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (planned)
+6. **For tournament questions**: 📋 Reference `rules/tournament-procedures.md` (planned)
+7. **For deck analysis**: 📋 Use templates in `tools/deck-analysis-tools.md` (planned)
 
 ## Commander Deck Building Guidelines
 
