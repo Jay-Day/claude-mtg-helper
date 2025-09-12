@@ -32,6 +32,31 @@ Check if a card is legal in a specific format
 ### /format [format name]
 Get complete format information including banned list and deck construction rules
 
+### /fetch [set_code or "set_name"]
+Fetch a new MTG set from Scryfall API and add to local card database
+
+**Examples:**
+- `/fetch blb` - Fetch using set code
+- `/fetch "Dominaria United"` - Fetch using full set name
+- `/fetch --list` - Show available sets to fetch
+- `/fetch --recent` - Fetch all sets from current year
+
+### /search [card name]
+Search the local card database for a specific card and display its details
+
+**Examples:**
+- `/search Lightning Bolt` - Find Lightning Bolt across all sets
+- `/search "Jace, the Mind Sculptor"` - Search for planeswalker with exact name
+- `/search Uril` - Partial name search (finds "Uril, the Miststalker")
+- `/search --set blb Lightning` - Search only within Bloomburrow set
+
+**Returns:**
+- Card name, mana cost, type, power/toughness
+- Oracle text and abilities
+- Set information and collector number
+- Format legality status
+- Multiple printings if available in different sets
+
 ### /update-bans
 Instructions for updating banned/restricted lists when new announcements are made
 
