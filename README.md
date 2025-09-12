@@ -87,16 +87,20 @@ The script automatically handles API rate limiting and creates organized directo
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
 - **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
-- **Card Database**: All current Standard sets (~3,133 cards) with complete JSON data
-- **Current Standard Sets**: 11 sets from Edge of Eternities through Wilds of Eldraine
+- **Banned/Restricted Lists**: Current ban lists for all competitive formats (240+ cards)
+- **Card Database**: 16 complete sets (~4,660 cards) with full JSON data
+- **Standard Coverage**: All 11 current Standard-legal sets
+- **Supplemental Sets**: Modern Horizons 3, Fallout, Ravnica sets, and recent remastered editions
 
 ## 🔧 Features
 
-- **No Web Dependencies**: All data stored locally
+- **No Web Dependencies**: All data stored locally for instant access
 - **Claude Code Optimized**: Structured for AI consumption with clear headers and searchable keywords
-- **Tournament Ready**: Includes tournament procedures and infraction guidelines
-- **Format Specific**: Separate banned/restricted lists for each competitive format
-- **Card Databases**: Searchable card references organized by set
+- **Comprehensive Coverage**: Standard + supplemental sets for complete format support
+- **Current Ban Lists**: Up-to-date banned/restricted cards for all competitive formats
+- **Easy Updates**: Automated scripts for fetching new set releases
+- **Format Specifications**: Complete rules and deck construction for all major formats
+- **Searchable Database**: JSON format enables fast card lookup and filtering
 
 ## 🤝 Contributing
 

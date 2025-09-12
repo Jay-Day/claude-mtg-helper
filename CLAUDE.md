@@ -110,6 +110,7 @@ All files are organized with clear headers, consistent formatting, and searchabl
 ## Version Information
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
+- **Card Database**: ~4,660 cards across 16 sets
 - **Current Standard Sets** (as of 2025 rotation): 
   - Edge of Eternities (EOE)
   - Magic: The Gathering—FINAL FANTASY (FIN) 
@@ -122,6 +123,12 @@ All files are organized with clear headers, consistent formatting, and searchabl
   - Murders at Karlov Manor (MKM)
   - The Lost Caverns of Ixalan (LCI)
   - Wilds of Eldraine (WOE)
+- **Supplemental Sets Available**:
+  - Modern Horizons 3 (MH3)
+  - Fallout (PIP)
+  - Ravnica: Clue Edition (CLU)
+  - Ravnica Remastered (RVR)
+  - Innistrad Remastered (INR)
 
 ## Contributing
 When updating this repository:
