@@ -34,6 +34,20 @@ Get complete format information including banned list and deck construction rule
 ### /update-bans
 Instructions for updating banned/restricted lists when new announcements are made
 
+## Scripts Available
+### `scripts/fetch_set_cards.py`
+Fetches all cards from a specific MTG set via Scryfall API and saves to card-library/<set-name>/
+
+**Usage:**
+- `python scripts/fetch_set_cards.py <set_code>` (e.g., "blb", "dmu")  
+- `python scripts/fetch_set_cards.py "<set_name>"` (e.g., "Dominaria United")
+
+**Output:**
+- `card-library/<set-name>/all_cards_<code>.json` - Complete card data
+- `card-library/<set-name>/set_info_<code>.json` - Set metadata
+
+**Note:** Always verify set codes/names exist in Scryfall before fetching
+
 ## MTG Knowledge Areas Covered
 
 ### Rules and Mechanics
@@ -93,15 +107,20 @@ All files are organized with clear headers, consistent formatting, and searchabl
 - **As needed**: Add new common rulings and interactions
 
 ## Version Information
-- **Last Updated**: September 11, 2025
+- **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Current Standard Sets**: 
-  - Magic: The Gathering—FINAL FANTASY
-  - Tarkir: Dragonstorm  
-  - Magic: The Gathering Foundations
-  - Duskmourn: House of Horror
-  - Bloomburrow
-  - Modern Horizons 3 (not Standard legal)
+- **Current Standard Sets** (as of 2025 rotation): 
+  - Edge of Eternities (EOE)
+  - Magic: The Gathering—FINAL FANTASY (FIN) 
+  - Tarkir: Dragonstorm (TDM)
+  - Aetherdrift (DFT)
+  - Magic: The Gathering Foundations (FDN)
+  - Duskmourn: House of Horror (DSK)
+  - Bloomburrow (BLB)
+  - Outlaws of Thunder Junction (OTJ) (including The Big Score)
+  - Murders at Karlov Manor (MKM)
+  - The Lost Caverns of Ixalan (LCI)
+  - Wilds of Eldraine (WOE)
 
 ## Contributing
 When updating this repository:
