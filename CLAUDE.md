@@ -122,7 +122,7 @@ All files are organized with clear headers, consistent formatting, and searchabl
 ## Version Information
 - **Last Updated**: September 12, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Card Database**: ~11,500+ cards across 44 complete sets
+- **Card Database**: ~13,100+ cards across 48 complete sets
 - **Format Coverage**: Complete Modern (2003+), extensive Legacy, current Standard
 
 ## Complete Set Database with Release Dates
@@ -140,16 +140,19 @@ All files are organized with clear headers, consistent formatting, and searchabl
 - **The Lost Caverns of Ixalan (LCI)** - November 17, 2023
 - **Wilds of Eldraine (WOE)** - September 8, 2023
 
-### Supplemental Sets (2024-2025):
+### Supplemental Sets (2020-2025):
 - **Murders at Karlov Manor Commander (MKC)** - February 9, 2024
 - **Modern Horizons 3 (MH3)** - June 14, 2024
+- **The Lord of the Rings: Tales of Middle-earth (LTR)** - June 23, 2023
 - **Fallout (PIP)** - March 8, 2024
 - **Ravnica Remastered (RVR)** - January 12, 2024
+- **Commander Legends (CMR)** - November 20, 2020
 - **Innistrad: Crimson Vow (VOW)** - November 19, 2021
 - **Innistrad Remastered (INR)** - January 24, 2025
 
 ### Historic Standard Sets:
-- **Foundations (FDN)** - November 15, 2024
+- **Kamigawa: Neon Dynasty (NEO)** - February 18, 2022
+- **Kaldheim (KHM)** - February 5, 2021
 - **War of the Spark (WAR)** - May 3, 2019
 - **Guilds of Ravnica (GRN)** - October 5, 2018
 - **Return to Ravnica (RTR)** - October 5, 2012
