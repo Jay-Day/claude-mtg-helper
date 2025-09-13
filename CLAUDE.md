@@ -208,7 +208,7 @@ When asked about MTG topics, Claude should:
 2. **For card searches**: ✅ Search `card-library/` directories for specific cards using `scripts/search_cards.py`
 3. **For Standard legality**: ✅ Check current Standard sets list and `card-library/` contents
 4. **For banned/restricted lists**: ✅ Reference `formats/banned-restricted.md`
-5. **For rules questions**: 📋 Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (planned)
+5. **For rules questions**: ✅ Reference `rules/comprehensive-rules-summary.md` and `rulings/common-interactions.md` (planned)
 6. **For tournament questions**: 📋 Reference `rules/tournament-procedures.md` (planned)
 7. **For deck analysis**: 📋 Use templates in `tools/deck-analysis-tools.md` (planned)
 
