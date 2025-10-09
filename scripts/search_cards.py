@@ -164,17 +164,24 @@ def format_card_output(card: Dict[str, Any]) -> str:
     
     # Set info with rarity
     output += "+" + "-" * (card_width - 2) + "+\n"
-    
+
     # Get rarity letter
     rarity_letter = rarity[0].upper() if rarity else 'U'
-    
+
     set_info = f"{set_name} ({set_code}) #{collector_number}"
     if len(set_info) > card_width - 6:  # Leave space for rarity
         set_info = set_info[:card_width - 9] + "..."
-    
+
     # Add rarity letter on the left side
     output += f"| {rarity_letter} {set_info:<{card_width - 5}} |\n"
-    
+
+    # Add USD price if available
+    prices = card.get('prices', {})
+    usd_price = prices.get('usd')
+    if usd_price:
+        price_text = f"USD: ${usd_price}"
+        output += f"| {price_text:<{card_width - 3}} |\n"
+
     # Close the card
     output += "+" + "-" * (card_width - 2) + "+\n"
     
