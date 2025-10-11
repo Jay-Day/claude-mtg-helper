@@ -13,7 +13,7 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
 ## 📁 Repository Structure
 
 ```
-├── card-library/           # ✅ Complete card database by set (44+ sets)
+├── card-library/           # ✅ Complete card database by set (60 sets)
 ├── formats/                # ✅ Format specifications and banned lists
 │   ├── formats.md         # ✅ Complete format rules and specifications
 │   └── banned-restricted.md # ✅ Current banned/restricted lists
@@ -134,22 +134,63 @@ BEST PRACTICES RECOMMENDATIONS:
 
 ## 📊 Current Data
 
-- **Last Updated**: September 12, 2025
+- **Last Updated**: October 11, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
 - **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
 - **Banned/Restricted Lists**: Current ban lists for all competitive formats (240+ cards)
-- **Card Database**: 44 complete sets (~11,500+ cards) with full JSON data
-- **Standard Coverage**: All 11 current Standard-legal sets (2023-2025)
+- **Card Database**: 60 complete sets (16,200+ cards) with full JSON data
+- **Standard Coverage**: All current Standard-legal sets (2023-2025)
 - **Modern Coverage**: Complete Modern card pool from Mirrodin forward (2003+)
+- **Latest Sets**: Marvel's Spider-Man (2025), Bloomburrow Commander, Modern Horizons 3
 - **Historic Sets**: Classic blocks including Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
-- **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered with format staples
+- **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered, Double Masters series
 - **Commander Support**: Comprehensive multicolor and tribal support sets
+- **Crossover Sets**: Fallout, Final Fantasy, Marvel's Spider-Man universe
+
+## 📚 Complete Set List (60 Sets)
+
+### Recent Additions (2025)
+- **Marvel's Spider-Man (SPM)**: 193 cards - Latest crossover set with Spider-Man universe
+- **Marvel's Spider-Man Eternal (SPE)**: 26 cards - Commander/Legacy format cards
+- **Marvel Universe (MAR)**: 40 cards - Additional Marvel characters
+- **March of the Machine Commander (MOC)**: 388 cards - Commander format support
+- **Double Masters (2XM)**: 337 cards - Premium reprint set
+- **Tenth Edition (10E)**: 368 cards - Core set reprints
+- **Battlebond (BBD)**: 254 cards - Multiplayer draft innovation
+- **Core Set 2021 (M21)**: 285 cards - Standard legal core set
+- **Onslaught (ONS)**: 335 cards - Tribal-focused classic set
+- **Bloomburrow Commander (BLC)**: 312 cards - Animal-themed Commander
+
+### Major Sets by Category
+
+**Current Standard Legal:**
+- Foundations (FDN): 517 cards
+- Duskmourn: House of Horror (DSK): 286 cards
+- Bloomburrow (BLB): 266 cards
+- Outlaws of Thunder Junction (OTJ): 271 cards
+- Murders at Karlov Manor (MKM): 286 cards
+
+**Commander Staples:**
+- Commander Legends (CMR): 531 cards
+- Modern Horizons 3 (MH3): 313 cards
+- Double Masters 2022 (2X2): 332 cards
+- Time Spiral Remastered (TSR): 410 cards
+
+**Crossover/Universe Beyond:**
+- Fallout (PIP): 336 cards
+- Final Fantasy (FIN): 312 cards
+- The Lord of the Rings (LTR): 281 cards
+
+**Historic Modern Format:**
+- Complete coverage from Mirrodin (2003) through current sets
+- All major blocks: Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
+- Modern Masters series and reprint sets
 
 ## 🔧 Features
 
 - **No Web Dependencies**: All data stored locally for instant access
 - **Claude Code Optimized**: Structured for AI consumption with clear headers and searchable keywords
-- **Comprehensive Coverage**: 44 complete sets spanning Modern format's entire history (2003-2025)
+- **Comprehensive Coverage**: 60 complete sets spanning Modern format's entire history (2003-2025)
 - **Current Ban Lists**: Up-to-date banned/restricted cards for all competitive formats
 - **Complete Modern Pool**: Every card legal in Modern format with full metadata
 - **Eternal Format Support**: Extensive Legacy and Commander card coverage
@@ -174,4 +215,4 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 ---
 
-**Built for Claude Code** | **11,500+ Cards Across 44 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**
+**Built for Claude Code** | **16,200+ Cards Across 60 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**
