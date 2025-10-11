@@ -19,7 +19,9 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
 │   └── banned-restricted.md # ✅ Current banned/restricted lists
 ├── scripts/                # ✅ Data fetching and utility scripts
 │   ├── fetch_set_cards.py # ✅ Scryfall API fetcher
-│   └── search_cards.py    # ✅ Card search with ASCII display
+│   ├── search_cards.py    # ✅ Card search with ASCII display
+│   ├── count_deck_cards.py # ✅ Simple deck card counter
+│   └── commander_deck_validator.py # ✅ Comprehensive Commander deck validator
 ├── rules/                  # 📋 Comprehensive rules and interactions (planned)
 ├── rulings/                # 📋 Common ruling scenarios (planned)
 ├── tools/                  # 📋 Deck analysis templates (planned)
@@ -51,6 +53,8 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
    - "Is Lightning Bolt legal in Modern?" - ✅ Check format legality
    - "What are Modern format rules?" - ✅ Get complete format specifications
    - "What's banned in Pioneer?" - ✅ Get current banned/restricted lists
+   - "Build me a Commander deck around Bello" - ✅ Complete deck building with validation
+   - "Validate my Commander deck" - ✅ Comprehensive legality and best practices check
 
 ## 🔄 Fetching Card Data
 
@@ -78,6 +82,45 @@ python scripts/fetch_set_cards.py "Dominaria United"    # Full set name
 - `set_info_<code>.json` - Set metadata
 
 The script automatically handles API rate limiting and creates organized directories for easy querying.
+
+## 🎯 Commander Deck Validation
+
+The repository includes a comprehensive Commander deck validator that checks both format legality and best practices:
+
+### Usage
+```bash
+python scripts/commander_deck_validator.py decks/my-deck.txt
+```
+
+### Features
+- **Format Legality**: Validates all Commander rules (100 cards, singleton, color identity, etc.)
+- **Best Practices**: Recommends optimal deck composition
+- **Detailed Analysis**: Counts lands, ramp, card draw, and removal
+- **Color Identity**: Automatically detects commander colors and validates deck accordingly
+
+### Best Practices Checked
+- **35+ Lands**: Minimum recommended for consistent mana
+- **8+ Ramp Spells**: For mana acceleration and consistency
+- **6+ Card Draw**: To maintain hand advantage
+- **6+ Removal**: To handle threats and interactions
+
+### Sample Output
+```
+DECK STATISTICS:
+  Commander: Bello, Bard of the Brambles
+  Total cards: 100
+  Commander colors: Green, Red
+  Lands: 30
+  Ramp: 11
+  Card draw: 15
+  Removal: 12
+
+VALIDATION RESULT: LEGAL
+This deck follows all Commander format rules!
+
+BEST PRACTICES RECOMMENDATIONS:
+  1. Consider adding more lands: 30/35+ recommended (need 5 more)
+```
 
 ## 🎮 Supported Formats
 
@@ -114,6 +157,8 @@ The script automatically handles API rate limiting and creates organized directo
 - **Format Specifications**: Complete rules and deck construction for all major formats
 - **Searchable Database**: JSON format enables fast card lookup and filtering
 - **Historic Coverage**: From original Mirrodin through current Standard rotation
+- **Commander Deck Validation**: Comprehensive legality checking with best practices recommendations
+- **Deck Building Tools**: Complete deck construction with format compliance and optimization
 
 ## 🤝 Contributing
 
