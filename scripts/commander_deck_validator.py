@@ -14,6 +14,9 @@ import sys
 import os
 import re
 import json
+import requests
+import time
+import subprocess
 
 def load_card_data():
     """Load card data from our card library for format and color identity checking"""
@@ -46,6 +49,72 @@ def load_card_data():
                     continue
 
     return card_data
+
+def fetch_missing_card_from_scryfall(card_name):
+    """Fetch a single card from Scryfall API and determine its set"""
+    try:
+        # Clean up card name for API
+        clean_name = card_name.replace("'", "'").strip()
+
+        # Search for exact card name
+        url = f"https://api.scryfall.com/cards/named?exact={requests.utils.quote(clean_name)}"
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            card_data = response.json()
+            set_code = card_data.get('set', '').lower()
+            return set_code, card_data
+        else:
+            print(f"Warning: Could not find '{card_name}' on Scryfall")
+            return None, None
+
+    except Exception as e:
+        print(f"Warning: Error fetching '{card_name}' from Scryfall: {e}")
+        return None, None
+
+def auto_fetch_missing_sets(missing_cards):
+    """Auto-fetch sets for missing cards from Scryfall"""
+    if not missing_cards:
+        return
+
+    print(f"\nFound {len(missing_cards)} missing cards. Attempting to fetch from Scryfall...")
+
+    sets_to_fetch = set()
+
+    # Find sets for missing cards
+    for card_name in missing_cards[:5]:  # Limit to 5 to avoid rate limiting
+        print(f"  Searching for: {card_name}")
+        set_code, _ = fetch_missing_card_from_scryfall(card_name)
+
+        if set_code:
+            sets_to_fetch.add(set_code)
+            print(f"    Found in set: {set_code.upper()}")
+
+        time.sleep(0.1)  # Rate limiting
+
+    # Fetch the sets
+    if sets_to_fetch:
+        print(f"\nFetching {len(sets_to_fetch)} sets: {', '.join(s.upper() for s in sets_to_fetch)}")
+
+        for set_code in sets_to_fetch:
+            try:
+                print(f"  Fetching {set_code.upper()}...")
+                result = subprocess.run([
+                    'python', 'scripts/fetch_set_cards.py', set_code
+                ], capture_output=True, text=True, cwd='.')
+
+                if result.returncode == 0:
+                    print(f"    Successfully fetched {set_code.upper()}")
+                else:
+                    print(f"    Failed to fetch {set_code.upper()}: {result.stderr}")
+
+            except Exception as e:
+                print(f"    Error fetching {set_code.upper()}: {e}")
+
+        print("\nReloading card database...")
+        return True  # Indicate that we fetched new sets
+
+    return False
 
 def parse_deck_file(file_path):
     """
@@ -318,7 +387,41 @@ def validate_commander_deck(file_path):
     else:
         violations.append(f"Commander not found in database: {commander}")
 
-    # Rule 4: Color identity restrictions
+    # Rule 4: Format legality and auto-fetch missing cards (do this before color identity check)
+    cards_not_in_db = [name for name in main_deck.keys() if name not in card_data]
+
+    # Auto-fetch missing cards if found
+    if cards_not_in_db:
+        print(f"\nFound {len(cards_not_in_db)} cards not in database")
+
+        if auto_fetch_missing_sets(cards_not_in_db):
+            # Reload card data after fetching new sets
+            card_data = load_card_data()
+            print(f"Reloaded database with {len(card_data)} total cards")
+
+            # Re-check missing cards
+            still_missing = [name for name in main_deck.keys() if name not in card_data]
+
+            if still_missing:
+                violations.append(f"Cards still not found after auto-fetch: {', '.join(still_missing[:5])}{'...' if len(still_missing) > 5 else ''}")
+            else:
+                print("All missing cards now found in database!")
+
+                # Re-validate color identity for newly found cards
+                if commander in card_data:
+                    commander_colors = get_color_identity(card_data, commander)
+                    stats['commander_colors'] = sorted(list(commander_colors))
+
+                    for card_name in main_deck.keys():
+                        if card_name in card_data:
+                            card_colors = get_color_identity(card_data, card_name)
+                            if not card_colors.issubset(commander_colors):
+                                illegal_colors = card_colors - commander_colors
+                                violations.append(f"Color identity violation: {card_name} contains {sorted(list(illegal_colors))} not in commander's {sorted(list(commander_colors))}")
+        else:
+            violations.append(f"Cards not in database (could not auto-fetch): {', '.join(cards_not_in_db[:5])}{'...' if len(cards_not_in_db) > 5 else ''}")
+
+    # Rule 5: Color identity restrictions (after auto-fetch)
     if commander in card_data:
         commander_colors = get_color_identity(card_data, commander)
         stats['commander_colors'] = sorted(list(commander_colors))
@@ -332,12 +435,7 @@ def validate_commander_deck(file_path):
             else:
                 violations.append(f"Card not found in database (cannot verify color identity): {card_name}")
 
-    # Rule 5: Format legality (simplified - assumes cards in our database are legal)
-    cards_not_in_db = [name for name in main_deck.keys() if name not in card_data]
-    if cards_not_in_db:
-        violations.append(f"Cards not in database (format legality unknown): {', '.join(cards_not_in_db[:5])}{'...' if len(cards_not_in_db) > 5 else ''}")
-
-    # Best Practices Check
+    # Best Practices Check (use potentially updated card data)
     recommendations, deck_composition = check_best_practices(main_deck, card_data)
     stats['deck_composition'] = deck_composition
     stats['recommendations'] = recommendations

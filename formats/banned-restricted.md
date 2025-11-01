@@ -374,6 +374,111 @@ This document contains the current banned and restricted card lists for all majo
 
 ---
 
+## $30 Value Vintage (Budget Vintage)
+
+**Status:** 57 cards banned, 51 cards restricted
+**Budget Limit:** $30 USD total (deck + sideboard)
+
+### Banned Cards
+
+**Dexterity/Subgame Cards:**
+- Chaos Orb
+- Falling Star
+- Shahrazad
+
+**Un-set Mechanics:**
+- All cards referencing "Stickers" (46 cards)
+- All cards referencing "Attraction" (28 cards)
+- All "Conspiracy" card type cards (25 cards)
+
+**Ante Cards:**
+- All cards that reference "Playing for Ante" (9 cards)
+
+**Offensive Cards:**
+- Cards with racially or culturally offensive art, text, name, or combinations thereof
+
+### Restricted Cards (Limited to 1 copy in deck + sideboard combined)
+
+**Power 9:**
+- Ancestral Recall
+- Black Lotus
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Time Walk
+- Timetwister
+
+**Fast Mana:**
+- Channel
+- Lion's Eye Diamond
+- Lotus Petal
+- Mana Crypt
+- Mana Vault
+- Sol Ring
+
+**Powerful Lands:**
+- Library of Alexandria
+- Strip Mine
+- Tolarian Academy
+- Urza's Saga
+
+**Card Draw & Selection:**
+- Brainstorm
+- Dig Through Time
+- Gitaxian Probe
+- Gush
+- Merchant Scroll
+- Treasure Cruise
+
+**Tutors:**
+- Demonic Consultation
+- Demonic Tutor
+- Imperial Seal
+- Mystical Tutor
+- Vampiric Tutor
+
+**Artifacts:**
+- Chalice of the Void
+- Lodestone Golem
+- Memory Jar
+- Mystic Forge
+- Thorn of Amethyst
+- Time Vault
+- Trinisphere
+- Vexing Bauble
+
+**Powerful Spells:**
+- Balance
+- Flash
+- Mind's Desire
+- Necropotence
+- Tinker
+- Wheel of Fortune
+- Windfall
+- Yawgmoth's Will
+
+**Creatures & Planeswalkers:**
+- Golgari Grave-Troll
+- Karn, the Great Creator
+- Monastery Mentor
+- Narset, Parter of Veils
+
+**Other:**
+- Mental Misstep
+
+**Pricing Rules:**
+- Total deck + sideboard value cannot exceed $30 USD
+- Prices based on cheapest English-language, tournament-legal printing on TCGplayer Market
+- Basic lands (Plains, Island, Swamp, Mountain, Forest) are priced at $0.00
+- Snow-covered basic lands and Wastes are priced individually
+- In-universe language printings (e.g., Phyrexian text) count as separate legal printings
+- Grossly undervalued or unavailable listings cannot be used
+- Tournament Organizers have final say on pricing discrepancies
+
+---
+
 ## Format-Specific Notes
 
 ### Standard
@@ -409,6 +514,13 @@ This document contains the current banned and restricted card lists for all majo
 - Commons-only format
 - Bans powerful commons that warp format
 - Active curation to maintain diversity
+
+### $30 Value Vintage
+- Budget-constrained Vintage variant
+- Modified restricted list balances power within budget
+- Bans un-set mechanics, ante, and dexterity cards
+- Pricing enforcement ensures accessibility
+- Community-driven format with active metagame
 
 ---
 
