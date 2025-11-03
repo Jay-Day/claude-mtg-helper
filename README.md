@@ -13,13 +13,15 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
 ## 📁 Repository Structure
 
 ```
-├── card-library/           # ✅ Complete card database by set (44+ sets)
+├── card-library/           # ✅ Complete card database by set (60 sets)
 ├── formats/                # ✅ Format specifications and banned lists
 │   ├── formats.md         # ✅ Complete format rules and specifications
 │   └── banned-restricted.md # ✅ Current banned/restricted lists
 ├── scripts/                # ✅ Data fetching and utility scripts
 │   ├── fetch_set_cards.py # ✅ Scryfall API fetcher
-│   └── search_cards.py    # ✅ Card search with ASCII display
+│   ├── search_cards.py    # ✅ Card search with ASCII display
+│   ├── count_deck_cards.py # ✅ Simple deck card counter
+│   └── commander_deck_validator.py # ✅ Comprehensive Commander deck validator
 ├── rules/                  # 📋 Comprehensive rules and interactions (planned)
 ├── rulings/                # 📋 Common ruling scenarios (planned)
 ├── tools/                  # 📋 Deck analysis templates (planned)
@@ -51,6 +53,8 @@ This repository serves as a local MTG knowledge base that eliminates the need fo
    - "Is Lightning Bolt legal in Modern?" - ✅ Check format legality
    - "What are Modern format rules?" - ✅ Get complete format specifications
    - "What's banned in Pioneer?" - ✅ Get current banned/restricted lists
+   - "Build me a Commander deck around Bello" - ✅ Complete deck building with validation
+   - "Validate my Commander deck" - ✅ Comprehensive legality and best practices check
 
 ## 🔄 Fetching Card Data
 
@@ -79,6 +83,45 @@ python scripts/fetch_set_cards.py "Dominaria United"    # Full set name
 
 The script automatically handles API rate limiting and creates organized directories for easy querying.
 
+## 🎯 Commander Deck Validation
+
+The repository includes a comprehensive Commander deck validator that checks both format legality and best practices:
+
+### Usage
+```bash
+python scripts/commander_deck_validator.py decks/my-deck.txt
+```
+
+### Features
+- **Format Legality**: Validates all Commander rules (100 cards, singleton, color identity, etc.)
+- **Best Practices**: Recommends optimal deck composition
+- **Detailed Analysis**: Counts lands, ramp, card draw, and removal
+- **Color Identity**: Automatically detects commander colors and validates deck accordingly
+
+### Best Practices Checked
+- **35+ Lands**: Minimum recommended for consistent mana
+- **8+ Ramp Spells**: For mana acceleration and consistency
+- **6+ Card Draw**: To maintain hand advantage
+- **6+ Removal**: To handle threats and interactions
+
+### Sample Output
+```
+DECK STATISTICS:
+  Commander: Bello, Bard of the Brambles
+  Total cards: 100
+  Commander colors: Green, Red
+  Lands: 30
+  Ramp: 11
+  Card draw: 15
+  Removal: 12
+
+VALIDATION RESULT: LEGAL
+This deck follows all Commander format rules!
+
+BEST PRACTICES RECOMMENDATIONS:
+  1. Consider adding more lands: 30/35+ recommended (need 5 more)
+```
+
 ## 🎮 Supported Formats
 
 - **Standard** - Current Standard environment and rotation
@@ -91,22 +134,63 @@ The script automatically handles API rate limiting and creates organized directo
 
 ## 📊 Current Data
 
-- **Last Updated**: September 12, 2025
+- **Last Updated**: October 11, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
 - **Format Information**: Complete specifications for Standard, Commander, Pioneer, Modern, Legacy, Vintage, Pauper, Draft, and Sealed
 - **Banned/Restricted Lists**: Current ban lists for all competitive formats (240+ cards)
-- **Card Database**: 44 complete sets (~11,500+ cards) with full JSON data
-- **Standard Coverage**: All 11 current Standard-legal sets (2023-2025)
+- **Card Database**: 60 complete sets (16,200+ cards) with full JSON data
+- **Standard Coverage**: All current Standard-legal sets (2023-2025)
 - **Modern Coverage**: Complete Modern card pool from Mirrodin forward (2003+)
+- **Latest Sets**: Marvel's Spider-Man (2025), Bloomburrow Commander, Modern Horizons 3
 - **Historic Sets**: Classic blocks including Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
-- **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered with format staples
+- **Master Sets**: Modern Masters, Eternal Masters, Time Spiral Remastered, Double Masters series
 - **Commander Support**: Comprehensive multicolor and tribal support sets
+- **Crossover Sets**: Fallout, Final Fantasy, Marvel's Spider-Man universe
+
+## 📚 Complete Set List (60 Sets)
+
+### Recent Additions (2025)
+- **Marvel's Spider-Man (SPM)**: 193 cards - Latest crossover set with Spider-Man universe
+- **Marvel's Spider-Man Eternal (SPE)**: 26 cards - Commander/Legacy format cards
+- **Marvel Universe (MAR)**: 40 cards - Additional Marvel characters
+- **March of the Machine Commander (MOC)**: 388 cards - Commander format support
+- **Double Masters (2XM)**: 337 cards - Premium reprint set
+- **Tenth Edition (10E)**: 368 cards - Core set reprints
+- **Battlebond (BBD)**: 254 cards - Multiplayer draft innovation
+- **Core Set 2021 (M21)**: 285 cards - Standard legal core set
+- **Onslaught (ONS)**: 335 cards - Tribal-focused classic set
+- **Bloomburrow Commander (BLC)**: 312 cards - Animal-themed Commander
+
+### Major Sets by Category
+
+**Current Standard Legal:**
+- Foundations (FDN): 517 cards
+- Duskmourn: House of Horror (DSK): 286 cards
+- Bloomburrow (BLB): 266 cards
+- Outlaws of Thunder Junction (OTJ): 271 cards
+- Murders at Karlov Manor (MKM): 286 cards
+
+**Commander Staples:**
+- Commander Legends (CMR): 531 cards
+- Modern Horizons 3 (MH3): 313 cards
+- Double Masters 2022 (2X2): 332 cards
+- Time Spiral Remastered (TSR): 410 cards
+
+**Crossover/Universe Beyond:**
+- Fallout (PIP): 336 cards
+- Final Fantasy (FIN): 312 cards
+- The Lord of the Rings (LTR): 281 cards
+
+**Historic Modern Format:**
+- Complete coverage from Mirrodin (2003) through current sets
+- All major blocks: Zendikar, Innistrad, Return to Ravnica, Theros, Khans of Tarkir
+- Modern Masters series and reprint sets
 
 ## 🔧 Features
 
 - **No Web Dependencies**: All data stored locally for instant access
 - **Claude Code Optimized**: Structured for AI consumption with clear headers and searchable keywords
-- **Comprehensive Coverage**: 44 complete sets spanning Modern format's entire history (2003-2025)
+- **Comprehensive Coverage**: 60 complete sets spanning Modern format's entire history (2003-2025)
 - **Current Ban Lists**: Up-to-date banned/restricted cards for all competitive formats
 - **Complete Modern Pool**: Every card legal in Modern format with full metadata
 - **Eternal Format Support**: Extensive Legacy and Commander card coverage
@@ -114,6 +198,8 @@ The script automatically handles API rate limiting and creates organized directo
 - **Format Specifications**: Complete rules and deck construction for all major formats
 - **Searchable Database**: JSON format enables fast card lookup and filtering
 - **Historic Coverage**: From original Mirrodin through current Standard rotation
+- **Commander Deck Validation**: Comprehensive legality checking with best practices recommendations
+- **Deck Building Tools**: Complete deck construction with format compliance and optimization
 
 ## 🤝 Contributing
 
@@ -129,4 +215,4 @@ This repository contains reference materials for Magic: The Gathering, a game ow
 
 ---
 
-**Built for Claude Code** | **11,500+ Cards Across 44 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**
+**Built for Claude Code** | **16,200+ Cards Across 60 Sets** | **Complete Modern Format Coverage** | **Always Up-to-Date**

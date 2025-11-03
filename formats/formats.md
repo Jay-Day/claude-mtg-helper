@@ -124,9 +124,9 @@ Vintage is MTG's most powerful format, allowing nearly all cards with restrictio
 ---
 
 ### Pauper
-**Format Type:** Commons-Only Constructed  
-**Deck Size:** 60 cards minimum  
-**Sideboard:** 15 cards maximum  
+**Format Type:** Commons-Only Constructed
+**Deck Size:** 60 cards minimum
+**Sideboard:** 15 cards maximum
 
 **Description:**
 Pauper allows only cards that have been printed at common rarity, creating an affordable yet skill-intensive format.
@@ -136,6 +136,61 @@ Pauper allows only cards that have been printed at common rarity, creating an af
 - High skill ceiling
 - Creative deck building within restrictions
 - Growing competitive scene
+
+---
+
+### $30 Value Vintage (Budget Vintage)
+**Format Type:** Budget Eternal Constructed
+**Deck Size:** 60 cards minimum
+**Sideboard:** 15 cards maximum
+**Budget Limit:** $30 USD total (deck + sideboard)
+
+**Description:**
+$30 Value Vintage is a budget-friendly variant of Vintage that uses a modified Vintage Banned and Restricted list with the additional constraint that a player's entire deck and sideboard must cost $30 USD or less based on TCGplayer Market pricing.
+
+**Deck Construction Rules:**
+- Minimum 60 cards (no maximum)
+- Maximum 15-card sideboard
+- Maximum 4 copies of any card (except basic lands and cards that state otherwise)
+- Total deck + sideboard value cannot exceed $30 USD
+- Pricing based on cheapest English-language, tournament-legal printing on TCGplayer
+- Basic lands (Plains, Island, Swamp, Mountain, Forest) are priced at $0.00
+- Snow-covered basic lands and Wastes are priced individually
+- Players may use any printing in paper regardless of version used for pricing
+
+**Pricing Notes:**
+- Uses current TCGplayer Market Price for cheapest English printing
+- In-universe languages (e.g., Phyrexian text) count as separate legal printings
+- Non-English printings from language-specific sets (e.g., Italian Salvat) do not count
+- Grossly undervalued listings that aren't actually available for purchase cannot be used
+- Tournament Organizers have final say on pricing discrepancies
+
+**Restricted List:**
+The following cards are restricted (1 copy total in deck + sideboard combined):
+- Power 9: Black Lotus, Ancestral Recall, Time Walk, Timetwister, Mox Emerald, Mox Jet, Mox Pearl, Mox Ruby, Mox Sapphire
+- Fast mana: Mana Crypt, Mana Vault, Sol Ring, Lotus Petal, Lion's Eye Diamond, Channel
+- Powerful lands: Library of Alexandria, Strip Mine, Tolarian Academy, Urza's Saga
+- Draw/selection: Brainstorm, Gush, Dig Through Time, Treasure Cruise, Gitaxian Probe, Merchant Scroll
+- Tutors: Demonic Tutor, Vampiric Tutor, Mystical Tutor, Imperial Seal, Demonic Consultation
+- Artifacts: Chalice of the Void, Lodestone Golem, Thorn of Amethyst, Trinisphere, Time Vault, Memory Jar, Mystic Forge, Vexing Bauble
+- Powerful spells: Tinker, Yawgmoth's Will, Necropotence, Mind's Desire, Flash, Balance, Windfall, Wheel of Fortune
+- Creatures/Planeswalkers: Monastery Mentor, Narset Parter of Veils, Karn the Great Creator
+- Other: Golgari Grave-Troll, Mental Misstep
+
+**Banned List:**
+- All cards referencing "Stickers" (46 cards)
+- All cards referencing "Attraction" (28 cards)
+- All "Conspiracy" card type cards (25 cards)
+- All ante cards (9 cards)
+- Racially or culturally offensive cards
+- Chaos Orb, Falling Star, Shahrazad
+
+**Key Features:**
+- Extremely accessible Vintage experience
+- $30 budget constraint creates unique metagame
+- Modified restricted list balances power and budget
+- Tests deck building creativity within strict constraints
+- 1v1 competitive format
 
 ---
 
@@ -193,6 +248,7 @@ Players receive a sealed card pool (typically 6 booster packs) and build the bes
 | Modern | 2003+ | Never | 6-10 min | Speed, efficiency |
 | Legacy | All sets | Never | 5-8 min | Complex interactions |
 | Vintage | All sets | Never | 3-6 min | Explosive plays |
+| $30 Value Vintage | All sets | Never | 4-8 min | Budget optimization |
 | Pauper | Commons only | Never | 8-15 min | Resource management |
 | Draft | Current set | Per draft | 12-18 min | Evaluation, adaptation |
 | Sealed | Current set | Per event | 15-25 min | Deck building |

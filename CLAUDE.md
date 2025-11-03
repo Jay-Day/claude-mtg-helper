@@ -47,12 +47,23 @@ Ask Claude to fetch new sets: "fetch the Bloomburrow set" or "add Dominaria Unit
 ### Ban List Updates
 Ask for help updating banned/restricted lists when new announcements are made
 
+### Deck Building
+Ask Claude to build any Magic deck: "make me a commander deck around Skullbriar", "build a budget Modern burn deck", or "create a Standard aggro deck"
+- ✅ Creates complete decklists with strategy guides for any format
+- ✅ Automatically saves decklists to `decks/` folder as .txt files (gitignored)
+- ✅ Respects format restrictions and color identity (Commander)
+- ✅ Includes proper manabase (35 lands for Commander), removal, ramp, and win conditions
+- ✅ Commander decks have exactly 100 total cards (99 main deck + 1 commander)
+- ✅ Uses "1x Card Name" format for easy deck builder import
+- ✅ Personal deck creations won't pollute the repository
+
 ## Scripts Available
+
 ### `scripts/fetch_set_cards.py`
 Fetches all cards from a specific MTG set via Scryfall API and saves to card-library/<set-name>/
 
 **Usage:**
-- `python scripts/fetch_set_cards.py <set_code>` (e.g., "blb", "dmu")  
+- `python scripts/fetch_set_cards.py <set_code>` (e.g., "blb", "dmu")
 - `python scripts/fetch_set_cards.py "<set_name>"` (e.g., "Dominaria United")
 
 **Output:**
@@ -60,6 +71,35 @@ Fetches all cards from a specific MTG set via Scryfall API and saves to card-lib
 - `card-library/<set-name>/set_info_<code>.json` - Set metadata
 
 **Note:** Always verify set codes/names exist in Scryfall before fetching
+
+### `scripts/count_deck_cards.py`
+Simple card counter for any Magic deck format
+
+**Usage:**
+- `python scripts/count_deck_cards.py decks/my-deck.txt`
+
+**Features:**
+- Counts total cards in deck file
+- Detects format based on card count
+- Validates against expected count for format
+
+### `scripts/commander_deck_validator.py`
+Comprehensive Commander/EDH deck legality validator
+
+**Usage:**
+- `python scripts/commander_deck_validator.py decks/my-commander-deck.txt`
+
+**Validation Rules:**
+- ✅ Card count (exactly 100 total cards)
+- ✅ Singleton format (no duplicates except basic lands)
+- ✅ Commander legality (legendary creature/planeswalker)
+- ✅ Color identity restrictions (all cards must match commander's colors)
+- ✅ Format legality (based on card database)
+
+**Output:**
+- Detailed violation reports
+- Commander color identity analysis
+- Deck statistics and composition
 
 ## MTG Knowledge Areas Covered
 
