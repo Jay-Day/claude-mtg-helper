@@ -1,0 +1,660 @@
+[
+  {
+    "object": "card",
+    "id": "fc22536c-09b4-4dc3-9371-842d91c5251e",
+    "oracle_id": "4b7ac066-e5c7-43e6-9e7e-2739b24a905d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 284921,
+    "cardmarket_id": 678511,
+    "name": "Serra Angel",
+    "lang": "en",
+    "released_at": "2023-03-21",
+    "uri": "https://api.scryfall.com/cards/fc22536c-09b4-4dc3-9371-842d91c5251e",
+    "scryfall_uri": "https://scryfall.com/card/p30h/1/serra-angel?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.jpg?1682525345",
+      "normal": "https://cards.scryfall.io/normal/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.jpg?1682525345",
+      "large": "https://cards.scryfall.io/large/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.jpg?1682525345",
+      "png": "https://cards.scryfall.io/png/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.png?1682525345",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.jpg?1682525345",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fc22536c-09b4-4dc3-9371-842d91c5251e.jpg?1682525345"
+    },
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Creature — Angel",
+    "oracle_text": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6996abea-6914-4c0c-863e-43f6d8a8daef",
+        "component": "combo_piece",
+        "name": "Serra Angel",
+        "type_line": "Creature — Angel",
+        "uri": "https://api.scryfall.com/cards/6996abea-6914-4c0c-863e-43f6d8a8daef"
+      },
+      {
+        "object": "related_card",
+        "id": "ad2bbfa1-81e0-4683-b1dc-a3aaa9837690",
+        "component": "combo_piece",
+        "name": "Treizeci, Sun of Serra",
+        "type_line": "Legendary Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set": "p30h",
+    "set_name": "30th Anniversary History Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap30h&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p30h?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/fc22536c-09b4-4dc3-9371-842d91c5251e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4b7ac066-e5c7-43e6-9e7e-2739b24a905d&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Hisashi Momose",
+    "artist_ids": [
+      "09bc6de8-c99c-406a-9da6-8ece7112e496"
+    ],
+    "illustration_id": "733ed412-46cc-4b0b-82f9-1c9c41e59903",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9399,
+    "penny_rank": 11486,
+    "prices": {
+      "usd": null,
+      "usd_foil": "200.00",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "38.40",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerra%2BAngel",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerra%2BAngel",
+      "edhrec": "https://edhrec.com/route/?cc=Serra+Angel"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284921%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678511&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serra+Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "970dcf24-6f33-4264-974c-65f0123bc1bd",
+    "oracle_id": "cc7f290f-ca00-4285-9bdb-4b4402444f30",
+    "multiverse_ids": [],
+    "tcgplayer_id": 284926,
+    "cardmarket_id": 678513,
+    "name": "Lord of Atlantis",
+    "lang": "en",
+    "released_at": "2023-03-21",
+    "uri": "https://api.scryfall.com/cards/970dcf24-6f33-4264-974c-65f0123bc1bd",
+    "scryfall_uri": "https://scryfall.com/card/p30h/2/lord-of-atlantis?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.jpg?1682525435",
+      "normal": "https://cards.scryfall.io/normal/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.jpg?1682525435",
+      "large": "https://cards.scryfall.io/large/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.jpg?1682525435",
+      "png": "https://cards.scryfall.io/png/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.png?1682525435",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.jpg?1682525435",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/970dcf24-6f33-4264-974c-65f0123bc1bd.jpg?1682525435"
+    },
+    "mana_cost": "{U}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Merfolk",
+    "oracle_text": "Other Merfolk get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set": "p30h",
+    "set_name": "30th Anniversary History Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap30h&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p30h?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/970dcf24-6f33-4264-974c-65f0123bc1bd/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc7f290f-ca00-4285-9bdb-4b4402444f30&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Rorubei",
+    "artist_ids": [
+      "42e7262b-6320-4007-a6b4-dd4ba4bd2b67"
+    ],
+    "illustration_id": "be3b9a33-c1c2-457b-b07a-11833bcff013",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 4987,
+    "prices": {
+      "usd": null,
+      "usd_foil": "11.39",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "16.13",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLord%2Bof%2BAtlantis",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLord%2Bof%2BAtlantis",
+      "edhrec": "https://edhrec.com/route/?cc=Lord+of+Atlantis"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284926%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678513&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lord+of+Atlantis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a68a73de-838e-4d44-ad60-e7cc5e831cc6",
+    "oracle_id": "749141aa-f6c4-4ad8-b146-406e68ae9b0b",
+    "multiverse_ids": [],
+    "tcgplayer_id": 284931,
+    "cardmarket_id": 678515,
+    "name": "Sengir Vampire",
+    "lang": "en",
+    "released_at": "2023-03-21",
+    "uri": "https://api.scryfall.com/cards/a68a73de-838e-4d44-ad60-e7cc5e831cc6",
+    "scryfall_uri": "https://scryfall.com/card/p30h/3/sengir-vampire?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.jpg?1682525503",
+      "normal": "https://cards.scryfall.io/normal/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.jpg?1682525503",
+      "large": "https://cards.scryfall.io/large/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.jpg?1682525503",
+      "png": "https://cards.scryfall.io/png/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.png?1682525503",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.jpg?1682525503",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a68a73de-838e-4d44-ad60-e7cc5e831cc6.jpg?1682525503"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Creature — Vampire",
+    "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set": "p30h",
+    "set_name": "30th Anniversary History Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap30h&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p30h?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a68a73de-838e-4d44-ad60-e7cc5e831cc6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A749141aa-f6c4-4ad8-b146-406e68ae9b0b&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ai Nanahira",
+    "artist_ids": [
+      "651f1c56-b47a-418b-9742-94be1e9482c4"
+    ],
+    "illustration_id": "41fbe93a-9a18-4a5e-ac9a-4c54ad6e6729",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 16932,
+    "penny_rank": 10642,
+    "prices": {
+      "usd": null,
+      "usd_foil": "28.87",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "4.67",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSengir%2BVampire",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSengir%2BVampire",
+      "edhrec": "https://edhrec.com/route/?cc=Sengir+Vampire"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284931%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678515&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sengir+Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f76d1d4f-4911-46cd-8adb-af4b5eba48bb",
+    "oracle_id": "711eea87-0fa3-46e0-a42b-fa5a86455f04",
+    "multiverse_ids": [],
+    "tcgplayer_id": 284937,
+    "cardmarket_id": 678517,
+    "name": "Shivan Dragon",
+    "lang": "en",
+    "released_at": "2023-03-21",
+    "uri": "https://api.scryfall.com/cards/f76d1d4f-4911-46cd-8adb-af4b5eba48bb",
+    "scryfall_uri": "https://scryfall.com/card/p30h/4/shivan-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.jpg?1682526483",
+      "normal": "https://cards.scryfall.io/normal/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.jpg?1682526483",
+      "large": "https://cards.scryfall.io/large/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.jpg?1682526483",
+      "png": "https://cards.scryfall.io/png/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.png?1682526483",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.jpg?1682526483",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f76d1d4f-4911-46cd-8adb-af4b5eba48bb.jpg?1682526483"
+    },
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "3dbbfb7f-0e50-454b-a9a1-b4813a95112e",
+        "component": "combo_piece",
+        "name": "Shivan Dragon",
+        "type_line": "Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/3dbbfb7f-0e50-454b-a9a1-b4813a95112e"
+      },
+      {
+        "object": "related_card",
+        "id": "2a43b352-d84b-4714-bbcd-3ad282c8aa9d",
+        "component": "combo_piece",
+        "name": "Sarkhan, Wanderer to Shiv",
+        "type_line": "Legendary Planeswalker — Sarkhan",
+        "uri": "https://api.scryfall.com/cards/2a43b352-d84b-4714-bbcd-3ad282c8aa9d"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set": "p30h",
+    "set_name": "30th Anniversary History Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap30h&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p30h?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f76d1d4f-4911-46cd-8adb-af4b5eba48bb/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A711eea87-0fa3-46e0-a42b-fa5a86455f04&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Satoru Senda",
+    "artist_ids": [
+      "56bf2f31-785d-4ceb-84f3-edfb65f3e81c"
+    ],
+    "illustration_id": "3e36e37d-342c-4c48-abd9-ad30a310e0d3",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 10592,
+    "penny_rank": 10177,
+    "prices": {
+      "usd": null,
+      "usd_foil": "66.32",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "14.83",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShivan%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShivan%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Shivan+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284937%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678517&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shivan+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a07f9f4b-fdac-42c7-b3e7-1852578a35c1",
+    "oracle_id": "68954295-54e3-4303-a6bc-fc4547a4e3a3",
+    "multiverse_ids": [],
+    "tcgplayer_id": 284942,
+    "cardmarket_id": 678520,
+    "name": "Llanowar Elves",
+    "lang": "en",
+    "released_at": "2023-03-21",
+    "uri": "https://api.scryfall.com/cards/a07f9f4b-fdac-42c7-b3e7-1852578a35c1",
+    "scryfall_uri": "https://scryfall.com/card/p30h/5/llanowar-elves?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.jpg?1682525570",
+      "normal": "https://cards.scryfall.io/normal/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.jpg?1682525570",
+      "large": "https://cards.scryfall.io/large/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.jpg?1682525570",
+      "png": "https://cards.scryfall.io/png/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.png?1682525570",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.jpg?1682525570",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a07f9f4b-fdac-42c7-b3e7-1852578a35c1.jpg?1682525570"
+    },
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Creature — Elf Druid",
+    "oracle_text": "{T}: Add {G}.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "G"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "0a5ef93a-da5c-44cb-ade6-4ddbecba5614",
+        "component": "combo_piece",
+        "name": "Llanowar Elves",
+        "type_line": "Creature — Elf Druid",
+        "uri": "https://api.scryfall.com/cards/0a5ef93a-da5c-44cb-ade6-4ddbecba5614"
+      },
+      {
+        "object": "related_card",
+        "id": "8ef95e7a-9f07-41f8-908b-2df93e03d391",
+        "component": "combo_piece",
+        "name": "Marwyn's Kindred",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/8ef95e7a-9f07-41f8-908b-2df93e03d391"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set": "p30h",
+    "set_name": "30th Anniversary History Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/796c1128-14f7-44c4-93fd-cf7366caaa25",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap30h&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p30h?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a07f9f4b-fdac-42c7-b3e7-1852578a35c1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68954295-54e3-4303-a6bc-fc4547a4e3a3&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Areku Nishiki",
+    "artist_ids": [
+      "46445793-236c-4396-9ffd-b2cceacdca20"
+    ],
+    "illustration_id": "cae9ceaa-6be7-4ca9-b538-631ed215dee6",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 62,
+    "penny_rank": 243,
+    "prices": {
+      "usd": null,
+      "usd_foil": "83.51",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "25.84",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLlanowar%2BElves",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLlanowar%2BElves",
+      "edhrec": "https://edhrec.com/route/?cc=Llanowar+Elves"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F284942%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678520&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Llanowar+Elves&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

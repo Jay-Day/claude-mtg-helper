@@ -1,0 +1,1502 @@
+[
+  {
+    "object": "card",
+    "id": "83608297-a2e3-4bf5-84aa-00e0a7743d1e",
+    "oracle_id": "0aae277e-e58e-4115-b5fd-0459451e17ec",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38177,
+    "cardmarket_id": 15818,
+    "name": "Willbender",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/83608297-a2e3-4bf5-84aa-00e0a7743d1e",
+    "scryfall_uri": "https://scryfall.com/card/f04/1/willbender?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.jpg?1562052309",
+      "normal": "https://cards.scryfall.io/normal/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.jpg?1562052309",
+      "large": "https://cards.scryfall.io/large/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.jpg?1562052309",
+      "png": "https://cards.scryfall.io/png/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.png?1562052309",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.jpg?1562052309",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/83608297-a2e3-4bf5-84aa-00e0a7743d1e.jpg?1562052309"
+    },
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Wizard",
+    "oracle_text": "Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen this creature is turned face up, change the target of target spell or ability with a single target.",
+    "power": "1",
+    "toughness": "2",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Morph"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "83608297-a2e3-4bf5-84aa-00e0a7743d1e",
+        "component": "combo_piece",
+        "name": "Willbender",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/83608297-a2e3-4bf5-84aa-00e0a7743d1e"
+      },
+      {
+        "object": "related_card",
+        "id": "5430da88-b72e-4d64-bd3c-b21062cac1c2",
+        "component": "combo_piece",
+        "name": "Morph",
+        "type_line": "Creature",
+        "uri": "https://api.scryfall.com/cards/5430da88-b72e-4d64-bd3c-b21062cac1c2"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/83608297-a2e3-4bf5-84aa-00e0a7743d1e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0aae277e-e58e-4115-b5fd-0459451e17ec&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Peterson",
+    "artist_ids": [
+      "0fc26d3b-4c0e-41d1-8eb3-286ab55a2328"
+    ],
+    "illustration_id": "588dc467-4d72-4578-b09e-3cd1224e501f",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 7098,
+    "penny_rank": 6717,
+    "prices": {
+      "usd": null,
+      "usd_foil": "4.95",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.93",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWillbender",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWillbender",
+      "edhrec": "https://edhrec.com/route/?cc=Willbender"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38177%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15818&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Willbender&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "509af745-13d8-4c93-ba5c-1b691fc95f73",
+    "oracle_id": "463fc961-d34e-4f40-b383-5b78a0fcb5c8",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38156,
+    "cardmarket_id": 15819,
+    "name": "Slice and Dice",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/509af745-13d8-4c93-ba5c-1b691fc95f73",
+    "scryfall_uri": "https://scryfall.com/card/f04/2/slice-and-dice?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.jpg?1562052304",
+      "normal": "https://cards.scryfall.io/normal/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.jpg?1562052304",
+      "large": "https://cards.scryfall.io/large/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.jpg?1562052304",
+      "png": "https://cards.scryfall.io/png/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.png?1562052304",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.jpg?1562052304",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/0/509af745-13d8-4c93-ba5c-1b691fc95f73.jpg?1562052304"
+    },
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Slice and Dice deals 4 damage to each creature.\nCycling {2}{R} ({2}{R}, Discard this card: Draw a card.)\nWhen you cycle this card, you may have it deal 1 damage to each creature.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Cycling"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/509af745-13d8-4c93-ba5c-1b691fc95f73/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A463fc961-d34e-4f40-b383-5b78a0fcb5c8&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Mark Brill",
+    "artist_ids": [
+      "46dc4b5e-e42c-4d65-a4f3-ad75b0f6f6dd"
+    ],
+    "illustration_id": "d5ba5359-a178-4895-871f-f157b0ca6694",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 12769,
+    "penny_rank": 4810,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.74",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.19",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlice%2Band%2BDice",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlice%2Band%2BDice",
+      "edhrec": "https://edhrec.com/route/?cc=Slice+and+Dice"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38156%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15819&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Slice+and+Dice&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8c3fca0b-354f-43d1-9f1f-bbb7b52b416b",
+    "oracle_id": "aa7cd6e6-35a6-4c18-9d66-dc2a95206401",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38155,
+    "cardmarket_id": 15820,
+    "name": "Silver Knight",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b",
+    "scryfall_uri": "https://scryfall.com/card/f04/3/silver-knight?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.jpg?1562052312",
+      "normal": "https://cards.scryfall.io/normal/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.jpg?1562052312",
+      "large": "https://cards.scryfall.io/large/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.jpg?1562052312",
+      "png": "https://cards.scryfall.io/png/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.png?1562052312",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.jpg?1562052312",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b.jpg?1562052312"
+    },
+    "mana_cost": "{W}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Knight",
+    "oracle_text": "First strike, protection from red",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "First strike",
+      "Protection"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8c3fca0b-354f-43d1-9f1f-bbb7b52b416b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaa7cd6e6-35a6-4c18-9d66-dc2a95206401&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "Otaria's last defense against the wave of chaos threatening to engulf it.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Peterson",
+    "artist_ids": [
+      "0fc26d3b-4c0e-41d1-8eb3-286ab55a2328"
+    ],
+    "illustration_id": "ca9ccfe2-5393-46ad-b3ea-de6645d6c87f",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 20559,
+    "penny_rank": 2446,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.27",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.29",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSilver%2BKnight",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSilver%2BKnight",
+      "edhrec": "https://edhrec.com/route/?cc=Silver+Knight"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38155%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15820&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silver+Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7a15c7e0-6b00-4947-a7f0-24d91c9b77eb",
+    "oracle_id": "88350861-244c-4634-9bc9-e9a79401bd02",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38086,
+    "cardmarket_id": 15821,
+    "name": "Krosan Warchief",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb",
+    "scryfall_uri": "https://scryfall.com/card/f04/4/krosan-warchief?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.jpg?1562052307",
+      "normal": "https://cards.scryfall.io/normal/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.jpg?1562052307",
+      "large": "https://cards.scryfall.io/large/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.jpg?1562052307",
+      "png": "https://cards.scryfall.io/png/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.png?1562052307",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.jpg?1562052307",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb.jpg?1562052307"
+    },
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Beast",
+    "oracle_text": "Beast spells you cast cost {1} less to cast.\n{1}{G}: Regenerate target Beast.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7a15c7e0-6b00-4947-a7f0-24d91c9b77eb/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A88350861-244c-4634-9bc9-e9a79401bd02&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "It turns prey into predator.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Greg Hildebrandt",
+    "artist_ids": [
+      "020f967b-0d2f-4166-aabe-901dba8bc7ec"
+    ],
+    "illustration_id": "2368854f-1668-41c6-b936-df55dd3961df",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 10717,
+    "penny_rank": 8129,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.29",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.34",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKrosan%2BWarchief",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKrosan%2BWarchief",
+      "edhrec": "https://edhrec.com/route/?cc=Krosan+Warchief"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38086%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15821&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Krosan+Warchief&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "838bc07d-ed3e-4ba5-9a75-d008d9546582",
+    "oracle_id": "ac3fb7ef-709c-40be-a75b-1b438708388d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38123,
+    "cardmarket_id": 15822,
+    "name": "Lightning Rift",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/838bc07d-ed3e-4ba5-9a75-d008d9546582",
+    "scryfall_uri": "https://scryfall.com/card/f04/5/lightning-rift?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.jpg?1610790469",
+      "normal": "https://cards.scryfall.io/normal/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.jpg?1610790469",
+      "large": "https://cards.scryfall.io/large/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.jpg?1610790469",
+      "png": "https://cards.scryfall.io/png/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.png?1610790469",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.jpg?1610790469",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/838bc07d-ed3e-4ba5-9a75-d008d9546582.jpg?1610790469"
+    },
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a player cycles a card, you may pay {1}. If you do, this enchantment deals 2 damage to any target.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/838bc07d-ed3e-4ba5-9a75-d008d9546582/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac3fb7ef-709c-40be-a75b-1b438708388d&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "Options will cost you, but a lack of them will cost you even more.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Peterson",
+    "artist_ids": [
+      "0fc26d3b-4c0e-41d1-8eb3-286ab55a2328"
+    ],
+    "illustration_id": "3aa5faa8-1211-4d72-a9de-b55888e3d198",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 15735,
+    "penny_rank": 1146,
+    "prices": {
+      "usd": null,
+      "usd_foil": "2.43",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.11",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLightning%2BRift",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLightning%2BRift",
+      "edhrec": "https://edhrec.com/route/?cc=Lightning+Rift"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38123%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15822&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightning+Rift&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3392eec6-c4cb-4c48-b291-4ea8755a4e1c",
+    "oracle_id": "a1cc5e37-b09a-4b7f-afd5-77c1c35aa425",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38063,
+    "cardmarket_id": 15823,
+    "name": "Carrion Feeder",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/3392eec6-c4cb-4c48-b291-4ea8755a4e1c",
+    "scryfall_uri": "https://scryfall.com/card/f04/6/carrion-feeder?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.jpg?1562052301",
+      "normal": "https://cards.scryfall.io/normal/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.jpg?1562052301",
+      "large": "https://cards.scryfall.io/large/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.jpg?1562052301",
+      "png": "https://cards.scryfall.io/png/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.png?1562052301",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.jpg?1562052301",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/3392eec6-c4cb-4c48-b291-4ea8755a4e1c.jpg?1562052301"
+    },
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Creature — Zombie",
+    "oracle_text": "This creature can't block.\nSacrifice a creature: Put a +1/+1 counter on this creature.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3392eec6-c4cb-4c48-b291-4ea8755a4e1c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa1cc5e37-b09a-4b7f-afd5-77c1c35aa425&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "Stinking of rot, it leaps between gravestones in search of its next meal.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Brian Snõddy",
+    "artist_ids": [
+      "770b4e16-de76-49ed-949f-84e6d2e06d25"
+    ],
+    "illustration_id": "9a39c5c0-0014-4696-847d-aaca2119ff82",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 590,
+    "penny_rank": 433,
+    "prices": {
+      "usd": null,
+      "usd_foil": "16.36",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "12.59",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCarrion%2BFeeder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCarrion%2BFeeder",
+      "edhrec": "https://edhrec.com/route/?cc=Carrion+Feeder"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38063%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15823&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Carrion+Feeder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "4eae1639-c460-460a-ae3d-f427f75accd5",
+    "oracle_id": "b53f216d-1592-4eee-b204-502a805fbc8c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38169,
+    "cardmarket_id": 15824,
+    "name": "Treetop Village",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/4eae1639-c460-460a-ae3d-f427f75accd5",
+    "scryfall_uri": "https://scryfall.com/card/f04/7/treetop-village?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.jpg?1562052303",
+      "normal": "https://cards.scryfall.io/normal/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.jpg?1562052303",
+      "large": "https://cards.scryfall.io/large/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.jpg?1562052303",
+      "png": "https://cards.scryfall.io/png/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.png?1562052303",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.jpg?1562052303",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4eae1639-c460-460a-ae3d-f427f75accd5.jpg?1562052303"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {G}.\n{1}{G}: This land becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "G"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4eae1639-c460-460a-ae3d-f427f75accd5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab53f216d-1592-4eee-b204-502a805fbc8c&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Anthony S. Waters",
+    "artist_ids": [
+      "f009de11-3c8d-4663-b996-ca0c3e997fad"
+    ],
+    "illustration_id": "a69cacc5-33c1-42c7-907f-042e4fa74172",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 5550,
+    "penny_rank": 1680,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.49",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "4.40",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTreetop%2BVillage",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTreetop%2BVillage",
+      "edhrec": "https://edhrec.com/route/?cc=Treetop+Village"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38169%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15824&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treetop+Village&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "dc65a1b2-c183-433e-b4b2-d3e7f612c724",
+    "oracle_id": "1ca25379-d194-4670-a7bf-525ad11cf436",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38058,
+    "cardmarket_id": 15825,
+    "name": "Accumulated Knowledge",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/dc65a1b2-c183-433e-b4b2-d3e7f612c724",
+    "scryfall_uri": "https://scryfall.com/card/f04/8/accumulated-knowledge?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.jpg?1562052315",
+      "normal": "https://cards.scryfall.io/normal/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.jpg?1562052315",
+      "large": "https://cards.scryfall.io/large/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.jpg?1562052315",
+      "png": "https://cards.scryfall.io/png/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.png?1562052315",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.jpg?1562052315",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc65a1b2-c183-433e-b4b2-d3e7f612c724.jpg?1562052315"
+    },
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/dc65a1b2-c183-433e-b4b2-d3e7f612c724/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ca25379-d194-4670-a7bf-525ad11cf436&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "\"I have seen and heard much here. There are secrets within secrets. Let me show you.\"\n—Takara, to Eladamri",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Randy Gallegos",
+    "artist_ids": [
+      "a5048cc7-438a-4378-98e4-da99b78e1db0"
+    ],
+    "illustration_id": "be7107fa-26bf-4352-ba13-a863af991780",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 25782,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.62",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "3.97",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAccumulated%2BKnowledge",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAccumulated%2BKnowledge",
+      "edhrec": "https://edhrec.com/route/?cc=Accumulated+Knowledge"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38058%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15825&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Accumulated+Knowledge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9",
+    "oracle_id": "c9048d35-aff7-45ae-ae97-db89397b3e74",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38067,
+    "cardmarket_id": 15826,
+    "name": "Avalanche Riders",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9",
+    "scryfall_uri": "https://scryfall.com/card/f04/9/avalanche-riders?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.jpg?1562052317",
+      "normal": "https://cards.scryfall.io/normal/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.jpg?1562052317",
+      "large": "https://cards.scryfall.io/large/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.jpg?1562052317",
+      "png": "https://cards.scryfall.io/png/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.png?1562052317",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.jpg?1562052317",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9.jpg?1562052317"
+    },
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Nomad",
+    "oracle_text": "Haste\nEcho {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen this creature enters, destroy target land.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste",
+      "Echo"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f4fa943a-f2eb-4cf8-b8bd-0fe2b2da74a9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac9048d35-aff7-45ae-ae97-db89397b3e74&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Edward P. Beard, Jr.",
+    "artist_ids": [
+      "b845b8ee-aeea-4822-bcf9-7230625ac95c"
+    ],
+    "illustration_id": "b86f4e5b-32cc-4a8f-a615-405c19ec8afc",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 18373,
+    "penny_rank": 1527,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.43",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.43",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAvalanche%2BRiders",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAvalanche%2BRiders",
+      "edhrec": "https://edhrec.com/route/?cc=Avalanche+Riders"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38067%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15826&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avalanche+Riders&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d0391889-b3a6-4723-814f-aebec1c2a64f",
+    "oracle_id": "a044474a-cd72-4e9d-bd8d-a08f2de9cdc0",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38144,
+    "cardmarket_id": 15827,
+    "name": "Reanimate",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/d0391889-b3a6-4723-814f-aebec1c2a64f",
+    "scryfall_uri": "https://scryfall.com/card/f04/10/reanimate?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.jpg?1562052314",
+      "normal": "https://cards.scryfall.io/normal/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.jpg?1562052314",
+      "large": "https://cards.scryfall.io/large/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.jpg?1562052314",
+      "png": "https://cards.scryfall.io/png/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.png?1562052314",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.jpg?1562052314",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d0391889-b3a6-4723-814f-aebec1c2a64f.jpg?1562052314"
+    },
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "banned",
+      "timeless": "legal",
+      "gladiator": "banned",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "banned",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d0391889-b3a6-4723-814f-aebec1c2a64f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa044474a-cd72-4e9d-bd8d-a08f2de9cdc0&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "\"You will learn to earn death.\"\n—Volrath",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Robert Bliss",
+    "artist_ids": [
+      "df700ada-8491-4072-a261-e12b3225986d"
+    ],
+    "illustration_id": "fc00f897-988b-4602-969a-c510804ec12a",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 61,
+    "penny_rank": 120,
+    "prices": {
+      "usd": null,
+      "usd_foil": "87.83",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "33.14",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReanimate",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReanimate",
+      "edhrec": "https://edhrec.com/route/?cc=Reanimate"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38144%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15827&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reanimate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "11bce850-487d-41ca-a012-d591daf3687b",
+    "oracle_id": "60433b48-d27f-413c-905c-43839b1943f1",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38131,
+    "cardmarket_id": 15828,
+    "name": "Mother of Runes",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/11bce850-487d-41ca-a012-d591daf3687b",
+    "scryfall_uri": "https://scryfall.com/card/f04/11/mother-of-runes?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.jpg?1562052299",
+      "normal": "https://cards.scryfall.io/normal/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.jpg?1562052299",
+      "large": "https://cards.scryfall.io/large/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.jpg?1562052299",
+      "png": "https://cards.scryfall.io/png/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.png?1562052299",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.jpg?1562052299",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/11bce850-487d-41ca-a012-d591daf3687b.jpg?1562052299"
+    },
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Cleric",
+    "oracle_text": "{T}: Target creature you control gains protection from the color of your choice until end of turn.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/11bce850-487d-41ca-a012-d591daf3687b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60433b48-d27f-413c-905c-43839b1943f1&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "\"My family protects all families.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Scott M. Fischer",
+    "artist_ids": [
+      "23b0cf43-3e43-44c6-8329-96446eca5bce"
+    ],
+    "illustration_id": "59f603b3-c842-4ba1-aede-25947f8831ee",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 490,
+    "penny_rank": 132,
+    "prices": {
+      "usd": null,
+      "usd_foil": "22.52",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "15.07",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMother%2Bof%2BRunes",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMother%2Bof%2BRunes",
+      "edhrec": "https://edhrec.com/route/?cc=Mother+of+Runes"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38131%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15828&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mother+of+Runes&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "75b56b18-47a3-470b-911c-57da82c5ac03",
+    "oracle_id": "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38073,
+    "cardmarket_id": 15829,
+    "name": "Brainstorm",
+    "lang": "en",
+    "released_at": "2004-01-01",
+    "uri": "https://api.scryfall.com/cards/75b56b18-47a3-470b-911c-57da82c5ac03",
+    "scryfall_uri": "https://scryfall.com/card/f04/12/brainstorm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.jpg?1595376447",
+      "normal": "https://cards.scryfall.io/normal/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.jpg?1595376447",
+      "large": "https://cards.scryfall.io/large/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.jpg?1595376447",
+      "png": "https://cards.scryfall.io/png/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.png?1595376447",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.jpg?1595376447",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/5/75b56b18-47a3-470b-911c-57da82c5ac03.jpg?1595376447"
+    },
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "banned",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "restricted",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "banned",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set": "f04",
+    "set_name": "Friday Night Magic 2004",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/10b8cbe8-4beb-496b-97d7-889a81dde83b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af04&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f04?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/75b56b18-47a3-470b-911c-57da82c5ac03/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A36cd2364-d113-47d1-b2c4-b088d9eb88dd&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "fnm",
+    "flavor_text": "\"I see more than others do because I know where to look.\"\n—Saprazzan vizier",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "DiTerlizzi",
+    "artist_ids": [
+      "ed44dce4-30cf-4c2c-b2e1-a19ba2295690"
+    ],
+    "illustration_id": "a068a944-d5bd-4548-bf16-cf0071ca1f2b",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "edhrec_rank": 64,
+    "penny_rank": 9,
+    "prices": {
+      "usd": null,
+      "usd_foil": "63.25",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "37.14",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrainstorm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrainstorm",
+      "edhrec": "https://edhrec.com/route/?cc=Brainstorm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38073%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=15829&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Brainstorm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

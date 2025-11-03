@@ -1,0 +1,381 @@
+[
+  {
+    "object": "card",
+    "id": "d1628a06-753c-423a-8eea-e29667dd95f7",
+    "oracle_id": "1e3b2689-e75a-401f-9e9b-82a11283c3f1",
+    "multiverse_ids": [],
+    "name": "Roll for Initiative // Roll for Initiative (cont'd)",
+    "lang": "en",
+    "released_at": "2022-06-10",
+    "uri": "https://api.scryfall.com/cards/d1628a06-753c-423a-8eea-e29667dd95f7",
+    "scryfall_uri": "https://scryfall.com/card/mclb/1/roll-for-initiative-roll-for-initiative-(contd)?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Card",
+    "color_identity": [],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Roll for Initiative",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "2+ players | 1+ packs | 5 minutes | d20\nOBJECTIVE:\nAs you enter the room, the terrible dragon opens its eyes and lets out a roar. Everybody... roll for initiative! Roll a d20 and modify the result with some _Magic_ cards to get the highest initiative!\nGET READY:\nOpen a booster and remove all cards without _Magic_ card backs. Use an additional booster for groups of five players or more. Shuffle, then deal the same number of cards to each player. If there are extra cards after dealing, set them aside. Each player then rolls a d20 to determine their *initiative*. In case of a tie, the tied players roll again. The player with the lowest starting initiative goes first.\nLET'S PLAY:\nOn each player's turn, they play a card to modify a player's initiative (see reverse side for card effects). Cards with effects that will be counted at the end of the game should be placed in front of the target player. All other cards go into the discard pile.",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "normal": "https://cards.scryfall.io/normal/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "large": "https://cards.scryfall.io/large/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "png": "https://cards.scryfall.io/png/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.png?1664728738",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Roll for Initiative (cont'd)",
+        "mana_cost": "",
+        "oracle_text": "Play continues until all players are out of cards.\n*White Card*: At the end of the game, increase a player's roll by 2.\n*Blue Card*: Reroll another player's die, but use the new result only if it's lower.\n*Black Card*: At the end of the game, decrease a player's roll by 2.\n*Red Card*: Reroll another player's die. They must use the new result.\n*Green Card*: Reroll your own die, but use the new result only if it's higher.\n*Colorless Card*: Each player may reroll their die. if they do, they must use the new result.\n*Multicolored Card*: Apply the effects of each of the card's colors. Each effect can target a different player.\n*Any Card Played Face Down*: At the end of the game, increase or decrease a player's die roll by 1.\nTO WIN:\nOnce everyone is out of cards, check to see who has the highest roll. That player wins initiative!",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "normal": "https://cards.scryfall.io/normal/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "large": "https://cards.scryfall.io/large/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "png": "https://cards.scryfall.io/png/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.png?1664728738",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/d/1/d1628a06-753c-423a-8eea-e29667dd95f7.jpg?1664728738"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set": "mclb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate Minigames",
+    "set_type": "minigame",
+    "set_uri": "https://api.scryfall.com/sets/b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amclb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/mclb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d1628a06-753c-423a-8eea-e29667dd95f7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1e3b2689-e75a-401f-9e9b-82a11283c3f1&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "artist": "",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRoll%2Bfor%2BInitiative%2B%252F%252F%2BRoll%2Bfor%2BInitiative%2B%2528cont%2527d%2529",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRoll%2Bfor%2BInitiative%2B%252F%252F%2BRoll%2Bfor%2BInitiative%2B%2528cont%2527d%2529",
+      "edhrec": "https://edhrec.com/route/?cc=Roll+for+Initiative+%2F%2F+Roll+for+Initiative+%28cont%27d%29"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRoll%2Bfor%2BInitiative%2B%252F%252F%2BRoll%2Bfor%2BInitiative%2B%2528cont%2527d%2529%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Roll+for+Initiative+%2F%2F+Roll+for+Initiative+%28cont%27d%29&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Roll+for+Initiative+%2F%2F+Roll+for+Initiative+%28cont%27d%29&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "9de46c01-f2d9-44d4-af72-242b6283ec30",
+    "oracle_id": "7d25d3ba-7bb1-46ba-85c5-48e2966c5e61",
+    "multiverse_ids": [],
+    "name": "Mimic Match // Mimic Match (cont'd)",
+    "lang": "en",
+    "released_at": "2022-06-10",
+    "uri": "https://api.scryfall.com/cards/9de46c01-f2d9-44d4-af72-242b6283ec30",
+    "scryfall_uri": "https://scryfall.com/card/mclb/2/mimic-match-mimic-match-(contd)?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Card",
+    "color_identity": [],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Mimic Match",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "2-4 players | 2+ packs | 10 minutes\nOBJECTIVE: Match and collect the most treasure chests before someone uncovers the mimics hiding amongst the loot!\nGET READY: Open one booster per player and remove any lands and cards without _Magic_ card backs, and then shuffle them together. Then put *two lands* back into the deck (to represent the mimics) and shuffle. Deal 16 cards face down in a *4x4 grid*. Randomly determine who goes first.\nLET'S PLAY:\nOn your turn, secretly look at *two cards* from the grid. If they share a *color* or *mana value*, you may reveal them, announce what matches and take those cards, then take another turn.",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "normal": "https://cards.scryfall.io/normal/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "large": "https://cards.scryfall.io/large/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "png": "https://cards.scryfall.io/png/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.png?1664728761",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Mimic Match (cont'd)",
+        "mana_cost": "",
+        "oracle_text": "Otherwise, leave them in place, and the next player takes their turn.\nNOTE: Colorless cards can be matched with other colorless cards, but mimics can only be matched with each other.\nAfter a match has been made, replace the empty spaces with two new cards from the deck, face down.\nThe game ends when a player reveals the two mimics, uncovering them!\nTO WIN:\nAt the end of the game, each player scores 1 point for every card they collected. The player who uncovered the mimics by matching the two lands scores an additional 2 points. If there is a tie, the player who uncovered the mimics decides who wins!",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "normal": "https://cards.scryfall.io/normal/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "large": "https://cards.scryfall.io/large/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "png": "https://cards.scryfall.io/png/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.png?1664728761",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/9/d/9de46c01-f2d9-44d4-af72-242b6283ec30.jpg?1664728761"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set": "mclb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate Minigames",
+    "set_type": "minigame",
+    "set_uri": "https://api.scryfall.com/sets/b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amclb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/mclb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/9de46c01-f2d9-44d4-af72-242b6283ec30/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7d25d3ba-7bb1-46ba-85c5-48e2966c5e61&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "artist": "",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMimic%2BMatch%2B%252F%252F%2BMimic%2BMatch%2B%2528cont%2527d%2529",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMimic%2BMatch%2B%252F%252F%2BMimic%2BMatch%2B%2528cont%2527d%2529",
+      "edhrec": "https://edhrec.com/route/?cc=Mimic+Match+%2F%2F+Mimic+Match+%28cont%27d%29"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMimic%2BMatch%2B%252F%252F%2BMimic%2BMatch%2B%2528cont%2527d%2529%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mimic+Match+%2F%2F+Mimic+Match+%28cont%27d%29&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mimic+Match+%2F%2F+Mimic+Match+%28cont%27d%29&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "910959f2-db4e-4cee-9f3a-bed04d34d6f6",
+    "oracle_id": "c556baae-77bc-4459-a925-5b94e92b336d",
+    "multiverse_ids": [],
+    "name": "Mini-Master // Mini-Master (cont'd)",
+    "lang": "en",
+    "released_at": "2022-06-10",
+    "uri": "https://api.scryfall.com/cards/910959f2-db4e-4cee-9f3a-bed04d34d6f6",
+    "scryfall_uri": "https://scryfall.com/card/mclb/3/mini-master-mini-master-(contd)?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Card // Card",
+    "color_identity": [],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Mini-Master",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "2 players | 2 packs. 10 minutes | Basic Lands\nOBJECTIVE:\nPlay a quick game of Magic using only the cards in a single pack. You may also know this game as Pack Wars!\nGET READY:\nEach player opens a pack and sets aside any cards without Magic card backs, trying not to look at the rest of the cards. Then they add three of each basic land (Plains, Island, Swamp, Mountain, and Forest) to their pack and shuffle. This becomes the player's deck.\nLET'S PLAY:\nRandomly determine who goes first, then play a game of Magic! There are many variants of Mini-Master. The following are modified rules you can add to your game:",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "normal": "https://cards.scryfall.io/normal/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "large": "https://cards.scryfall.io/large/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "png": "https://cards.scryfall.io/png/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.png?1664729142",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Mini-Master (cont'd)",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "If you have two or more copies of any basic land, you can tap other lands as though they were lands of that type. This can help you pay costs with lots of mana symbols in them.\nAfter the first game, add another pack to your deck, look at the contents, then cut cards until you have 30. Do this again for game three!\nNot feeling your deck? Replace the whole thing with a new pack between games!\nTO WIN:\nThe first player to win two games wins the match.",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "normal": "https://cards.scryfall.io/normal/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "large": "https://cards.scryfall.io/large/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "png": "https://cards.scryfall.io/png/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.png?1664729142",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/9/1/910959f2-db4e-4cee-9f3a-bed04d34d6f6.jpg?1664729142"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set": "mclb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate Minigames",
+    "set_type": "minigame",
+    "set_uri": "https://api.scryfall.com/sets/b5e232e5-cd56-4734-9ae2-930f543f6fa1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amclb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/mclb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/910959f2-db4e-4cee-9f3a-bed04d34d6f6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac556baae-77bc-4459-a925-5b94e92b336d&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "artist": "",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMini-Master%2B%252F%252F%2BMini-Master%2B%2528cont%2527d%2529",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMini-Master%2B%252F%252F%2BMini-Master%2B%2528cont%2527d%2529",
+      "edhrec": "https://edhrec.com/route/?cc=Mini-Master+%2F%2F+Mini-Master+%28cont%27d%29"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMini-Master%2B%252F%252F%2BMini-Master%2B%2528cont%2527d%2529%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mini-Master+%2F%2F+Mini-Master+%28cont%27d%29&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mini-Master+%2F%2F+Mini-Master+%28cont%27d%29&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

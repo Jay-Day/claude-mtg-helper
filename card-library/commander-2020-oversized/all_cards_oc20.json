@@ -1,0 +1,664 @@
+[
+  {
+    "object": "card",
+    "id": "018daf97-1cf3-4cc2-b797-ef3cd3a9a15f",
+    "oracle_id": "716a3bb8-04bd-41f5-a568-131f175e00a6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 212947,
+    "name": "Gavi, Nest Warden",
+    "lang": "en",
+    "released_at": "2020-04-17",
+    "uri": "https://api.scryfall.com/cards/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f",
+    "scryfall_uri": "https://scryfall.com/card/oc20/7/gavi-nest-warden?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.jpg?1639714314",
+      "normal": "https://cards.scryfall.io/normal/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.jpg?1639714314",
+      "large": "https://cards.scryfall.io/large/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.jpg?1639714314",
+      "png": "https://cards.scryfall.io/png/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.png?1639714314",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.jpg?1639714314",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f.jpg?1639714314"
+    },
+    "mana_cost": "{2}{U}{R}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Shaman",
+    "oracle_text": "You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.\nWhenever you draw your second card each turn, create a 2/2 red and white Dinosaur Cat creature token.",
+    "power": "2",
+    "toughness": "5",
+    "colors": [
+      "R",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "80bc07d5-bdbb-4a6d-8958-0c172ea80245",
+        "component": "combo_piece",
+        "name": "Gavi, Nest Warden",
+        "type_line": "Legendary Creature — Human Shaman",
+        "uri": "https://api.scryfall.com/cards/80bc07d5-bdbb-4a6d-8958-0c172ea80245"
+      },
+      {
+        "object": "related_card",
+        "id": "cb87f3e1-f4ba-459d-9bb9-6651fe073a0a",
+        "component": "token",
+        "name": "Dinosaur Cat",
+        "type_line": "Token Creature — Dinosaur Cat",
+        "uri": "https://api.scryfall.com/cards/cb87f3e1-f4ba-459d-9bb9-6651fe073a0a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set": "oc20",
+    "set_name": "Commander 2020 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc20?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/018daf97-1cf3-4cc2-b797-ef3cd3a9a15f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A716a3bb8-04bd-41f5-a568-131f175e00a6&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "A mother's love transcends species.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Randy Vargas",
+    "artist_ids": [
+      "d20672ca-0555-4238-a984-fd171d36b247"
+    ],
+    "illustration_id": "c446d6b6-dad9-4713-90e1-db942d56533c",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 12560,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.15",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGavi%252C%2BNest%2BWarden",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGavi%252C%2BNest%2BWarden",
+      "edhrec": "https://edhrec.com/route/?cc=Gavi%2C+Nest+Warden"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212947%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gavi%2C+Nest+Warden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gavi%2C+Nest+Warden&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f08ec3bc-b5a4-408d-9a45-89fe61d372f2",
+    "oracle_id": "b122bf99-b003-452a-a854-b25597ff7ca2",
+    "multiverse_ids": [],
+    "tcgplayer_id": 212945,
+    "name": "Jirina Kudro",
+    "lang": "en",
+    "released_at": "2020-04-17",
+    "uri": "https://api.scryfall.com/cards/f08ec3bc-b5a4-408d-9a45-89fe61d372f2",
+    "scryfall_uri": "https://scryfall.com/card/oc20/8/jirina-kudro?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.jpg?1639714318",
+      "normal": "https://cards.scryfall.io/normal/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.jpg?1639714318",
+      "large": "https://cards.scryfall.io/large/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.jpg?1639714318",
+      "png": "https://cards.scryfall.io/png/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.png?1639714318",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.jpg?1639714318",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f08ec3bc-b5a4-408d-9a45-89fe61d372f2.jpg?1639714318"
+    },
+    "mana_cost": "{1}{R}{W}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "When Jirina Kudro enters, create a 1/1 white Human Soldier creature token for each time you've cast a commander from the command zone this game.\nOther Humans you control get +2/+0.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "B",
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "631c2c16-132d-4607-ab7e-207a6af188e5",
+        "component": "token",
+        "name": "Human Soldier",
+        "type_line": "Token Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/631c2c16-132d-4607-ab7e-207a6af188e5"
+      },
+      {
+        "object": "related_card",
+        "id": "6e660d42-f5d3-452a-9662-74e18a1ae9e4",
+        "component": "combo_piece",
+        "name": "Jirina Kudro",
+        "type_line": "Legendary Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/6e660d42-f5d3-452a-9662-74e18a1ae9e4"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set": "oc20",
+    "set_name": "Commander 2020 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc20?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f08ec3bc-b5a4-408d-9a45-89fe61d372f2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab122bf99-b003-452a-a854-b25597ff7ca2&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "\"Strength is what keeps us alive. Compassion is what keeps us human.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Magali Villeneuve",
+    "artist_ids": [
+      "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    ],
+    "illustration_id": "237beeae-2517-49c0-ae9d-61df888d3828",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 10534,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.39",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJirina%2BKudro",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJirina%2BKudro",
+      "edhrec": "https://edhrec.com/route/?cc=Jirina+Kudro"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212945%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jirina+Kudro&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jirina+Kudro&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "979e237b-2b38-41c9-ab4d-3f3926dfdd82",
+    "oracle_id": "b8501a37-23e4-4873-80cb-d1c0f6c95155",
+    "multiverse_ids": [],
+    "tcgplayer_id": 212946,
+    "name": "Kalamax, the Stormsire",
+    "lang": "en",
+    "released_at": "2020-04-17",
+    "uri": "https://api.scryfall.com/cards/979e237b-2b38-41c9-ab4d-3f3926dfdd82",
+    "scryfall_uri": "https://scryfall.com/card/oc20/9/kalamax-the-stormsire?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.jpg?1639714320",
+      "normal": "https://cards.scryfall.io/normal/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.jpg?1639714320",
+      "large": "https://cards.scryfall.io/large/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.jpg?1639714320",
+      "png": "https://cards.scryfall.io/png/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.png?1639714320",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.jpg?1639714320",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/979e237b-2b38-41c9-ab4d-3f3926dfdd82.jpg?1639714320"
+    },
+    "mana_cost": "{1}{G}{U}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Elemental Dinosaur",
+    "oracle_text": "Whenever you cast your first instant spell each turn, if Kalamax is tapped, copy that spell. You may choose new targets for the copy.\nWhenever you copy an instant spell, put a +1/+1 counter on Kalamax.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "G",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set": "oc20",
+    "set_name": "Commander 2020 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc20?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/979e237b-2b38-41c9-ab4d-3f3926dfdd82/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8501a37-23e4-4873-80cb-d1c0f6c95155&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "Its mood changes with the weather, and vice versa.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Nicholas Gregory",
+    "artist_ids": [
+      "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+    ],
+    "illustration_id": "560608af-f383-438e-95fa-0664e3004f72",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 8659,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.52",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKalamax%252C%2Bthe%2BStormsire",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKalamax%252C%2Bthe%2BStormsire",
+      "edhrec": "https://edhrec.com/route/?cc=Kalamax%2C+the+Stormsire"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212946%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kalamax%2C+the+Stormsire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kalamax%2C+the+Stormsire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "942f64bc-3d5f-484e-880e-74c84cdc1e51",
+    "oracle_id": "730897a9-3ead-4990-9492-1a2040d8ccac",
+    "multiverse_ids": [],
+    "tcgplayer_id": 212943,
+    "name": "Kathril, Aspect Warper",
+    "lang": "en",
+    "released_at": "2020-04-17",
+    "uri": "https://api.scryfall.com/cards/942f64bc-3d5f-484e-880e-74c84cdc1e51",
+    "scryfall_uri": "https://scryfall.com/card/oc20/10/kathril-aspect-warper?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.jpg?1639714323",
+      "normal": "https://cards.scryfall.io/normal/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.jpg?1639714323",
+      "large": "https://cards.scryfall.io/large/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.jpg?1639714323",
+      "png": "https://cards.scryfall.io/png/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.png?1639714323",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.jpg?1639714323",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/942f64bc-3d5f-484e-880e-74c84cdc1e51.jpg?1639714323"
+    },
+    "mana_cost": "{2}{W}{B}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Nightmare Insect",
+    "oracle_text": "When Kathril enters, put a flying counter on any creature you control if a creature card in your graveyard has flying. Repeat this process for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. Then put a +1/+1 counter on Kathril for each counter put on a creature this way.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "B",
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set": "oc20",
+    "set_name": "Commander 2020 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc20?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/942f64bc-3d5f-484e-880e-74c84cdc1e51/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A730897a9-3ead-4990-9492-1a2040d8ccac&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Mathias Kollros",
+    "artist_ids": [
+      "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+    ],
+    "illustration_id": "cbb323ce-fa99-476a-a879-355bced50153",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 13378,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.50",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKathril%252C%2BAspect%2BWarper",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKathril%252C%2BAspect%2BWarper",
+      "edhrec": "https://edhrec.com/route/?cc=Kathril%2C+Aspect+Warper"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212943%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kathril%2C+Aspect+Warper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kathril%2C+Aspect+Warper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a2376fd1-26aa-4263-81b1-00daf21337fc",
+    "oracle_id": "c5054364-2a19-4b70-869b-94d48b7b12c0",
+    "multiverse_ids": [],
+    "tcgplayer_id": 212949,
+    "name": "Otrimi, the Ever-Playful",
+    "lang": "en",
+    "released_at": "2020-04-17",
+    "uri": "https://api.scryfall.com/cards/a2376fd1-26aa-4263-81b1-00daf21337fc",
+    "scryfall_uri": "https://scryfall.com/card/oc20/12/otrimi-the-ever-playful?utm_source=api",
+    "layout": "mutate",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.jpg?1639714311",
+      "normal": "https://cards.scryfall.io/normal/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.jpg?1639714311",
+      "large": "https://cards.scryfall.io/large/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.jpg?1639714311",
+      "png": "https://cards.scryfall.io/png/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.png?1639714311",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.jpg?1639714311",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a2376fd1-26aa-4263-81b1-00daf21337fc.jpg?1639714311"
+    },
+    "mana_cost": "{3}{B}{G}{U}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Nightmare Beast",
+    "oracle_text": "Mutate {1}{B}{G}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)\nTrample\nWhenever this creature deals combat damage to a player, return target creature card with mutate from your graveyard to your hand.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "B",
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Mutate",
+      "Trample"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set": "oc20",
+    "set_name": "Commander 2020 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/9f91a21b-1abc-49a5-9f0c-e3635ed7c9f4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc20&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc20?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a2376fd1-26aa-4263-81b1-00daf21337fc/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5054364-2a19-4b70-869b-94d48b7b12c0&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Victor Adame Minguez",
+    "artist_ids": [
+      "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+    ],
+    "illustration_id": "b87bf406-9e89-4f10-9bf9-57bab019b52f",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9047,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.83",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOtrimi%252C%2Bthe%2BEver-Playful",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOtrimi%252C%2Bthe%2BEver-Playful",
+      "edhrec": "https://edhrec.com/route/?cc=Otrimi%2C+the+Ever-Playful"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F212949%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Otrimi%2C+the+Ever-Playful&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Otrimi%2C+the+Ever-Playful&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

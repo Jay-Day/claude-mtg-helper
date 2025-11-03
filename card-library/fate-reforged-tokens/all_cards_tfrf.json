@@ -1,0 +1,1634 @@
+[
+  {
+    "object": "card",
+    "id": "3142cb28-23cc-405f-9db5-7c4d168aab19",
+    "oracle_id": "bfa57f61-3811-43da-b73e-90e3e5b0b2c2",
+    "multiverse_ids": [],
+    "tcgplayer_id": 95323,
+    "name": "Monk",
+    "lang": "en",
+    "released_at": "2015-01-23",
+    "uri": "https://api.scryfall.com/cards/3142cb28-23cc-405f-9db5-7c4d168aab19",
+    "scryfall_uri": "https://scryfall.com/card/tfrf/1/monk?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg?1561756870",
+      "normal": "https://cards.scryfall.io/normal/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg?1561756870",
+      "large": "https://cards.scryfall.io/large/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg?1561756870",
+      "png": "https://cards.scryfall.io/png/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.png?1561756870",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg?1561756870",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/3142cb28-23cc-405f-9db5-7c4d168aab19.jpg?1561756870"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Monk",
+    "oracle_text": "Prowess",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Prowess"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "abcd0e32-2e6b-419b-9e8a-af38f2b48a66",
+        "component": "combo_piece",
+        "name": "Monastery Mentor",
+        "type_line": "Creature — Human Monk",
+        "uri": "https://api.scryfall.com/cards/abcd0e32-2e6b-419b-9e8a-af38f2b48a66"
+      },
+      {
+        "object": "related_card",
+        "id": "b56e0037-8143-4c13-83e1-0c3f44e685ea",
+        "component": "combo_piece",
+        "name": "Rally the Monastery",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/b56e0037-8143-4c13-83e1-0c3f44e685ea"
+      },
+      {
+        "object": "related_card",
+        "id": "77fd5b8e-55cb-48f6-8917-84db4efee20d",
+        "component": "combo_piece",
+        "name": "Cori-Steel Cutter",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/77fd5b8e-55cb-48f6-8917-84db4efee20d"
+      },
+      {
+        "object": "related_card",
+        "id": "728e253c-3417-4142-8408-8981aab5411c",
+        "component": "combo_piece",
+        "name": "Jeskai Revelation",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/728e253c-3417-4142-8408-8981aab5411c"
+      },
+      {
+        "object": "related_card",
+        "id": "058da414-1f05-45a0-8938-2fbc1050e17e",
+        "component": "combo_piece",
+        "name": "A-Cori-Steel Cutter",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/058da414-1f05-45a0-8938-2fbc1050e17e"
+      },
+      {
+        "object": "related_card",
+        "id": "836c9684-06bf-45c8-8706-449def571e66",
+        "component": "combo_piece",
+        "name": "Aligned Heart",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/836c9684-06bf-45c8-8706-449def571e66"
+      },
+      {
+        "object": "related_card",
+        "id": "3142cb28-23cc-405f-9db5-7c4d168aab19",
+        "component": "token",
+        "name": "Monk",
+        "type_line": "Token Creature — Monk",
+        "uri": "https://api.scryfall.com/cards/3142cb28-23cc-405f-9db5-7c4d168aab19"
+      },
+      {
+        "object": "related_card",
+        "id": "eee11606-5902-41d3-aec6-d6a3da01091b",
+        "component": "combo_piece",
+        "name": "Elsha, Threefold Master",
+        "type_line": "Legendary Creature — Djinn Monk",
+        "uri": "https://api.scryfall.com/cards/eee11606-5902-41d3-aec6-d6a3da01091b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set": "tfrf",
+    "set_name": "Fate Reforged Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfrf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tfrf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3142cb28-23cc-405f-9db5-7c4d168aab19/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abfa57f61-3811-43da-b73e-90e3e5b0b2c2&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steven Belledin",
+    "artist_ids": [
+      "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+    ],
+    "illustration_id": "4ab42929-571e-4143-92fa-fa939a26f1a9",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.59",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMonk",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMonk",
+      "edhrec": "https://edhrec.com/route/?cc=Monk"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F95323%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Monk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Monk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "52e32ad7-d59e-4cd8-ab88-3c7c0c083357",
+    "oracle_id": "dc4e2134-f0c2-49aa-9ea3-ebf83af1445c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 95321,
+    "name": "Spirit",
+    "lang": "en",
+    "released_at": "2015-01-23",
+    "uri": "https://api.scryfall.com/cards/52e32ad7-d59e-4cd8-ab88-3c7c0c083357",
+    "scryfall_uri": "https://scryfall.com/card/tfrf/2/spirit?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg?1561757140",
+      "normal": "https://cards.scryfall.io/normal/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg?1561757140",
+      "large": "https://cards.scryfall.io/large/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg?1561757140",
+      "png": "https://cards.scryfall.io/png/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.png?1561757140",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg?1561757140",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/52e32ad7-d59e-4cd8-ab88-3c7c0c083357.jpg?1561757140"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Spirit",
+    "oracle_text": "Flying",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "9e371a29-bb06-402d-8ea3-f2a0b982a310",
+        "component": "combo_piece",
+        "name": "Kykar, Zephyr Awakener",
+        "type_line": "Legendary Creature — Bird Wizard",
+        "uri": "https://api.scryfall.com/cards/9e371a29-bb06-402d-8ea3-f2a0b982a310"
+      },
+      {
+        "object": "related_card",
+        "id": "4d8542f6-ee34-42c6-acd5-07b0c7cc2f63",
+        "component": "combo_piece",
+        "name": "Funeral Pyre",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/4d8542f6-ee34-42c6-acd5-07b0c7cc2f63"
+      },
+      {
+        "object": "related_card",
+        "id": "db15f7e6-a4fa-4dd5-b072-37fc213c99d0",
+        "component": "combo_piece",
+        "name": "Haunted Dead",
+        "type_line": "Creature — Zombie",
+        "uri": "https://api.scryfall.com/cards/db15f7e6-a4fa-4dd5-b072-37fc213c99d0"
+      },
+      {
+        "object": "related_card",
+        "id": "184e5208-edbe-417f-8ff8-1950d08071ab",
+        "component": "combo_piece",
+        "name": "Blessed Defiance",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/184e5208-edbe-417f-8ff8-1950d08071ab"
+      },
+      {
+        "object": "related_card",
+        "id": "f0ad0796-0357-4e74-9d65-c7761a3f223c",
+        "component": "combo_piece",
+        "name": "Slayer's Plate",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/f0ad0796-0357-4e74-9d65-c7761a3f223c"
+      },
+      {
+        "object": "related_card",
+        "id": "e464408d-3e50-4a9e-beca-b91e15baacaf",
+        "component": "combo_piece",
+        "name": "Lingering Souls",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/e464408d-3e50-4a9e-beca-b91e15baacaf"
+      },
+      {
+        "object": "related_card",
+        "id": "9fd3e003-20d4-407a-850f-453e5086a502",
+        "component": "combo_piece",
+        "name": "Staff of the Storyteller",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/9fd3e003-20d4-407a-850f-453e5086a502"
+      },
+      {
+        "object": "related_card",
+        "id": "8a840ee7-5728-4b1b-92ac-54612e5397b3",
+        "component": "combo_piece",
+        "name": "Gallows at Willow Hill",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/8a840ee7-5728-4b1b-92ac-54612e5397b3"
+      },
+      {
+        "object": "related_card",
+        "id": "dd4287fc-3e16-473f-818c-9f4d57d03125",
+        "component": "combo_piece",
+        "name": "Kaya the Inexorable",
+        "type_line": "Legendary Planeswalker — Kaya",
+        "uri": "https://api.scryfall.com/cards/dd4287fc-3e16-473f-818c-9f4d57d03125"
+      },
+      {
+        "object": "related_card",
+        "id": "a4861c8d-5e4a-4c4b-854c-410aad2d49cb",
+        "component": "combo_piece",
+        "name": "Nearheath Chaplain",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/a4861c8d-5e4a-4c4b-854c-410aad2d49cb"
+      },
+      {
+        "object": "related_card",
+        "id": "d2709d91-4235-482c-b9b3-ac5d61cb5bcb",
+        "component": "combo_piece",
+        "name": "Oath of the Grey Host",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/d2709d91-4235-482c-b9b3-ac5d61cb5bcb"
+      },
+      {
+        "object": "related_card",
+        "id": "d7953153-e7da-4e3d-a962-eb57b726aaf0",
+        "component": "combo_piece",
+        "name": "Ethereal Investigator",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/d7953153-e7da-4e3d-a962-eb57b726aaf0"
+      },
+      {
+        "object": "related_card",
+        "id": "a3f29cbb-d802-4085-a236-86775764bc9e",
+        "component": "combo_piece",
+        "name": "Whispering Wizard",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/a3f29cbb-d802-4085-a236-86775764bc9e"
+      },
+      {
+        "object": "related_card",
+        "id": "5e1ae45c-ac55-468d-8e27-e72b5954ce94",
+        "component": "combo_piece",
+        "name": "Spectral Procession",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/5e1ae45c-ac55-468d-8e27-e72b5954ce94"
+      },
+      {
+        "object": "related_card",
+        "id": "0df01c9a-5d2c-4391-99a3-f10e404b7133",
+        "component": "combo_piece",
+        "name": "Abzan Ascendancy",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/0df01c9a-5d2c-4391-99a3-f10e404b7133"
+      },
+      {
+        "object": "related_card",
+        "id": "d080c35d-f2c6-4f4e-8f7c-305b319d4cde",
+        "component": "combo_piece",
+        "name": "Benevolent Offering",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/d080c35d-f2c6-4f4e-8f7c-305b319d4cde"
+      },
+      {
+        "object": "related_card",
+        "id": "7bb35e78-97cc-4300-9da9-797eeef9491e",
+        "component": "combo_piece",
+        "name": "King of the Oathbreakers",
+        "type_line": "Legendary Creature — Spirit Noble",
+        "uri": "https://api.scryfall.com/cards/7bb35e78-97cc-4300-9da9-797eeef9491e"
+      },
+      {
+        "object": "related_card",
+        "id": "1b302947-5d66-425d-b67e-bf1d5846d490",
+        "component": "combo_piece",
+        "name": "Nurturing Presence",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/1b302947-5d66-425d-b67e-bf1d5846d490"
+      },
+      {
+        "object": "related_card",
+        "id": "c539c201-64c2-475c-b934-8a738d071b02",
+        "component": "combo_piece",
+        "name": "Summoner's Sending",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/c539c201-64c2-475c-b934-8a738d071b02"
+      },
+      {
+        "object": "related_card",
+        "id": "05c90b56-6e4b-43d1-886d-a6d78da7a586",
+        "component": "combo_piece",
+        "name": "Triplicate Spirits",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/05c90b56-6e4b-43d1-886d-a6d78da7a586"
+      },
+      {
+        "object": "related_card",
+        "id": "f18f726e-3bf2-436c-95cb-f7b4a10f18f6",
+        "component": "combo_piece",
+        "name": "Afterlife",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/f18f726e-3bf2-436c-95cb-f7b4a10f18f6"
+      },
+      {
+        "object": "related_card",
+        "id": "a264d5f2-9e27-4c41-a76e-0dc944c6dc74",
+        "component": "combo_piece",
+        "name": "Field of Souls",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/a264d5f2-9e27-4c41-a76e-0dc944c6dc74"
+      },
+      {
+        "object": "related_card",
+        "id": "fbbbbbf7-eaae-462e-a8eb-7f6a97703600",
+        "component": "combo_piece",
+        "name": "Kirtar's Wrath",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/fbbbbbf7-eaae-462e-a8eb-7f6a97703600"
+      },
+      {
+        "object": "related_card",
+        "id": "df8bbd04-981e-45ec-a835-7237350630cf",
+        "component": "combo_piece",
+        "name": "Moorland Haunt",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/df8bbd04-981e-45ec-a835-7237350630cf"
+      },
+      {
+        "object": "related_card",
+        "id": "dc8037d5-79fa-47e3-9d3b-eb29643ecae7",
+        "component": "combo_piece",
+        "name": "Hallowed Spiritkeeper",
+        "type_line": "Creature — Avatar",
+        "uri": "https://api.scryfall.com/cards/dc8037d5-79fa-47e3-9d3b-eb29643ecae7"
+      },
+      {
+        "object": "related_card",
+        "id": "ddcb90f4-82c0-412c-9e90-9fffc8c5df10",
+        "component": "combo_piece",
+        "name": "Requiem Angel",
+        "type_line": "Creature — Angel",
+        "uri": "https://api.scryfall.com/cards/ddcb90f4-82c0-412c-9e90-9fffc8c5df10"
+      },
+      {
+        "object": "related_card",
+        "id": "7618aa2d-d5b3-41e6-978f-2c8292f7f896",
+        "component": "combo_piece",
+        "name": "Spectral Reserves",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/7618aa2d-d5b3-41e6-978f-2c8292f7f896"
+      },
+      {
+        "object": "related_card",
+        "id": "849bea7e-74e5-4310-be5a-d517d7b19be6",
+        "component": "combo_piece",
+        "name": "Mausoleum Guard",
+        "type_line": "Creature — Human Scout",
+        "uri": "https://api.scryfall.com/cards/849bea7e-74e5-4310-be5a-d517d7b19be6"
+      },
+      {
+        "object": "related_card",
+        "id": "add661e7-b337-44e4-9614-ca958e20e86f",
+        "component": "combo_piece",
+        "name": "Occult Epiphany",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/add661e7-b337-44e4-9614-ca958e20e86f"
+      },
+      {
+        "object": "related_card",
+        "id": "2791a28a-30fa-4f1a-9f05-f3db155b6f06",
+        "component": "combo_piece",
+        "name": "Hanged Executioner",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/2791a28a-30fa-4f1a-9f05-f3db155b6f06"
+      },
+      {
+        "object": "related_card",
+        "id": "5345d199-79e5-466b-85f3-365f6e39457d",
+        "component": "combo_piece",
+        "name": "Millicent, Restless Revenant",
+        "type_line": "Legendary Creature — Spirit Soldier",
+        "uri": "https://api.scryfall.com/cards/5345d199-79e5-466b-85f3-365f6e39457d"
+      },
+      {
+        "object": "related_card",
+        "id": "013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b",
+        "component": "combo_piece",
+        "name": "Kykar, Wind's Fury",
+        "type_line": "Legendary Creature — Bird Wizard",
+        "uri": "https://api.scryfall.com/cards/013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b"
+      },
+      {
+        "object": "related_card",
+        "id": "6fbc9abd-8719-4cea-8bf4-1a3d78e3f00b",
+        "component": "combo_piece",
+        "name": "Priest of the Blessed Graf",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/6fbc9abd-8719-4cea-8bf4-1a3d78e3f00b"
+      },
+      {
+        "object": "related_card",
+        "id": "f8cd8b55-2927-4e53-be1e-cc33c35f85b7",
+        "component": "combo_piece",
+        "name": "Thalisse, Reverent Medium",
+        "type_line": "Legendary Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/f8cd8b55-2927-4e53-be1e-cc33c35f85b7"
+      },
+      {
+        "object": "related_card",
+        "id": "c9786c13-b57a-46be-bbbe-e17333defbd4",
+        "component": "combo_piece",
+        "name": "Sanctifier of Souls",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/c9786c13-b57a-46be-bbbe-e17333defbd4"
+      },
+      {
+        "object": "related_card",
+        "id": "783a4c53-c006-46d7-bca6-cd9e12f0da13",
+        "component": "combo_piece",
+        "name": "Teysa, Orzhov Scion",
+        "type_line": "Legendary Creature — Human Advisor",
+        "uri": "https://api.scryfall.com/cards/783a4c53-c006-46d7-bca6-cd9e12f0da13"
+      },
+      {
+        "object": "related_card",
+        "id": "219dd7c5-0d8f-46a2-9181-3ed30d489397",
+        "component": "combo_piece",
+        "name": "Avacyn's Collar",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/219dd7c5-0d8f-46a2-9181-3ed30d489397"
+      },
+      {
+        "object": "related_card",
+        "id": "83632e73-be3f-43fc-932f-45cb1af4f8fb",
+        "component": "combo_piece",
+        "name": "Valor of the Worthy",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/83632e73-be3f-43fc-932f-45cb1af4f8fb"
+      },
+      {
+        "object": "related_card",
+        "id": "4205f8f8-7b18-4999-ac51-860fab376d79",
+        "component": "combo_piece",
+        "name": "Brine Comber // Brinebound Gift",
+        "type_line": "Creature — Spirit // Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/4205f8f8-7b18-4999-ac51-860fab376d79"
+      },
+      {
+        "object": "related_card",
+        "id": "c3ac419f-7630-48c7-9039-88ce28898b6d",
+        "component": "combo_piece",
+        "name": "Luminous Angel",
+        "type_line": "Creature — Angel",
+        "uri": "https://api.scryfall.com/cards/c3ac419f-7630-48c7-9039-88ce28898b6d"
+      },
+      {
+        "object": "related_card",
+        "id": "29bf245f-e8e0-4d32-8cd7-06d832609910",
+        "component": "combo_piece",
+        "name": "Seize the Soul",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/29bf245f-e8e0-4d32-8cd7-06d832609910"
+      },
+      {
+        "object": "related_card",
+        "id": "3a79a435-9b58-4bcd-8544-79d9a71d85a2",
+        "component": "combo_piece",
+        "name": "Heron-Blessed Geist",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/3a79a435-9b58-4bcd-8544-79d9a71d85a2"
+      },
+      {
+        "object": "related_card",
+        "id": "8a03d414-bff9-4aba-8b0a-0ed57982251e",
+        "component": "combo_piece",
+        "name": "Doomed Traveler",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/8a03d414-bff9-4aba-8b0a-0ed57982251e"
+      },
+      {
+        "object": "related_card",
+        "id": "eddc09d1-63de-4791-b654-31b354032c54",
+        "component": "combo_piece",
+        "name": "Midnight Haunting",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/eddc09d1-63de-4791-b654-31b354032c54"
+      },
+      {
+        "object": "related_card",
+        "id": "a36ab7fa-7b90-4ccc-8fe9-93453f10a237",
+        "component": "combo_piece",
+        "name": "Drogskol Cavalry",
+        "type_line": "Creature — Spirit Knight",
+        "uri": "https://api.scryfall.com/cards/a36ab7fa-7b90-4ccc-8fe9-93453f10a237"
+      },
+      {
+        "object": "related_card",
+        "id": "9b0f860c-029c-4856-a999-05b3306c7d46",
+        "component": "combo_piece",
+        "name": "Spirit Cairn",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/9b0f860c-029c-4856-a999-05b3306c7d46"
+      },
+      {
+        "object": "related_card",
+        "id": "c369d381-b48e-43cf-a032-8bcb120f443e",
+        "component": "combo_piece",
+        "name": "Bishop of Wings",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/c369d381-b48e-43cf-a032-8bcb120f443e"
+      },
+      {
+        "object": "related_card",
+        "id": "481b1eb5-9fbb-4e27-8d0a-5ca6c34179b6",
+        "component": "combo_piece",
+        "name": "Twilight Drover",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/481b1eb5-9fbb-4e27-8d0a-5ca6c34179b6"
+      },
+      {
+        "object": "related_card",
+        "id": "97c4288f-7d22-4a5f-9b2e-d67734d9a6e7",
+        "component": "combo_piece",
+        "name": "Path of the Ghosthunter",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/97c4288f-7d22-4a5f-9b2e-d67734d9a6e7"
+      },
+      {
+        "object": "related_card",
+        "id": "71398076-a0ff-4bc5-b141-25dfaebe0d53",
+        "component": "combo_piece",
+        "name": "Shadow Summoning",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/71398076-a0ff-4bc5-b141-25dfaebe0d53"
+      },
+      {
+        "object": "related_card",
+        "id": "f07dd0f1-b80b-4af0-ae76-907ec55ec7d5",
+        "component": "combo_piece",
+        "name": "March of Souls",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f07dd0f1-b80b-4af0-ae76-907ec55ec7d5"
+      },
+      {
+        "object": "related_card",
+        "id": "87673b63-cacb-43b3-8723-924a7d5aed0c",
+        "component": "combo_piece",
+        "name": "Confront the Assault",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/87673b63-cacb-43b3-8723-924a7d5aed0c"
+      },
+      {
+        "object": "related_card",
+        "id": "f4051020-688c-473a-9a08-b62f0fd75675",
+        "component": "combo_piece",
+        "name": "Vessel of Ephemera",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/f4051020-688c-473a-9a08-b62f0fd75675"
+      },
+      {
+        "object": "related_card",
+        "id": "35f8d43a-a62a-433a-afd3-a3b16ba7cb10",
+        "component": "combo_piece",
+        "name": "Dauntless Cathar",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/35f8d43a-a62a-433a-afd3-a3b16ba7cb10"
+      },
+      {
+        "object": "related_card",
+        "id": "1c8c41dd-8551-4ce8-a9be-9b9f65718852",
+        "component": "combo_piece",
+        "name": "Ranar the Ever-Watchful",
+        "type_line": "Legendary Creature — Spirit Warrior",
+        "uri": "https://api.scryfall.com/cards/1c8c41dd-8551-4ce8-a9be-9b9f65718852"
+      },
+      {
+        "object": "related_card",
+        "id": "6a0dd7ba-673e-4f69-8cd3-806784501dc2",
+        "component": "combo_piece",
+        "name": "Custodi Soulbinders",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/6a0dd7ba-673e-4f69-8cd3-806784501dc2"
+      },
+      {
+        "object": "related_card",
+        "id": "f699f8d9-8708-44ca-8d14-1ca93aa68c9e",
+        "component": "combo_piece",
+        "name": "Alharu, Solemn Ritualist",
+        "type_line": "Legendary Creature — Human Monk",
+        "uri": "https://api.scryfall.com/cards/f699f8d9-8708-44ca-8d14-1ca93aa68c9e"
+      },
+      {
+        "object": "related_card",
+        "id": "52e32ad7-d59e-4cd8-ab88-3c7c0c083357",
+        "component": "token",
+        "name": "Spirit",
+        "type_line": "Token Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/52e32ad7-d59e-4cd8-ab88-3c7c0c083357"
+      },
+      {
+        "object": "related_card",
+        "id": "55882138-83a2-4a0a-96b0-6d5150edc4e3",
+        "component": "combo_piece",
+        "name": "Clarion Spirit",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/55882138-83a2-4a0a-96b0-6d5150edc4e3"
+      },
+      {
+        "object": "related_card",
+        "id": "52faa78e-252e-465b-91b5-6f64d828da81",
+        "component": "combo_piece",
+        "name": "Kaya, Geist Hunter",
+        "type_line": "Legendary Planeswalker — Kaya",
+        "uri": "https://api.scryfall.com/cards/52faa78e-252e-465b-91b5-6f64d828da81"
+      },
+      {
+        "object": "related_card",
+        "id": "05860b72-fb1b-44d8-9275-12863724a9ef",
+        "component": "combo_piece",
+        "name": "Not Forgotten",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/05860b72-fb1b-44d8-9275-12863724a9ef"
+      },
+      {
+        "object": "related_card",
+        "id": "4d09ef1d-3552-43a3-91c7-0d14c0f06780",
+        "component": "combo_piece",
+        "name": "Geist-Honored Monk",
+        "type_line": "Creature — Human Monk",
+        "uri": "https://api.scryfall.com/cards/4d09ef1d-3552-43a3-91c7-0d14c0f06780"
+      },
+      {
+        "object": "related_card",
+        "id": "1b7a47cc-9311-4f92-b19c-8956db5f2b5f",
+        "component": "combo_piece",
+        "name": "Rousing of Souls",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/1b7a47cc-9311-4f92-b19c-8956db5f2b5f"
+      },
+      {
+        "object": "related_card",
+        "id": "7ebd275e-f097-448c-aba3-eab8ee8c9a8c",
+        "component": "combo_piece",
+        "name": "Andúril, Flame of the West",
+        "type_line": "Legendary Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/7ebd275e-f097-448c-aba3-eab8ee8c9a8c"
+      },
+      {
+        "object": "related_card",
+        "id": "b3e98964-e1ce-40ba-be0d-27e39e724074",
+        "component": "combo_piece",
+        "name": "Haunted Library",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/b3e98964-e1ce-40ba-be0d-27e39e724074"
+      },
+      {
+        "object": "related_card",
+        "id": "c342e1da-7ab9-4e29-96e6-77d820a45ede",
+        "component": "combo_piece",
+        "name": "Elgaud Inquisitor",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/c342e1da-7ab9-4e29-96e6-77d820a45ede"
+      },
+      {
+        "object": "related_card",
+        "id": "4531482d-9238-40de-957e-61beb5700330",
+        "component": "combo_piece",
+        "name": "Thalia's Geistcaller",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/4531482d-9238-40de-957e-61beb5700330"
+      },
+      {
+        "object": "related_card",
+        "id": "a37510bb-245c-47bc-bbf3-2b202b67d383",
+        "component": "combo_piece",
+        "name": "Muster the Departed",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/a37510bb-245c-47bc-bbf3-2b202b67d383"
+      },
+      {
+        "object": "related_card",
+        "id": "cc5fa496-a830-4031-a19a-d6467d074ad1",
+        "component": "combo_piece",
+        "name": "Emissary of the Sleepless",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/cc5fa496-a830-4031-a19a-d6467d074ad1"
+      },
+      {
+        "object": "related_card",
+        "id": "aa2a3aaa-e78a-48cc-b7d3-7f65e467054c",
+        "component": "combo_piece",
+        "name": "Spirit Bonds",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/aa2a3aaa-e78a-48cc-b7d3-7f65e467054c"
+      },
+      {
+        "object": "related_card",
+        "id": "2f28187b-2c99-4502-99d5-3a53ff3fa008",
+        "component": "combo_piece",
+        "name": "Transluminant",
+        "type_line": "Creature — Dryad Shaman",
+        "uri": "https://api.scryfall.com/cards/2f28187b-2c99-4502-99d5-3a53ff3fa008"
+      },
+      {
+        "object": "related_card",
+        "id": "dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3",
+        "component": "combo_piece",
+        "name": "Court of Grace",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3"
+      },
+      {
+        "object": "related_card",
+        "id": "f29943bb-aa89-443b-96b7-8f6f24672a9d",
+        "component": "combo_piece",
+        "name": "Sandsteppe Outcast",
+        "type_line": "Creature — Human Warrior",
+        "uri": "https://api.scryfall.com/cards/f29943bb-aa89-443b-96b7-8f6f24672a9d"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set": "tfrf",
+    "set_name": "Fate Reforged Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfrf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tfrf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/52e32ad7-d59e-4cd8-ab88-3c7c0c083357/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adc4e2134-f0c2-49aa-9ea3-ebf83af1445c&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Aaron Miller",
+    "artist_ids": [
+      "fc021f3d-773a-4706-bbe7-f602324f511f"
+    ],
+    "illustration_id": "c25f4521-ac47-4e89-b9fb-5532a81ec89d",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.08",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpirit",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpirit",
+      "edhrec": "https://edhrec.com/route/?cc=Spirit"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F95321%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spirit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spirit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50",
+    "oracle_id": "62c8ce28-4653-432a-9401-5066743f6d90",
+    "multiverse_ids": [],
+    "tcgplayer_id": 95322,
+    "name": "Warrior",
+    "lang": "en",
+    "released_at": "2015-01-23",
+    "uri": "https://api.scryfall.com/cards/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50",
+    "scryfall_uri": "https://scryfall.com/card/tfrf/3/warrior?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.jpg?1561756949",
+      "normal": "https://cards.scryfall.io/normal/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.jpg?1561756949",
+      "large": "https://cards.scryfall.io/large/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.jpg?1561756949",
+      "png": "https://cards.scryfall.io/png/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.png?1561756949",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.jpg?1561756949",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50.jpg?1561756949"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Warrior",
+    "oracle_text": "",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50",
+        "component": "token",
+        "name": "Warrior",
+        "type_line": "Token Creature — Warrior",
+        "uri": "https://api.scryfall.com/cards/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50"
+      },
+      {
+        "object": "related_card",
+        "id": "2a6b5de6-74e3-4ba8-8ec4-3fcef01a2d18",
+        "component": "combo_piece",
+        "name": "Mardu Strike Leader",
+        "type_line": "Creature — Human Warrior",
+        "uri": "https://api.scryfall.com/cards/2a6b5de6-74e3-4ba8-8ec4-3fcef01a2d18"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set": "tfrf",
+    "set_name": "Fate Reforged Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfrf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tfrf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3b5eaba1-a7e1-4bbb-949c-e7f6a9592f50/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A62c8ce28-4653-432a-9401-5066743f6d90&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Zoltan Boros",
+    "artist_ids": [
+      "1885e6cb-c827-4896-994e-3d0a027d602f"
+    ],
+    "illustration_id": "5e2bbdab-f325-4e48-b5f5-b352984eaaa7",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.07",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWarrior",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWarrior",
+      "edhrec": "https://edhrec.com/route/?cc=Warrior"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F95322%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e9f896d4-34b4-407d-be7e-bf7a69aaf811",
+    "oracle_id": "f4f184ef-f456-47d8-9012-095629a5ea4d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 95263,
+    "name": "Manifest",
+    "lang": "en",
+    "released_at": "2015-01-23",
+    "uri": "https://api.scryfall.com/cards/e9f896d4-34b4-407d-be7e-bf7a69aaf811",
+    "scryfall_uri": "https://scryfall.com/card/tfrf/4/manifest?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg?1561758369",
+      "normal": "https://cards.scryfall.io/normal/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg?1561758369",
+      "large": "https://cards.scryfall.io/large/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg?1561758369",
+      "png": "https://cards.scryfall.io/png/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.png?1561758369",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg?1561758369",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9f896d4-34b4-407d-be7e-bf7a69aaf811.jpg?1561758369"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Creature",
+    "oracle_text": "(You can cover a face-down manifested creature with this reminder card.\nA manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)",
+    "power": "2",
+    "toughness": "2",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "12421e1c-5144-4391-abf2-a2fb864920e9",
+        "component": "combo_piece",
+        "name": "Sultai Emissary",
+        "type_line": "Creature — Zombie Warrior",
+        "uri": "https://api.scryfall.com/cards/12421e1c-5144-4391-abf2-a2fb864920e9"
+      },
+      {
+        "object": "related_card",
+        "id": "cb957d94-c6ce-4699-8de7-264a56f20530",
+        "component": "combo_piece",
+        "name": "Hauntwoods Shrieker",
+        "type_line": "Creature — Beast Mutant",
+        "uri": "https://api.scryfall.com/cards/cb957d94-c6ce-4699-8de7-264a56f20530"
+      },
+      {
+        "object": "related_card",
+        "id": "fb884ac2-c990-4ab0-8610-e07d93da2f13",
+        "component": "combo_piece",
+        "name": "Soul Summons",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/fb884ac2-c990-4ab0-8610-e07d93da2f13"
+      },
+      {
+        "object": "related_card",
+        "id": "94edbbc5-5673-4753-bfad-4432c4b7dca4",
+        "component": "combo_piece",
+        "name": "Innocuous Rat",
+        "type_line": "Creature — Rat",
+        "uri": "https://api.scryfall.com/cards/94edbbc5-5673-4753-bfad-4432c4b7dca4"
+      },
+      {
+        "object": "related_card",
+        "id": "541fc8eb-dba2-4d2b-9df2-9380c8c37e21",
+        "component": "combo_piece",
+        "name": "They Came from the Pipes",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/541fc8eb-dba2-4d2b-9df2-9380c8c37e21"
+      },
+      {
+        "object": "related_card",
+        "id": "a17a1f7a-c66d-4fec-a51d-c55361a66f5b",
+        "component": "combo_piece",
+        "name": "Cryptic Pursuit",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/a17a1f7a-c66d-4fec-a51d-c55361a66f5b"
+      },
+      {
+        "object": "related_card",
+        "id": "9fdd7bdd-2ba8-4658-9825-741aecad5f42",
+        "component": "combo_piece",
+        "name": "Stay Hidden, Stay Silent",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/9fdd7bdd-2ba8-4658-9825-741aecad5f42"
+      },
+      {
+        "object": "related_card",
+        "id": "038ed726-bde8-46b0-bdf5-f88e2f074434",
+        "component": "combo_piece",
+        "name": "Rageform",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/038ed726-bde8-46b0-bdf5-f88e2f074434"
+      },
+      {
+        "object": "related_card",
+        "id": "34ba18f5-b894-47db-b49c-f2c4368ab769",
+        "component": "combo_piece",
+        "name": "Soul-Strike Technique",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/34ba18f5-b894-47db-b49c-f2c4368ab769"
+      },
+      {
+        "object": "related_card",
+        "id": "2dd69f2d-8c9c-41fc-93ea-48fc7a6d5272",
+        "component": "combo_piece",
+        "name": "Underwater Tunnel // Slimy Aquarium",
+        "type_line": "Enchantment — Room // Enchantment — Room",
+        "uri": "https://api.scryfall.com/cards/2dd69f2d-8c9c-41fc-93ea-48fc7a6d5272"
+      },
+      {
+        "object": "related_card",
+        "id": "a7bb0f87-a0b3-4389-9580-63db449a2241",
+        "component": "combo_piece",
+        "name": "Cloudform",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/a7bb0f87-a0b3-4389-9580-63db449a2241"
+      },
+      {
+        "object": "related_card",
+        "id": "245d5a61-c40c-4039-aea8-3ad61415b8f0",
+        "component": "combo_piece",
+        "name": "Moldering Gym // Weight Room",
+        "type_line": "Enchantment — Room // Enchantment — Room",
+        "uri": "https://api.scryfall.com/cards/245d5a61-c40c-4039-aea8-3ad61415b8f0"
+      },
+      {
+        "object": "related_card",
+        "id": "7d1a72ef-d911-4e7c-bb88-9a47188fe435",
+        "component": "combo_piece",
+        "name": "Jeskai Infiltrator",
+        "type_line": "Creature — Human Monk",
+        "uri": "https://api.scryfall.com/cards/7d1a72ef-d911-4e7c-bb88-9a47188fe435"
+      },
+      {
+        "object": "related_card",
+        "id": "d2c238c4-5012-4934-8ed4-48166883824d",
+        "component": "combo_piece",
+        "name": "Kozilek, the Broken Reality",
+        "type_line": "Legendary Creature — Eldrazi",
+        "uri": "https://api.scryfall.com/cards/d2c238c4-5012-4934-8ed4-48166883824d"
+      },
+      {
+        "object": "related_card",
+        "id": "58c1bdbc-2bf4-4036-bf83-669c27458c6e",
+        "component": "combo_piece",
+        "name": "Qarsi High Priest",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/58c1bdbc-2bf4-4036-bf83-669c27458c6e"
+      },
+      {
+        "object": "related_card",
+        "id": "120f7d4a-27b3-43e8-a301-c81d4d403a8f",
+        "component": "combo_piece",
+        "name": "Ghastly Conscription",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/120f7d4a-27b3-43e8-a301-c81d4d403a8f"
+      },
+      {
+        "object": "related_card",
+        "id": "058ffe36-ed2d-4b67-83cd-162db8383a32",
+        "component": "combo_piece",
+        "name": "Ticket Booth // Tunnel of Hate",
+        "type_line": "Enchantment — Room // Enchantment — Room",
+        "uri": "https://api.scryfall.com/cards/058ffe36-ed2d-4b67-83cd-162db8383a32"
+      },
+      {
+        "object": "related_card",
+        "id": "0137de04-9fd7-41b0-b497-163e6e93432b",
+        "component": "combo_piece",
+        "name": "Fierce Invocation",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/0137de04-9fd7-41b0-b497-163e6e93432b"
+      },
+      {
+        "object": "related_card",
+        "id": "a85e6fbe-cda0-4fbf-853c-c03c567a7de9",
+        "component": "combo_piece",
+        "name": "Write into Being",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/a85e6fbe-cda0-4fbf-853c-c03c567a7de9"
+      },
+      {
+        "object": "related_card",
+        "id": "af6b7f6e-cd93-4b59-a574-7faa65eb8596",
+        "component": "combo_piece",
+        "name": "Omarthis, Ghostfire Initiate",
+        "type_line": "Legendary Creature — Spirit Snake",
+        "uri": "https://api.scryfall.com/cards/af6b7f6e-cd93-4b59-a574-7faa65eb8596"
+      },
+      {
+        "object": "related_card",
+        "id": "03b61214-05a0-412f-a881-8221d35e6af5",
+        "component": "combo_piece",
+        "name": "Dissection Tools",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/03b61214-05a0-412f-a881-8221d35e6af5"
+      },
+      {
+        "object": "related_card",
+        "id": "1cf37c1a-096b-4306-97cf-bc4d4c47d4a1",
+        "component": "combo_piece",
+        "name": "Conductive Machete",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/1cf37c1a-096b-4306-97cf-bc4d4c47d4a1"
+      },
+      {
+        "object": "related_card",
+        "id": "644714dd-7a0b-4d4b-9a61-8f6e505b1d22",
+        "component": "combo_piece",
+        "name": "Twist Reality",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/644714dd-7a0b-4d4b-9a61-8f6e505b1d22"
+      },
+      {
+        "object": "related_card",
+        "id": "7201ee12-9104-48d8-aeec-08a318c8ee10",
+        "component": "combo_piece",
+        "name": "Threats Around Every Corner",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/7201ee12-9104-48d8-aeec-08a318c8ee10"
+      },
+      {
+        "object": "related_card",
+        "id": "bdee441e-14ab-42d1-b447-5a6488fd713a",
+        "component": "combo_piece",
+        "name": "Fear of Impostors",
+        "type_line": "Enchantment Creature — Nightmare",
+        "uri": "https://api.scryfall.com/cards/bdee441e-14ab-42d1-b447-5a6488fd713a"
+      },
+      {
+        "object": "related_card",
+        "id": "454ca565-fc46-432a-a8e0-d916f4e0f847",
+        "component": "combo_piece",
+        "name": "Valgavoth's Onslaught",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/454ca565-fc46-432a-a8e0-d916f4e0f847"
+      },
+      {
+        "object": "related_card",
+        "id": "78385399-fc28-4944-a817-7b3166414620",
+        "component": "combo_piece",
+        "name": "Curator Beastie",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/78385399-fc28-4944-a817-7b3166414620"
+      },
+      {
+        "object": "related_card",
+        "id": "5ba1d8a7-2249-4c74-adb7-d13a9b347571",
+        "component": "combo_piece",
+        "name": "Orochi Soul-Reaver",
+        "type_line": "Creature — Snake Ninja Rogue",
+        "uri": "https://api.scryfall.com/cards/5ba1d8a7-2249-4c74-adb7-d13a9b347571"
+      },
+      {
+        "object": "related_card",
+        "id": "f79b0c5d-6823-439c-a011-8b9bf424bdad",
+        "component": "combo_piece",
+        "name": "Disturbing Mirth",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/f79b0c5d-6823-439c-a011-8b9bf424bdad"
+      },
+      {
+        "object": "related_card",
+        "id": "e01367cb-79f4-4ed9-b12c-66f3c30264a0",
+        "component": "combo_piece",
+        "name": "Reality Shift",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/e01367cb-79f4-4ed9-b12c-66f3c30264a0"
+      },
+      {
+        "object": "related_card",
+        "id": "30f23588-5064-48d9-a271-039df757f8d2",
+        "component": "combo_piece",
+        "name": "Zimone, Mystery Unraveler",
+        "type_line": "Legendary Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/30f23588-5064-48d9-a271-039df757f8d2"
+      },
+      {
+        "object": "related_card",
+        "id": "66aed11a-0831-4619-931f-7dfded999c66",
+        "component": "combo_piece",
+        "name": "Arashin War Beast",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/66aed11a-0831-4619-931f-7dfded999c66"
+      },
+      {
+        "object": "related_card",
+        "id": "5602756d-76d2-4502-965f-36fc44596123",
+        "component": "combo_piece",
+        "name": "Unnerving Grasp",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/5602756d-76d2-4502-965f-36fc44596123"
+      },
+      {
+        "object": "related_card",
+        "id": "327772f3-5a87-47af-9308-c1119ad2711d",
+        "component": "combo_piece",
+        "name": "Defiant Survivor",
+        "type_line": "Creature — Human Survivor",
+        "uri": "https://api.scryfall.com/cards/327772f3-5a87-47af-9308-c1119ad2711d"
+      },
+      {
+        "object": "related_card",
+        "id": "8032c909-3170-45ab-a552-a8dc683b0a6e",
+        "component": "combo_piece",
+        "name": "Guardian of the Forgotten",
+        "type_line": "Creature — Elephant Warrior",
+        "uri": "https://api.scryfall.com/cards/8032c909-3170-45ab-a552-a8dc683b0a6e"
+      },
+      {
+        "object": "related_card",
+        "id": "f651e216-f9da-4696-8a1d-6d674e9044c0",
+        "component": "combo_piece",
+        "name": "Cursed Windbreaker",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/f651e216-f9da-4696-8a1d-6d674e9044c0"
+      },
+      {
+        "object": "related_card",
+        "id": "60cf954a-5503-460c-8720-8960842eea47",
+        "component": "combo_piece",
+        "name": "Paranormal Analyst",
+        "type_line": "Creature — Human Detective",
+        "uri": "https://api.scryfall.com/cards/60cf954a-5503-460c-8720-8960842eea47"
+      },
+      {
+        "object": "related_card",
+        "id": "9eb34e17-bc12-4a4e-a418-0dbd3e6665a8",
+        "component": "combo_piece",
+        "name": "Under the Skin",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/9eb34e17-bc12-4a4e-a418-0dbd3e6665a8"
+      },
+      {
+        "object": "related_card",
+        "id": "66c61828-98b9-4264-b3dd-e83f881f4a67",
+        "component": "combo_piece",
+        "name": "Whisperwood Elemental",
+        "type_line": "Creature — Elemental",
+        "uri": "https://api.scryfall.com/cards/66c61828-98b9-4264-b3dd-e83f881f4a67"
+      },
+      {
+        "object": "related_card",
+        "id": "be897dda-8603-4264-a022-87870f635b40",
+        "component": "combo_piece",
+        "name": "Unwanted Remake",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/be897dda-8603-4264-a022-87870f635b40"
+      },
+      {
+        "object": "related_card",
+        "id": "f1fc02ae-77b8-4e5e-94b4-22ecf7ae40ae",
+        "component": "combo_piece",
+        "name": "Killer's Mask",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/f1fc02ae-77b8-4e5e-94b4-22ecf7ae40ae"
+      },
+      {
+        "object": "related_card",
+        "id": "209e9bbc-a15d-47fc-b149-6b0c57dd09ea",
+        "component": "combo_piece",
+        "name": "Break Down the Door",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/209e9bbc-a15d-47fc-b149-6b0c57dd09ea"
+      },
+      {
+        "object": "related_card",
+        "id": "5479ac50-8335-4c6a-be99-750a44e24f25",
+        "component": "combo_piece",
+        "name": "Growing Dread",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/5479ac50-8335-4c6a-be99-750a44e24f25"
+      },
+      {
+        "object": "related_card",
+        "id": "1131a921-1d9d-405b-aa36-44010fca21e7",
+        "component": "combo_piece",
+        "name": "Mastery of the Unseen",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/1131a921-1d9d-405b-aa36-44010fca21e7"
+      },
+      {
+        "object": "related_card",
+        "id": "1f814aa9-f5e7-409c-82b5-45205d2b5f29",
+        "component": "combo_piece",
+        "name": "Primordial Mist",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/1f814aa9-f5e7-409c-82b5-45205d2b5f29"
+      },
+      {
+        "object": "related_card",
+        "id": "85da2e65-4e22-48b6-98ad-6969684d69e1",
+        "component": "combo_piece",
+        "name": "Unsettling Twins",
+        "type_line": "Creature — Human",
+        "uri": "https://api.scryfall.com/cards/85da2e65-4e22-48b6-98ad-6969684d69e1"
+      },
+      {
+        "object": "related_card",
+        "id": "b595b0a5-99c9-48b0-a51b-abf1754711fe",
+        "component": "combo_piece",
+        "name": "Abhorrent Oculus",
+        "type_line": "Creature — Eye",
+        "uri": "https://api.scryfall.com/cards/b595b0a5-99c9-48b0-a51b-abf1754711fe"
+      },
+      {
+        "object": "related_card",
+        "id": "a313369b-be36-484b-a4d5-89c445cd082c",
+        "component": "combo_piece",
+        "name": "Unidentified Hovership",
+        "type_line": "Artifact — Vehicle",
+        "uri": "https://api.scryfall.com/cards/a313369b-be36-484b-a4d5-89c445cd082c"
+      },
+      {
+        "object": "related_card",
+        "id": "57e2a92c-06d3-4cb5-883d-cba428a7e98e",
+        "component": "combo_piece",
+        "name": "Turn Inside Out",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/57e2a92c-06d3-4cb5-883d-cba428a7e98e"
+      },
+      {
+        "object": "related_card",
+        "id": "825d3f4d-eba3-4c45-8846-03b246e93f6c",
+        "component": "combo_piece",
+        "name": "Ethereal Ambush",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/825d3f4d-eba3-4c45-8846-03b246e93f6c"
+      },
+      {
+        "object": "related_card",
+        "id": "476d509f-efc0-4138-8dce-23fa6321279c",
+        "component": "combo_piece",
+        "name": "Scroll of Fate",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/476d509f-efc0-4138-8dce-23fa6321279c"
+      },
+      {
+        "object": "related_card",
+        "id": "453d6565-137a-44b9-987d-e67944f2bebf",
+        "component": "combo_piece",
+        "name": "Glitch Interpreter",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/453d6565-137a-44b9-987d-e67944f2bebf"
+      },
+      {
+        "object": "related_card",
+        "id": "995b5a27-6a95-4208-9d6d-3a3801a6d0ae",
+        "component": "combo_piece",
+        "name": "Ugin's Mastery",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/995b5a27-6a95-4208-9d6d-3a3801a6d0ae"
+      },
+      {
+        "object": "related_card",
+        "id": "dcbaeb05-49b3-4ce8-9933-334f4f80fb37",
+        "component": "combo_piece",
+        "name": "Wildcall",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/dcbaeb05-49b3-4ce8-9933-334f4f80fb37"
+      },
+      {
+        "object": "related_card",
+        "id": "f70646e4-936a-4c2a-8d4a-a2c659733093",
+        "component": "combo_piece",
+        "name": "Formless Nurturing",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f70646e4-936a-4c2a-8d4a-a2c659733093"
+      },
+      {
+        "object": "related_card",
+        "id": "a649265b-6c32-49e7-b6cb-6086c40d26e8",
+        "component": "combo_piece",
+        "name": "Manifest Dread",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/a649265b-6c32-49e7-b6cb-6086c40d26e8"
+      },
+      {
+        "object": "related_card",
+        "id": "c20fa7ee-a4c2-4eb0-9467-195f3b894fa0",
+        "component": "combo_piece",
+        "name": "Bashful Beastie",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/c20fa7ee-a4c2-4eb0-9467-195f3b894fa0"
+      },
+      {
+        "object": "related_card",
+        "id": "9aa25045-ae03-4ac0-a4ed-472f7ca4ab3b",
+        "component": "combo_piece",
+        "name": "Lightform",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/9aa25045-ae03-4ac0-a4ed-472f7ca4ab3b"
+      },
+      {
+        "object": "related_card",
+        "id": "e9f896d4-34b4-407d-be7e-bf7a69aaf811",
+        "component": "combo_piece",
+        "name": "Manifest",
+        "type_line": "Creature",
+        "uri": "https://api.scryfall.com/cards/e9f896d4-34b4-407d-be7e-bf7a69aaf811"
+      },
+      {
+        "object": "related_card",
+        "id": "c6225b97-396f-4969-954c-f2885da70c1b",
+        "component": "combo_piece",
+        "name": "Thieving Amalgam",
+        "type_line": "Creature — Ape Snake",
+        "uri": "https://api.scryfall.com/cards/c6225b97-396f-4969-954c-f2885da70c1b"
+      },
+      {
+        "object": "related_card",
+        "id": "c6c8abf3-be71-4916-b384-70631ad71f9d",
+        "component": "combo_piece",
+        "name": "Temur War Shaman",
+        "type_line": "Creature — Human Shaman",
+        "uri": "https://api.scryfall.com/cards/c6c8abf3-be71-4916-b384-70631ad71f9d"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set": "tfrf",
+    "set_name": "Fate Reforged Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/bd0fb627-519a-4597-8977-74aa69ab31f5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfrf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tfrf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e9f896d4-34b4-407d-be7e-bf7a69aaf811/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4f184ef-f456-47d8-9012-095629a5ea4d&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Raymond Swanland",
+    "artist_ids": [
+      "e956bacc-077d-4c12-b6bc-ba798b718af9"
+    ],
+    "illustration_id": "f44446a8-4e3e-4a46-88c9-190c9e11e6d3",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.14",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DManifest",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DManifest",
+      "edhrec": "https://edhrec.com/route/?cc=Manifest"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F95263%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Manifest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Manifest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

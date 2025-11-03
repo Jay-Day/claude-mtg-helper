@@ -1,0 +1,1963 @@
+[
+  {
+    "object": "card",
+    "id": "f5fac22d-04b5-4b71-a5df-af50abee82a7",
+    "oracle_id": "c22cc70a-9533-4bfc-b3ce-b2d43a73f0c1",
+    "multiverse_ids": [
+      178014
+    ],
+    "mtgo_id": 30806,
+    "mtgo_foil_id": 30807,
+    "tcgplayer_id": 36771,
+    "cardmarket_id": 19656,
+    "name": "Bladewing the Risen",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/f5fac22d-04b5-4b71-a5df-af50abee82a7",
+    "scryfall_uri": "https://scryfall.com/card/drb/1/bladewing-the-risen?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.jpg?1568088586",
+      "normal": "https://cards.scryfall.io/normal/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.jpg?1568088586",
+      "large": "https://cards.scryfall.io/large/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.jpg?1568088586",
+      "png": "https://cards.scryfall.io/png/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.png?1568088586",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.jpg?1568088586",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f5fac22d-04b5-4b71-a5df-af50abee82a7.jpg?1568088586"
+    },
+    "mana_cost": "{3}{B}{B}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Zombie Dragon",
+    "oracle_text": "Flying\nWhen Bladewing enters, you may return target Dragon permanent card from your graveyard to the battlefield.\n{B}{R}: Dragon creatures get +1/+1 until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f5fac22d-04b5-4b71-a5df-af50abee82a7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac22cc70a-9533-4bfc-b3ce-b2d43a73f0c1&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "33cc664a-c724-4005-aa1c-23c68705ce34",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 3241,
+    "penny_rank": 3931,
+    "prices": {
+      "usd": null,
+      "usd_foil": "10.64",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "4.49",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178014&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBladewing%2Bthe%2BRisen",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBladewing%2Bthe%2BRisen",
+      "edhrec": "https://edhrec.com/route/?cc=Bladewing+the+Risen"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36771%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19656&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30806?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "cd476375-7294-4a14-9c26-3881c93a1930",
+    "oracle_id": "699bc130-2f1f-4bc8-a25f-9329e40efbb1",
+    "multiverse_ids": [
+      178017
+    ],
+    "mtgo_id": 30816,
+    "mtgo_foil_id": 30817,
+    "tcgplayer_id": 36772,
+    "cardmarket_id": 19657,
+    "name": "Bogardan Hellkite",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/cd476375-7294-4a14-9c26-3881c93a1930",
+    "scryfall_uri": "https://scryfall.com/card/drb/2/bogardan-hellkite?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.jpg?1568086514",
+      "normal": "https://cards.scryfall.io/normal/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.jpg?1568086514",
+      "large": "https://cards.scryfall.io/large/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.jpg?1568086514",
+      "png": "https://cards.scryfall.io/png/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.png?1568086514",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.jpg?1568086514",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd476375-7294-4a14-9c26-3881c93a1930.jpg?1568086514"
+    },
+    "mana_cost": "{6}{R}{R}",
+    "cmc": 8.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flash\nFlying\nWhen this creature enters, it deals 5 damage divided as you choose among any number of targets.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Flash"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/cd476375-7294-4a14-9c26-3881c93a1930/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A699bc130-2f1f-4bc8-a25f-9329e40efbb1&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Cleansing the world, one breath at a time.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Scott M. Fischer",
+    "artist_ids": [
+      "23b0cf43-3e43-44c6-8329-96446eca5bce"
+    ],
+    "illustration_id": "7ba64784-0fd6-4c81-9d53-ede30ac541f6",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7169,
+    "penny_rank": 977,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.67",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.77",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178017&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBogardan%2BHellkite",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBogardan%2BHellkite",
+      "edhrec": "https://edhrec.com/route/?cc=Bogardan+Hellkite"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36772%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19657&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30816?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "87a69f0c-69c2-41d5-b784-502dadf9d048",
+    "oracle_id": "6157ade6-9037-4339-869b-493fdee71dcf",
+    "multiverse_ids": [
+      178018
+    ],
+    "mtgo_id": 30804,
+    "mtgo_foil_id": 30805,
+    "tcgplayer_id": 36773,
+    "cardmarket_id": 19658,
+    "name": "Draco",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/87a69f0c-69c2-41d5-b784-502dadf9d048",
+    "scryfall_uri": "https://scryfall.com/card/drb/3/draco?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.jpg?1568054290",
+      "normal": "https://cards.scryfall.io/normal/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.jpg?1568054290",
+      "large": "https://cards.scryfall.io/large/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.jpg?1568054290",
+      "png": "https://cards.scryfall.io/png/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.png?1568054290",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.jpg?1568054290",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/87a69f0c-69c2-41d5-b784-502dadf9d048.jpg?1568054290"
+    },
+    "mana_cost": "{16}",
+    "cmc": 16.0,
+    "type_line": "Artifact Creature — Dragon",
+    "oracle_text": "Domain — This spell costs {2} less to cast for each basic land type among lands you control.\nFlying\nDomain — At the beginning of your upkeep, sacrifice this creature unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.",
+    "power": "9",
+    "toughness": "9",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Flying",
+      "Domain"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/87a69f0c-69c2-41d5-b784-502dadf9d048/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6157ade6-9037-4339-869b-493fdee71dcf&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Sam Wood",
+    "artist_ids": [
+      "77cecfa2-2494-42a2-b14a-55ad40c6adbb"
+    ],
+    "illustration_id": "a95e4a09-371d-4cfd-832e-095938deffe0",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9264,
+    "penny_rank": 4438,
+    "prices": {
+      "usd": null,
+      "usd_foil": "10.40",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "6.28",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178018&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDraco",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDraco",
+      "edhrec": "https://edhrec.com/route/?cc=Draco"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36773%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19658&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30804?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "93bbe3cf-609a-4666-8f65-48860b73865b",
+    "oracle_id": "705a1985-ed39-4a4b-812e-a677170b596e",
+    "multiverse_ids": [
+      178019
+    ],
+    "mtgo_id": 30794,
+    "mtgo_foil_id": 30795,
+    "tcgplayer_id": 36774,
+    "cardmarket_id": 19659,
+    "name": "Dragon Whelp",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/93bbe3cf-609a-4666-8f65-48860b73865b",
+    "scryfall_uri": "https://scryfall.com/card/drb/4/dragon-whelp?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.jpg?1568311163",
+      "normal": "https://cards.scryfall.io/normal/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.jpg?1568311163",
+      "large": "https://cards.scryfall.io/large/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.jpg?1568311163",
+      "png": "https://cards.scryfall.io/png/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.png?1568311163",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.jpg?1568311163",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/3/93bbe3cf-609a-4666-8f65-48860b73865b.jpg?1568311163"
+    },
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice this creature at the beginning of the next end step.",
+    "power": "2",
+    "toughness": "3",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/93bbe3cf-609a-4666-8f65-48860b73865b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A705a1985-ed39-4a4b-812e-a677170b596e&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Dragon whelps face few threats besides their own enthusiasm.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steven Belledin",
+    "artist_ids": [
+      "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+    ],
+    "illustration_id": "3f7f9b50-e94e-4bdb-886a-be542cbe77a4",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 17477,
+    "penny_rank": 14550,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.67",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.55",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178019&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon%2BWhelp",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon%2BWhelp",
+      "edhrec": "https://edhrec.com/route/?cc=Dragon+Whelp"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36774%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19659&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30794?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "12dd4238-9628-4d51-a83e-005bb8cd816f",
+    "oracle_id": "d74c3871-018a-4450-a613-f67703bb0d72",
+    "multiverse_ids": [
+      178015
+    ],
+    "mtgo_id": 30808,
+    "mtgo_foil_id": 30809,
+    "tcgplayer_id": 36775,
+    "cardmarket_id": 19660,
+    "name": "Dragonstorm",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/12dd4238-9628-4d51-a83e-005bb8cd816f",
+    "scryfall_uri": "https://scryfall.com/card/drb/5/dragonstorm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.jpg?1568253258",
+      "normal": "https://cards.scryfall.io/normal/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.jpg?1568253258",
+      "large": "https://cards.scryfall.io/large/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.jpg?1568253258",
+      "png": "https://cards.scryfall.io/png/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.png?1568253258",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.jpg?1568253258",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12dd4238-9628-4d51-a83e-005bb8cd816f.jpg?1568253258"
+    },
+    "mana_cost": "{8}{R}",
+    "cmc": 9.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a Dragon permanent card, put it onto the battlefield, then shuffle.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Storm"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/12dd4238-9628-4d51-a83e-005bb8cd816f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad74c3871-018a-4450-a613-f67703bb0d72&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Dragons come not in packs or in herds but in storms.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "aa700c3d-7b86-4118-89f9-2c1700d19ca1",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9949,
+    "penny_rank": 1856,
+    "prices": {
+      "usd": null,
+      "usd_foil": "9.71",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "3.43",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178015&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragonstorm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragonstorm",
+      "edhrec": "https://edhrec.com/route/?cc=Dragonstorm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36775%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19660&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30808?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0339671a-3d44-4e66-83cb-e460ef727b10",
+    "oracle_id": "12e4d2bd-83e9-4120-a2e8-0645c0ed2387",
+    "multiverse_ids": [
+      178021
+    ],
+    "mtgo_id": 30788,
+    "mtgo_foil_id": 30789,
+    "tcgplayer_id": 36776,
+    "cardmarket_id": 19661,
+    "name": "Ebon Dragon",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/0339671a-3d44-4e66-83cb-e460ef727b10",
+    "scryfall_uri": "https://scryfall.com/card/drb/6/ebon-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.jpg?1568316388",
+      "normal": "https://cards.scryfall.io/normal/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.jpg?1568316388",
+      "large": "https://cards.scryfall.io/large/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.jpg?1568316388",
+      "png": "https://cards.scryfall.io/png/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.png?1568316388",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.jpg?1568316388",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/0339671a-3d44-4e66-83cb-e460ef727b10.jpg?1568316388"
+    },
+    "mana_cost": "{5}{B}{B}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, you may have target opponent discard a card.",
+    "power": "5",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0339671a-3d44-4e66-83cb-e460ef727b10/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12e4d2bd-83e9-4120-a2e8-0645c0ed2387&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"The dragon wing of night o'erspreads the earth.\"\n—*Troilus and Cressida*, William Shakespeare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Donato Giancola",
+    "artist_ids": [
+      "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+    ],
+    "illustration_id": "31ca222e-cd9d-4f89-b1be-adecc31babf2",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 25888,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.49",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.70",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178021&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEbon%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEbon%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Ebon+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36776%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19661&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30788?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "14b37758-68cc-42a3-a19c-3fbca745250a",
+    "oracle_id": "7b389f2b-fddc-46fb-85d5-4470565323f3",
+    "multiverse_ids": [
+      178016
+    ],
+    "mtgo_id": 30792,
+    "mtgo_foil_id": 30793,
+    "tcgplayer_id": 36777,
+    "cardmarket_id": 19662,
+    "name": "Form of the Dragon",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/14b37758-68cc-42a3-a19c-3fbca745250a",
+    "scryfall_uri": "https://scryfall.com/card/drb/7/form-of-the-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.jpg?1568329854",
+      "normal": "https://cards.scryfall.io/normal/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.jpg?1568329854",
+      "large": "https://cards.scryfall.io/large/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.jpg?1568329854",
+      "png": "https://cards.scryfall.io/png/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.png?1568329854",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.jpg?1568329854",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/14b37758-68cc-42a3-a19c-3fbca745250a.jpg?1568329854"
+    },
+    "mana_cost": "{4}{R}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Enchantment",
+    "oracle_text": "At the beginning of your upkeep, this enchantment deals 5 damage to any target.\nAt the beginning of each end step, your life total becomes 5.\nCreatures without flying can't attack you.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/14b37758-68cc-42a3-a19c-3fbca745250a/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b389f2b-fddc-46fb-85d5-4470565323f3&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daarken",
+    "artist_ids": [
+      "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+    ],
+    "illustration_id": "b84ce510-696f-4b24-94c2-d00109e997fb",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 15715,
+    "penny_rank": 3417,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.87",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.09",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178016&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForm%2Bof%2Bthe%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForm%2Bof%2Bthe%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Form+of+the+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36777%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19662&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30792?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7e3c4f96-4a43-440d-b75f-2cdb7c24b92e",
+    "oracle_id": "1d05e441-84d4-482f-95a8-7842e776cad2",
+    "multiverse_ids": [
+      178028
+    ],
+    "mtgo_id": 30790,
+    "mtgo_foil_id": 30791,
+    "tcgplayer_id": 36778,
+    "cardmarket_id": 19663,
+    "name": "Hellkite Overlord",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e",
+    "scryfall_uri": "https://scryfall.com/card/drb/8/hellkite-overlord?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.jpg?1568344267",
+      "normal": "https://cards.scryfall.io/normal/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.jpg?1568344267",
+      "large": "https://cards.scryfall.io/large/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.jpg?1568344267",
+      "png": "https://cards.scryfall.io/png/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.png?1568344267",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.jpg?1568344267",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e.jpg?1568344267"
+    },
+    "mana_cost": "{4}{B}{R}{R}{G}",
+    "cmc": 8.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying, trample, haste\n{R}: This creature gets +1/+0 until end of turn.\n{B}{G}: Regenerate this creature.",
+    "power": "8",
+    "toughness": "8",
+    "colors": [
+      "B",
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Haste",
+      "Trample"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "7e3c4f96-4a43-440d-b75f-2cdb7c24b92e",
+        "component": "combo_piece",
+        "name": "Hellkite Overlord",
+        "type_line": "Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e"
+      },
+      {
+        "object": "related_card",
+        "id": "2d5873e8-ba15-4a24-aab8-91f1f390d821",
+        "component": "combo_piece",
+        "name": "Dragon's Herald",
+        "type_line": "Creature — Goblin Shaman",
+        "uri": "https://api.scryfall.com/cards/2d5873e8-ba15-4a24-aab8-91f1f390d821"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7e3c4f96-4a43-440d-b75f-2cdb7c24b92e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d05e441-84d4-482f-95a8-7842e776cad2&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need.\"\n—Sarkhan Vol",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Justin Sweet",
+    "artist_ids": [
+      "bb15780e-8f96-4823-b258-a7a9fd79b02c"
+    ],
+    "illustration_id": "a51ba40e-c746-43e7-aa00-a83d9957b65c",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 15664,
+    "penny_rank": 3029,
+    "prices": {
+      "usd": null,
+      "usd_foil": "2.29",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.21",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178028&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHellkite%2BOverlord",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHellkite%2BOverlord",
+      "edhrec": "https://edhrec.com/route/?cc=Hellkite+Overlord"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36778%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19663&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30790?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f5c9262a-bbeb-4334-b511-d9f7db119422",
+    "oracle_id": "cf631c93-b7fb-4e4f-b405-3778c15b1117",
+    "multiverse_ids": [
+      178022
+    ],
+    "mtgo_id": 30812,
+    "mtgo_foil_id": 30813,
+    "tcgplayer_id": 36779,
+    "cardmarket_id": 19664,
+    "name": "Kokusho, the Evening Star",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/f5c9262a-bbeb-4334-b511-d9f7db119422",
+    "scryfall_uri": "https://scryfall.com/card/drb/9/kokusho-the-evening-star?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.jpg?1568346882",
+      "normal": "https://cards.scryfall.io/normal/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.jpg?1568346882",
+      "large": "https://cards.scryfall.io/large/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.jpg?1568346882",
+      "png": "https://cards.scryfall.io/png/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.png?1568346882",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.jpg?1568346882",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f5c9262a-bbeb-4334-b511-d9f7db119422.jpg?1568346882"
+    },
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Dragon Spirit",
+    "oracle_text": "Flying\nWhen Kokusho dies, each opponent loses 5 life. You gain life equal to the life lost this way.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f5c9262a-bbeb-4334-b511-d9f7db119422/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf631c93-b7fb-4e4f-b405-3778c15b1117&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "The fall of the evening star never heralds a gentle dawn.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Tsutomu Kawade",
+    "artist_ids": [
+      "433a40d2-2caa-4cba-ba8d-0308a951d026"
+    ],
+    "illustration_id": "745aacff-a324-4f9f-a61e-59266fffabe7",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 2187,
+    "penny_rank": 7404,
+    "prices": {
+      "usd": null,
+      "usd_foil": "36.12",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "18.55",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178022&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKokusho%252C%2Bthe%2BEvening%2BStar",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKokusho%252C%2Bthe%2BEvening%2BStar",
+      "edhrec": "https://edhrec.com/route/?cc=Kokusho%2C+the+Evening+Star"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36779%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19664&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30812?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "89666fe1-0f3a-4fc5-b628-fe683c180584",
+    "oracle_id": "e26bf6a9-b31c-4bc0-b55b-c01f2f69be6b",
+    "multiverse_ids": [
+      178020
+    ],
+    "mtgo_id": 30798,
+    "mtgo_foil_id": 30799,
+    "tcgplayer_id": 36780,
+    "cardmarket_id": 19665,
+    "name": "Nicol Bolas",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/89666fe1-0f3a-4fc5-b628-fe683c180584",
+    "scryfall_uri": "https://scryfall.com/card/drb/10/nicol-bolas?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.jpg?1568385524",
+      "normal": "https://cards.scryfall.io/normal/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.jpg?1568385524",
+      "large": "https://cards.scryfall.io/large/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.jpg?1568385524",
+      "png": "https://cards.scryfall.io/png/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.png?1568385524",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.jpg?1568385524",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89666fe1-0f3a-4fc5-b628-fe683c180584.jpg?1568385524"
+    },
+    "mana_cost": "{2}{U}{U}{B}{B}{R}{R}",
+    "cmc": 8.0,
+    "type_line": "Legendary Creature — Elder Dragon",
+    "oracle_text": "Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.\nWhenever Nicol Bolas deals damage to an opponent, that player discards their hand.",
+    "power": "7",
+    "toughness": "7",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/89666fe1-0f3a-4fc5-b628-fe683c180584/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae26bf6a9-b31c-4bc0-b55b-c01f2f69be6b&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Dominaria's most ancient evil.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "D. Alexander Gregory",
+    "artist_ids": [
+      "38433e15-f0f5-4223-a985-2d13c4aa0922"
+    ],
+    "illustration_id": "c13af880-069a-405c-85c1-88901f31e740",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 11304,
+    "penny_rank": 8352,
+    "prices": {
+      "usd": null,
+      "usd_foil": "9.11",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "5.62",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178020&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas",
+      "edhrec": "https://edhrec.com/route/?cc=Nicol+Bolas"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36780%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19665&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30798?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e3a08c53-f7bc-484a-942d-9586da12f482",
+    "oracle_id": "959acb66-84ca-4535-bca2-ad591895735e",
+    "multiverse_ids": [
+      178023
+    ],
+    "mtgo_id": 30814,
+    "mtgo_foil_id": 30815,
+    "tcgplayer_id": 36781,
+    "cardmarket_id": 19666,
+    "name": "Niv-Mizzet, the Firemind",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/e3a08c53-f7bc-484a-942d-9586da12f482",
+    "scryfall_uri": "https://scryfall.com/card/drb/11/niv-mizzet-the-firemind?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.jpg?1568389475",
+      "normal": "https://cards.scryfall.io/normal/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.jpg?1568389475",
+      "large": "https://cards.scryfall.io/large/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.jpg?1568389475",
+      "png": "https://cards.scryfall.io/png/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.png?1568389475",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.jpg?1568389475",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e3a08c53-f7bc-484a-942d-9586da12f482.jpg?1568389475"
+    },
+    "mana_cost": "{2}{U}{U}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Dragon Wizard",
+    "oracle_text": "Flying\nWhenever you draw a card, Niv-Mizzet deals 1 damage to any target.\n{T}: Draw a card.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e3a08c53-f7bc-484a-942d-9586da12f482/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A959acb66-84ca-4535-bca2-ad591895735e&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "As brilliant as a cut diamond, and with just as cruel an edge.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Todd Lockwood",
+    "artist_ids": [
+      "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+    ],
+    "illustration_id": "4fe18888-ae07-4e02-a99b-bdc95194494c",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 2151,
+    "penny_rank": 3997,
+    "prices": {
+      "usd": null,
+      "usd_foil": "9.14",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.06",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178023&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNiv-Mizzet%252C%2Bthe%2BFiremind",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNiv-Mizzet%252C%2Bthe%2BFiremind",
+      "edhrec": "https://edhrec.com/route/?cc=Niv-Mizzet%2C+the+Firemind"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36781%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19666&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30814?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "871093cc-b545-4a6c-b6d6-a575f3cd4a70",
+    "oracle_id": "97e5d788-2dd3-4c8e-9ab6-f4ea9c7a9a3d",
+    "multiverse_ids": [
+      178024
+    ],
+    "mtgo_id": 30796,
+    "mtgo_foil_id": 30797,
+    "tcgplayer_id": 36782,
+    "cardmarket_id": 19667,
+    "name": "Rith, the Awakener",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/871093cc-b545-4a6c-b6d6-a575f3cd4a70",
+    "scryfall_uri": "https://scryfall.com/card/drb/12/rith-the-awakener?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.jpg?1568394721",
+      "normal": "https://cards.scryfall.io/normal/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.jpg?1568394721",
+      "large": "https://cards.scryfall.io/large/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.jpg?1568394721",
+      "png": "https://cards.scryfall.io/png/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.png?1568394721",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.jpg?1568394721",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/871093cc-b545-4a6c-b6d6-a575f3cd4a70.jpg?1568394721"
+    },
+    "mana_cost": "{3}{R}{G}{W}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Flying\nWhenever Rith deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then create a 1/1 green Saproling creature token for each permanent of that color.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "G",
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d40a39b5-1361-4a12-8694-56f6307963ae",
+        "component": "token",
+        "name": "Saproling",
+        "type_line": "Token Creature — Saproling",
+        "uri": "https://api.scryfall.com/cards/d40a39b5-1361-4a12-8694-56f6307963ae"
+      },
+      {
+        "object": "related_card",
+        "id": "871093cc-b545-4a6c-b6d6-a575f3cd4a70",
+        "component": "combo_piece",
+        "name": "Rith, the Awakener",
+        "type_line": "Legendary Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/871093cc-b545-4a6c-b6d6-a575f3cd4a70"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/871093cc-b545-4a6c-b6d6-a575f3cd4a70/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97e5d788-2dd3-4c8e-9ab6-f4ea9c7a9a3d&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Todd Lockwood",
+    "artist_ids": [
+      "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+    ],
+    "illustration_id": "7fd3d32d-77e1-4ba0-b159-cda7fe9b05ec",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 13356,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.50",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.97",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178024&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRith%252C%2Bthe%2BAwakener",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRith%252C%2Bthe%2BAwakener",
+      "edhrec": "https://edhrec.com/route/?cc=Rith%2C+the+Awakener"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36782%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19667&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30796?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "65126d80-97c1-4890-944c-0dd4496ae746",
+    "oracle_id": "711eea87-0fa3-46e0-a42b-fa5a86455f04",
+    "multiverse_ids": [
+      178025
+    ],
+    "mtgo_id": 30802,
+    "mtgo_foil_id": 30803,
+    "tcgplayer_id": 36783,
+    "cardmarket_id": 19668,
+    "name": "Shivan Dragon",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/65126d80-97c1-4890-944c-0dd4496ae746",
+    "scryfall_uri": "https://scryfall.com/card/drb/13/shivan-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.jpg?1568400396",
+      "normal": "https://cards.scryfall.io/normal/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.jpg?1568400396",
+      "large": "https://cards.scryfall.io/large/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.jpg?1568400396",
+      "png": "https://cards.scryfall.io/png/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.png?1568400396",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.jpg?1568400396",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65126d80-97c1-4890-944c-0dd4496ae746.jpg?1568400396"
+    },
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "65126d80-97c1-4890-944c-0dd4496ae746",
+        "component": "combo_piece",
+        "name": "Shivan Dragon",
+        "type_line": "Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/65126d80-97c1-4890-944c-0dd4496ae746"
+      },
+      {
+        "object": "related_card",
+        "id": "2a43b352-d84b-4714-bbcd-3ad282c8aa9d",
+        "component": "combo_piece",
+        "name": "Sarkhan, Wanderer to Shiv",
+        "type_line": "Legendary Planeswalker — Sarkhan",
+        "uri": "https://api.scryfall.com/cards/2a43b352-d84b-4714-bbcd-3ad282c8aa9d"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/65126d80-97c1-4890-944c-0dd4496ae746/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A711eea87-0fa3-46e0-a42b-fa5a86455f04&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "The undisputed master of the mountains of Shiv.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Justin Sweet",
+    "artist_ids": [
+      "bb15780e-8f96-4823-b258-a7a9fd79b02c"
+    ],
+    "illustration_id": "6c344170-a6cb-4ffa-9ed1-fe10c90aa62c",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 10592,
+    "penny_rank": 10177,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.32",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.73",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178025&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShivan%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShivan%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Shivan+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36783%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19668&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30802?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c97c7a23-921f-4002-8e37-b70861a36945",
+    "oracle_id": "70d9579f-c8a6-4406-afe1-9291fe5ee736",
+    "multiverse_ids": [
+      178026
+    ],
+    "mtgo_id": 30800,
+    "mtgo_foil_id": 30801,
+    "tcgplayer_id": 36784,
+    "cardmarket_id": 19669,
+    "name": "Thunder Dragon",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/c97c7a23-921f-4002-8e37-b70861a36945",
+    "scryfall_uri": "https://scryfall.com/card/drb/14/thunder-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.jpg?1568434104",
+      "normal": "https://cards.scryfall.io/normal/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.jpg?1568434104",
+      "large": "https://cards.scryfall.io/large/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.jpg?1568434104",
+      "png": "https://cards.scryfall.io/png/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.png?1568434104",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.jpg?1568434104",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c97c7a23-921f-4002-8e37-b70861a36945.jpg?1568434104"
+    },
+    "mana_cost": "{5}{R}{R}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, it deals 3 damage to each creature without flying.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c97c7a23-921f-4002-8e37-b70861a36945/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70d9579f-c8a6-4406-afe1-9291fe5ee736&unique=prints",
+    "collector_number": "14",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rahn",
+    "artist_ids": [
+      "7742047e-0f80-4c0f-a530-d07460165e86"
+    ],
+    "illustration_id": "f6b06e0c-88df-41b6-9511-e7c6949d602a",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 10830,
+    "prices": {
+      "usd": null,
+      "usd_foil": "4.86",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.87",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178026&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThunder%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThunder%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Thunder+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36784%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19669&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30800?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a6ed97b8-dcbc-4cc5-bece-e5d134e5c868",
+    "oracle_id": "a4fa3052-d1ec-4442-a832-15ba36c500ee",
+    "multiverse_ids": [
+      178027
+    ],
+    "mtgo_id": 30810,
+    "mtgo_foil_id": 30811,
+    "tcgplayer_id": 36785,
+    "cardmarket_id": 19670,
+    "name": "Two-Headed Dragon",
+    "lang": "en",
+    "released_at": "2008-08-29",
+    "uri": "https://api.scryfall.com/cards/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868",
+    "scryfall_uri": "https://scryfall.com/card/drb/15/two-headed-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.jpg?1568490670",
+      "normal": "https://cards.scryfall.io/normal/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.jpg?1568490670",
+      "large": "https://cards.scryfall.io/large/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.jpg?1568490670",
+      "png": "https://cards.scryfall.io/png/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.png?1568490670",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.jpg?1568490670",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868.jpg?1568490670"
+    },
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nThis creature can block an additional creature each combat.\n{1}{R}: This creature gets +2/+0 until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Menace"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set": "drb",
+    "set_name": "From the Vault: Dragons",
+    "set_type": "from_the_vault",
+    "set_uri": "https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrb&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/drb?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a6ed97b8-dcbc-4cc5-bece-e5d134e5c868/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa4fa3052-d1ec-4442-a832-15ba36c500ee&unique=prints",
+    "collector_number": "15",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Sam Wood",
+    "artist_ids": [
+      "77cecfa2-2494-42a2-b14a-55ad40c6adbb"
+    ],
+    "illustration_id": "3fde1b23-c633-4a47-abfc-8d5dce315d5d",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 21220,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.39",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.50",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178027&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTwo-Headed%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTwo-Headed%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Two-Headed+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36785%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=19670&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/30810?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

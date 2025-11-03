@@ -1,0 +1,704 @@
+[
+  {
+    "object": "card",
+    "id": "482a5f7b-561a-4764-b0ca-be3cf2cc4c27",
+    "oracle_id": "8a9e8f60-eb13-4ae8-82df-d4c46da74451",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108441,
+    "cardmarket_id": 286104,
+    "name": "Daxos the Returned",
+    "lang": "en",
+    "released_at": "2015-11-13",
+    "uri": "https://api.scryfall.com/cards/482a5f7b-561a-4764-b0ca-be3cf2cc4c27",
+    "scryfall_uri": "https://scryfall.com/card/oc15/43/daxos-the-returned?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.jpg?1561757061",
+      "normal": "https://cards.scryfall.io/normal/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.jpg?1561757061",
+      "large": "https://cards.scryfall.io/large/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.jpg?1561757061",
+      "png": "https://cards.scryfall.io/png/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.png?1561757061",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.jpg?1561757061",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/8/482a5f7b-561a-4764-b0ca-be3cf2cc4c27.jpg?1561757061"
+    },
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Zombie Soldier",
+    "oracle_text": "Whenever you cast an enchantment spell, you get an experience counter.\n{1}{W}{B}: Create a white and black Spirit enchantment creature token. It has \"This creature's power and toughness are each equal to the number of experience counters you have.\"",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "73805b39-7624-4fbd-bcc0-4241e733a97f",
+        "component": "combo_piece",
+        "name": "Experience",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/73805b39-7624-4fbd-bcc0-4241e733a97f"
+      },
+      {
+        "object": "related_card",
+        "id": "03553980-53fa-4256-b478-c7e0e73e2b5b",
+        "component": "token",
+        "name": "Spirit",
+        "type_line": "Token Enchantment Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/03553980-53fa-4256-b478-c7e0e73e2b5b"
+      },
+      {
+        "object": "related_card",
+        "id": "4abe142e-7e87-464b-be2a-ad2fc7aebd51",
+        "component": "combo_piece",
+        "name": "Daxos the Returned",
+        "type_line": "Legendary Creature — Zombie Soldier",
+        "uri": "https://api.scryfall.com/cards/4abe142e-7e87-464b-be2a-ad2fc7aebd51"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set": "oc15",
+    "set_name": "Commander 2015 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/482a5f7b-561a-4764-b0ca-be3cf2cc4c27/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8a9e8f60-eb13-4ae8-82df-d4c46da74451&unique=prints",
+    "collector_number": "43",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Adam Paquette",
+    "artist_ids": [
+      "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+    ],
+    "illustration_id": "fe7de588-e6c6-47e5-b7b8-1e8e64862d35",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 8531,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.71",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.47",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDaxos%2Bthe%2BReturned",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDaxos%2Bthe%2BReturned",
+      "edhrec": "https://edhrec.com/route/?cc=Daxos+the+Returned"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108441%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=286104&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Daxos+the+Returned&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "473d22bd-41d2-4b21-961c-ef73e27517cd",
+    "oracle_id": "40eacdae-fae5-46b9-a9e5-9211469f74fc",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108442,
+    "cardmarket_id": 286107,
+    "name": "Ezuri, Claw of Progress",
+    "lang": "en",
+    "released_at": "2015-11-13",
+    "uri": "https://api.scryfall.com/cards/473d22bd-41d2-4b21-961c-ef73e27517cd",
+    "scryfall_uri": "https://scryfall.com/card/oc15/44/ezuri-claw-of-progress?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.jpg?1561757042",
+      "normal": "https://cards.scryfall.io/normal/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.jpg?1561757042",
+      "large": "https://cards.scryfall.io/large/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.jpg?1561757042",
+      "png": "https://cards.scryfall.io/png/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.png?1561757042",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.jpg?1561757042",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/473d22bd-41d2-4b21-961c-ef73e27517cd.jpg?1561757042"
+    },
+    "mana_cost": "{2}{G}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+    "oracle_text": "Whenever a creature you control with power 2 or less enters, you get an experience counter.\nAt the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "73805b39-7624-4fbd-bcc0-4241e733a97f",
+        "component": "combo_piece",
+        "name": "Experience",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/73805b39-7624-4fbd-bcc0-4241e733a97f"
+      },
+      {
+        "object": "related_card",
+        "id": "ef1b62ff-dbb3-4500-9d64-a3047ce193ec",
+        "component": "combo_piece",
+        "name": "Ezuri, Claw of Progress",
+        "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/ef1b62ff-dbb3-4500-9d64-a3047ce193ec"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set": "oc15",
+    "set_name": "Commander 2015 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/473d22bd-41d2-4b21-961c-ef73e27517cd/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40eacdae-fae5-46b9-a9e5-9211469f74fc&unique=prints",
+    "collector_number": "44",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "James Ryman",
+    "artist_ids": [
+      "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+    ],
+    "illustration_id": "02e4b91f-797a-40d5-8dcf-763d6789b84a",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 5277,
+    "penny_rank": 8439,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.18",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.41",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEzuri%252C%2BClaw%2Bof%2BProgress",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEzuri%252C%2BClaw%2Bof%2BProgress",
+      "edhrec": "https://edhrec.com/route/?cc=Ezuri%2C+Claw+of+Progress"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108442%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=286107&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ezuri%2C+Claw+of+Progress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d8b62178-9c25-4035-90d0-19fe25ca8474",
+    "oracle_id": "e100f9fc-b6fb-42ab-b9b3-796bede6804d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108443,
+    "cardmarket_id": 286105,
+    "name": "Kalemne, Disciple of Iroas",
+    "lang": "en",
+    "released_at": "2015-11-13",
+    "uri": "https://api.scryfall.com/cards/d8b62178-9c25-4035-90d0-19fe25ca8474",
+    "scryfall_uri": "https://scryfall.com/card/oc15/45/kalemne-disciple-of-iroas?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.jpg?1561758178",
+      "normal": "https://cards.scryfall.io/normal/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.jpg?1561758178",
+      "large": "https://cards.scryfall.io/large/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.jpg?1561758178",
+      "png": "https://cards.scryfall.io/png/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.png?1561758178",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.jpg?1561758178",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/8/d8b62178-9c25-4035-90d0-19fe25ca8474.jpg?1561758178"
+    },
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Giant Soldier",
+    "oracle_text": "Double strike, vigilance\nWhenever you cast a creature spell with mana value 5 or greater, you get an experience counter.\nKalemne gets +1/+1 for each experience counter you have.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Double strike"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "73805b39-7624-4fbd-bcc0-4241e733a97f",
+        "component": "combo_piece",
+        "name": "Experience",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/73805b39-7624-4fbd-bcc0-4241e733a97f"
+      },
+      {
+        "object": "related_card",
+        "id": "c049d734-cb1c-4c38-b276-7e5ac9c81254",
+        "component": "combo_piece",
+        "name": "Kalemne, Disciple of Iroas",
+        "type_line": "Legendary Creature — Giant Soldier",
+        "uri": "https://api.scryfall.com/cards/c049d734-cb1c-4c38-b276-7e5ac9c81254"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set": "oc15",
+    "set_name": "Commander 2015 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d8b62178-9c25-4035-90d0-19fe25ca8474/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae100f9fc-b6fb-42ab-b9b3-796bede6804d&unique=prints",
+    "collector_number": "45",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Jason Chan",
+    "artist_ids": [
+      "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+    ],
+    "illustration_id": "cacad3d4-f792-4fbb-812d-012df03ad017",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9769,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.52",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.33",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKalemne%252C%2BDisciple%2Bof%2BIroas",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKalemne%252C%2BDisciple%2Bof%2BIroas",
+      "edhrec": "https://edhrec.com/route/?cc=Kalemne%2C+Disciple+of+Iroas"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108443%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=286105&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kalemne%2C+Disciple+of+Iroas&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b8400831-1b23-451c-bc95-8f8b511b9885",
+    "oracle_id": "0310dfdb-0498-488d-9f1a-279f8239e024",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108444,
+    "cardmarket_id": 286103,
+    "name": "Meren of Clan Nel Toth",
+    "lang": "en",
+    "released_at": "2015-11-13",
+    "uri": "https://api.scryfall.com/cards/b8400831-1b23-451c-bc95-8f8b511b9885",
+    "scryfall_uri": "https://scryfall.com/card/oc15/49/meren-of-clan-nel-toth?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.jpg?1561757908",
+      "normal": "https://cards.scryfall.io/normal/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.jpg?1561757908",
+      "large": "https://cards.scryfall.io/large/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.jpg?1561757908",
+      "png": "https://cards.scryfall.io/png/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.png?1561757908",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.jpg?1561757908",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b8400831-1b23-451c-bc95-8f8b511b9885.jpg?1561757908"
+    },
+    "mana_cost": "{2}{B}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Shaman",
+    "oracle_text": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
+    "power": "3",
+    "toughness": "4",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "f43bf91d-bc08-417f-a549-64919c24052a",
+        "component": "combo_piece",
+        "name": "Meren of Clan Nel Toth",
+        "type_line": "Legendary Creature — Human Shaman",
+        "uri": "https://api.scryfall.com/cards/f43bf91d-bc08-417f-a549-64919c24052a"
+      },
+      {
+        "object": "related_card",
+        "id": "73805b39-7624-4fbd-bcc0-4241e733a97f",
+        "component": "combo_piece",
+        "name": "Experience",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/73805b39-7624-4fbd-bcc0-4241e733a97f"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set": "oc15",
+    "set_name": "Commander 2015 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b8400831-1b23-451c-bc95-8f8b511b9885/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0310dfdb-0498-488d-9f1a-279f8239e024&unique=prints",
+    "collector_number": "49",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Mark Winters",
+    "artist_ids": [
+      "3d8a379d-f4e8-440d-99d5-5ec107757348"
+    ],
+    "illustration_id": "34f76b57-924d-4d09-b1f3-5185320a2498",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 1520,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.16",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.67",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMeren%2Bof%2BClan%2BNel%2BToth",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMeren%2Bof%2BClan%2BNel%2BToth",
+      "edhrec": "https://edhrec.com/route/?cc=Meren+of+Clan+Nel+Toth"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108444%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=286103&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Meren+of+Clan+Nel+Toth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "73b5815e-540d-4594-b4ca-97c80022b6c2",
+    "oracle_id": "f787c6cf-a4ff-487b-a7b0-0f516e68510a",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108445,
+    "cardmarket_id": 286106,
+    "name": "Mizzix of the Izmagnus",
+    "lang": "en",
+    "released_at": "2015-11-13",
+    "uri": "https://api.scryfall.com/cards/73b5815e-540d-4594-b4ca-97c80022b6c2",
+    "scryfall_uri": "https://scryfall.com/card/oc15/50/mizzix-of-the-izmagnus?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.jpg?1561757404",
+      "normal": "https://cards.scryfall.io/normal/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.jpg?1561757404",
+      "large": "https://cards.scryfall.io/large/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.jpg?1561757404",
+      "png": "https://cards.scryfall.io/png/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.png?1561757404",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.jpg?1561757404",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/73b5815e-540d-4594-b4ca-97c80022b6c2.jpg?1561757404"
+    },
+    "mana_cost": "{2}{U}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Goblin Wizard",
+    "oracle_text": "Whenever you cast an instant or sorcery spell with mana value greater than the number of experience counters you have, you get an experience counter.\nInstant and sorcery spells you cast cost {1} less to cast for each experience counter you have.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "73805b39-7624-4fbd-bcc0-4241e733a97f",
+        "component": "combo_piece",
+        "name": "Experience",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/73805b39-7624-4fbd-bcc0-4241e733a97f"
+      },
+      {
+        "object": "related_card",
+        "id": "d0ea2c3a-c36d-44e8-bc46-5361f5f9d0e7",
+        "component": "combo_piece",
+        "name": "Mizzix of the Izmagnus",
+        "type_line": "Legendary Creature — Goblin Wizard",
+        "uri": "https://api.scryfall.com/cards/d0ea2c3a-c36d-44e8-bc46-5361f5f9d0e7"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set": "oc15",
+    "set_name": "Commander 2015 Oversized",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/7198001d-6617-485e-aa5d-41be3a7cd77c",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aoc15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/oc15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/73b5815e-540d-4594-b4ca-97c80022b6c2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af787c6cf-a4ff-487b-a7b0-0f516e68510a&unique=prints",
+    "collector_number": "50",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Cliff Childs",
+    "artist_ids": [
+      "ed6f7e03-20ba-4c73-bdda-4a4928480721"
+    ],
+    "illustration_id": "f14d0383-bdf9-443b-880e-650fd30156d8",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 6159,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.21",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.55",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMizzix%2Bof%2Bthe%2BIzmagnus",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMizzix%2Bof%2Bthe%2BIzmagnus",
+      "edhrec": "https://edhrec.com/route/?cc=Mizzix+of+the+Izmagnus"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108445%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=286106&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mizzix+of+the+Izmagnus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

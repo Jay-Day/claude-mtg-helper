@@ -1,0 +1,508 @@
+[
+  {
+    "object": "card",
+    "id": "47202d15-cb80-496f-84fb-8e3998c3d27b",
+    "oracle_id": "d0d2c45b-b6e3-4999-bdab-976e8f0d6617",
+    "multiverse_ids": [],
+    "tcgplayer_id": 96438,
+    "cardmarket_id": 273114,
+    "name": "Dragon Fodder",
+    "lang": "en",
+    "released_at": "2015-04-03",
+    "uri": "https://api.scryfall.com/cards/47202d15-cb80-496f-84fb-8e3998c3d27b",
+    "scryfall_uri": "https://scryfall.com/card/ptkdf/135/dragon-fodder?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.jpg?1561757040",
+      "normal": "https://cards.scryfall.io/normal/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.jpg?1561757040",
+      "large": "https://cards.scryfall.io/large/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.jpg?1561757040",
+      "png": "https://cards.scryfall.io/png/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.png?1561757040",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.jpg?1561757040",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/47202d15-cb80-496f-84fb-8e3998c3d27b.jpg?1561757040"
+    },
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Create two 1/1 red Goblin creature tokens.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "e55d42ad-63b1-4468-8da0-c245db4d0ae3",
+        "component": "token",
+        "name": "Goblin",
+        "type_line": "Token Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/e55d42ad-63b1-4468-8da0-c245db4d0ae3"
+      },
+      {
+        "object": "related_card",
+        "id": "47202d15-cb80-496f-84fb-8e3998c3d27b",
+        "component": "combo_piece",
+        "name": "Dragon Fodder",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/47202d15-cb80-496f-84fb-8e3998c3d27b"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set": "ptkdf",
+    "set_name": "Tarkir Dragonfury",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptkdf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ptkdf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/47202d15-cb80-496f-84fb-8e3998c3d27b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0d2c45b-b6e3-4999-bdab-976e8f0d6617&unique=prints",
+    "collector_number": "135",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "Atarka goblins meet their demise as readily as their Temur counterparts did, but usually under big, winged shadows.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jesper Ejsing",
+    "artist_ids": [
+      "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+    ],
+    "illustration_id": "1a5131f0-75b2-4b1d-a770-dd5d028c179c",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 1941,
+    "penny_rank": 1984,
+    "prices": {
+      "usd": "0.28",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.25",
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon%2BFodder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon%2BFodder",
+      "edhrec": "https://edhrec.com/route/?cc=Dragon+Fodder"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96438%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273114&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon+Fodder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ce134b85-2cbd-4dab-b233-040fd1f31765",
+    "oracle_id": "faf81ae0-0b35-45ef-a50d-6cecf0c0eeeb",
+    "multiverse_ids": [],
+    "tcgplayer_id": 96437,
+    "cardmarket_id": 273113,
+    "name": "Dragonlord's Servant",
+    "lang": "en",
+    "released_at": "2015-04-03",
+    "uri": "https://api.scryfall.com/cards/ce134b85-2cbd-4dab-b233-040fd1f31765",
+    "scryfall_uri": "https://scryfall.com/card/ptkdf/138/dragonlords-servant?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.jpg?1561758105",
+      "normal": "https://cards.scryfall.io/normal/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.jpg?1561758105",
+      "large": "https://cards.scryfall.io/large/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.jpg?1561758105",
+      "png": "https://cards.scryfall.io/png/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.png?1561758105",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.jpg?1561758105",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/ce134b85-2cbd-4dab-b233-040fd1f31765.jpg?1561758105"
+    },
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Goblin Shaman",
+    "oracle_text": "Dragon spells you cast cost {1} less to cast.",
+    "power": "1",
+    "toughness": "3",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set": "ptkdf",
+    "set_name": "Tarkir Dragonfury",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptkdf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ptkdf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ce134b85-2cbd-4dab-b233-040fd1f31765/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afaf81ae0-0b35-45ef-a50d-6cecf0c0eeeb&unique=prints",
+    "collector_number": "138",
+    "digital": false,
+    "rarity": "uncommon",
+    "watermark": "atarka",
+    "flavor_text": "Atarka serving-goblins coat themselves with grease imbued with noxious herbs, hoping to discourage their ravenous masters from adding them to the meal.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Carl Frank",
+    "artist_ids": [
+      "fde6429d-2768-4573-a54d-42694e145079"
+    ],
+    "illustration_id": "9c01c0b6-9faf-47b8-91d4-6b1656051b2e",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 1276,
+    "penny_rank": 7933,
+    "prices": {
+      "usd": "0.61",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.43",
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragonlord%2527s%2BServant",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragonlord%2527s%2BServant",
+      "edhrec": "https://edhrec.com/route/?cc=Dragonlord%27s+Servant"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96437%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273113&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragonlord%27s+Servant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "865d90ee-c436-47b0-a77b-d77043b9fe36",
+    "oracle_id": "e7dd3e2c-34a5-4097-b6d1-2ccd097fe57f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 96436,
+    "cardmarket_id": 273112,
+    "name": "Foe-Razer Regent",
+    "lang": "en",
+    "released_at": "2015-04-03",
+    "uri": "https://api.scryfall.com/cards/865d90ee-c436-47b0-a77b-d77043b9fe36",
+    "scryfall_uri": "https://scryfall.com/card/ptkdf/187/foe-razer-regent?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.jpg?1561757504",
+      "normal": "https://cards.scryfall.io/normal/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.jpg?1561757504",
+      "large": "https://cards.scryfall.io/large/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.jpg?1561757504",
+      "png": "https://cards.scryfall.io/png/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.png?1561757504",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.jpg?1561757504",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/6/865d90ee-c436-47b0-a77b-d77043b9fe36.jpg?1561757504"
+    },
+    "mana_cost": "{5}{G}{G}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\nWhen this creature enters, you may have it fight target creature you don't control.\nWhenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flying",
+      "Fight"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set": "ptkdf",
+    "set_name": "Tarkir Dragonfury",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptkdf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ptkdf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/865d90ee-c436-47b0-a77b-d77043b9fe36/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae7dd3e2c-34a5-4097-b6d1-2ccd097fe57f&unique=prints",
+    "collector_number": "187",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "atarka",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Svetlin Velinov",
+    "artist_ids": [
+      "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+    ],
+    "illustration_id": "f138efcd-255e-481a-91aa-a1f9943ffd85",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 8786,
+    "penny_rank": 6685,
+    "prices": {
+      "usd": "0.74",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.34",
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFoe-Razer%2BRegent",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFoe-Razer%2BRegent",
+      "edhrec": "https://edhrec.com/route/?cc=Foe-Razer+Regent"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96436%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273112&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Foe-Razer+Regent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "13ff769b-455b-497a-afc4-d87e1ff7e33d",
+    "oracle_id": "a75445d3-1303-4bb5-89ad-26ea93fecd48",
+    "multiverse_ids": [],
+    "tcgplayer_id": 96439,
+    "cardmarket_id": 273115,
+    "name": "Evolving Wilds",
+    "lang": "en",
+    "released_at": "2015-04-03",
+    "uri": "https://api.scryfall.com/cards/13ff769b-455b-497a-afc4-d87e1ff7e33d",
+    "scryfall_uri": "https://scryfall.com/card/ptkdf/248/evolving-wilds?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.jpg?1561756686",
+      "normal": "https://cards.scryfall.io/normal/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.jpg?1561756686",
+      "large": "https://cards.scryfall.io/large/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.jpg?1561756686",
+      "png": "https://cards.scryfall.io/png/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.png?1561756686",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.jpg?1561756686",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/13ff769b-455b-497a-afc4-d87e1ff7e33d.jpg?1561756686"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set": "ptkdf",
+    "set_name": "Tarkir Dragonfury",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/6f68a621-24b7-4371-a25c-9fff3ed68b8f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aptkdf&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ptkdf?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/13ff769b-455b-497a-afc4-d87e1ff7e33d/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa75445d3-1303-4bb5-89ad-26ea93fecd48&unique=prints",
+    "collector_number": "248",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "The land is ever resilient. Should it die, it will be reborn.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Noah Bradley",
+    "artist_ids": [
+      "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+    ],
+    "illustration_id": "ae294f1a-fad0-4671-962a-7cc8ff46b13a",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 16,
+    "penny_rank": 72,
+    "prices": {
+      "usd": "0.38",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.21",
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEvolving%2BWilds",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEvolving%2BWilds",
+      "edhrec": "https://edhrec.com/route/?cc=Evolving+Wilds"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96439%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273115&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Evolving+Wilds&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

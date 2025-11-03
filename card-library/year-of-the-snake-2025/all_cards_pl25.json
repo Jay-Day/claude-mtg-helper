@@ -1,0 +1,851 @@
+[
+  {
+    "object": "card",
+    "id": "1032c8be-3de4-47e4-8885-38dba8d90de0",
+    "oracle_id": "8687948c-456b-495b-9b31-f818c65624b6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 622691,
+    "name": "Xyris, the Writhing Storm",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/1032c8be-3de4-47e4-8885-38dba8d90de0",
+    "scryfall_uri": "https://scryfall.com/card/pl25/1/xyris-the-writhing-storm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.jpg?1738798799",
+      "normal": "https://cards.scryfall.io/normal/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.jpg?1738798799",
+      "large": "https://cards.scryfall.io/large/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.jpg?1738798799",
+      "png": "https://cards.scryfall.io/png/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.png?1738798799",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.jpg?1738798799",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/0/1032c8be-3de4-47e4-8885-38dba8d90de0.jpg?1738798799"
+    },
+    "mana_cost": "{2}{G}{U}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Snake Leviathan",
+    "oracle_text": "Flying\nWhenever an opponent draws a card except the first one they draw in each of their draw steps, create a 1/1 green Snake creature token.\nWhenever Xyris deals combat damage to a player, you and that player each draw that many cards.",
+    "power": "3",
+    "toughness": "5",
+    "colors": [
+      "G",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "1032c8be-3de4-47e4-8885-38dba8d90de0",
+        "component": "combo_piece",
+        "name": "Xyris, the Writhing Storm",
+        "type_line": "Legendary Creature — Snake Leviathan",
+        "uri": "https://api.scryfall.com/cards/1032c8be-3de4-47e4-8885-38dba8d90de0"
+      },
+      {
+        "object": "related_card",
+        "id": "4bfc751d-af71-49ff-a8b2-0d3a20eb136a",
+        "component": "token",
+        "name": "Snake",
+        "type_line": "Token Creature — Snake",
+        "uri": "https://api.scryfall.com/cards/4bfc751d-af71-49ff-a8b2-0d3a20eb136a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1032c8be-3de4-47e4-8885-38dba8d90de0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8687948c-456b-495b-9b31-f818c65624b6&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Song Qijin",
+    "artist_ids": [
+      "67750cc4-846d-40a2-8d1a-e8085544be07"
+    ],
+    "illustration_id": "d194f059-9012-4c1f-92bf-ebd231576326",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 4227,
+    "prices": {
+      "usd": null,
+      "usd_foil": "46.43",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DXyris%252C%2Bthe%2BWrithing%2BStorm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DXyris%252C%2Bthe%2BWrithing%2BStorm",
+      "edhrec": "https://edhrec.com/route/?cc=Xyris%2C+the+Writhing+Storm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F622691%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Xyris%2C+the+Writhing+Storm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Xyris%2C+the+Writhing+Storm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "4bfc751d-af71-49ff-a8b2-0d3a20eb136a",
+    "oracle_id": "9ecd83ce-f866-4cbe-9712-c44aabe979c6",
+    "multiverse_ids": [],
+    "name": "Snake",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/4bfc751d-af71-49ff-a8b2-0d3a20eb136a",
+    "scryfall_uri": "https://scryfall.com/card/pl25/2/snake?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.jpg?1738798827",
+      "normal": "https://cards.scryfall.io/normal/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.jpg?1738798827",
+      "large": "https://cards.scryfall.io/large/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.jpg?1738798827",
+      "png": "https://cards.scryfall.io/png/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.png?1738798827",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.jpg?1738798827",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4bfc751d-af71-49ff-a8b2-0d3a20eb136a.jpg?1738798827"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Snake",
+    "oracle_text": "",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "baddb39b-c31f-48e4-8d43-1cc46a713416",
+        "component": "combo_piece",
+        "name": "Snake Pit",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/baddb39b-c31f-48e4-8d43-1cc46a713416"
+      },
+      {
+        "object": "related_card",
+        "id": "e992d139-1b53-42f1-ab9b-9d8df0c1fe73",
+        "component": "combo_piece",
+        "name": "Snake Basket",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/e992d139-1b53-42f1-ab9b-9d8df0c1fe73"
+      },
+      {
+        "object": "related_card",
+        "id": "828f752e-cf94-4d0e-913d-aa425a005849",
+        "component": "combo_piece",
+        "name": "Hooded Hydra",
+        "type_line": "Creature — Snake Hydra",
+        "uri": "https://api.scryfall.com/cards/828f752e-cf94-4d0e-913d-aa425a005849"
+      },
+      {
+        "object": "related_card",
+        "id": "5d3804ed-192d-47a1-ae7e-60b6827e2a72",
+        "component": "combo_piece",
+        "name": "Orochi Hatchery",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/5d3804ed-192d-47a1-ae7e-60b6827e2a72"
+      },
+      {
+        "object": "related_card",
+        "id": "38541b8b-c624-4a8f-8204-b021ef6cb4a2",
+        "component": "combo_piece",
+        "name": "Sosuke's Summons",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/38541b8b-c624-4a8f-8204-b021ef6cb4a2"
+      },
+      {
+        "object": "related_card",
+        "id": "ec1b0a4e-e52e-4d4e-9b12-24676d8571b1",
+        "component": "combo_piece",
+        "name": "Seed the Land",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/ec1b0a4e-e52e-4d4e-9b12-24676d8571b1"
+      },
+      {
+        "object": "related_card",
+        "id": "1032c8be-3de4-47e4-8885-38dba8d90de0",
+        "component": "combo_piece",
+        "name": "Xyris, the Writhing Storm",
+        "type_line": "Legendary Creature — Snake Leviathan",
+        "uri": "https://api.scryfall.com/cards/1032c8be-3de4-47e4-8885-38dba8d90de0"
+      },
+      {
+        "object": "related_card",
+        "id": "4bfc751d-af71-49ff-a8b2-0d3a20eb136a",
+        "component": "token",
+        "name": "Snake",
+        "type_line": "Token Creature — Snake",
+        "uri": "https://api.scryfall.com/cards/4bfc751d-af71-49ff-a8b2-0d3a20eb136a"
+      },
+      {
+        "object": "related_card",
+        "id": "f64d9404-9685-495d-a591-63d6164a88a9",
+        "component": "combo_piece",
+        "name": "Endless Swarm",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f64d9404-9685-495d-a591-63d6164a88a9"
+      },
+      {
+        "object": "related_card",
+        "id": "a2a0181f-44bf-487d-a685-f92a8a43afe3",
+        "component": "combo_piece",
+        "name": "Orochi Eggwatcher // Shidako, Broodmistress",
+        "type_line": "Creature — Snake Shaman // Legendary Creature — Snake Shaman",
+        "uri": "https://api.scryfall.com/cards/a2a0181f-44bf-487d-a685-f92a8a43afe3"
+      },
+      {
+        "object": "related_card",
+        "id": "14003109-ec2c-40ad-b005-67218ec75cbd",
+        "component": "combo_piece",
+        "name": "Bestial Menace",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/14003109-ec2c-40ad-b005-67218ec75cbd"
+      },
+      {
+        "object": "related_card",
+        "id": "15034cbd-2f51-40c1-bcc1-cea19a7637d1",
+        "component": "combo_piece",
+        "name": "Rite of the Serpent",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/15034cbd-2f51-40c1-bcc1-cea19a7637d1"
+      },
+      {
+        "object": "related_card",
+        "id": "a8954f5e-9904-426f-9b66-8cdf86438f6a",
+        "component": "combo_piece",
+        "name": "Cobra Trap",
+        "type_line": "Instant — Trap",
+        "uri": "https://api.scryfall.com/cards/a8954f5e-9904-426f-9b66-8cdf86438f6a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4bfc751d-af71-49ff-a8b2-0d3a20eb136a/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ecd83ce-f866-4cbe-9712-c44aabe979c6&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Song Qijin",
+    "artist_ids": [
+      "67750cc4-846d-40a2-8d1a-e8085544be07"
+    ],
+    "illustration_id": "518ed805-f806-4ec5-aec9-c5d8abdcc312",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnake",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnake",
+      "edhrec": "https://edhrec.com/route/?cc=Snake"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSnake%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Snake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Snake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "dda20909-6371-4f72-bbca-a69701b89a3f",
+    "oracle_id": "8ad91f64-ccab-4edc-bd54-b2ee9267d614",
+    "multiverse_ids": [],
+    "tcgplayer_id": 629884,
+    "name": "Lotus Cobra",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/dda20909-6371-4f72-bbca-a69701b89a3f",
+    "scryfall_uri": "https://scryfall.com/card/pl25/3/lotus-cobra?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.jpg?1738799076",
+      "normal": "https://cards.scryfall.io/normal/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.jpg?1738799076",
+      "large": "https://cards.scryfall.io/large/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.jpg?1738799076",
+      "png": "https://cards.scryfall.io/png/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.png?1738799076",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.jpg?1738799076",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dda20909-6371-4f72-bbca-a69701b89a3f.jpg?1738799076"
+    },
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Snake",
+    "oracle_text": "Landfall — Whenever a land you control enters, add one mana of any color.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/dda20909-6371-4f72-bbca-a69701b89a3f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ad91f64-ccab-4edc-bd54-b2ee9267d614&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Its passage through the flowering expanse doesn't disturb so much as a single petal.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "TSWCK",
+    "artist_ids": [
+      "7f8b4078-e769-4165-b17d-4310b19edc75"
+    ],
+    "illustration_id": "9ab260d1-8411-47fb-9e79-e7cd6187ef1b",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 319,
+    "penny_rank": 1899,
+    "prices": {
+      "usd": null,
+      "usd_foil": "56.51",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLotus%2BCobra",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLotus%2BCobra",
+      "edhrec": "https://edhrec.com/route/?cc=Lotus+Cobra"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F629884%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lotus+Cobra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lotus+Cobra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d9e1e266-0605-4aff-bef7-9a98c39fdff1",
+    "oracle_id": "e3afc704-220f-498f-9eaa-0821b17dc24c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 629885,
+    "name": "Sakura-Tribe Elder",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/d9e1e266-0605-4aff-bef7-9a98c39fdff1",
+    "scryfall_uri": "https://scryfall.com/card/pl25/4/sakura-tribe-elder?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.jpg?1738798948",
+      "normal": "https://cards.scryfall.io/normal/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.jpg?1738798948",
+      "large": "https://cards.scryfall.io/large/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.jpg?1738798948",
+      "png": "https://cards.scryfall.io/png/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.png?1738798948",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.jpg?1738798948",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d9e1e266-0605-4aff-bef7-9a98c39fdff1.jpg?1738798948"
+    },
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Snake Shaman",
+    "oracle_text": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d9e1e266-0605-4aff-bef7-9a98c39fdff1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae3afc704-220f-498f-9eaa-0821b17dc24c&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Death is not the end. I give myself to the land, and thus I live on past my demise.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Zhang Yongjie",
+    "artist_ids": [
+      "0584300d-5709-4a7e-93d3-16c8aa27bd9b"
+    ],
+    "illustration_id": "748c789c-3dd7-4590-a03e-fd0ed378b2e5",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 97,
+    "prices": {
+      "usd": null,
+      "usd_foil": "142.62",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSakura-Tribe%2BElder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSakura-Tribe%2BElder",
+      "edhrec": "https://edhrec.com/route/?cc=Sakura-Tribe+Elder"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F629885%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sakura-Tribe+Elder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sakura-Tribe+Elder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "47a334c3-87e0-42db-b7ed-8e0644efb928",
+    "oracle_id": "198b6c6f-a480-4672-9d87-b0cb5d8ed1c0",
+    "multiverse_ids": [],
+    "tcgplayer_id": 638933,
+    "name": "Kaseto, Orochi Archmage",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/47a334c3-87e0-42db-b7ed-8e0644efb928",
+    "scryfall_uri": "https://scryfall.com/card/pl25/5/kaseto-orochi-archmage?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.jpg?1738798990",
+      "normal": "https://cards.scryfall.io/normal/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.jpg?1738798990",
+      "large": "https://cards.scryfall.io/large/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.jpg?1738798990",
+      "png": "https://cards.scryfall.io/png/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.png?1738798990",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.jpg?1738798990",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/47a334c3-87e0-42db-b7ed-8e0644efb928.jpg?1738798990"
+    },
+    "mana_cost": "{1}{G}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Snake Wizard",
+    "oracle_text": "{G}{U}: Target creature can't be blocked this turn. If that creature is a Snake, it gets +2/+2 until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/47a334c3-87e0-42db-b7ed-8e0644efb928/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A198b6c6f-a480-4672-9d87-b0cb5d8ed1c0&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "\"A single lifetime is barely enough to scratch the surface of all that our ancestors have to teach us.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ware Lee",
+    "artist_ids": [
+      "a1bf48bd-80ff-473c-9279-00256752af4d"
+    ],
+    "illustration_id": "fa049946-f825-41b9-b64c-8e043fd94f0d",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 10751,
+    "prices": {
+      "usd": null,
+      "usd_foil": "44.64",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaseto%252C%2BOrochi%2BArchmage",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaseto%252C%2BOrochi%2BArchmage",
+      "edhrec": "https://edhrec.com/route/?cc=Kaseto%2C+Orochi+Archmage"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F638933%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kaseto%2C+Orochi+Archmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kaseto%2C+Orochi+Archmage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ed22c591-19f4-4096-a08c-5523a26b307c",
+    "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 650231,
+    "name": "Forest",
+    "lang": "en",
+    "released_at": "2025-02-14",
+    "uri": "https://api.scryfall.com/cards/ed22c591-19f4-4096-a08c-5523a26b307c",
+    "scryfall_uri": "https://scryfall.com/card/pl25/6/forest?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.jpg?1738799053",
+      "normal": "https://cards.scryfall.io/normal/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.jpg?1738799053",
+      "large": "https://cards.scryfall.io/large/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.jpg?1738799053",
+      "png": "https://cards.scryfall.io/png/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.png?1738799053",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.jpg?1738799053",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/d/ed22c591-19f4-4096-a08c-5523a26b307c.jpg?1738799053"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Forest",
+    "oracle_text": "({T}: Add {G}.)",
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "G"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set": "pl25",
+    "set_name": "Year of the Snake 2025",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apl25&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pl25?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ed22c591-19f4-4096-a08c-5523a26b307c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ray",
+    "artist_ids": [
+      "bcee0797-060b-44a6-b0cb-67cb4f7f8691"
+    ],
+    "illustration_id": "cb54ee1a-8722-424c-b561-6e54dd46d31b",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": "63.79",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForest",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForest",
+      "edhrec": "https://edhrec.com/route/?cc=Forest"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F650231%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

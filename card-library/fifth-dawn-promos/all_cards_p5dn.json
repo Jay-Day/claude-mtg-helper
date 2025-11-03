@@ -1,0 +1,150 @@
+[
+  {
+    "object": "card",
+    "id": "0d8cfd4a-a001-4e87-a8db-31a61e3d7d27",
+    "oracle_id": "38a3c87f-006e-4fc2-8c67-77b5bbb0471f",
+    "multiverse_ids": [
+      97046
+    ],
+    "tcgplayer_id": 38383,
+    "cardmarket_id": 17718,
+    "name": "Helm of Kaldra",
+    "lang": "en",
+    "released_at": "2004-05-22",
+    "uri": "https://api.scryfall.com/cards/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27",
+    "scryfall_uri": "https://scryfall.com/card/p5dn/131%E2%98%85/helm-of-kaldra?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.jpg?1606846798",
+      "normal": "https://cards.scryfall.io/normal/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.jpg?1606846798",
+      "large": "https://cards.scryfall.io/large/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.jpg?1606846798",
+      "png": "https://cards.scryfall.io/png/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.png?1606846798",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.jpg?1606846798",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27.jpg?1606846798"
+    },
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Legendary Artifact — Equipment",
+    "oracle_text": "Equipped creature has first strike, trample, and haste.\n{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, create Kaldra, a legendary 4/4 colorless Avatar creature token. Attach those Equipment to it.\nEquip {2}",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "bd66d3bf-5c7b-4a48-87c7-d30831bf5251",
+        "component": "combo_piece",
+        "name": "Sword of Kaldra",
+        "type_line": "Legendary Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/bd66d3bf-5c7b-4a48-87c7-d30831bf5251"
+      },
+      {
+        "object": "related_card",
+        "id": "0d8cfd4a-a001-4e87-a8db-31a61e3d7d27",
+        "component": "combo_piece",
+        "name": "Helm of Kaldra",
+        "type_line": "Legendary Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27"
+      },
+      {
+        "object": "related_card",
+        "id": "b645e258-ac76-48ac-80b6-785d81c68997",
+        "component": "combo_piece",
+        "name": "Shield of Kaldra",
+        "type_line": "Legendary Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/b645e258-ac76-48ac-80b6-785d81c68997"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff5503b1-ac4c-4164-b7e4-6bca31640493",
+    "set": "p5dn",
+    "set_name": "Fifth Dawn Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/ff5503b1-ac4c-4164-b7e4-6bca31640493",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap5dn&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/p5dn?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0d8cfd4a-a001-4e87-a8db-31a61e3d7d27/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38a3c87f-006e-4fc2-8c67-77b5bbb0471f&unique=prints",
+    "collector_number": "131★",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Donato Giancola",
+    "artist_ids": [
+      "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+    ],
+    "illustration_id": "cf34d235-ad4c-45ee-b7d5-dee1b0649476",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "datestamped",
+      "prerelease"
+    ],
+    "edhrec_rank": 11454,
+    "penny_rank": 11103,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.63",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.13",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97046&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHelm%2Bof%2BKaldra",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHelm%2Bof%2BKaldra",
+      "edhrec": "https://edhrec.com/route/?cc=Helm+of+Kaldra"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38383%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=17718&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Helm+of+Kaldra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

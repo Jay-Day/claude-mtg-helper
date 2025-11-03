@@ -1,0 +1,532 @@
+[
+  {
+    "object": "card",
+    "id": "13df67bf-21e2-4c2e-ad39-08a38fc33fdf",
+    "oracle_id": "7f7c917b-f940-4f43-bafa-31f50a6d9d6f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 501736,
+    "name": "Gandalf, Friend of the Shire",
+    "lang": "en",
+    "released_at": "2023-07-01",
+    "uri": "https://api.scryfall.com/cards/13df67bf-21e2-4c2e-ad39-08a38fc33fdf",
+    "scryfall_uri": "https://scryfall.com/card/pf23/1/gandalf-friend-of-the-shire?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067",
+      "normal": "https://cards.scryfall.io/normal/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067",
+      "large": "https://cards.scryfall.io/large/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067",
+      "png": "https://cards.scryfall.io/png/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.png?1712859067",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067"
+    },
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Avatar Wizard",
+    "oracle_text": "Flash\nYou may cast sorcery spells as though they had flash.\nWhenever the Ring tempts you, if you chose a creature other than Gandalf as your Ring-bearer, draw a card.",
+    "power": "2",
+    "toughness": "4",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "13df67bf-21e2-4c2e-ad39-08a38fc33fdf",
+        "component": "combo_piece",
+        "name": "Gandalf, Friend of the Shire",
+        "type_line": "Legendary Creature — Avatar Wizard",
+        "uri": "https://api.scryfall.com/cards/13df67bf-21e2-4c2e-ad39-08a38fc33fdf"
+      },
+      {
+        "object": "related_card",
+        "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+        "component": "combo_piece",
+        "name": "The Ring // The Ring Tempts You",
+        "type_line": "Emblem // Card",
+        "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set": "pf23",
+    "set_name": "MagicFest 2023",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apf23&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pf23?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/13df67bf-21e2-4c2e-ad39-08a38fc33fdf/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f7c917b-f940-4f43-bafa-31f50a6d9d6f&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"After a hundred years, Hobbits can still surprise you at a pinch.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Bakshi Productions",
+    "artist_ids": [
+      "8dafa562-02c6-4289-b1eb-5bde7e5fd813"
+    ],
+    "illustration_id": "f67bc912-50d7-46e4-b523-f9355aa7dc97",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "playpromo",
+      "universesbeyond"
+    ],
+    "edhrec_rank": 5414,
+    "prices": {
+      "usd": "5.13",
+      "usd_foil": "44.34",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGandalf%252C%2BFriend%2Bof%2Bthe%2BShire",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGandalf%252C%2BFriend%2Bof%2Bthe%2BShire",
+      "edhrec": "https://edhrec.com/route/?cc=Gandalf%2C+Friend+of+the+Shire"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501736%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gandalf%2C+Friend+of+the+Shire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gandalf%2C+Friend+of+the+Shire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d23aa765-4fc6-402f-9b49-5e55a90eec11",
+    "oracle_id": "9f8fe514-77ed-41b4-a6f3-c6f095bb97be",
+    "multiverse_ids": [],
+    "tcgplayer_id": 501734,
+    "name": "Tranquil Thicket",
+    "flavor_name": "Caras Galadhon",
+    "lang": "en",
+    "released_at": "2023-07-01",
+    "uri": "https://api.scryfall.com/cards/d23aa765-4fc6-402f-9b49-5e55a90eec11",
+    "scryfall_uri": "https://scryfall.com/card/pf23/2/tranquil-thicket?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.jpg?1738166899",
+      "normal": "https://cards.scryfall.io/normal/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.jpg?1738166899",
+      "large": "https://cards.scryfall.io/large/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.jpg?1738166899",
+      "png": "https://cards.scryfall.io/png/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.png?1738166899",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.jpg?1738166899",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d23aa765-4fc6-402f-9b49-5e55a90eec11.jpg?1738166899"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {G}.\nCycling {G} ({G}, Discard this card: Draw a card.)",
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Cycling"
+    ],
+    "produced_mana": [
+      "G"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set": "pf23",
+    "set_name": "MagicFest 2023",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apf23&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pf23?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d23aa765-4fc6-402f-9b49-5e55a90eec11/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9f8fe514-77ed-41b4-a6f3-c6f095bb97be&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Alayna Danner",
+    "artist_ids": [
+      "bb677b1a-ce51-4888-83d6-5a94de461ff9"
+    ],
+    "illustration_id": "6fe3f090-176e-4f91-ad61-e8f234b7e908",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "playpromo",
+      "universesbeyond"
+    ],
+    "edhrec_rank": 870,
+    "penny_rank": 1005,
+    "prices": {
+      "usd": "4.58",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTranquil%2BThicket",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTranquil%2BThicket",
+      "edhrec": "https://edhrec.com/route/?cc=Tranquil+Thicket"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F501734%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquil+Thicket&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tranquil+Thicket&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ab474dc9-945d-48cc-8c74-7e5bd59ef8b5",
+    "oracle_id": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 524118,
+    "name": "Reliquary Tower",
+    "lang": "en",
+    "released_at": "2023-10-13",
+    "uri": "https://api.scryfall.com/cards/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5",
+    "scryfall_uri": "https://scryfall.com/card/pf23/3/reliquary-tower?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.jpg?1761223174",
+      "normal": "https://cards.scryfall.io/normal/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.jpg?1761223174",
+      "large": "https://cards.scryfall.io/large/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.jpg?1761223174",
+      "png": "https://cards.scryfall.io/png/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.png?1761223174",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.jpg?1761223174",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5.jpg?1761223174"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "You have no maximum hand size.\n{T}: Add {C}.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "C"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set": "pf23",
+    "set_name": "MagicFest 2023",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apf23&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pf23?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ab474dc9-945d-48cc-8c74-7e5bd59ef8b5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac23e5b80-08d2-4e24-9908-fe2aa4f30f6f&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Carissa Susilo",
+    "artist_ids": [
+      "3b8ade17-3f98-484b-9e49-a694113d86d9"
+    ],
+    "illustration_id": "efdf5307-748d-4ec8-addb-a5ea28932867",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "playpromo"
+    ],
+    "edhrec_rank": 10,
+    "penny_rank": 3425,
+    "prices": {
+      "usd": "6.71",
+      "usd_foil": "21.40",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReliquary%2BTower",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReliquary%2BTower",
+      "edhrec": "https://edhrec.com/route/?cc=Reliquary+Tower"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524118%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reliquary+Tower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reliquary+Tower&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "cb5d295a-c098-4647-be70-bbb913ff6b70",
+    "oracle_id": "9167a585-b742-427d-b840-e024f6878a5c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 517556,
+    "name": "TARDIS",
+    "lang": "en",
+    "released_at": "2023-09-22",
+    "uri": "https://api.scryfall.com/cards/cb5d295a-c098-4647-be70-bbb913ff6b70",
+    "scryfall_uri": "https://scryfall.com/card/pf23/4/tardis?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.jpg?1738166797",
+      "normal": "https://cards.scryfall.io/normal/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.jpg?1738166797",
+      "large": "https://cards.scryfall.io/large/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.jpg?1738166797",
+      "png": "https://cards.scryfall.io/png/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.png?1738166797",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.jpg?1738166797",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/b/cb5d295a-c098-4647-be70-bbb913ff6b70.jpg?1738166797"
+    },
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Flying\nWhenever this Vehicle attacks, if you control a Time Lord, the next spell you cast this turn has cascade and you may planeswalk.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "power": "2",
+    "toughness": "4",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Flying",
+      "Crew"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "e4462460-caf0-4795-a60a-72fa877fd9b8",
+        "component": "combo_piece",
+        "name": "The First Doctor",
+        "type_line": "Legendary Creature — Time Lord Doctor",
+        "uri": "https://api.scryfall.com/cards/e4462460-caf0-4795-a60a-72fa877fd9b8"
+      },
+      {
+        "object": "related_card",
+        "id": "cb5d295a-c098-4647-be70-bbb913ff6b70",
+        "component": "combo_piece",
+        "name": "TARDIS",
+        "type_line": "Artifact — Vehicle",
+        "uri": "https://api.scryfall.com/cards/cb5d295a-c098-4647-be70-bbb913ff6b70"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set": "pf23",
+    "set_name": "MagicFest 2023",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/14b6bb0f-b54e-49c6-adfa-984129093046",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apf23&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pf23?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/cb5d295a-c098-4647-be70-bbb913ff6b70/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9167a585-b742-427d-b840-e024f6878a5c&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Ostrowski",
+    "artist_ids": [
+      "b5f1bd34-abee-40c9-99f7-a6ee089fb30b"
+    ],
+    "illustration_id": "69636926-6ef2-43da-b52c-81fc74b03037",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "surgefoil",
+      "universesbeyond"
+    ],
+    "edhrec_rank": 5774,
+    "prices": {
+      "usd": null,
+      "usd_foil": "6.95",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTARDIS",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTARDIS",
+      "edhrec": "https://edhrec.com/route/?cc=TARDIS"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517556%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=TARDIS&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=TARDIS&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

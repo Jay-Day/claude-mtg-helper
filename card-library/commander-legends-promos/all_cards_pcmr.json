@@ -1,0 +1,747 @@
+[
+  {
+    "object": "card",
+    "id": "345a4b89-1030-40b9-9e79-f3838f25946c",
+    "oracle_id": "49b9a3ac-d245-431a-bf40-64d1b8dc2b91",
+    "multiverse_ids": [],
+    "tcgplayer_id": 543423,
+    "name": "Keeper of the Accord",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/345a4b89-1030-40b9-9e79-f3838f25946c",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/27p/keeper-of-the-accord?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.jpg?1713049362",
+      "normal": "https://cards.scryfall.io/normal/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.jpg?1713049362",
+      "large": "https://cards.scryfall.io/large/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.jpg?1713049362",
+      "png": "https://cards.scryfall.io/png/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.png?1713049362",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.jpg?1713049362",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/345a4b89-1030-40b9-9e79-f3838f25946c.jpg?1713049362"
+    },
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "At the beginning of each opponent's end step, if that player controls more creatures than you, create a 1/1 white Soldier creature token.\nAt the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.",
+    "power": "3",
+    "toughness": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "345a4b89-1030-40b9-9e79-f3838f25946c",
+        "component": "combo_piece",
+        "name": "Keeper of the Accord",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/345a4b89-1030-40b9-9e79-f3838f25946c"
+      },
+      {
+        "object": "related_card",
+        "id": "23b4c4d7-5b53-417a-a61b-df56eec4a274",
+        "component": "token",
+        "name": "Soldier",
+        "type_line": "Token Creature — Soldier",
+        "uri": "https://api.scryfall.com/cards/23b4c4d7-5b53-417a-a61b-df56eec4a274"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/345a4b89-1030-40b9-9e79-f3838f25946c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A49b9a3ac-d245-431a-bf40-64d1b8dc2b91&unique=prints",
+    "collector_number": "27p",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Denman Rooke",
+    "artist_ids": [
+      "5eedbc4b-34a3-4ca5-b3f5-9ac2f6b6adf7"
+    ],
+    "illustration_id": "70a700df-262f-473b-a6d2-6f37729d8edf",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 1055,
+    "prices": {
+      "usd": "1.66",
+      "usd_foil": "2.79",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKeeper%2Bof%2Bthe%2BAccord",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKeeper%2Bof%2Bthe%2BAccord",
+      "edhrec": "https://edhrec.com/route/?cc=Keeper+of+the+Accord"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F543423%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Keeper+of+the+Accord&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Keeper+of+the+Accord&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "fecc2117-fff8-4852-b31b-b494648b1770",
+    "oracle_id": "d1cfbbcc-4aee-4400-b5a8-18713829ae72",
+    "multiverse_ids": [],
+    "tcgplayer_id": 541510,
+    "name": "Wrong Turn",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/fecc2117-fff8-4852-b31b-b494648b1770",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/107p/wrong-turn?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.jpg?1712946572",
+      "normal": "https://cards.scryfall.io/normal/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.jpg?1712946572",
+      "large": "https://cards.scryfall.io/large/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.jpg?1712946572",
+      "png": "https://cards.scryfall.io/png/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.png?1712946572",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.jpg?1712946572",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fecc2117-fff8-4852-b31b-b494648b1770.jpg?1712946572"
+    },
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Target opponent gains control of target creature. (If an attacking or blocking creature changes controllers, it's removed from combat.)",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/fecc2117-fff8-4852-b31b-b494648b1770/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1cfbbcc-4aee-4400-b5a8-18713829ae72&unique=prints",
+    "collector_number": "107p",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Its bewildered bellow was met with a stern \"shh.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Filip Burburan",
+    "artist_ids": [
+      "66082c3b-a623-4d34-be51-2475214b85d3"
+    ],
+    "illustration_id": "c01e19ba-2567-44fd-ab89-e232c0893a7a",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 5391,
+    "penny_rank": 12886,
+    "prices": {
+      "usd": "1.05",
+      "usd_foil": "0.78",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWrong%2BTurn",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWrong%2BTurn",
+      "edhrec": "https://edhrec.com/route/?cc=Wrong+Turn"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541510%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrong+Turn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wrong+Turn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8b0336f5-e6a2-49e0-8d8e-760adf7112b7",
+    "oracle_id": "1f438b8f-fe23-4f3b-ab2e-f6c33676c462",
+    "multiverse_ids": [],
+    "tcgplayer_id": 541511,
+    "name": "Opposition Agent",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/8b0336f5-e6a2-49e0-8d8e-760adf7112b7",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/141p/opposition-agent?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.jpg?1712946565",
+      "normal": "https://cards.scryfall.io/normal/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.jpg?1712946565",
+      "large": "https://cards.scryfall.io/large/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.jpg?1712946565",
+      "png": "https://cards.scryfall.io/png/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.png?1712946565",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.jpg?1712946565",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/b/8b0336f5-e6a2-49e0-8d8e-760adf7112b7.jpg?1712946565"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Rogue",
+    "oracle_text": "Flash\nYou control your opponents while they're searching their libraries.\nWhile an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them.",
+    "power": "3",
+    "toughness": "2",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": true,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8b0336f5-e6a2-49e0-8d8e-760adf7112b7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f438b8f-fe23-4f3b-ab2e-f6c33676c462&unique=prints",
+    "collector_number": "141p",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Scott Murphy",
+    "artist_ids": [
+      "07c7ac65-dfa6-4273-9c66-ec9d8f3e2226"
+    ],
+    "illustration_id": "4bafb864-ffab-4f00-a63d-a762b62736cb",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 432,
+    "prices": {
+      "usd": "32.87",
+      "usd_foil": "37.99",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOpposition%2BAgent",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOpposition%2BAgent",
+      "edhrec": "https://edhrec.com/route/?cc=Opposition+Agent"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F541511%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Opposition+Agent&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Opposition+Agent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "cdab94e2-f0a1-42ad-9b03-a780f3de6901",
+    "oracle_id": "cae166de-e681-40a0-83a8-3c17cf40e2fc",
+    "multiverse_ids": [],
+    "tcgplayer_id": 539160,
+    "name": "Commander's Plate",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/cdab94e2-f0a1-42ad-9b03-a780f3de6901",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/305p/commanders-plate?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.jpg?1713049334",
+      "normal": "https://cards.scryfall.io/normal/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.jpg?1713049334",
+      "large": "https://cards.scryfall.io/large/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.jpg?1713049334",
+      "png": "https://cards.scryfall.io/png/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.png?1713049334",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.jpg?1713049334",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cdab94e2-f0a1-42ad-9b03-a780f3de6901.jpg?1713049334"
+    },
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +3/+3 and has protection from each color that's not in your commander's color identity.\nEquip commander {3}\nEquip {5}",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/cdab94e2-f0a1-42ad-9b03-a780f3de6901/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acae166de-e681-40a0-83a8-3c17cf40e2fc&unique=prints",
+    "collector_number": "305p",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "Not all beautiful things are fragile.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Volkan Baǵa",
+    "artist_ids": [
+      "93bec3c0-0260-4d31-8064-5d01efb4153f"
+    ],
+    "illustration_id": "273d4079-dcbf-47cb-b8fa-cad9db31b89d",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 539,
+    "prices": {
+      "usd": "38.59",
+      "usd_foil": "39.50",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommander%2527s%2BPlate",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommander%2527s%2BPlate",
+      "edhrec": "https://edhrec.com/route/?cc=Commander%27s+Plate"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539160%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Commander%27s+Plate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Commander%27s+Plate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca",
+    "oracle_id": "7e8c2a18-e404-40ff-a9e0-ec3eeb6d576e",
+    "multiverse_ids": [],
+    "tcgplayer_id": 539161,
+    "name": "Command Beacon",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/349p/command-beacon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.jpg?1713049399",
+      "normal": "https://cards.scryfall.io/normal/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.jpg?1713049399",
+      "large": "https://cards.scryfall.io/large/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.jpg?1713049399",
+      "png": "https://cards.scryfall.io/png/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.png?1713049399",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.jpg?1713049399",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca.jpg?1713049399"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Put your commander into your hand from the command zone.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "C"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7796c3cd-1f0d-4c31-b4fa-5e5dab6a85ca/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e8c2a18-e404-40ff-a9e0-ec3eeb6d576e&unique=prints",
+    "collector_number": "349p",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"I gazed once into that light. Now it burns in my mind, forever denying me rest.\"\n—Riku of Two Reflections",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jonas De Ro",
+    "artist_ids": [
+      "561ebf9e-8d93-4b57-8156-8826d0c19601"
+    ],
+    "illustration_id": "6d5ef2b5-f565-4362-bbfb-8a1ea56d3ad8",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 195,
+    "prices": {
+      "usd": "8.33",
+      "usd_foil": "10.83",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommand%2BBeacon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommand%2BBeacon",
+      "edhrec": "https://edhrec.com/route/?cc=Command+Beacon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F539161%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Command+Beacon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Command+Beacon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "df72c35b-168a-45e3-b1f1-4f1c69d37eb1",
+    "oracle_id": "71c52bf5-2a5d-488e-8b15-7ef290e4b77d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 545715,
+    "name": "War Room",
+    "lang": "en",
+    "released_at": "2024-02-09",
+    "uri": "https://api.scryfall.com/cards/df72c35b-168a-45e3-b1f1-4f1c69d37eb1",
+    "scryfall_uri": "https://scryfall.com/card/pcmr/361p/war-room?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.jpg?1713050175",
+      "normal": "https://cards.scryfall.io/normal/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.jpg?1713050175",
+      "large": "https://cards.scryfall.io/large/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.jpg?1713050175",
+      "png": "https://cards.scryfall.io/png/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.png?1713050175",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.jpg?1713050175",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/df72c35b-168a-45e3-b1f1-4f1c69d37eb1.jpg?1713050175"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "C"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set": "pcmr",
+    "set_name": "Commander Legends Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcmr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pcmr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/df72c35b-168a-45e3-b1f1-4f1c69d37eb1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A71c52bf5-2a5d-488e-8b15-7ef290e4b77d&unique=prints",
+    "collector_number": "361p",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "A figure is moved on a map, and the tide of war changes.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Milivoj Ćeran",
+    "artist_ids": [
+      "1eced451-4da5-42bc-b49d-70c41246581f"
+    ],
+    "illustration_id": "9a6d83b1-a79f-4a83-a6d1-4efdb80ba4cf",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "promopack",
+      "stamped"
+    ],
+    "edhrec_rank": 142,
+    "prices": {
+      "usd": "4.53",
+      "usd_foil": "6.25",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWar%2BRoom",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWar%2BRoom",
+      "edhrec": "https://edhrec.com/route/?cc=War+Room"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545715%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=War+Room&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=War+Room&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

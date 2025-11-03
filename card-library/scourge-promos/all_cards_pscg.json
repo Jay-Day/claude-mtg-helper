@@ -1,0 +1,149 @@
+[
+  {
+    "object": "card",
+    "id": "a3ac85d2-186b-46f9-853e-6ee23210540a",
+    "oracle_id": "7b7b3a34-13ff-45d4-ad0d-ac4bad9d0581",
+    "multiverse_ids": [
+      97067
+    ],
+    "tcgplayer_id": 38399,
+    "cardmarket_id": 17715,
+    "name": "Soul Collector",
+    "lang": "en",
+    "released_at": "2003-05-17",
+    "uri": "https://api.scryfall.com/cards/a3ac85d2-186b-46f9-853e-6ee23210540a",
+    "scryfall_uri": "https://scryfall.com/card/pscg/74/soul-collector?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.jpg?1606849523",
+      "normal": "https://cards.scryfall.io/normal/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.jpg?1606849523",
+      "large": "https://cards.scryfall.io/large/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.jpg?1606849523",
+      "png": "https://cards.scryfall.io/png/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.png?1606849523",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.jpg?1606849523",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a3ac85d2-186b-46f9-853e-6ee23210540a.jpg?1606849523"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Creature — Vampire",
+    "oracle_text": "Flying\nWhenever a creature dealt damage by this creature this turn dies, return that card to the battlefield under your control.\nMorph {B}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "3",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying",
+      "Morph"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "a3ac85d2-186b-46f9-853e-6ee23210540a",
+        "component": "combo_piece",
+        "name": "Soul Collector",
+        "type_line": "Creature — Vampire",
+        "uri": "https://api.scryfall.com/cards/a3ac85d2-186b-46f9-853e-6ee23210540a"
+      },
+      {
+        "object": "related_card",
+        "id": "5430da88-b72e-4d64-bd3c-b21062cac1c2",
+        "component": "combo_piece",
+        "name": "Morph",
+        "type_line": "Creature",
+        "uri": "https://api.scryfall.com/cards/5430da88-b72e-4d64-bd3c-b21062cac1c2"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "48e783b7-4219-4348-aacb-86ea5c491af2",
+    "set": "pscg",
+    "set_name": "Scourge Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/48e783b7-4219-4348-aacb-86ea5c491af2",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apscg&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pscg?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a3ac85d2-186b-46f9-853e-6ee23210540a/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b7b3a34-13ff-45d4-ad0d-ac4bad9d0581&unique=prints",
+    "collector_number": "74",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Matthew D. Wilson",
+    "artist_ids": [
+      "4fbafd13-0cf9-42a1-870d-7f8ea276f140"
+    ],
+    "illustration_id": "fa258b91-2cf2-4a72-8c97-9ddc30314535",
+    "border_color": "black",
+    "frame": "1997",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "datestamped",
+      "prerelease"
+    ],
+    "edhrec_rank": 19642,
+    "penny_rank": 15166,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.31",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.95",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97067&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoul%2BCollector",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoul%2BCollector",
+      "edhrec": "https://edhrec.com/route/?cc=Soul+Collector"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38399%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=17715&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soul+Collector&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

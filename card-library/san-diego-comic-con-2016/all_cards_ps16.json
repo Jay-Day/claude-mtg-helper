@@ -1,0 +1,716 @@
+[
+  {
+    "object": "card",
+    "id": "b5d66fdf-a5a6-48f2-a097-c389e37dc092",
+    "oracle_id": "51eae7ff-fed9-4afe-8053-7690379449dd",
+    "multiverse_ids": [],
+    "tcgplayer_id": 120963,
+    "cardmarket_id": 291360,
+    "name": "Gideon, Ally of Zendikar",
+    "lang": "en",
+    "released_at": "2016-10-01",
+    "uri": "https://api.scryfall.com/cards/b5d66fdf-a5a6-48f2-a097-c389e37dc092",
+    "scryfall_uri": "https://scryfall.com/card/ps16/29/gideon-ally-of-zendikar?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.jpg?1561757882",
+      "normal": "https://cards.scryfall.io/normal/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.jpg?1561757882",
+      "large": "https://cards.scryfall.io/large/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.jpg?1561757882",
+      "png": "https://cards.scryfall.io/png/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.png?1561757882",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.jpg?1561757882",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b5d66fdf-a5a6-48f2-a097-c389e37dc092.jpg?1561757882"
+    },
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Gideon",
+    "oracle_text": "+1: Until end of turn, Gideon becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Create a 2/2 white Knight Ally creature token.\n−4: You get an emblem with \"Creatures you control get +1/+1.\"",
+    "loyalty": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "0419a202-6e32-4f0a-a032-72f6c00cae5e",
+        "component": "token",
+        "name": "Knight Ally",
+        "type_line": "Token Creature — Knight Ally",
+        "uri": "https://api.scryfall.com/cards/0419a202-6e32-4f0a-a032-72f6c00cae5e"
+      },
+      {
+        "object": "related_card",
+        "id": "b5d66fdf-a5a6-48f2-a097-c389e37dc092",
+        "component": "combo_piece",
+        "name": "Gideon, Ally of Zendikar",
+        "type_line": "Legendary Planeswalker — Gideon",
+        "uri": "https://api.scryfall.com/cards/b5d66fdf-a5a6-48f2-a097-c389e37dc092"
+      },
+      {
+        "object": "related_card",
+        "id": "cd8be597-f402-4fb0-9135-897c4a0946f6",
+        "component": "combo_piece",
+        "name": "Gideon, Ally of Zendikar Emblem",
+        "type_line": "Emblem — Gideon",
+        "uri": "https://api.scryfall.com/cards/cd8be597-f402-4fb0-9135-897c4a0946f6"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set": "ps16",
+    "set_name": "San Diego Comic-Con 2016",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps16?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b5d66fdf-a5a6-48f2-a097-c389e37dc092/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51eae7ff-fed9-4afe-8053-7690379449dd&unique=prints",
+    "collector_number": "29",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "0a60792f-5b3e-457a-abba-2695aca08b6e",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 8637,
+    "penny_rank": 468,
+    "prices": {
+      "usd": null,
+      "usd_foil": "11.76",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "15.32",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGideon%252C%2BAlly%2Bof%2BZendikar",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGideon%252C%2BAlly%2Bof%2BZendikar",
+      "edhrec": "https://edhrec.com/route/?cc=Gideon%2C+Ally+of+Zendikar"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F120963%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=291360&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gideon%2C+Ally+of+Zendikar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "40902291-96ad-410f-9ff9-bdd3d4cdea65",
+    "oracle_id": "ac29873e-28c3-4933-b427-61d34ff0afcd",
+    "multiverse_ids": [],
+    "tcgplayer_id": 120961,
+    "cardmarket_id": 291361,
+    "name": "Jace, Unraveler of Secrets",
+    "lang": "en",
+    "released_at": "2016-10-01",
+    "uri": "https://api.scryfall.com/cards/40902291-96ad-410f-9ff9-bdd3d4cdea65",
+    "scryfall_uri": "https://scryfall.com/card/ps16/69/jace-unraveler-of-secrets?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.jpg?1561756992",
+      "normal": "https://cards.scryfall.io/normal/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.jpg?1561756992",
+      "large": "https://cards.scryfall.io/large/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.jpg?1561756992",
+      "png": "https://cards.scryfall.io/png/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.png?1561756992",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.jpg?1561756992",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/0/40902291-96ad-410f-9ff9-bdd3d4cdea65.jpg?1561756992"
+    },
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Jace",
+    "oracle_text": "+1: Scry 1, then draw a card.\n−2: Return target creature to its owner's hand.\n−8: You get an emblem with \"Whenever an opponent casts their first spell each turn, counter that spell.\"",
+    "loyalty": "5",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "e5797bac-bf43-4c96-9f84-60db130a15bb",
+        "component": "combo_piece",
+        "name": "Jace, Unraveler of Secrets Emblem",
+        "type_line": "Emblem — Jace",
+        "uri": "https://api.scryfall.com/cards/e5797bac-bf43-4c96-9f84-60db130a15bb"
+      },
+      {
+        "object": "related_card",
+        "id": "40902291-96ad-410f-9ff9-bdd3d4cdea65",
+        "component": "combo_piece",
+        "name": "Jace, Unraveler of Secrets",
+        "type_line": "Legendary Planeswalker — Jace",
+        "uri": "https://api.scryfall.com/cards/40902291-96ad-410f-9ff9-bdd3d4cdea65"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set": "ps16",
+    "set_name": "San Diego Comic-Con 2016",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps16?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/40902291-96ad-410f-9ff9-bdd3d4cdea65/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac29873e-28c3-4933-b427-61d34ff0afcd&unique=prints",
+    "collector_number": "69",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "c88f3159-8f34-4b07-89ea-a8e12116365b",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 6261,
+    "penny_rank": 1757,
+    "prices": {
+      "usd": null,
+      "usd_foil": "15.40",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "23.22",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2BUnraveler%2Bof%2BSecrets",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2BUnraveler%2Bof%2BSecrets",
+      "edhrec": "https://edhrec.com/route/?cc=Jace%2C+Unraveler+of+Secrets"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F120961%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=291361&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+Unraveler+of+Secrets&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "fb6f35ba-d746-46bc-b68b-be5054c41042",
+    "oracle_id": "64a9a6b4-26b5-4d23-be86-85c54e9c4727",
+    "multiverse_ids": [],
+    "tcgplayer_id": 120960,
+    "cardmarket_id": 291358,
+    "name": "Liliana, the Last Hope",
+    "lang": "en",
+    "released_at": "2016-10-01",
+    "uri": "https://api.scryfall.com/cards/fb6f35ba-d746-46bc-b68b-be5054c41042",
+    "scryfall_uri": "https://scryfall.com/card/ps16/93/liliana-the-last-hope?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.jpg?1561758468",
+      "normal": "https://cards.scryfall.io/normal/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.jpg?1561758468",
+      "large": "https://cards.scryfall.io/large/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.jpg?1561758468",
+      "png": "https://cards.scryfall.io/png/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.png?1561758468",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.jpg?1561758468",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fb6f35ba-d746-46bc-b68b-be5054c41042.jpg?1561758468"
+    },
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Liliana",
+    "oracle_text": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Mill two cards, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
+    "loyalty": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "fb6f35ba-d746-46bc-b68b-be5054c41042",
+        "component": "combo_piece",
+        "name": "Liliana, the Last Hope",
+        "type_line": "Legendary Planeswalker — Liliana",
+        "uri": "https://api.scryfall.com/cards/fb6f35ba-d746-46bc-b68b-be5054c41042"
+      },
+      {
+        "object": "related_card",
+        "id": "fb88493c-293b-4b89-8571-712dcf110df5",
+        "component": "combo_piece",
+        "name": "Liliana, the Last Hope Emblem",
+        "type_line": "Emblem — Liliana",
+        "uri": "https://api.scryfall.com/cards/fb88493c-293b-4b89-8571-712dcf110df5"
+      },
+      {
+        "object": "related_card",
+        "id": "4cecd5c6-d6c8-4cd5-97a3-cddaf051af15",
+        "component": "token",
+        "name": "Zombie",
+        "type_line": "Token Creature — Zombie",
+        "uri": "https://api.scryfall.com/cards/4cecd5c6-d6c8-4cd5-97a3-cddaf051af15"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set": "ps16",
+    "set_name": "San Diego Comic-Con 2016",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps16?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/fb6f35ba-d746-46bc-b68b-be5054c41042/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64a9a6b4-26b5-4d23-be86-85c54e9c4727&unique=prints",
+    "collector_number": "93",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "01e2e2d5-2e3c-4bfb-bc0f-3523e4f338a0",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 6885,
+    "prices": {
+      "usd": null,
+      "usd_foil": "24.98",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "27.39",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+      "edhrec": "https://edhrec.com/route/?cc=Liliana%2C+the+Last+Hope"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F120960%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=291358&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana%2C+the+Last+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e8df73e7-c8a8-46bc-8448-f4d8179aeb4f",
+    "oracle_id": "0c2a9131-f3d7-4f71-8bcc-3c169574b2e3",
+    "multiverse_ids": [],
+    "tcgplayer_id": 120964,
+    "cardmarket_id": 291359,
+    "name": "Chandra, Flamecaller",
+    "lang": "en",
+    "released_at": "2016-10-01",
+    "uri": "https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f",
+    "scryfall_uri": "https://scryfall.com/card/ps16/104/chandra-flamecaller?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357",
+      "normal": "https://cards.scryfall.io/normal/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357",
+      "large": "https://cards.scryfall.io/large/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357",
+      "png": "https://cards.scryfall.io/png/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.png?1561758357",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f.jpg?1561758357"
+    },
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Planeswalker — Chandra",
+    "oracle_text": "+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra deals X damage to each creature.",
+    "loyalty": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "e4a9051b-f964-43f9-877b-ea4f17620ecb",
+        "component": "token",
+        "name": "Elemental",
+        "type_line": "Token Creature — Elemental",
+        "uri": "https://api.scryfall.com/cards/e4a9051b-f964-43f9-877b-ea4f17620ecb"
+      },
+      {
+        "object": "related_card",
+        "id": "e8df73e7-c8a8-46bc-8448-f4d8179aeb4f",
+        "component": "combo_piece",
+        "name": "Chandra, Flamecaller",
+        "type_line": "Legendary Planeswalker — Chandra",
+        "uri": "https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set": "ps16",
+    "set_name": "San Diego Comic-Con 2016",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps16?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e8df73e7-c8a8-46bc-8448-f4d8179aeb4f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c2a9131-f3d7-4f71-8bcc-3c169574b2e3&unique=prints",
+    "collector_number": "104",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "72ec0be7-9016-46ab-a922-e3c6db927028",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 7715,
+    "penny_rank": 2016,
+    "prices": {
+      "usd": null,
+      "usd_foil": "28.88",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "14.21",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BFlamecaller",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BFlamecaller",
+      "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Flamecaller"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F120964%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=291359&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Flamecaller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "539fcda3-158e-425d-9f00-b9f3420dba18",
+    "oracle_id": "b0f36bf7-bdde-4576-9eca-ec02d41326ab",
+    "multiverse_ids": [],
+    "tcgplayer_id": 120962,
+    "cardmarket_id": 291362,
+    "name": "Nissa, Voice of Zendikar",
+    "lang": "en",
+    "released_at": "2016-10-01",
+    "uri": "https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18",
+    "scryfall_uri": "https://scryfall.com/card/ps16/138/nissa-voice-of-zendikar?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144",
+      "normal": "https://cards.scryfall.io/normal/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144",
+      "large": "https://cards.scryfall.io/large/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144",
+      "png": "https://cards.scryfall.io/png/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.png?1561757144",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/539fcda3-158e-425d-9f00-b9f3420dba18.jpg?1561757144"
+    },
+    "mana_cost": "{1}{G}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Nissa",
+    "oracle_text": "+1: Create a 0/1 green Plant creature token.\n−2: Put a +1/+1 counter on each creature you control.\n−7: You gain X life and draw X cards, where X is the number of lands you control.",
+    "loyalty": "3",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "539fcda3-158e-425d-9f00-b9f3420dba18",
+        "component": "combo_piece",
+        "name": "Nissa, Voice of Zendikar",
+        "type_line": "Legendary Planeswalker — Nissa",
+        "uri": "https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18"
+      },
+      {
+        "object": "related_card",
+        "id": "48215cc8-e20a-4f70-9787-a20adbcc1661",
+        "component": "token",
+        "name": "Plant",
+        "type_line": "Token Creature — Plant",
+        "uri": "https://api.scryfall.com/cards/48215cc8-e20a-4f70-9787-a20adbcc1661"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set": "ps16",
+    "set_name": "San Diego Comic-Con 2016",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b522ae3f-4980-4685-9702-b3360e05ed61",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps16&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps16?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/539fcda3-158e-425d-9f00-b9f3420dba18/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0f36bf7-bdde-4576-9eca-ec02d41326ab&unique=prints",
+    "collector_number": "138",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "e6239e6a-f6cc-4720-b211-627c702e363c",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 4185,
+    "penny_rank": 1264,
+    "prices": {
+      "usd": null,
+      "usd_foil": "14.83",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "27.14",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BVoice%2Bof%2BZendikar",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BVoice%2Bof%2BZendikar",
+      "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Voice+of+Zendikar"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F120962%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=291362&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Voice+of+Zendikar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

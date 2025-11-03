@@ -1,0 +1,149 @@
+[
+  {
+    "object": "card",
+    "id": "28a3f78c-f7c1-4257-95cc-09d10022abba",
+    "oracle_id": "49e70569-b0bc-4705-927e-eb1504925210",
+    "multiverse_ids": [
+      97065
+    ],
+    "tcgplayer_id": 38398,
+    "cardmarket_id": 17713,
+    "name": "Silent Specter",
+    "lang": "en",
+    "released_at": "2002-09-28",
+    "uri": "https://api.scryfall.com/cards/28a3f78c-f7c1-4257-95cc-09d10022abba",
+    "scryfall_uri": "https://scryfall.com/card/pons/169/silent-specter?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.jpg?1606849599",
+      "normal": "https://cards.scryfall.io/normal/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.jpg?1606849599",
+      "large": "https://cards.scryfall.io/large/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.jpg?1606849599",
+      "png": "https://cards.scryfall.io/png/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.png?1606849599",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.jpg?1606849599",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/28a3f78c-f7c1-4257-95cc-09d10022abba.jpg?1606849599"
+    },
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Creature — Specter",
+    "oracle_text": "Flying\nWhenever this creature deals combat damage to a player, that player discards two cards.\nMorph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying",
+      "Morph"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "28a3f78c-f7c1-4257-95cc-09d10022abba",
+        "component": "combo_piece",
+        "name": "Silent Specter",
+        "type_line": "Creature — Specter",
+        "uri": "https://api.scryfall.com/cards/28a3f78c-f7c1-4257-95cc-09d10022abba"
+      },
+      {
+        "object": "related_card",
+        "id": "5430da88-b72e-4d64-bd3c-b21062cac1c2",
+        "component": "combo_piece",
+        "name": "Morph",
+        "type_line": "Creature",
+        "uri": "https://api.scryfall.com/cards/5430da88-b72e-4d64-bd3c-b21062cac1c2"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "b8385212-69cb-4b73-a013-d6d4e9efa261",
+    "set": "pons",
+    "set_name": "Onslaught Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/b8385212-69cb-4b73-a013-d6d4e9efa261",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apons&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pons?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/28a3f78c-f7c1-4257-95cc-09d10022abba/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A49e70569-b0bc-4705-927e-eb1504925210&unique=prints",
+    "collector_number": "169",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daren Bader",
+    "artist_ids": [
+      "7da1a585-c875-45e4-b322-5da9e8e1f651"
+    ],
+    "illustration_id": "47351eea-67ab-4c50-80f7-94406349393e",
+    "border_color": "black",
+    "frame": "1997",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "datestamped",
+      "prerelease"
+    ],
+    "edhrec_rank": 20844,
+    "penny_rank": 15139,
+    "prices": {
+      "usd": null,
+      "usd_foil": "2.20",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.37",
+      "tix": null
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97065&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSilent%2BSpecter",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSilent%2BSpecter",
+      "edhrec": "https://edhrec.com/route/?cc=Silent+Specter"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38398%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=17713&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silent+Specter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

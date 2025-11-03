@@ -1,0 +1,788 @@
+[
+  {
+    "object": "card",
+    "id": "4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+    "oracle_id": "01fbdd79-5c23-43d5-8e95-492f8e994956",
+    "multiverse_ids": [],
+    "tcgplayer_id": 78525,
+    "name": "Angel // Demon",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+    "scryfall_uri": "https://scryfall.com/card/phel/1%E2%98%85/angel-demon?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Angel // Token Creature — Demon",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Angel",
+        "mana_cost": "",
+        "type_line": "Token Creature — Angel",
+        "oracle_text": "Flying",
+        "colors": [
+          "W"
+        ],
+        "power": "4",
+        "toughness": "4",
+        "artist": "James Ryman",
+        "artist_id": "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5",
+        "illustration_id": "9ad41f32-8ef8-4ac4-9a19-575cd1212306",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "normal": "https://cards.scryfall.io/normal/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "large": "https://cards.scryfall.io/large/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "png": "https://cards.scryfall.io/png/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.png?1561757080",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Demon",
+        "mana_cost": "",
+        "type_line": "Token Creature — Demon",
+        "oracle_text": "Flying",
+        "colors": [
+          "B"
+        ],
+        "power": "5",
+        "toughness": "5",
+        "artist": "Karl Kopinski",
+        "artist_id": "0fad2c48-a56e-4a0b-b512-224f6f238f20",
+        "illustration_id": "57de4783-8a3f-406d-866b-ed1f7d96e753",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "normal": "https://cards.scryfall.io/normal/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "large": "https://cards.scryfall.io/large/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "png": "https://cards.scryfall.io/png/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.png?1561757080",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4ac2b852-92b2-4daf-9d1f-f71d3b27c241/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01fbdd79-5c23-43d5-8e95-492f8e994956&unique=prints",
+    "collector_number": "1★",
+    "digital": false,
+    "rarity": "common",
+    "artist": "James Ryman & Karl Kopinski",
+    "artist_ids": [
+      "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5",
+      "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+    ],
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "prices": {
+      "usd": "0.46",
+      "usd_foil": "0.86",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAngel%2B%252F%252F%2BDemon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAngel%2B%252F%252F%2BDemon",
+      "edhrec": "https://edhrec.com/route/?cc=Angel+%2F%2F+Demon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F78525%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angel+%2F%2F+Demon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Angel+%2F%2F+Demon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "446f001c-2164-4c3e-8017-5f4ea33e5d08",
+    "oracle_id": "216cb26e-8da9-478b-bfbc-8030f7adee72",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77444,
+    "cardmarket_id": 254774,
+    "name": "Avacyn, Angel of Hope",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/446f001c-2164-4c3e-8017-5f4ea33e5d08",
+    "scryfall_uri": "https://scryfall.com/card/phel/6/avacyn-angel-of-hope?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.jpg?1687648668",
+      "normal": "https://cards.scryfall.io/normal/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.jpg?1687648668",
+      "large": "https://cards.scryfall.io/large/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.jpg?1687648668",
+      "png": "https://cards.scryfall.io/png/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.png?1687648668",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.jpg?1687648668",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/446f001c-2164-4c3e-8017-5f4ea33e5d08.jpg?1687648668"
+    },
+    "mana_cost": "{5}{W}{W}{W}",
+    "cmc": 8.0,
+    "type_line": "Legendary Creature — Angel",
+    "oracle_text": "Flying, vigilance, indestructible\nOther permanents you control have indestructible.",
+    "power": "8",
+    "toughness": "8",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Indestructible",
+      "Vigilance"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/446f001c-2164-4c3e-8017-5f4ea33e5d08/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A216cb26e-8da9-478b-bfbc-8030f7adee72&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Jason Chan",
+    "artist_ids": [
+      "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+    ],
+    "illustration_id": "e4cb9f8d-fdf1-47ef-a393-a5b3f76d9e00",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 763,
+    "prices": {
+      "usd": "31.00",
+      "usd_foil": "500.00",
+      "usd_etched": null,
+      "eur": "9.03",
+      "eur_foil": "120.63",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAvacyn%252C%2BAngel%2Bof%2BHope",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAvacyn%252C%2BAngel%2Bof%2BHope",
+      "edhrec": "https://edhrec.com/route/?cc=Avacyn%2C+Angel+of+Hope"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77444%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=254774&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avacyn%2C+Angel+of+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0d3c824c-c20c-4708-897f-3796ec4245f9",
+    "oracle_id": "f759d112-76db-4091-a22b-b9f19ab6fa5f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77448,
+    "cardmarket_id": 254770,
+    "name": "Griselbrand",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/0d3c824c-c20c-4708-897f-3796ec4245f9",
+    "scryfall_uri": "https://scryfall.com/card/phel/106/griselbrand?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.jpg?1687648693",
+      "normal": "https://cards.scryfall.io/normal/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.jpg?1687648693",
+      "large": "https://cards.scryfall.io/large/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.jpg?1687648693",
+      "png": "https://cards.scryfall.io/png/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.png?1687648693",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.jpg?1687648693",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d3c824c-c20c-4708-897f-3796ec4245f9.jpg?1687648693"
+    },
+    "mana_cost": "{4}{B}{B}{B}{B}",
+    "cmc": 8.0,
+    "type_line": "Legendary Creature — Demon",
+    "oracle_text": "Flying, lifelink\nPay 7 life: Draw seven cards.",
+    "power": "7",
+    "toughness": "7",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying",
+      "Lifelink"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "banned",
+      "oathbreaker": "banned",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0d3c824c-c20c-4708-897f-3796ec4245f9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af759d112-76db-4091-a22b-b9f19ab6fa5f&unique=prints",
+    "collector_number": "106",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "\"Avacyn emerged from the broken Helvault, but her freedom came at a price—him.\"\n—Thalia, Knight-Cathar",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Igor Kieryluk",
+    "artist_ids": [
+      "9c3e9d17-509f-485c-9360-46d897ce716b"
+    ],
+    "illustration_id": "a2c096a2-1971-44ca-b89d-f2f1fa3f595f",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "prices": {
+      "usd": "8.60",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "2.46",
+      "eur_foil": "89.34",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGriselbrand",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGriselbrand",
+      "edhrec": "https://edhrec.com/route/?cc=Griselbrand"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77448%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=254770&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Griselbrand&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c1995b46-cd88-470d-89ec-37ffb6596348",
+    "oracle_id": "e8f213eb-58db-4fab-bd0b-2acfd0a86ac3",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77445,
+    "cardmarket_id": 254773,
+    "name": "Bruna, Light of Alabaster",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/c1995b46-cd88-470d-89ec-37ffb6596348",
+    "scryfall_uri": "https://scryfall.com/card/phel/208/bruna-light-of-alabaster?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698",
+      "normal": "https://cards.scryfall.io/normal/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698",
+      "large": "https://cards.scryfall.io/large/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698",
+      "png": "https://cards.scryfall.io/png/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.png?1687648698",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1995b46-cd88-470d-89ec-37ffb6596348.jpg?1687648698"
+    },
+    "mana_cost": "{3}{W}{W}{U}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Angel",
+    "oracle_text": "Flying, vigilance\nWhenever Bruna attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c1995b46-cd88-470d-89ec-37ffb6596348/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8f213eb-58db-4fab-bd0b-2acfd0a86ac3&unique=prints",
+    "collector_number": "208",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Winona Nelson",
+    "artist_ids": [
+      "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+    ],
+    "illustration_id": "467aa396-f9ac-4939-bb7c-37b3412cdf6d",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 9317,
+    "penny_rank": 10478,
+    "prices": {
+      "usd": "5.25",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.67",
+      "eur_foil": "81.94",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBruna%252C%2BLight%2Bof%2BAlabaster",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBruna%252C%2BLight%2Bof%2BAlabaster",
+      "edhrec": "https://edhrec.com/route/?cc=Bruna%2C+Light+of+Alabaster"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77445%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=254773&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bruna%2C+Light+of+Alabaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "95a576a5-e873-4f27-93df-d363fc5945d0",
+    "oracle_id": "66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77446,
+    "cardmarket_id": 254772,
+    "name": "Gisela, Blade of Goldnight",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/95a576a5-e873-4f27-93df-d363fc5945d0",
+    "scryfall_uri": "https://scryfall.com/card/phel/209/gisela-blade-of-goldnight?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.jpg?1687648704",
+      "normal": "https://cards.scryfall.io/normal/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.jpg?1687648704",
+      "large": "https://cards.scryfall.io/large/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.jpg?1687648704",
+      "png": "https://cards.scryfall.io/png/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.png?1687648704",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.jpg?1687648704",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95a576a5-e873-4f27-93df-d363fc5945d0.jpg?1687648704"
+    },
+    "mana_cost": "{4}{R}{W}{W}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Angel",
+    "oracle_text": "Flying, first strike\nIf a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.\nIf a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "First strike"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/95a576a5-e873-4f27-93df-d363fc5945d0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5&unique=prints",
+    "collector_number": "209",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Jason Chan",
+    "artist_ids": [
+      "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+    ],
+    "illustration_id": "ddf4595c-2fbd-41f1-bf45-f096c9c4154a",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 1043,
+    "penny_rank": 3772,
+    "prices": {
+      "usd": "6.86",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "1.02",
+      "eur_foil": "98.82",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGisela%252C%2BBlade%2Bof%2BGoldnight",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGisela%252C%2BBlade%2Bof%2BGoldnight",
+      "edhrec": "https://edhrec.com/route/?cc=Gisela%2C+Blade+of+Goldnight"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77446%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=254772&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gisela%2C+Blade+of+Goldnight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5d7b3923-7740-433e-bfbb-1898923eafe8",
+    "oracle_id": "e55104e2-4900-48de-b288-d3e6abd5e09e",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77447,
+    "cardmarket_id": 254771,
+    "name": "Sigarda, Host of Herons",
+    "lang": "en",
+    "released_at": "2012-04-28",
+    "uri": "https://api.scryfall.com/cards/5d7b3923-7740-433e-bfbb-1898923eafe8",
+    "scryfall_uri": "https://scryfall.com/card/phel/210/sigarda-host-of-herons?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.jpg?1687648709",
+      "normal": "https://cards.scryfall.io/normal/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.jpg?1687648709",
+      "large": "https://cards.scryfall.io/large/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.jpg?1687648709",
+      "png": "https://cards.scryfall.io/png/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.png?1687648709",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.jpg?1687648709",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5d7b3923-7740-433e-bfbb-1898923eafe8.jpg?1687648709"
+    },
+    "mana_cost": "{2}{G}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Angel",
+    "oracle_text": "Flying, hexproof\nSpells and abilities your opponents control can't cause you to sacrifice permanents.",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Hexproof"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": true,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set": "phel",
+    "set_name": "Open the Helvault",
+    "set_type": "memorabilia",
+    "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5d7b3923-7740-433e-bfbb-1898923eafe8/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae55104e2-4900-48de-b288-d3e6abd5e09e&unique=prints",
+    "collector_number": "210",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "Great devotion yields great reward.",
+    "card_back_id": "597b79b3-7d77-4261-871a-60dd17403388",
+    "artist": "Chris Rahn",
+    "artist_ids": [
+      "7742047e-0f80-4c0f-a530-d07460165e86"
+    ],
+    "illustration_id": "6148d251-479b-4510-b79b-90fe624bc025",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "instore"
+    ],
+    "edhrec_rank": 5677,
+    "penny_rank": 6329,
+    "prices": {
+      "usd": "11.59",
+      "usd_foil": "89.98",
+      "usd_etched": null,
+      "eur": "0.70",
+      "eur_foil": "90.69",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSigarda%252C%2BHost%2Bof%2BHerons",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSigarda%252C%2BHost%2Bof%2BHerons",
+      "edhrec": "https://edhrec.com/route/?cc=Sigarda%2C+Host+of+Herons"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77447%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=254771&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sigarda%2C+Host+of+Herons&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

@@ -1,0 +1,773 @@
+[
+  {
+    "object": "card",
+    "id": "c4703ce4-5c40-4436-bff2-8e3458f55b47",
+    "oracle_id": "a6b38874-c8be-47f7-a656-ba49ec9e967f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 92978,
+    "cardmarket_id": 269131,
+    "name": "Xathrid Necromancer",
+    "lang": "en",
+    "released_at": "2014-08-01",
+    "uri": "https://api.scryfall.com/cards/c4703ce4-5c40-4436-bff2-8e3458f55b47",
+    "scryfall_uri": "https://scryfall.com/card/pm14/A12/xathrid-necromancer?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.jpg?1733012365",
+      "normal": "https://cards.scryfall.io/normal/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.jpg?1733012365",
+      "large": "https://cards.scryfall.io/large/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.jpg?1733012365",
+      "png": "https://cards.scryfall.io/png/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.png?1733012365",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.jpg?1733012365",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c4703ce4-5c40-4436-bff2-8e3458f55b47.jpg?1733012365"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Wizard",
+    "oracle_text": "Whenever this creature or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "c4703ce4-5c40-4436-bff2-8e3458f55b47",
+        "component": "combo_piece",
+        "name": "Xathrid Necromancer",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/c4703ce4-5c40-4436-bff2-8e3458f55b47"
+      },
+      {
+        "object": "related_card",
+        "id": "07d82a8d-4c57-401f-92c3-8fd9ba20174a",
+        "component": "token",
+        "name": "Zombie",
+        "type_line": "Token Creature — Zombie",
+        "uri": "https://api.scryfall.com/cards/07d82a8d-4c57-401f-92c3-8fd9ba20174a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c4703ce4-5c40-4436-bff2-8e3458f55b47/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6b38874-c8be-47f7-a656-ba49ec9e967f&unique=prints",
+    "collector_number": "A12",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "colorpie",
+    "flavor_text": "\"My commands shall echo forever in their dusty skulls.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Maciej Kuciara",
+    "artist_ids": [
+      "f1d0c5e9-747f-4885-a5cd-a2ea42a792ef"
+    ],
+    "illustration_id": "43e9e080-6f1c-482a-aaf4-be20c2288374",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "resale"
+    ],
+    "edhrec_rank": 8842,
+    "penny_rank": 5623,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.27",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.94",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DXathrid%2BNecromancer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DXathrid%2BNecromancer",
+      "edhrec": "https://edhrec.com/route/?cc=Xathrid+Necromancer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F92978%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=269131&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Xathrid+Necromancer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "1c44ce9f-27fc-4c28-bc59-4cea9e46ce85",
+    "oracle_id": "c7dd0614-e11e-4b6b-a2cb-9904e457148f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77299,
+    "cardmarket_id": 263164,
+    "name": "Hive Stirrings",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85",
+    "scryfall_uri": "https://scryfall.com/card/pm14/21%E2%98%85/hive-stirrings?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.jpg?1605361730",
+      "normal": "https://cards.scryfall.io/normal/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.jpg?1605361730",
+      "large": "https://cards.scryfall.io/large/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.jpg?1605361730",
+      "png": "https://cards.scryfall.io/png/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.png?1605361730",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.jpg?1605361730",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/c/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85.jpg?1605361730"
+    },
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Create two 1/1 colorless Sliver creature tokens.",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "68353af0-9cd0-43c0-9b39-8f904c618e3a",
+        "component": "token",
+        "name": "Sliver",
+        "type_line": "Token Creature — Sliver",
+        "uri": "https://api.scryfall.com/cards/68353af0-9cd0-43c0-9b39-8f904c618e3a"
+      },
+      {
+        "object": "related_card",
+        "id": "1c44ce9f-27fc-4c28-bc59-4cea9e46ce85",
+        "component": "combo_piece",
+        "name": "Hive Stirrings",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1c44ce9f-27fc-4c28-bc59-4cea9e46ce85/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7dd0614-e11e-4b6b-a2cb-9904e457148f&unique=prints",
+    "collector_number": "21★",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Johann Bodin",
+    "artist_ids": [
+      "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+    ],
+    "illustration_id": "5133a672-6809-41c9-9087-1e6d77458c0f",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "gameday"
+    ],
+    "edhrec_rank": 15003,
+    "penny_rank": 10798,
+    "prices": {
+      "usd": "0.70",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": "0.19",
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHive%2BStirrings",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHive%2BStirrings",
+      "edhrec": "https://edhrec.com/route/?cc=Hive+Stirrings"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77299%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263164&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hive+Stirrings&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "20968c42-d63b-4b2a-ae47-f986f3c35fdc",
+    "oracle_id": "cd04b735-125f-47b5-a68e-ab2a008100b9",
+    "multiverse_ids": [],
+    "tcgplayer_id": 71286,
+    "cardmarket_id": 263215,
+    "name": "Colossal Whale",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/20968c42-d63b-4b2a-ae47-f986f3c35fdc",
+    "scryfall_uri": "https://scryfall.com/card/pm14/48%E2%98%85/colossal-whale?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.jpg?1605361731",
+      "normal": "https://cards.scryfall.io/normal/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.jpg?1605361731",
+      "large": "https://cards.scryfall.io/large/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.jpg?1605361731",
+      "png": "https://cards.scryfall.io/png/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.png?1605361731",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.jpg?1605361731",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20968c42-d63b-4b2a-ae47-f986f3c35fdc.jpg?1605361731"
+    },
+    "mana_cost": "{5}{U}{U}",
+    "cmc": 7.0,
+    "type_line": "Creature — Whale",
+    "oracle_text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever this creature attacks, you may exile target creature defending player controls until this creature leaves the battlefield. (That creature returns under its owner's control.)",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Landwalk",
+      "Islandwalk"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/20968c42-d63b-4b2a-ae47-f986f3c35fdc/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd04b735-125f-47b5-a68e-ab2a008100b9&unique=prints",
+    "collector_number": "48★",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Erica Yang",
+    "artist_ids": [
+      "fcc15b63-b280-49da-9fee-f862824a2fc8"
+    ],
+    "illustration_id": "becf3c3b-dfdd-495d-a31e-e34bbda280a4",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "datestamped",
+      "release"
+    ],
+    "edhrec_rank": 11397,
+    "penny_rank": 15653,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.30",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.13",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DColossal%2BWhale",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DColossal%2BWhale",
+      "edhrec": "https://edhrec.com/route/?cc=Colossal+Whale"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F71286%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263215&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Colossal+Whale&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e4d3dbc0-bc12-437b-968f-ceb8edc9de50",
+    "oracle_id": "84b55e6b-5ce3-49af-95fe-46c029e0260c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 77300,
+    "cardmarket_id": 263146,
+    "name": "Goblin Diplomats",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/e4d3dbc0-bc12-437b-968f-ceb8edc9de50",
+    "scryfall_uri": "https://scryfall.com/card/pm14/141%E2%98%85/goblin-diplomats?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.jpg?1605361733",
+      "normal": "https://cards.scryfall.io/normal/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.jpg?1605361733",
+      "large": "https://cards.scryfall.io/large/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.jpg?1605361733",
+      "png": "https://cards.scryfall.io/png/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.png?1605361733",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.jpg?1605361733",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e4d3dbc0-bc12-437b-968f-ceb8edc9de50.jpg?1605361733"
+    },
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Goblin",
+    "oracle_text": "{T}: Each creature attacks this turn if able.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e4d3dbc0-bc12-437b-968f-ceb8edc9de50/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A84b55e6b-5ce3-49af-95fe-46c029e0260c&unique=prints",
+    "collector_number": "141★",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jesper Ejsing",
+    "artist_ids": [
+      "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+    ],
+    "illustration_id": "7fce43cb-8d65-453f-a3e5-d4c0d6512845",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "gameday"
+    ],
+    "edhrec_rank": 10022,
+    "penny_rank": 13120,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.70",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.74",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BDiplomats",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BDiplomats",
+      "edhrec": "https://edhrec.com/route/?cc=Goblin+Diplomats"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F77300%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263146&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Diplomats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3ddea611-856c-41e4-909a-80826f3dfca1",
+    "oracle_id": "52e8ec03-23ed-43a0-bce2-ad0cd5c4d737",
+    "multiverse_ids": [],
+    "tcgplayer_id": 71283,
+    "cardmarket_id": 263148,
+    "name": "Megantic Sliver",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/3ddea611-856c-41e4-909a-80826f3dfca1",
+    "scryfall_uri": "https://scryfall.com/card/pm14/185%E2%98%85/megantic-sliver?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.jpg?1605361735",
+      "normal": "https://cards.scryfall.io/normal/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.jpg?1605361735",
+      "large": "https://cards.scryfall.io/large/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.jpg?1605361735",
+      "png": "https://cards.scryfall.io/png/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.png?1605361735",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.jpg?1605361735",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3ddea611-856c-41e4-909a-80826f3dfca1.jpg?1605361735"
+    },
+    "mana_cost": "{5}{G}",
+    "cmc": 6.0,
+    "type_line": "Creature — Sliver",
+    "oracle_text": "Sliver creatures you control get +3/+3.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3ddea611-856c-41e4-909a-80826f3dfca1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52e8ec03-23ed-43a0-bce2-ad0cd5c4d737&unique=prints",
+    "collector_number": "185★",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "flavor_text": "Even the thrums, the lowliest of slivers, become deadly in its presence.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lucas Graciano",
+    "artist_ids": [
+      "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+    ],
+    "illustration_id": "ceaaa463-77be-4670-9da3-ddecb54036d6",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "datestamped",
+      "prerelease"
+    ],
+    "edhrec_rank": 5628,
+    "penny_rank": 9934,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.86",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.33",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMegantic%2BSliver",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMegantic%2BSliver",
+      "edhrec": "https://edhrec.com/route/?cc=Megantic+Sliver"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F71283%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263148&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Megantic+Sliver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0784c211-18d3-460a-aacc-272449a7dbbc",
+    "oracle_id": "255d752a-8251-4e4c-99d6-4a1648de1474",
+    "multiverse_ids": [],
+    "tcgplayer_id": 71224,
+    "cardmarket_id": 263147,
+    "name": "Ratchet Bomb",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/0784c211-18d3-460a-aacc-272449a7dbbc",
+    "scryfall_uri": "https://scryfall.com/card/pm14/215%E2%98%85/ratchet-bomb?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.jpg?1605361734",
+      "normal": "https://cards.scryfall.io/normal/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.jpg?1605361734",
+      "large": "https://cards.scryfall.io/large/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.jpg?1605361734",
+      "png": "https://cards.scryfall.io/png/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.png?1605361734",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.jpg?1605361734",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/0784c211-18d3-460a-aacc-272449a7dbbc.jpg?1605361734"
+    },
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Put a charge counter on this artifact.\n{T}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set": "pm14",
+    "set_name": "Magic 2014 Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/bddcd9c6-a02d-4f17-b903-3630b580d33b",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apm14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pm14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0784c211-18d3-460a-aacc-272449a7dbbc/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A255d752a-8251-4e4c-99d6-4a1648de1474&unique=prints",
+    "collector_number": "215★",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "colorpie",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Dan Murayama Scott",
+    "artist_ids": [
+      "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+    ],
+    "illustration_id": "69b1f566-0215-4e61-8148-cf316db70d73",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "buyabox"
+    ],
+    "edhrec_rank": 12846,
+    "penny_rank": 516,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.01",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.69",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRatchet%2BBomb",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRatchet%2BBomb",
+      "edhrec": "https://edhrec.com/route/?cc=Ratchet+Bomb"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F71224%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263147&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ratchet+Bomb&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

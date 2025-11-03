@@ -1,0 +1,3256 @@
+[
+  {
+    "object": "card",
+    "id": "6052dc6a-8f70-4c3b-b111-b213c29a7a7f",
+    "oracle_id": "eab0d8b9-c66f-402f-b259-f46f15cefd78",
+    "multiverse_ids": [
+      456589
+    ],
+    "mtgo_id": 69965,
+    "tcgplayer_id": 175241,
+    "cardmarket_id": 363611,
+    "name": "Elspeth, Knight-Errant",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/6052dc6a-8f70-4c3b-b111-b213c29a7a7f",
+    "scryfall_uri": "https://scryfall.com/card/med/GR1/elspeth-knight-errant?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.jpg?1572373240",
+      "normal": "https://cards.scryfall.io/normal/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.jpg?1572373240",
+      "large": "https://cards.scryfall.io/large/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.jpg?1572373240",
+      "png": "https://cards.scryfall.io/png/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.png?1572373240",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.jpg?1572373240",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/6052dc6a-8f70-4c3b-b111-b213c29a7a7f.jpg?1572373240"
+    },
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Elspeth",
+    "oracle_text": "+1: Create a 1/1 white Soldier creature token.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
+    "loyalty": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6a62619f-a432-4314-b018-7eacda9252a7",
+        "component": "combo_piece",
+        "name": "Elspeth, Knight-Errant Emblem",
+        "type_line": "Emblem — Elspeth",
+        "uri": "https://api.scryfall.com/cards/6a62619f-a432-4314-b018-7eacda9252a7"
+      },
+      {
+        "object": "related_card",
+        "id": "6052dc6a-8f70-4c3b-b111-b213c29a7a7f",
+        "component": "combo_piece",
+        "name": "Elspeth, Knight-Errant",
+        "type_line": "Legendary Planeswalker — Elspeth",
+        "uri": "https://api.scryfall.com/cards/6052dc6a-8f70-4c3b-b111-b213c29a7a7f"
+      },
+      {
+        "object": "related_card",
+        "id": "de12b41f-abc6-4057-bda2-ea1d5e60321b",
+        "component": "token",
+        "name": "Soldier",
+        "type_line": "Token Creature — Soldier",
+        "uri": "https://api.scryfall.com/cards/de12b41f-abc6-4057-bda2-ea1d5e60321b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6052dc6a-8f70-4c3b-b111-b213c29a7a7f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeab0d8b9-c66f-402f-b259-f46f15cefd78&unique=prints",
+    "collector_number": "GR1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Zack Stella",
+    "artist_ids": [
+      "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+    ],
+    "illustration_id": "1f858ba9-16f3-40d6-8758-f538c3d7a85a",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 5323,
+    "penny_rank": 2661,
+    "prices": {
+      "usd": null,
+      "usd_foil": "37.45",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "48.49",
+      "tix": "7.48"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456589&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BKnight-Errant",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BKnight-Errant",
+      "edhrec": "https://edhrec.com/route/?cc=Elspeth%2C+Knight-Errant"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175241%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363611&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69965?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9",
+    "oracle_id": "060209fa-4b7d-4e08-bf8b-8759bba5641b",
+    "multiverse_ids": [
+      460122
+    ],
+    "mtgo_id": 71572,
+    "tcgplayer_id": 183443,
+    "cardmarket_id": 368642,
+    "name": "Karn, Scion of Urza",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9",
+    "scryfall_uri": "https://scryfall.com/card/med/RA1/karn-scion-of-urza?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.jpg?1576010863",
+      "normal": "https://cards.scryfall.io/normal/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.jpg?1576010863",
+      "large": "https://cards.scryfall.io/large/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.jpg?1576010863",
+      "png": "https://cards.scryfall.io/png/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.png?1576010863",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.jpg?1576010863",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9.jpg?1576010863"
+    },
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Karn",
+    "oracle_text": "+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.\n−1: Put a card you own with a silver counter on it from exile into your hand.\n−2: Create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"",
+    "loyalty": "5",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9",
+        "component": "combo_piece",
+        "name": "Karn, Scion of Urza",
+        "type_line": "Legendary Planeswalker — Karn",
+        "uri": "https://api.scryfall.com/cards/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9"
+      },
+      {
+        "object": "related_card",
+        "id": "4263a49c-82b7-4f36-899f-11914bf3275a",
+        "component": "token",
+        "name": "Construct",
+        "type_line": "Token Artifact Creature — Construct",
+        "uri": "https://api.scryfall.com/cards/4263a49c-82b7-4f36-899f-11914bf3275a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0cd43687-0ae1-47e9-b0d6-2af56bdbe2e9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A060209fa-4b7d-4e08-bf8b-8759bba5641b&unique=prints",
+    "collector_number": "RA1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Adam Paquette",
+    "artist_ids": [
+      "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+    ],
+    "illustration_id": "8e7600ec-bb93-4981-83c5-8af1429df4b1",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 4772,
+    "prices": {
+      "usd": null,
+      "usd_foil": "16.29",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "16.01",
+      "tix": "1.01"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460122&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BScion%2Bof%2BUrza",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BScion%2Bof%2BUrza",
+      "edhrec": "https://edhrec.com/route/?cc=Karn%2C+Scion+of+Urza"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183443%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368642&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71572?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "411e8228-b594-4af8-8008-c6c8c815d254",
+    "oracle_id": "eecb3047-a563-441a-9175-200421981ac3",
+    "multiverse_ids": [
+      463942
+    ],
+    "mtgo_id": 72200,
+    "tcgplayer_id": 188898,
+    "cardmarket_id": 372919,
+    "name": "Ugin, the Spirit Dragon",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/411e8228-b594-4af8-8008-c6c8c815d254",
+    "scryfall_uri": "https://scryfall.com/card/med/WS1/ugin-the-spirit-dragon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.jpg?1572373257",
+      "normal": "https://cards.scryfall.io/normal/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.jpg?1572373257",
+      "large": "https://cards.scryfall.io/large/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.jpg?1572373257",
+      "png": "https://cards.scryfall.io/png/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.png?1572373257",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.jpg?1572373257",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/411e8228-b594-4af8-8008-c6c8c815d254.jpg?1572373257"
+    },
+    "mana_cost": "{8}",
+    "cmc": 8.0,
+    "type_line": "Legendary Planeswalker — Ugin",
+    "oracle_text": "+2: Ugin deals 3 damage to any target.\n−X: Exile each permanent with mana value X or less that's one or more colors.\n−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+    "loyalty": "7",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "banned",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/411e8228-b594-4af8-8008-c6c8c815d254/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeecb3047-a563-441a-9175-200421981ac3&unique=prints",
+    "collector_number": "WS1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rahn",
+    "artist_ids": [
+      "7742047e-0f80-4c0f-a530-d07460165e86"
+    ],
+    "illustration_id": "8d2f6330-4309-4427-994f-fc3cd4041939",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 1355,
+    "penny_rank": 140,
+    "prices": {
+      "usd": null,
+      "usd_foil": "45.73",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "54.62",
+      "tix": "4.11"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463942&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUgin%252C%2Bthe%2BSpirit%2BDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUgin%252C%2Bthe%2BSpirit%2BDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Ugin%2C+the+Spirit+Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188898%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372919&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72200?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7ffc77bf-21e7-4e1e-a635-d6b61213b3e1",
+    "oracle_id": "64a9a6b4-26b5-4d23-be86-85c54e9c4727",
+    "multiverse_ids": [
+      456590
+    ],
+    "mtgo_id": 69975,
+    "tcgplayer_id": 175244,
+    "cardmarket_id": 363614,
+    "name": "Liliana, the Last Hope",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1",
+    "scryfall_uri": "https://scryfall.com/card/med/GR2/liliana-the-last-hope?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.jpg?1572373297",
+      "normal": "https://cards.scryfall.io/normal/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.jpg?1572373297",
+      "large": "https://cards.scryfall.io/large/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.jpg?1572373297",
+      "png": "https://cards.scryfall.io/png/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.png?1572373297",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.jpg?1572373297",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/f/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1.jpg?1572373297"
+    },
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Liliana",
+    "oracle_text": "+1: Up to one target creature gets -2/-1 until your next turn.\n−2: Mill two cards, then you may return a creature card from your graveyard to your hand.\n−7: You get an emblem with \"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.\"",
+    "loyalty": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "7ffc77bf-21e7-4e1e-a635-d6b61213b3e1",
+        "component": "combo_piece",
+        "name": "Liliana, the Last Hope",
+        "type_line": "Legendary Planeswalker — Liliana",
+        "uri": "https://api.scryfall.com/cards/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1"
+      },
+      {
+        "object": "related_card",
+        "id": "5a23656c-3af3-49e3-ad15-aa1056027df7",
+        "component": "combo_piece",
+        "name": "Liliana, the Last Hope Emblem",
+        "type_line": "Emblem — Liliana",
+        "uri": "https://api.scryfall.com/cards/5a23656c-3af3-49e3-ad15-aa1056027df7"
+      },
+      {
+        "object": "related_card",
+        "id": "0645e544-e395-4ab5-add2-ba46f6c2ad51",
+        "component": "token",
+        "name": "Zombie",
+        "type_line": "Token Creature — Zombie",
+        "uri": "https://api.scryfall.com/cards/0645e544-e395-4ab5-add2-ba46f6c2ad51"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7ffc77bf-21e7-4e1e-a635-d6b61213b3e1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64a9a6b4-26b5-4d23-be86-85c54e9c4727&unique=prints",
+    "collector_number": "GR2",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kieran Yanner",
+    "artist_ids": [
+      "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+    ],
+    "illustration_id": "faafc389-5280-4586-a633-2e40e4aed9a9",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 6885,
+    "prices": {
+      "usd": null,
+      "usd_foil": "15.73",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "19.70",
+      "tix": "8.00"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456590&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2Bthe%2BLast%2BHope",
+      "edhrec": "https://edhrec.com/route/?cc=Liliana%2C+the+Last+Hope"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175244%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363614&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69975?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0d237175-0bda-44df-af32-ca963d0a0520",
+    "oracle_id": "f88be051-36ae-407e-bd5a-2b029c26414e",
+    "multiverse_ids": [
+      460123
+    ],
+    "mtgo_id": 71564,
+    "tcgplayer_id": 183444,
+    "cardmarket_id": 368643,
+    "name": "Tamiyo, the Moon Sage",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/0d237175-0bda-44df-af32-ca963d0a0520",
+    "scryfall_uri": "https://scryfall.com/card/med/RA2/tamiyo-the-moon-sage?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.jpg?1576010865",
+      "normal": "https://cards.scryfall.io/normal/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.jpg?1576010865",
+      "large": "https://cards.scryfall.io/large/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.jpg?1576010865",
+      "png": "https://cards.scryfall.io/png/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.png?1576010865",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.jpg?1576010865",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d237175-0bda-44df-af32-ca963d0a0520.jpg?1576010865"
+    },
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Tamiyo",
+    "oracle_text": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n−2: Draw a card for each tapped creature target player controls.\n−8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
+    "loyalty": "4",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "a23051f6-b2e6-42b2-86ea-ed8535ba0922",
+        "component": "combo_piece",
+        "name": "Tamiyo, the Moon Sage Emblem",
+        "type_line": "Emblem — Tamiyo",
+        "uri": "https://api.scryfall.com/cards/a23051f6-b2e6-42b2-86ea-ed8535ba0922"
+      },
+      {
+        "object": "related_card",
+        "id": "0d237175-0bda-44df-af32-ca963d0a0520",
+        "component": "combo_piece",
+        "name": "Tamiyo, the Moon Sage",
+        "type_line": "Legendary Planeswalker — Tamiyo",
+        "uri": "https://api.scryfall.com/cards/0d237175-0bda-44df-af32-ca963d0a0520"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0d237175-0bda-44df-af32-ca963d0a0520/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af88be051-36ae-407e-bd5a-2b029c26414e&unique=prints",
+    "collector_number": "RA2",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lius Lasahido",
+    "artist_ids": [
+      "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+    ],
+    "illustration_id": "17a12dcd-8700-41fc-83e8-fa0a5c96c4cb",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 4840,
+    "penny_rank": 3083,
+    "prices": {
+      "usd": null,
+      "usd_foil": "39.30",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "45.14",
+      "tix": "0.84"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460123&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTamiyo%252C%2Bthe%2BMoon%2BSage",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTamiyo%252C%2Bthe%2BMoon%2BSage",
+      "edhrec": "https://edhrec.com/route/?cc=Tamiyo%2C+the+Moon+Sage"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183444%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368643&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71564?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "071421ba-b54a-4510-9065-ace62368d3cb",
+    "oracle_id": "813c19f5-3580-488d-9eee-c7a563def532",
+    "multiverse_ids": [
+      463943
+    ],
+    "mtgo_id": 72202,
+    "tcgplayer_id": 188901,
+    "cardmarket_id": 372918,
+    "name": "Gideon Blackblade",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/071421ba-b54a-4510-9065-ace62368d3cb",
+    "scryfall_uri": "https://scryfall.com/card/med/WS2/gideon-blackblade?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.jpg?1572373333",
+      "normal": "https://cards.scryfall.io/normal/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.jpg?1572373333",
+      "large": "https://cards.scryfall.io/large/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.jpg?1572373333",
+      "png": "https://cards.scryfall.io/png/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.png?1572373333",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.jpg?1572373333",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/071421ba-b54a-4510-9065-ace62368d3cb.jpg?1572373333"
+    },
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Gideon",
+    "oracle_text": "During your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent.",
+    "loyalty": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/071421ba-b54a-4510-9065-ace62368d3cb/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A813c19f5-3580-488d-9eee-c7a563def532&unique=prints",
+    "collector_number": "WS2",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kieran Yanner",
+    "artist_ids": [
+      "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+    ],
+    "illustration_id": "239f90b8-f44b-4b28-96cd-dc0a538b2aa7",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7729,
+    "penny_rank": 2383,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.93",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "7.66",
+      "tix": "1.74"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGideon%2BBlackblade",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGideon%2BBlackblade",
+      "edhrec": "https://edhrec.com/route/?cc=Gideon+Blackblade"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188901%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372918&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72202?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "260ecd56-a86f-49e7-81e0-919231aa9945",
+    "oracle_id": "add0f7e7-8990-4fd1-8ac7-8115f7802912",
+    "multiverse_ids": [
+      456591
+    ],
+    "mtgo_id": 69969,
+    "tcgplayer_id": 175245,
+    "cardmarket_id": 363615,
+    "name": "Daretti, Ingenious Iconoclast",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/260ecd56-a86f-49e7-81e0-919231aa9945",
+    "scryfall_uri": "https://scryfall.com/card/med/GR3/daretti-ingenious-iconoclast?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.jpg?1572373344",
+      "normal": "https://cards.scryfall.io/normal/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.jpg?1572373344",
+      "large": "https://cards.scryfall.io/large/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.jpg?1572373344",
+      "png": "https://cards.scryfall.io/png/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.png?1572373344",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.jpg?1572373344",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/260ecd56-a86f-49e7-81e0-919231aa9945.jpg?1572373344"
+    },
+    "mana_cost": "{1}{B}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Daretti",
+    "oracle_text": "+1: Create a 1/1 colorless Construct artifact creature token with defender.\n−1: You may sacrifice an artifact. If you do, destroy target artifact or creature.\n−6: Choose target artifact card in a graveyard or artifact on the battlefield. Create three tokens that are copies of it.",
+    "loyalty": "3",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "260ecd56-a86f-49e7-81e0-919231aa9945",
+        "component": "combo_piece",
+        "name": "Daretti, Ingenious Iconoclast",
+        "type_line": "Legendary Planeswalker — Daretti",
+        "uri": "https://api.scryfall.com/cards/260ecd56-a86f-49e7-81e0-919231aa9945"
+      },
+      {
+        "object": "related_card",
+        "id": "277c8c56-11a6-4aff-aaee-b9572cc7c6ef",
+        "component": "token",
+        "name": "Construct",
+        "type_line": "Token Artifact Creature — Construct",
+        "uri": "https://api.scryfall.com/cards/277c8c56-11a6-4aff-aaee-b9572cc7c6ef"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/260ecd56-a86f-49e7-81e0-919231aa9945/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aadd0f7e7-8990-4fd1-8ac7-8115f7802912&unique=prints",
+    "collector_number": "GR3",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Svetlin Velinov",
+    "artist_ids": [
+      "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+    ],
+    "illustration_id": "538838d6-0268-41c7-a50d-8a862c7a53f7",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 9929,
+    "prices": {
+      "usd": null,
+      "usd_foil": "11.47",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "19.17",
+      "tix": "13.10"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456591&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDaretti%252C%2BIngenious%2BIconoclast",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDaretti%252C%2BIngenious%2BIconoclast",
+      "edhrec": "https://edhrec.com/route/?cc=Daretti%2C+Ingenious+Iconoclast"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175245%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363615&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69969?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ab6ccbe1-937e-405b-afd5-333abfd5c6a5",
+    "oracle_id": "c151e8b7-4b28-4f03-8a81-9bf623f893d7",
+    "multiverse_ids": [
+      460124
+    ],
+    "mtgo_id": 71560,
+    "tcgplayer_id": 183445,
+    "cardmarket_id": 368644,
+    "name": "Sorin Markov",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/ab6ccbe1-937e-405b-afd5-333abfd5c6a5",
+    "scryfall_uri": "https://scryfall.com/card/med/RA3/sorin-markov?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.jpg?1576010866",
+      "normal": "https://cards.scryfall.io/normal/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.jpg?1576010866",
+      "large": "https://cards.scryfall.io/large/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.jpg?1576010866",
+      "png": "https://cards.scryfall.io/png/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.png?1576010866",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.jpg?1576010866",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab6ccbe1-937e-405b-afd5-333abfd5c6a5.jpg?1576010866"
+    },
+    "mana_cost": "{3}{B}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Legendary Planeswalker — Sorin",
+    "oracle_text": "+2: Sorin Markov deals 2 damage to any target and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
+    "loyalty": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ab6ccbe1-937e-405b-afd5-333abfd5c6a5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac151e8b7-4b28-4f03-8a81-9bf623f893d7&unique=prints",
+    "collector_number": "RA3",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kieran Yanner",
+    "artist_ids": [
+      "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+    ],
+    "illustration_id": "621dd825-fc8c-42c3-8971-c10eb480ef47",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 3491,
+    "penny_rank": 1727,
+    "prices": {
+      "usd": null,
+      "usd_foil": "40.93",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "42.26",
+      "tix": "0.86"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460124&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSorin%2BMarkov",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSorin%2BMarkov",
+      "edhrec": "https://edhrec.com/route/?cc=Sorin+Markov"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183445%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368644&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71560?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a5d1f66f-75b5-4a9b-8b98-f237f065de9c",
+    "oracle_id": "7f77a84e-5a4b-4834-aefa-3cecc175ae8e",
+    "multiverse_ids": [
+      463944
+    ],
+    "mtgo_id": 72194,
+    "tcgplayer_id": 188896,
+    "cardmarket_id": 372920,
+    "name": "Jace, the Mind Sculptor",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/a5d1f66f-75b5-4a9b-8b98-f237f065de9c",
+    "scryfall_uri": "https://scryfall.com/card/med/WS3/jace-the-mind-sculptor?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.jpg?1565357603",
+      "normal": "https://cards.scryfall.io/normal/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.jpg?1565357603",
+      "large": "https://cards.scryfall.io/large/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.jpg?1565357603",
+      "png": "https://cards.scryfall.io/png/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.png?1565357603",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.jpg?1565357603",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a5d1f66f-75b5-4a9b-8b98-f237f065de9c.jpg?1565357603"
+    },
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Jace",
+    "oracle_text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles their hand into their library.",
+    "loyalty": "3",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a5d1f66f-75b5-4a9b-8b98-f237f065de9c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f77a84e-5a4b-4834-aefa-3cecc175ae8e&unique=prints",
+    "collector_number": "WS3",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rallis",
+    "artist_ids": [
+      "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    ],
+    "illustration_id": "d058819e-a796-48a6-9802-8b6d975dcf06",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 3242,
+    "prices": {
+      "usd": null,
+      "usd_foil": "28.13",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "60.69",
+      "tix": "2.54"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463944&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BMind%2BSculptor",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BMind%2BSculptor",
+      "edhrec": "https://edhrec.com/route/?cc=Jace%2C+the+Mind+Sculptor"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188896%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372920&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72194?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "605a6165-bf78-486b-b186-6a55e0ffe28f",
+    "oracle_id": "05e9b55e-6329-48ec-b7d7-24c6b9692244",
+    "multiverse_ids": [
+      456592
+    ],
+    "mtgo_id": 69967,
+    "tcgplayer_id": 175247,
+    "cardmarket_id": 363617,
+    "name": "Nicol Bolas, Planeswalker",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/605a6165-bf78-486b-b186-6a55e0ffe28f",
+    "scryfall_uri": "https://scryfall.com/card/med/GR4/nicol-bolas-planeswalker?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.jpg?1572373362",
+      "normal": "https://cards.scryfall.io/normal/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.jpg?1572373362",
+      "large": "https://cards.scryfall.io/large/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.jpg?1572373362",
+      "png": "https://cards.scryfall.io/png/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.png?1572373362",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.jpg?1572373362",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/605a6165-bf78-486b-b186-6a55e0ffe28f.jpg?1572373362"
+    },
+    "mana_cost": "{4}{U}{B}{B}{R}",
+    "cmc": 8.0,
+    "type_line": "Legendary Planeswalker — Bolas",
+    "oracle_text": "+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.\n−9: Nicol Bolas deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents of their choice.",
+    "loyalty": "5",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/605a6165-bf78-486b-b186-6a55e0ffe28f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05e9b55e-6329-48ec-b7d7-24c6b9692244&unique=prints",
+    "collector_number": "GR4",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Slawomir Maniak",
+    "artist_ids": [
+      "d887bc66-2779-416c-a1ff-d8720242063e"
+    ],
+    "illustration_id": "73456446-df09-4325-b90c-93d7b5723420",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 6798,
+    "penny_rank": 1660,
+    "prices": {
+      "usd": null,
+      "usd_foil": "23.38",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "22.46",
+      "tix": "4.32"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456592&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BPlaneswalker",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BPlaneswalker",
+      "edhrec": "https://edhrec.com/route/?cc=Nicol+Bolas%2C+Planeswalker"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175247%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363617&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69967?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f4da5284-52a4-4999-9e95-9495cee5cade",
+    "oracle_id": "a56c5ca5-70eb-4d5f-8116-2acbe5f5a3cb",
+    "multiverse_ids": [
+      460125
+    ],
+    "mtgo_id": 71570,
+    "tcgplayer_id": 183446,
+    "cardmarket_id": 368645,
+    "name": "Jaya Ballard",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/f4da5284-52a4-4999-9e95-9495cee5cade",
+    "scryfall_uri": "https://scryfall.com/card/med/RA4/jaya-ballard?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.jpg?1576010867",
+      "normal": "https://cards.scryfall.io/normal/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.jpg?1576010867",
+      "large": "https://cards.scryfall.io/large/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.jpg?1576010867",
+      "png": "https://cards.scryfall.io/png/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.png?1576010867",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.jpg?1576010867",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f4da5284-52a4-4999-9e95-9495cee5cade.jpg?1576010867"
+    },
+    "mana_cost": "{2}{R}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Jaya",
+    "oracle_text": "+1: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.\n+1: Discard up to three cards, then draw that many cards.\n−8: You get an emblem with \"You may cast instant and sorcery spells from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.\"",
+    "loyalty": "5",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "R"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "a02ffa48-e414-493c-af51-1400913f8af4",
+        "component": "combo_piece",
+        "name": "Jaya Ballard Emblem",
+        "type_line": "Emblem — Jaya",
+        "uri": "https://api.scryfall.com/cards/a02ffa48-e414-493c-af51-1400913f8af4"
+      },
+      {
+        "object": "related_card",
+        "id": "f4da5284-52a4-4999-9e95-9495cee5cade",
+        "component": "combo_piece",
+        "name": "Jaya Ballard",
+        "type_line": "Legendary Planeswalker — Jaya",
+        "uri": "https://api.scryfall.com/cards/f4da5284-52a4-4999-9e95-9495cee5cade"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f4da5284-52a4-4999-9e95-9495cee5cade/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa56c5ca5-70eb-4d5f-8116-2acbe5f5a3cb&unique=prints",
+    "collector_number": "RA4",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kieran Yanner",
+    "artist_ids": [
+      "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+    ],
+    "illustration_id": "59533a02-be83-4f1f-ad9e-b4c19e7252a8",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7578,
+    "penny_rank": 4467,
+    "prices": {
+      "usd": null,
+      "usd_foil": "6.54",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "9.07",
+      "tix": "0.79"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460125&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJaya%2BBallard",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJaya%2BBallard",
+      "edhrec": "https://edhrec.com/route/?cc=Jaya+Ballard"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183446%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368645&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71570?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "bfacd218-8854-436b-94df-e56256eeae64",
+    "oracle_id": "4aeafdf3-7828-4114-8c74-3bd46357caec",
+    "multiverse_ids": [
+      463945
+    ],
+    "mtgo_id": 72206,
+    "tcgplayer_id": 188902,
+    "cardmarket_id": 372917,
+    "name": "Tezzeret the Seeker",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/bfacd218-8854-436b-94df-e56256eeae64",
+    "scryfall_uri": "https://scryfall.com/card/med/WS4/tezzeret-the-seeker?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.jpg?1572373370",
+      "normal": "https://cards.scryfall.io/normal/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.jpg?1572373370",
+      "large": "https://cards.scryfall.io/large/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.jpg?1572373370",
+      "png": "https://cards.scryfall.io/png/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.png?1572373370",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.jpg?1572373370",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bfacd218-8854-436b-94df-e56256eeae64.jpg?1572373370"
+    },
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Tezzeret",
+    "oracle_text": "+1: Untap up to two target artifacts.\n−X: Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.\n−5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",
+    "loyalty": "4",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/bfacd218-8854-436b-94df-e56256eeae64/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4aeafdf3-7828-4114-8c74-3bd46357caec&unique=prints",
+    "collector_number": "WS4",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Victor Adame Minguez",
+    "artist_ids": [
+      "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+    ],
+    "illustration_id": "87169290-9929-4241-bc92-7130cf2a3e1d",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 1437,
+    "penny_rank": 5147,
+    "prices": {
+      "usd": null,
+      "usd_foil": "41.61",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "45.86",
+      "tix": "1.76"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463945&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTezzeret%2Bthe%2BSeeker",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTezzeret%2Bthe%2BSeeker",
+      "edhrec": "https://edhrec.com/route/?cc=Tezzeret+the+Seeker"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188902%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372917&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72206?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f3e5c13e-2e85-4618-a349-1f79dc918390",
+    "oracle_id": "f29f4c73-5e5c-4341-8582-2873fbe5c5a3",
+    "multiverse_ids": [
+      456593
+    ],
+    "mtgo_id": 69973,
+    "tcgplayer_id": 175246,
+    "cardmarket_id": 363616,
+    "name": "Ral, Izzet Viceroy",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/f3e5c13e-2e85-4618-a349-1f79dc918390",
+    "scryfall_uri": "https://scryfall.com/card/med/GR5/ral-izzet-viceroy?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.jpg?1576795958",
+      "normal": "https://cards.scryfall.io/normal/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.jpg?1576795958",
+      "large": "https://cards.scryfall.io/large/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.jpg?1576795958",
+      "png": "https://cards.scryfall.io/png/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.png?1576795958",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.jpg?1576795958",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f3e5c13e-2e85-4618-a349-1f79dc918390.jpg?1576795958"
+    },
+    "mana_cost": "{3}{U}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Ral",
+    "oracle_text": "+1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.\n−3: Ral deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.\n−8: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\"",
+    "loyalty": "5",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "18a2790c-0dcd-4564-bd5e-7d453d1c4edf",
+        "component": "combo_piece",
+        "name": "Ral, Izzet Viceroy Emblem",
+        "type_line": "Emblem — Ral",
+        "uri": "https://api.scryfall.com/cards/18a2790c-0dcd-4564-bd5e-7d453d1c4edf"
+      },
+      {
+        "object": "related_card",
+        "id": "f3e5c13e-2e85-4618-a349-1f79dc918390",
+        "component": "combo_piece",
+        "name": "Ral, Izzet Viceroy",
+        "type_line": "Legendary Planeswalker — Ral",
+        "uri": "https://api.scryfall.com/cards/f3e5c13e-2e85-4618-a349-1f79dc918390"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f3e5c13e-2e85-4618-a349-1f79dc918390/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af29f4c73-5e5c-4341-8582-2873fbe5c5a3&unique=prints",
+    "collector_number": "GR5",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daniel Ljunggren",
+    "artist_ids": [
+      "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+    ],
+    "illustration_id": "a784411a-e36e-4a74-bba8-a63427e2a8e6",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 15028,
+    "penny_rank": 2463,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.91",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "8.51",
+      "tix": "0.64"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456593&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRal%252C%2BIzzet%2BViceroy",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRal%252C%2BIzzet%2BViceroy",
+      "edhrec": "https://edhrec.com/route/?cc=Ral%2C+Izzet+Viceroy"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175246%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363616&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69973?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "596f6812-2cee-4f0b-b1e5-ddf1f57c3f95",
+    "oracle_id": "a612bd38-069f-4bdc-9aa6-c172435e3841",
+    "multiverse_ids": [
+      460126
+    ],
+    "mtgo_id": 71562,
+    "tcgplayer_id": 183447,
+    "cardmarket_id": 368646,
+    "name": "Ajani, Mentor of Heroes",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95",
+    "scryfall_uri": "https://scryfall.com/card/med/RA5/ajani-mentor-of-heroes?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.jpg?1576010868",
+      "normal": "https://cards.scryfall.io/normal/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.jpg?1576010868",
+      "large": "https://cards.scryfall.io/large/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.jpg?1576010868",
+      "png": "https://cards.scryfall.io/png/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.png?1576010868",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.jpg?1576010868",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95.jpg?1576010868"
+    },
+    "mana_cost": "{3}{G}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Ajani",
+    "oracle_text": "+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.\n+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−8: You gain 100 life.",
+    "loyalty": "4",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/596f6812-2cee-4f0b-b1e5-ddf1f57c3f95/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa612bd38-069f-4bdc-9aa6-c172435e3841&unique=prints",
+    "collector_number": "RA5",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Bram Sels",
+    "artist_ids": [
+      "2e90d3c1-e8ac-45c7-9d5a-63385c1a384d"
+    ],
+    "illustration_id": "9220eb14-5c8c-453d-b491-f33d31d71e65",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7612,
+    "penny_rank": 5624,
+    "prices": {
+      "usd": null,
+      "usd_foil": "20.64",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "20.23",
+      "tix": "0.89"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460126&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BMentor%2Bof%2BHeroes",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BMentor%2Bof%2BHeroes",
+      "edhrec": "https://edhrec.com/route/?cc=Ajani%2C+Mentor+of+Heroes"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183447%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368646&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71562?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "543515aa-4b8c-437c-89aa-56dd57a4a6d5",
+    "oracle_id": "ef9a8bdc-3361-440d-89f6-0bf5ff7a09e8",
+    "multiverse_ids": [
+      463946
+    ],
+    "mtgo_id": 72198,
+    "tcgplayer_id": 188903,
+    "cardmarket_id": 372916,
+    "name": "Garruk, Apex Predator",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/543515aa-4b8c-437c-89aa-56dd57a4a6d5",
+    "scryfall_uri": "https://scryfall.com/card/med/WS5/garruk-apex-predator?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.jpg?1572373411",
+      "normal": "https://cards.scryfall.io/normal/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.jpg?1572373411",
+      "large": "https://cards.scryfall.io/large/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.jpg?1572373411",
+      "png": "https://cards.scryfall.io/png/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.png?1572373411",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.jpg?1572373411",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/543515aa-4b8c-437c-89aa-56dd57a4a6d5.jpg?1572373411"
+    },
+    "mana_cost": "{5}{B}{G}",
+    "cmc": 7.0,
+    "type_line": "Legendary Planeswalker — Garruk",
+    "oracle_text": "+1: Destroy another target planeswalker.\n+1: Create a 3/3 black Beast creature token with deathtouch.\n−3: Destroy target creature. You gain life equal to its toughness.\n−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
+    "loyalty": "5",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "2daf6591-606e-4a36-b279-02aad7e1110c",
+        "component": "token",
+        "name": "Beast",
+        "type_line": "Token Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/2daf6591-606e-4a36-b279-02aad7e1110c"
+      },
+      {
+        "object": "related_card",
+        "id": "543515aa-4b8c-437c-89aa-56dd57a4a6d5",
+        "component": "combo_piece",
+        "name": "Garruk, Apex Predator",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/543515aa-4b8c-437c-89aa-56dd57a4a6d5"
+      },
+      {
+        "object": "related_card",
+        "id": "0aaa3cf1-b6ef-4067-aa25-e99cf3bd82a8",
+        "component": "combo_piece",
+        "name": "Garruk, Apex Predator Emblem",
+        "type_line": "Emblem — Garruk",
+        "uri": "https://api.scryfall.com/cards/0aaa3cf1-b6ef-4067-aa25-e99cf3bd82a8"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/543515aa-4b8c-437c-89aa-56dd57a4a6d5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef9a8bdc-3361-440d-89f6-0bf5ff7a09e8&unique=prints",
+    "collector_number": "WS5",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Victor Adame Minguez",
+    "artist_ids": [
+      "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+    ],
+    "illustration_id": "4ef53a0f-f259-45b6-b846-4e8539bc656a",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 8412,
+    "penny_rank": 5136,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.57",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "10.52",
+      "tix": "0.91"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463946&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BApex%2BPredator",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BApex%2BPredator",
+      "edhrec": "https://edhrec.com/route/?cc=Garruk%2C+Apex+Predator"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188903%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372916&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72198?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "829e38d8-2421-4a16-9bbd-c3f9e927247b",
+    "oracle_id": "f2f165b6-ef0a-42ad-9352-ba68be8248b0",
+    "multiverse_ids": [
+      456594
+    ],
+    "mtgo_id": 69971,
+    "tcgplayer_id": 175242,
+    "cardmarket_id": 363612,
+    "name": "Teferi, Hero of Dominaria",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/829e38d8-2421-4a16-9bbd-c3f9e927247b",
+    "scryfall_uri": "https://scryfall.com/card/med/GR6/teferi-hero-of-dominaria?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.jpg?1576795953",
+      "normal": "https://cards.scryfall.io/normal/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.jpg?1576795953",
+      "large": "https://cards.scryfall.io/large/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.jpg?1576795953",
+      "png": "https://cards.scryfall.io/png/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.png?1576795953",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.jpg?1576795953",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/829e38d8-2421-4a16-9bbd-c3f9e927247b.jpg?1576795953"
+    },
+    "mana_cost": "{3}{W}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Teferi",
+    "oracle_text": "+1: Draw a card. At the beginning of the next end step, untap up to two lands.\n−3: Put target nonland permanent into its owner's library third from the top.\n−8: You get an emblem with \"Whenever you draw a card, exile target permanent an opponent controls.\"",
+    "loyalty": "4",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "3caeb24f-b4b3-4ede-9bee-4b4272b2bbcd",
+        "component": "combo_piece",
+        "name": "Teferi, Hero of Dominaria Emblem",
+        "type_line": "Emblem — Teferi",
+        "uri": "https://api.scryfall.com/cards/3caeb24f-b4b3-4ede-9bee-4b4272b2bbcd"
+      },
+      {
+        "object": "related_card",
+        "id": "829e38d8-2421-4a16-9bbd-c3f9e927247b",
+        "component": "combo_piece",
+        "name": "Teferi, Hero of Dominaria",
+        "type_line": "Legendary Planeswalker — Teferi",
+        "uri": "https://api.scryfall.com/cards/829e38d8-2421-4a16-9bbd-c3f9e927247b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/829e38d8-2421-4a16-9bbd-c3f9e927247b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2f165b6-ef0a-42ad-9352-ba68be8248b0&unique=prints",
+    "collector_number": "GR6",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Yongjae Choi",
+    "artist_ids": [
+      "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+    ],
+    "illustration_id": "53b25682-7ed6-4ffb-8077-cf2260e5cc80",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 4065,
+    "prices": {
+      "usd": null,
+      "usd_foil": "50.59",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "53.84",
+      "tix": "5.88"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456594&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTeferi%252C%2BHero%2Bof%2BDominaria",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTeferi%252C%2BHero%2Bof%2BDominaria",
+      "edhrec": "https://edhrec.com/route/?cc=Teferi%2C+Hero+of+Dominaria"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175242%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363612&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69971?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5335ad67-5145-48f5-b5af-19996c4d11c0",
+    "oracle_id": "9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8",
+    "multiverse_ids": [
+      460127
+    ],
+    "mtgo_id": 71568,
+    "tcgplayer_id": 183448,
+    "cardmarket_id": 368647,
+    "name": "Dack Fayden",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/5335ad67-5145-48f5-b5af-19996c4d11c0",
+    "scryfall_uri": "https://scryfall.com/card/med/RA6/dack-fayden?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.jpg?1576010870",
+      "normal": "https://cards.scryfall.io/normal/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.jpg?1576010870",
+      "large": "https://cards.scryfall.io/large/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.jpg?1576010870",
+      "png": "https://cards.scryfall.io/png/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.png?1576010870",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.jpg?1576010870",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/5335ad67-5145-48f5-b5af-19996c4d11c0.jpg?1576010870"
+    },
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Dack",
+    "oracle_text": "+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.\n−6: You get an emblem with \"Whenever you cast a spell that targets one or more permanents, gain control of those permanents.\"",
+    "loyalty": "3",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "c80136c2-7230-4fe5-b7dc-37ee32f1bd8e",
+        "component": "combo_piece",
+        "name": "Dack Fayden Emblem",
+        "type_line": "Emblem — Dack",
+        "uri": "https://api.scryfall.com/cards/c80136c2-7230-4fe5-b7dc-37ee32f1bd8e"
+      },
+      {
+        "object": "related_card",
+        "id": "5335ad67-5145-48f5-b5af-19996c4d11c0",
+        "component": "combo_piece",
+        "name": "Dack Fayden",
+        "type_line": "Legendary Planeswalker — Dack",
+        "uri": "https://api.scryfall.com/cards/5335ad67-5145-48f5-b5af-19996c4d11c0"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5335ad67-5145-48f5-b5af-19996c4d11c0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8&unique=prints",
+    "collector_number": "RA6",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jason Rainville",
+    "artist_ids": [
+      "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+    ],
+    "illustration_id": "eae58bf2-aa29-4fda-a3d2-4d987b4f0fd2",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 6080,
+    "prices": {
+      "usd": null,
+      "usd_foil": "24.89",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "25.82",
+      "tix": "2.30"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460127&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDack%2BFayden",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDack%2BFayden",
+      "edhrec": "https://edhrec.com/route/?cc=Dack+Fayden"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183448%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368647&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71568?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "2c3d5102-c305-4461-8360-534aba0f5c02",
+    "oracle_id": "581eedc4-efe4-4ae4-baf2-88071e7e6f6d",
+    "multiverse_ids": [
+      463947
+    ],
+    "mtgo_id": 72208,
+    "tcgplayer_id": 188904,
+    "cardmarket_id": 372915,
+    "name": "Nicol Bolas, Dragon-God",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/2c3d5102-c305-4461-8360-534aba0f5c02",
+    "scryfall_uri": "https://scryfall.com/card/med/WS6/nicol-bolas-dragon-god?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.jpg?1572373433",
+      "normal": "https://cards.scryfall.io/normal/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.jpg?1572373433",
+      "large": "https://cards.scryfall.io/large/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.jpg?1572373433",
+      "png": "https://cards.scryfall.io/png/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.png?1572373433",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.jpg?1572373433",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c3d5102-c305-4461-8360-534aba0f5c02.jpg?1572373433"
+    },
+    "mana_cost": "{U}{B}{B}{B}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Bolas",
+    "oracle_text": "Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
+    "loyalty": "4",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/2c3d5102-c305-4461-8360-534aba0f5c02/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A581eedc4-efe4-4ae4-baf2-88071e7e6f6d&unique=prints",
+    "collector_number": "WS6",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Matt Stewart",
+    "artist_ids": [
+      "20871267-2d8a-41d5-b03a-be3d557c5734"
+    ],
+    "illustration_id": "e17db772-3838-4bdc-a51e-533e6d06d155",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 3862,
+    "penny_rank": 1794,
+    "prices": {
+      "usd": null,
+      "usd_foil": "22.50",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "45.17",
+      "tix": "2.11"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463947&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BDragon-God",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNicol%2BBolas%252C%2BDragon-God",
+      "edhrec": "https://edhrec.com/route/?cc=Nicol+Bolas%2C+Dragon-God"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188904%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372915&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72208?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "dafb9f6b-0939-444b-b9b3-5437713e958d",
+    "oracle_id": "8ab7358e-a0f5-4220-8769-25177237bcdf",
+    "multiverse_ids": [
+      456595
+    ],
+    "mtgo_id": 69963,
+    "tcgplayer_id": 175243,
+    "cardmarket_id": 363613,
+    "name": "Tezzeret, Agent of Bolas",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/dafb9f6b-0939-444b-b9b3-5437713e958d",
+    "scryfall_uri": "https://scryfall.com/card/med/GR7/tezzeret-agent-of-bolas?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.jpg?1572373461",
+      "normal": "https://cards.scryfall.io/normal/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.jpg?1572373461",
+      "large": "https://cards.scryfall.io/large/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.jpg?1572373461",
+      "png": "https://cards.scryfall.io/png/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.png?1572373461",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.jpg?1572373461",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/dafb9f6b-0939-444b-b9b3-5437713e958d.jpg?1572373461"
+    },
+    "mana_cost": "{2}{U}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Tezzeret",
+    "oracle_text": "+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−1: Target artifact becomes an artifact creature with base power and toughness 5/5.\n−4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",
+    "loyalty": "3",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/dafb9f6b-0939-444b-b9b3-5437713e958d/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ab7358e-a0f5-4220-8769-25177237bcdf&unique=prints",
+    "collector_number": "GR7",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Aleksi Briclot",
+    "artist_ids": [
+      "5e470014-31cb-41b0-b054-e23374484449"
+    ],
+    "illustration_id": "5fbc9918-f703-4601-9622-eba21b5e6024",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 12629,
+    "penny_rank": 2334,
+    "prices": {
+      "usd": null,
+      "usd_foil": "14.01",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "13.78",
+      "tix": "4.96"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456595&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTezzeret%252C%2BAgent%2Bof%2BBolas",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTezzeret%252C%2BAgent%2Bof%2BBolas",
+      "edhrec": "https://edhrec.com/route/?cc=Tezzeret%2C+Agent+of+Bolas"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F175243%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=363613&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69963?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+    "oracle_id": "2a5408ed-8b47-4896-97e4-aa102a4b85c9",
+    "multiverse_ids": [
+      460128
+    ],
+    "mtgo_id": 71574,
+    "tcgplayer_id": 183451,
+    "cardmarket_id": 368648,
+    "name": "Domri, Chaos Bringer",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+    "scryfall_uri": "https://scryfall.com/card/med/RA7/domri-chaos-bringer?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+      "normal": "https://cards.scryfall.io/normal/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+      "large": "https://cards.scryfall.io/large/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+      "png": "https://cards.scryfall.io/png/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.png?1576010871",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4bd12cfd-7e99-4b6e-9e6a-05440594462a.jpg?1576010871"
+    },
+    "mana_cost": "{2}{R}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Domri",
+    "oracle_text": "+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters with your choice of a +1/+1 counter or haste.)\n−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\"",
+    "loyalty": "5",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "G",
+      "R"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "4bd12cfd-7e99-4b6e-9e6a-05440594462a",
+        "component": "combo_piece",
+        "name": "Domri, Chaos Bringer",
+        "type_line": "Legendary Planeswalker — Domri",
+        "uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a"
+      },
+      {
+        "object": "related_card",
+        "id": "33521793-69f2-4a95-a4da-d28add4e5e93",
+        "component": "token",
+        "name": "Beast",
+        "type_line": "Token Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/33521793-69f2-4a95-a4da-d28add4e5e93"
+      },
+      {
+        "object": "related_card",
+        "id": "bdc404cd-d518-41f7-858c-f1928e44a88c",
+        "component": "combo_piece",
+        "name": "Domri, Chaos Bringer Emblem",
+        "type_line": "Emblem — Domri",
+        "uri": "https://api.scryfall.com/cards/bdc404cd-d518-41f7-858c-f1928e44a88c"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4bd12cfd-7e99-4b6e-9e6a-05440594462a/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2a5408ed-8b47-4896-97e4-aa102a4b85c9&unique=prints",
+    "collector_number": "RA7",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jason Rainville",
+    "artist_ids": [
+      "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+    ],
+    "illustration_id": "20c68adb-2802-4186-85a1-6c3302eb9fe8",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 13329,
+    "penny_rank": 5831,
+    "prices": {
+      "usd": null,
+      "usd_foil": "5.40",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "7.03",
+      "tix": "0.83"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460128&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BChaos%2BBringer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDomri%252C%2BChaos%2BBringer",
+      "edhrec": "https://edhrec.com/route/?cc=Domri%2C+Chaos+Bringer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183451%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368648&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71574?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90",
+    "oracle_id": "d492eb9a-1f3b-4bf2-9a5d-0f4a4433f33f",
+    "multiverse_ids": [
+      463948
+    ],
+    "mtgo_id": 72196,
+    "tcgplayer_id": 188905,
+    "cardmarket_id": 372914,
+    "name": "Nahiri, the Harbinger",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90",
+    "scryfall_uri": "https://scryfall.com/card/med/WS7/nahiri-the-harbinger?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.jpg?1572373444",
+      "normal": "https://cards.scryfall.io/normal/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.jpg?1572373444",
+      "large": "https://cards.scryfall.io/large/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.jpg?1572373444",
+      "png": "https://cards.scryfall.io/png/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.png?1572373444",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.jpg?1572373444",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/5/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90.jpg?1572373444"
+    },
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Nahiri",
+    "oracle_text": "+2: You may discard a card. If you do, draw a card.\n−2: Exile target enchantment, tapped artifact, or tapped creature.\n−8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle. It gains haste. Return it to your hand at the beginning of the next end step.",
+    "loyalty": "4",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/45f43bd0-d4d9-4a64-a829-f1ea3dfc9e90/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad492eb9a-1f3b-4bf2-9a5d-0f4a4433f33f&unique=prints",
+    "collector_number": "WS7",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kieran Yanner",
+    "artist_ids": [
+      "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+    ],
+    "illustration_id": "09813db7-e239-4f61-9853-c79f3e47445d",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7548,
+    "penny_rank": 2319,
+    "prices": {
+      "usd": null,
+      "usd_foil": "6.18",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "9.44",
+      "tix": "3.23"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNahiri%252C%2Bthe%2BHarbinger",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNahiri%252C%2Bthe%2BHarbinger",
+      "edhrec": "https://edhrec.com/route/?cc=Nahiri%2C+the+Harbinger"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188905%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372914&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72196?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "963f641d-aabe-4432-87c5-d8cddf95d8d5",
+    "oracle_id": "131096a3-2d53-4ec2-96d3-fcb58e698a13",
+    "multiverse_ids": [
+      456596
+    ],
+    "mtgo_id": 69977,
+    "tcgplayer_id": 176849,
+    "cardmarket_id": 364127,
+    "name": "Vraska, Golgari Queen",
+    "lang": "en",
+    "released_at": "2018-10-05",
+    "uri": "https://api.scryfall.com/cards/963f641d-aabe-4432-87c5-d8cddf95d8d5",
+    "scryfall_uri": "https://scryfall.com/card/med/GR8/vraska-golgari-queen?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.jpg?1576795938",
+      "normal": "https://cards.scryfall.io/normal/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.jpg?1576795938",
+      "large": "https://cards.scryfall.io/large/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.jpg?1576795938",
+      "png": "https://cards.scryfall.io/png/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.png?1576795938",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.jpg?1576795938",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/963f641d-aabe-4432-87c5-d8cddf95d8d5.jpg?1576795938"
+    },
+    "mana_cost": "{2}{B}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Vraska",
+    "oracle_text": "+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card.\n−3: Destroy target nonland permanent with mana value 3 or less.\n−9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\"",
+    "loyalty": "4",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "963f641d-aabe-4432-87c5-d8cddf95d8d5",
+        "component": "combo_piece",
+        "name": "Vraska, Golgari Queen",
+        "type_line": "Legendary Planeswalker — Vraska",
+        "uri": "https://api.scryfall.com/cards/963f641d-aabe-4432-87c5-d8cddf95d8d5"
+      },
+      {
+        "object": "related_card",
+        "id": "828f3798-a495-42f8-b989-97f0fe662326",
+        "component": "combo_piece",
+        "name": "Vraska, Golgari Queen Emblem",
+        "type_line": "Emblem — Vraska",
+        "uri": "https://api.scryfall.com/cards/828f3798-a495-42f8-b989-97f0fe662326"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/963f641d-aabe-4432-87c5-d8cddf95d8d5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A131096a3-2d53-4ec2-96d3-fcb58e698a13&unique=prints",
+    "collector_number": "GR8",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Livia Prima",
+    "artist_ids": [
+      "0f41e561-bc26-4d85-aab6-66c384e01b74"
+    ],
+    "illustration_id": "0a3933d2-e927-4f78-a8ce-cca1699aba64",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 3480,
+    "penny_rank": 746,
+    "prices": {
+      "usd": null,
+      "usd_foil": "30.14",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "32.01",
+      "tix": "16.90"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456596&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVraska%252C%2BGolgari%2BQueen",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVraska%252C%2BGolgari%2BQueen",
+      "edhrec": "https://edhrec.com/route/?cc=Vraska%2C+Golgari+Queen"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F176849%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=364127&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/69977?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e360f0de-375e-4ba5-8f0c-0ee630b5b1a3",
+    "oracle_id": "7dd4a1a1-d5f4-4ac7-a9f6-34af411f070b",
+    "multiverse_ids": [
+      460129
+    ],
+    "mtgo_id": 71566,
+    "tcgplayer_id": 183452,
+    "cardmarket_id": 368649,
+    "name": "Kaya, Orzhov Usurper",
+    "lang": "en",
+    "released_at": "2019-01-25",
+    "uri": "https://api.scryfall.com/cards/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3",
+    "scryfall_uri": "https://scryfall.com/card/med/RA8/kaya-orzhov-usurper?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.jpg?1576010883",
+      "normal": "https://cards.scryfall.io/normal/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.jpg?1576010883",
+      "large": "https://cards.scryfall.io/large/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.jpg?1576010883",
+      "png": "https://cards.scryfall.io/png/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.png?1576010883",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.jpg?1576010883",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3.jpg?1576010883"
+    },
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Kaya",
+    "oracle_text": "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.\n−1: Exile target nonland permanent with mana value 1 or less.\n−5: Kaya deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",
+    "loyalty": "3",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e360f0de-375e-4ba5-8f0c-0ee630b5b1a3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7dd4a1a1-d5f4-4ac7-a9f6-34af411f070b&unique=prints",
+    "collector_number": "RA8",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rallis",
+    "artist_ids": [
+      "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    ],
+    "illustration_id": "13f575d7-8d5a-41af-a6b1-08b0ddb5c30d",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 11701,
+    "penny_rank": 444,
+    "prices": {
+      "usd": null,
+      "usd_foil": "10.35",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "13.21",
+      "tix": "2.10"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460129&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaya%252C%2BOrzhov%2BUsurper",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaya%252C%2BOrzhov%2BUsurper",
+      "edhrec": "https://edhrec.com/route/?cc=Kaya%2C+Orzhov+Usurper"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F183452%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=368649&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/71566?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6d0f3a05-7bd1-45f0-984e-670ef43554b7",
+    "oracle_id": "1d37b453-f10c-42f2-8390-626a8a8eb27c",
+    "multiverse_ids": [
+      463949
+    ],
+    "mtgo_id": 72204,
+    "tcgplayer_id": 188907,
+    "cardmarket_id": 372913,
+    "name": "Sarkhan Unbroken",
+    "lang": "en",
+    "released_at": "2019-05-03",
+    "uri": "https://api.scryfall.com/cards/6d0f3a05-7bd1-45f0-984e-670ef43554b7",
+    "scryfall_uri": "https://scryfall.com/card/med/WS8/sarkhan-unbroken?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.jpg?1572373473",
+      "normal": "https://cards.scryfall.io/normal/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.jpg?1572373473",
+      "large": "https://cards.scryfall.io/large/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.jpg?1572373473",
+      "png": "https://cards.scryfall.io/png/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.png?1572373473",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.jpg?1572373473",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d0f3a05-7bd1-45f0-984e-670ef43554b7.jpg?1572373473"
+    },
+    "mana_cost": "{2}{G}{U}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Sarkhan",
+    "oracle_text": "+1: Draw a card, then add one mana of any color.\n−2: Create a 4/4 red Dragon creature token with flying.\n−8: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle.",
+    "loyalty": "4",
+    "colors": [
+      "G",
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6d0f3a05-7bd1-45f0-984e-670ef43554b7",
+        "component": "combo_piece",
+        "name": "Sarkhan Unbroken",
+        "type_line": "Legendary Planeswalker — Sarkhan",
+        "uri": "https://api.scryfall.com/cards/6d0f3a05-7bd1-45f0-984e-670ef43554b7"
+      },
+      {
+        "object": "related_card",
+        "id": "5fb1fa28-7704-4b0b-a3d0-2d003e257b9a",
+        "component": "token",
+        "name": "Dragon",
+        "type_line": "Token Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/5fb1fa28-7704-4b0b-a3d0-2d003e257b9a"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set": "med",
+    "set_name": "Mythic Edition",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amed&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/med?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6d0f3a05-7bd1-45f0-984e-670ef43554b7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d37b453-f10c-42f2-8390-626a8a8eb27c&unique=prints",
+    "collector_number": "WS8",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Eric Deschamps",
+    "artist_ids": [
+      "37970e22-9cee-44c1-af44-5ee27cf26b76"
+    ],
+    "illustration_id": "cbbe4acb-288a-4fb3-90a4-2c3628c58204",
+    "border_color": "borderless",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 5463,
+    "penny_rank": 4103,
+    "prices": {
+      "usd": null,
+      "usd_foil": "35.36",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "37.61",
+      "tix": "0.86"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463949&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%2BUnbroken",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%2BUnbroken",
+      "edhrec": "https://edhrec.com/route/?cc=Sarkhan+Unbroken"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188907%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372913&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/72204?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

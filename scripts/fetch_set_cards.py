@@ -94,10 +94,13 @@ def create_set_directory(set_name):
     # Clean set name for filesystem
     safe_set_name = "".join(c for c in set_name if c.isalnum() or c in (' ', '-', '_')).strip()
     safe_set_name = safe_set_name.replace(' ', '-').lower()
-    
-    set_dir = Path("card-library") / safe_set_name
+
+    # Get script directory and go up one level to find card-library
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent
+    set_dir = project_root / "card-library" / safe_set_name
     set_dir.mkdir(parents=True, exist_ok=True)
-    
+
     return set_dir
 
 def save_cards(cards, set_dir, set_name):

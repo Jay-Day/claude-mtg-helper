@@ -1,0 +1,3847 @@
+[
+  {
+    "object": "card",
+    "id": "561341f5-3eb1-4f52-8dee-668a60e091be",
+    "oracle_id": "d2f429c4-f16a-436d-8e75-b09acbe653d2",
+    "multiverse_ids": [],
+    "name": "Bird",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/561341f5-3eb1-4f52-8dee-668a60e091be",
+    "scryfall_uri": "https://scryfall.com/card/tltc/1/bird?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.jpg?1707450466",
+      "normal": "https://cards.scryfall.io/normal/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.jpg?1707450466",
+      "large": "https://cards.scryfall.io/large/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.jpg?1707450466",
+      "png": "https://cards.scryfall.io/png/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.png?1707450466",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.jpg?1707450466",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/561341f5-3eb1-4f52-8dee-668a60e091be.jpg?1707450466"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Bird",
+    "oracle_text": "Flying\nWhenever this creature attacks, target attacking creature gains flying until end of turn.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "befe06f0-cdfc-4ec4-840f-9b5c3273e7fb",
+        "component": "combo_piece",
+        "name": "Gwaihir, Greatest of the Eagles",
+        "type_line": "Legendary Creature — Bird Noble",
+        "uri": "https://api.scryfall.com/cards/befe06f0-cdfc-4ec4-840f-9b5c3273e7fb"
+      },
+      {
+        "object": "related_card",
+        "id": "561341f5-3eb1-4f52-8dee-668a60e091be",
+        "component": "token",
+        "name": "Bird",
+        "type_line": "Token Creature — Bird",
+        "uri": "https://api.scryfall.com/cards/561341f5-3eb1-4f52-8dee-668a60e091be"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/561341f5-3eb1-4f52-8dee-668a60e091be/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad2f429c4-f16a-436d-8e75-b09acbe653d2&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Pablo Mendoza",
+    "artist_ids": [
+      "57f8d135-42e9-46e2-bb00-eff941b3152b"
+    ],
+    "illustration_id": "31a7f2a9-29f7-4c77-b734-feb2c5efb7e6",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBird",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBird",
+      "edhrec": "https://edhrec.com/route/?cc=Bird"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBird%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bird&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c47259b5-2bc9-42cc-ae64-790f04da70c0",
+    "oracle_id": "f62b776a-d4de-455a-ae5a-ca07982974db",
+    "multiverse_ids": [],
+    "name": "Goat",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/c47259b5-2bc9-42cc-ae64-790f04da70c0",
+    "scryfall_uri": "https://scryfall.com/card/tltc/2/goat?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894",
+      "normal": "https://cards.scryfall.io/normal/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894",
+      "large": "https://cards.scryfall.io/large/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894",
+      "png": "https://cards.scryfall.io/png/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.png?1686265894",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c47259b5-2bc9-42cc-ae64-790f04da70c0.jpg?1686265894"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Goat",
+    "oracle_text": "",
+    "power": "0",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "308fbcf8-0475-4c0b-a365-418588f84b5a",
+        "component": "combo_piece",
+        "name": "Springjack Shepherd",
+        "type_line": "Creature — Kithkin Wizard",
+        "uri": "https://api.scryfall.com/cards/308fbcf8-0475-4c0b-a365-418588f84b5a"
+      },
+      {
+        "object": "related_card",
+        "id": "73b60c73-bae4-4a5c-819a-b5f2ffab45ce",
+        "component": "combo_piece",
+        "name": "Woe Strider",
+        "type_line": "Creature — Horror",
+        "uri": "https://api.scryfall.com/cards/73b60c73-bae4-4a5c-819a-b5f2ffab45ce"
+      },
+      {
+        "object": "related_card",
+        "id": "e6728c66-69b6-4cb0-922f-4c264f009218",
+        "component": "combo_piece",
+        "name": "Trading Post",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/e6728c66-69b6-4cb0-922f-4c264f009218"
+      },
+      {
+        "object": "related_card",
+        "id": "e9600f0b-c182-40fc-a0da-77f7758c94a9",
+        "component": "combo_piece",
+        "name": "Everythingamajig",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/e9600f0b-c182-40fc-a0da-77f7758c94a9"
+      },
+      {
+        "object": "related_card",
+        "id": "3e20bdb7-2b29-4a67-83e4-de01138fb043",
+        "component": "combo_piece",
+        "name": "Clackbridge Troll",
+        "type_line": "Creature — Troll",
+        "uri": "https://api.scryfall.com/cards/3e20bdb7-2b29-4a67-83e4-de01138fb043"
+      },
+      {
+        "object": "related_card",
+        "id": "035438b1-f794-41e5-9e2b-bc5136766cd5",
+        "component": "combo_piece",
+        "name": "Springjack Pasture",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/035438b1-f794-41e5-9e2b-bc5136766cd5"
+      },
+      {
+        "object": "related_card",
+        "id": "a8cce294-f6ee-4b18-8b65-7d01d0317b00",
+        "component": "combo_piece",
+        "name": "Discordant Piper",
+        "type_line": "Creature — Zombie Satyr",
+        "uri": "https://api.scryfall.com/cards/a8cce294-f6ee-4b18-8b65-7d01d0317b00"
+      },
+      {
+        "object": "related_card",
+        "id": "830c7c81-335e-4f0b-81b9-209732408093",
+        "component": "combo_piece",
+        "name": "Goldmeadow",
+        "type_line": "Plane — Lorwyn",
+        "uri": "https://api.scryfall.com/cards/830c7c81-335e-4f0b-81b9-209732408093"
+      },
+      {
+        "object": "related_card",
+        "id": "c47259b5-2bc9-42cc-ae64-790f04da70c0",
+        "component": "token",
+        "name": "Goat",
+        "type_line": "Token Creature — Goat",
+        "uri": "https://api.scryfall.com/cards/c47259b5-2bc9-42cc-ae64-790f04da70c0"
+      },
+      {
+        "object": "related_card",
+        "id": "d170361f-11f6-480e-8927-c63f00c7f331",
+        "component": "combo_piece",
+        "name": "Contraband Livestock",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/d170361f-11f6-480e-8927-c63f00c7f331"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c47259b5-2bc9-42cc-ae64-790f04da70c0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af62b776a-d4de-455a-ae5a-ca07982974db&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Uriah Voth",
+    "artist_ids": [
+      "14cf4c0c-1a83-4366-ba61-6d0a26ee5a69"
+    ],
+    "illustration_id": "c9bec9b1-0d07-4a2a-aa8d-9061bb26ea35",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoat",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoat",
+      "edhrec": "https://edhrec.com/route/?cc=Goat"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGoat%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "bbd9ff58-4d38-4d34-9dfc-6f788830297e",
+    "oracle_id": "731fee49-fafb-45ad-b50c-97af035b9fae",
+    "multiverse_ids": [],
+    "name": "Halfling",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/bbd9ff58-4d38-4d34-9dfc-6f788830297e",
+    "scryfall_uri": "https://scryfall.com/card/tltc/3/halfling?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.jpg?1686265881",
+      "normal": "https://cards.scryfall.io/normal/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.jpg?1686265881",
+      "large": "https://cards.scryfall.io/large/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.jpg?1686265881",
+      "png": "https://cards.scryfall.io/png/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.png?1686265881",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.jpg?1686265881",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/b/bbd9ff58-4d38-4d34-9dfc-6f788830297e.jpg?1686265881"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Tolkien Creature — Halfling",
+    "oracle_text": "",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "599234de-4bbc-4c9b-84a2-c426e64597ff",
+        "component": "combo_piece",
+        "name": "Field-Tested Frying Pan",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/599234de-4bbc-4c9b-84a2-c426e64597ff"
+      },
+      {
+        "object": "related_card",
+        "id": "b19fcc45-a77a-4296-a2a6-8320b5712cc5",
+        "component": "combo_piece",
+        "name": "Farmer Cotton",
+        "type_line": "Legendary Creature — Halfling Peasant",
+        "uri": "https://api.scryfall.com/cards/b19fcc45-a77a-4296-a2a6-8320b5712cc5"
+      },
+      {
+        "object": "related_card",
+        "id": "d493c09c-7794-47ed-a002-3493187d1da6",
+        "component": "combo_piece",
+        "name": "Of Herbs and Stewed Rabbit",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/d493c09c-7794-47ed-a002-3493187d1da6"
+      },
+      {
+        "object": "related_card",
+        "id": "cf608ed2-f193-4bcc-99fc-a9cd0cf97993",
+        "component": "combo_piece",
+        "name": "Saradoc, Master of Buckland",
+        "type_line": "Legendary Creature — Halfling Citizen",
+        "uri": "https://api.scryfall.com/cards/cf608ed2-f193-4bcc-99fc-a9cd0cf97993"
+      },
+      {
+        "object": "related_card",
+        "id": "bbd9ff58-4d38-4d34-9dfc-6f788830297e",
+        "component": "combo_piece",
+        "name": "Halfling",
+        "type_line": "Tolkien Creature — Halfling",
+        "uri": "https://api.scryfall.com/cards/bbd9ff58-4d38-4d34-9dfc-6f788830297e"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/bbd9ff58-4d38-4d34-9dfc-6f788830297e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A731fee49-fafb-45ad-b50c-97af035b9fae&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Wangjie Li",
+    "artist_ids": [
+      "eef3629c-af13-4cc4-a5d8-3d2ae6dd4ed6"
+    ],
+    "illustration_id": "b79abc1d-e413-4426-9121-af9a5f59cc73",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHalfling",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHalfling",
+      "edhrec": "https://edhrec.com/route/?cc=Halfling"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHalfling%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Halfling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Halfling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "68264336-6bfb-44d9-86f5-86ef6433bc2f",
+    "oracle_id": "30272edf-097c-4918-84d2-9fa6c42dbe0a",
+    "multiverse_ids": [],
+    "name": "Human",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/68264336-6bfb-44d9-86f5-86ef6433bc2f",
+    "scryfall_uri": "https://scryfall.com/card/tltc/4/human?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977",
+      "normal": "https://cards.scryfall.io/normal/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977",
+      "large": "https://cards.scryfall.io/large/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977",
+      "png": "https://cards.scryfall.io/png/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.png?1686258977",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68264336-6bfb-44d9-86f5-86ef6433bc2f.jpg?1686258977"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Human",
+    "oracle_text": "",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "807a570a-b5eb-420d-9fa5-6e5364025510",
+        "component": "combo_piece",
+        "name": "Inquisitive Puppet",
+        "type_line": "Artifact Creature — Construct",
+        "uri": "https://api.scryfall.com/cards/807a570a-b5eb-420d-9fa5-6e5364025510"
+      },
+      {
+        "object": "related_card",
+        "id": "548d7ff0-70b6-4221-b50b-3ee8547e1b0a",
+        "component": "combo_piece",
+        "name": "Rally for the Throne",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/548d7ff0-70b6-4221-b50b-3ee8547e1b0a"
+      },
+      {
+        "object": "related_card",
+        "id": "3937d712-e944-4540-bc38-812096977059",
+        "component": "combo_piece",
+        "name": "Clarion Cathars",
+        "type_line": "Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/3937d712-e944-4540-bc38-812096977059"
+      },
+      {
+        "object": "related_card",
+        "id": "439d4cd6-afca-46d3-8850-898cb9212a26",
+        "component": "combo_piece",
+        "name": "Jerren, Corrupted Bishop // Ormendahl, the Corrupter",
+        "type_line": "Legendary Creature — Human Cleric // Legendary Creature — Demon",
+        "uri": "https://api.scryfall.com/cards/439d4cd6-afca-46d3-8850-898cb9212a26"
+      },
+      {
+        "object": "related_card",
+        "id": "7ec27258-2298-49ae-ba17-d459b1e08b26",
+        "component": "combo_piece",
+        "name": "Wedding Announcement // Wedding Festivity",
+        "type_line": "Enchantment // Enchantment",
+        "uri": "https://api.scryfall.com/cards/7ec27258-2298-49ae-ba17-d459b1e08b26"
+      },
+      {
+        "object": "related_card",
+        "id": "68264336-6bfb-44d9-86f5-86ef6433bc2f",
+        "component": "token",
+        "name": "Human",
+        "type_line": "Token Creature — Human",
+        "uri": "https://api.scryfall.com/cards/68264336-6bfb-44d9-86f5-86ef6433bc2f"
+      },
+      {
+        "object": "related_card",
+        "id": "8dd4d771-366c-4d81-875d-7ba9f1f00320",
+        "component": "combo_piece",
+        "name": "Kharis & The Beholder",
+        "type_line": "Legendary Creature — Dragon Eye Wizard",
+        "uri": "https://api.scryfall.com/cards/8dd4d771-366c-4d81-875d-7ba9f1f00320"
+      },
+      {
+        "object": "related_card",
+        "id": "3181e5a8-7805-431a-8ee0-b825e89ba2b0",
+        "component": "combo_piece",
+        "name": "Cemetery Protector",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/3181e5a8-7805-431a-8ee0-b825e89ba2b0"
+      },
+      {
+        "object": "related_card",
+        "id": "bdbfe895-f806-4490-9ae6-b39b28ea4e28",
+        "component": "combo_piece",
+        "name": "Worthy Knight",
+        "type_line": "Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/bdbfe895-f806-4490-9ae6-b39b28ea4e28"
+      },
+      {
+        "object": "related_card",
+        "id": "0b9579d8-bc8f-4d74-bfc1-dcdd42568f79",
+        "component": "combo_piece",
+        "name": "Adeline, Resplendent Cathar",
+        "type_line": "Legendary Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/0b9579d8-bc8f-4d74-bfc1-dcdd42568f79"
+      },
+      {
+        "object": "related_card",
+        "id": "ffa1da29-08bd-431c-ae99-525a071dba23",
+        "component": "combo_piece",
+        "name": "Cathar's Call",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/ffa1da29-08bd-431c-ae99-525a071dba23"
+      },
+      {
+        "object": "related_card",
+        "id": "9597d9ea-d9b2-4009-8e7c-02caa3585bc5",
+        "component": "combo_piece",
+        "name": "Return from the Wilds",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/9597d9ea-d9b2-4009-8e7c-02caa3585bc5"
+      },
+      {
+        "object": "related_card",
+        "id": "08ef4383-11e7-4426-a04a-058570f46e47",
+        "component": "combo_piece",
+        "name": "Commander's Authority",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/08ef4383-11e7-4426-a04a-058570f46e47"
+      },
+      {
+        "object": "related_card",
+        "id": "4564f7b4-4fa3-40a3-88e8-2f1cfd15461c",
+        "component": "combo_piece",
+        "name": "Hero of Precinct One",
+        "type_line": "Creature — Human Warrior",
+        "uri": "https://api.scryfall.com/cards/4564f7b4-4fa3-40a3-88e8-2f1cfd15461c"
+      },
+      {
+        "object": "related_card",
+        "id": "a9601594-1efb-4cf7-ad94-76fe6ebfe8ad",
+        "component": "combo_piece",
+        "name": "Sunset Revelry",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/a9601594-1efb-4cf7-ad94-76fe6ebfe8ad"
+      },
+      {
+        "object": "related_card",
+        "id": "2c1392c5-91a5-4e6e-803d-ed032e4d594b",
+        "component": "combo_piece",
+        "name": "A Killer Among Us",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/2c1392c5-91a5-4e6e-803d-ed032e4d594b"
+      },
+      {
+        "object": "related_card",
+        "id": "ca0aaf39-0f4d-47c8-834e-f7974e316079",
+        "component": "combo_piece",
+        "name": "Increasing Devotion",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/ca0aaf39-0f4d-47c8-834e-f7974e316079"
+      },
+      {
+        "object": "related_card",
+        "id": "4fedf84e-55ca-4334-a2c1-6e991112bb68",
+        "component": "combo_piece",
+        "name": "Apothecary White",
+        "type_line": "Legendary Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/4fedf84e-55ca-4334-a2c1-6e991112bb68"
+      },
+      {
+        "object": "related_card",
+        "id": "4f80af9c-07a1-46f1-b869-146fda5922f4",
+        "component": "combo_piece",
+        "name": "Lovestruck Beast // Heart's Desire",
+        "type_line": "Creature — Beast Noble // Sorcery — Adventure",
+        "uri": "https://api.scryfall.com/cards/4f80af9c-07a1-46f1-b869-146fda5922f4"
+      },
+      {
+        "object": "related_card",
+        "id": "30a78066-c52e-48fd-bcf9-d0b60f00fddc",
+        "component": "combo_piece",
+        "name": "Voice of the Provinces",
+        "type_line": "Creature — Angel",
+        "uri": "https://api.scryfall.com/cards/30a78066-c52e-48fd-bcf9-d0b60f00fddc"
+      },
+      {
+        "object": "related_card",
+        "id": "61a38f24-1eb3-4914-be1f-0b5f6d4b09d5",
+        "component": "combo_piece",
+        "name": "Watchful Giant",
+        "type_line": "Creature — Giant Soldier",
+        "uri": "https://api.scryfall.com/cards/61a38f24-1eb3-4914-be1f-0b5f6d4b09d5"
+      },
+      {
+        "object": "related_card",
+        "id": "8e629a31-2e06-4f95-9628-34670dcf68b9",
+        "component": "combo_piece",
+        "name": "Welcome to Sweettooth",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/8e629a31-2e06-4f95-9628-34670dcf68b9"
+      },
+      {
+        "object": "related_card",
+        "id": "711135d0-7769-4154-873a-e2505f8795f0",
+        "component": "combo_piece",
+        "name": "Stroke of Midnight",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/711135d0-7769-4154-873a-e2505f8795f0"
+      },
+      {
+        "object": "related_card",
+        "id": "7d86b85b-5098-4741-a9e9-afb68e8f7d64",
+        "component": "combo_piece",
+        "name": "Oakhame Ranger // Bring Back",
+        "type_line": "Creature — Elf Knight Ranger // Sorcery — Adventure",
+        "uri": "https://api.scryfall.com/cards/7d86b85b-5098-4741-a9e9-afb68e8f7d64"
+      },
+      {
+        "object": "related_card",
+        "id": "7d8f7a37-491f-4b96-8166-6c96eea7d7f4",
+        "component": "combo_piece",
+        "name": "Slaughter Specialist",
+        "type_line": "Creature — Vampire Warrior",
+        "uri": "https://api.scryfall.com/cards/7d8f7a37-491f-4b96-8166-6c96eea7d7f4"
+      },
+      {
+        "object": "related_card",
+        "id": "bfb8cc18-d5ac-47c3-bf6e-b3ac22aa303e",
+        "component": "combo_piece",
+        "name": "Devouring Sugarmaw // Have for Dinner",
+        "type_line": "Creature — Horror // Instant — Adventure",
+        "uri": "https://api.scryfall.com/cards/bfb8cc18-d5ac-47c3-bf6e-b3ac22aa303e"
+      },
+      {
+        "object": "related_card",
+        "id": "7fed20c5-e325-4185-a7f1-ca27658201fa",
+        "component": "combo_piece",
+        "name": "Join the Dance",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/7fed20c5-e325-4185-a7f1-ca27658201fa"
+      },
+      {
+        "object": "related_card",
+        "id": "0e0fa5ab-c4d1-4b2d-ad62-feb651e4b11c",
+        "component": "combo_piece",
+        "name": "Thraben Doomsayer",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/0e0fa5ab-c4d1-4b2d-ad62-feb651e4b11c"
+      },
+      {
+        "object": "related_card",
+        "id": "d0c50047-013f-4a14-8cdd-08c6d5b89e8b",
+        "component": "combo_piece",
+        "name": "Dawnhart Mentor",
+        "type_line": "Creature — Human Warlock",
+        "uri": "https://api.scryfall.com/cards/d0c50047-013f-4a14-8cdd-08c6d5b89e8b"
+      },
+      {
+        "object": "related_card",
+        "id": "21a2bac8-451f-4af8-a82d-aeae5e28a8be",
+        "component": "combo_piece",
+        "name": "Harmonious Archon",
+        "type_line": "Creature — Archon",
+        "uri": "https://api.scryfall.com/cards/21a2bac8-451f-4af8-a82d-aeae5e28a8be"
+      },
+      {
+        "object": "related_card",
+        "id": "35b97bc8-f61d-4a3e-b6f0-361962fc2152",
+        "component": "combo_piece",
+        "name": "Visions of Glory",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/35b97bc8-f61d-4a3e-b6f0-361962fc2152"
+      },
+      {
+        "object": "related_card",
+        "id": "ebaa3b73-abb5-4ad4-a4c7-4b9f358db2c6",
+        "component": "combo_piece",
+        "name": "Castle Ardenvale",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/ebaa3b73-abb5-4ad4-a4c7-4b9f358db2c6"
+      },
+      {
+        "object": "related_card",
+        "id": "910f30f5-3800-4abd-b8c3-540b61f30746",
+        "component": "combo_piece",
+        "name": "Gather the Townsfolk",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/910f30f5-3800-4abd-b8c3-540b61f30746"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/68264336-6bfb-44d9-86f5-86ef6433bc2f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30272edf-097c-4918-84d2-9fa6c42dbe0a&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Tyukina Tatiana",
+    "artist_ids": [
+      "7ceaa3e7-986b-4130-9c2b-e660e9578225"
+    ],
+    "illustration_id": "7d9d16b0-164b-4034-850c-f18eb34bc9c3",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuman",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuman",
+      "edhrec": "https://edhrec.com/route/?cc=Human"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHuman%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "89e87c22-c966-40bb-9465-311cc1655fe2",
+    "oracle_id": "a5ab7f2d-a434-4342-a178-754bdd0181b6",
+    "multiverse_ids": [],
+    "name": "Soldier",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/89e87c22-c966-40bb-9465-311cc1655fe2",
+    "scryfall_uri": "https://scryfall.com/card/tltc/5/soldier?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191",
+      "normal": "https://cards.scryfall.io/normal/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191",
+      "large": "https://cards.scryfall.io/large/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191",
+      "png": "https://cards.scryfall.io/png/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.png?1686264191",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89e87c22-c966-40bb-9465-311cc1655fe2.jpg?1686264191"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Soldier",
+    "oracle_text": "Lifelink",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Lifelink"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d22d84e0-c13f-4e7a-a19d-040078f0ddde",
+        "component": "combo_piece",
+        "name": "Archangel Elspeth",
+        "type_line": "Legendary Planeswalker — Elspeth",
+        "uri": "https://api.scryfall.com/cards/d22d84e0-c13f-4e7a-a19d-040078f0ddde"
+      },
+      {
+        "object": "related_card",
+        "id": "8ccfeffc-dc19-404a-81ef-1cd13a1ad50d",
+        "component": "combo_piece",
+        "name": "March of the Multitudes",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/8ccfeffc-dc19-404a-81ef-1cd13a1ad50d"
+      },
+      {
+        "object": "related_card",
+        "id": "42a317e2-e190-4442-aa1b-6f7eca8a3dc8",
+        "component": "combo_piece",
+        "name": "Merry, Warden of Isengard",
+        "type_line": "Legendary Creature — Halfling Advisor",
+        "uri": "https://api.scryfall.com/cards/42a317e2-e190-4442-aa1b-6f7eca8a3dc8"
+      },
+      {
+        "object": "related_card",
+        "id": "8c31b8e5-2349-4119-9dc2-3e41c5364a78",
+        "component": "combo_piece",
+        "name": "Hunted Witness",
+        "type_line": "Creature — Human",
+        "uri": "https://api.scryfall.com/cards/8c31b8e5-2349-4119-9dc2-3e41c5364a78"
+      },
+      {
+        "object": "related_card",
+        "id": "5c561d89-b02d-4f1a-b49a-cdf2def3404d",
+        "component": "combo_piece",
+        "name": "Haazda Marshal",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/5c561d89-b02d-4f1a-b49a-cdf2def3404d"
+      },
+      {
+        "object": "related_card",
+        "id": "bc4f508b-a48d-4462-9d89-ee2ead3a0847",
+        "component": "combo_piece",
+        "name": "Ledev Champion",
+        "type_line": "Creature — Elf Knight",
+        "uri": "https://api.scryfall.com/cards/bc4f508b-a48d-4462-9d89-ee2ead3a0847"
+      },
+      {
+        "object": "related_card",
+        "id": "79d61bba-4404-4336-8290-51d1576f728d",
+        "component": "combo_piece",
+        "name": "Trostani Discordant",
+        "type_line": "Legendary Creature — Dryad",
+        "uri": "https://api.scryfall.com/cards/79d61bba-4404-4336-8290-51d1576f728d"
+      },
+      {
+        "object": "related_card",
+        "id": "89e87c22-c966-40bb-9465-311cc1655fe2",
+        "component": "token",
+        "name": "Soldier",
+        "type_line": "Token Creature — Soldier",
+        "uri": "https://api.scryfall.com/cards/89e87c22-c966-40bb-9465-311cc1655fe2"
+      },
+      {
+        "object": "related_card",
+        "id": "e8510a1e-62ca-462c-b036-d1312729f27d",
+        "component": "combo_piece",
+        "name": "Emmara, Soul of the Accord",
+        "type_line": "Legendary Creature — Elf Cleric",
+        "uri": "https://api.scryfall.com/cards/e8510a1e-62ca-462c-b036-d1312729f27d"
+      },
+      {
+        "object": "related_card",
+        "id": "2ccfa5c1-69f9-4351-aba3-883fe92c9b98",
+        "component": "combo_piece",
+        "name": "Sworn Companions",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/2ccfa5c1-69f9-4351-aba3-883fe92c9b98"
+      },
+      {
+        "object": "related_card",
+        "id": "08033756-5fee-49c1-a968-9ed3e70cd571",
+        "component": "combo_piece",
+        "name": "Dawn of Hope",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/08033756-5fee-49c1-a968-9ed3e70cd571"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/89e87c22-c966-40bb-9465-311cc1655fe2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa5ab7f2d-a434-4342-a178-754bdd0181b6&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lixin Yin",
+    "artist_ids": [
+      "25645c87-71be-400b-8522-618a52c37454"
+    ],
+    "illustration_id": "204a7d90-f85c-465d-8780-59721b5fc0e2",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoldier",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoldier",
+      "edhrec": "https://edhrec.com/route/?cc=Soldier"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSoldier%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c813d283-c996-4f85-afaa-7702414a1197",
+    "oracle_id": "ee6f463c-5dd3-4a1d-8543-7f7cf7f27f48",
+    "multiverse_ids": [],
+    "name": "Bird",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/c813d283-c996-4f85-afaa-7702414a1197",
+    "scryfall_uri": "https://scryfall.com/card/tltc/6/bird?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248",
+      "normal": "https://cards.scryfall.io/normal/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248",
+      "large": "https://cards.scryfall.io/large/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248",
+      "png": "https://cards.scryfall.io/png/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.png?1686264248",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c813d283-c996-4f85-afaa-7702414a1197.jpg?1686264248"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Bird",
+    "oracle_text": "Flying",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "f7969901-ec6d-4c25-8cc8-6a663e047c0c",
+        "component": "combo_piece",
+        "name": "Perch Protection",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/f7969901-ec6d-4c25-8cc8-6a663e047c0c"
+      },
+      {
+        "object": "related_card",
+        "id": "b18492fa-5b44-40aa-bf1d-1c8c4676b465",
+        "component": "combo_piece",
+        "name": "Song of Eärendil",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/b18492fa-5b44-40aa-bf1d-1c8c4676b465"
+      },
+      {
+        "object": "related_card",
+        "id": "c7ea6b4f-36bb-4c84-a3cb-f962ece41b2b",
+        "component": "combo_piece",
+        "name": "Radagast, Wizard of Wilds",
+        "type_line": "Legendary Creature — Avatar Wizard",
+        "uri": "https://api.scryfall.com/cards/c7ea6b4f-36bb-4c84-a3cb-f962ece41b2b"
+      },
+      {
+        "object": "related_card",
+        "id": "ef32f8e4-76ca-4edf-a77b-4c49c63123c4",
+        "component": "combo_piece",
+        "name": "Strix Serenade",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/ef32f8e4-76ca-4edf-a77b-4c49c63123c4"
+      },
+      {
+        "object": "related_card",
+        "id": "67c5aa41-9c40-4bd3-8e74-29f216b9bc77",
+        "component": "combo_piece",
+        "name": "Swan Song",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/67c5aa41-9c40-4bd3-8e74-29f216b9bc77"
+      },
+      {
+        "object": "related_card",
+        "id": "c813d283-c996-4f85-afaa-7702414a1197",
+        "component": "token",
+        "name": "Bird",
+        "type_line": "Token Creature — Bird",
+        "uri": "https://api.scryfall.com/cards/c813d283-c996-4f85-afaa-7702414a1197"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c813d283-c996-4f85-afaa-7702414a1197/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee6f463c-5dd3-4a1d-8543-7f7cf7f27f48&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Audrey Benjaminsen",
+    "artist_ids": [
+      "1af22031-f033-40b5-81ee-79551a9ee5b1"
+    ],
+    "illustration_id": "35821c58-3a0c-4894-bdbd-38ccfcdca925",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBird",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBird",
+      "edhrec": "https://edhrec.com/route/?cc=Bird"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBird%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bird&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "9afb58e8-f5a7-49f9-8287-77757bd3268c",
+    "oracle_id": "63c4ffe4-247d-497f-a2d3-c4d91f919d7b",
+    "multiverse_ids": [],
+    "name": "Wraith",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/9afb58e8-f5a7-49f9-8287-77757bd3268c",
+    "scryfall_uri": "https://scryfall.com/card/tltc/7/wraith?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.jpg?1709590980",
+      "normal": "https://cards.scryfall.io/normal/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.jpg?1709590980",
+      "large": "https://cards.scryfall.io/large/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.jpg?1709590980",
+      "png": "https://cards.scryfall.io/png/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.png?1709590980",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.jpg?1709590980",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9afb58e8-f5a7-49f9-8287-77757bd3268c.jpg?1709590980"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Wraith",
+    "oracle_text": "Menace",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "a13343e9-b6bb-421c-8ba5-fe3c6794dca0",
+        "component": "combo_piece",
+        "name": "Lord of the Nazgûl",
+        "type_line": "Legendary Creature — Wraith Noble",
+        "uri": "https://api.scryfall.com/cards/a13343e9-b6bb-421c-8ba5-fe3c6794dca0"
+      },
+      {
+        "object": "related_card",
+        "id": "9afb58e8-f5a7-49f9-8287-77757bd3268c",
+        "component": "token",
+        "name": "Wraith",
+        "type_line": "Token Creature — Wraith",
+        "uri": "https://api.scryfall.com/cards/9afb58e8-f5a7-49f9-8287-77757bd3268c"
+      },
+      {
+        "object": "related_card",
+        "id": "46ffeca9-a934-4592-8dd7-18750fcac11d",
+        "component": "combo_piece",
+        "name": "In the Darkness Bind Them",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/46ffeca9-a934-4592-8dd7-18750fcac11d"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/9afb58e8-f5a7-49f9-8287-77757bd3268c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A63c4ffe4-247d-497f-a2d3-c4d91f919d7b&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Wonchun Choi",
+    "artist_ids": [
+      "fe886f3b-0cbe-4fed-81e6-f720ceb91d17"
+    ],
+    "illustration_id": "c6ec6a9a-ef24-4794-a0a8-f60ace2f3c76",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWraith",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWraith",
+      "edhrec": "https://edhrec.com/route/?cc=Wraith"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWraith%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wraith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wraith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "98ce0500-d9b4-4218-bcc6-dd6194068958",
+    "oracle_id": "4465eff4-5851-4721-a248-866c686c2ab8",
+    "multiverse_ids": [],
+    "name": "Goblin",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/98ce0500-d9b4-4218-bcc6-dd6194068958",
+    "scryfall_uri": "https://scryfall.com/card/tltc/8/goblin?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363",
+      "normal": "https://cards.scryfall.io/normal/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363",
+      "large": "https://cards.scryfall.io/large/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363",
+      "png": "https://cards.scryfall.io/png/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.png?1686264363",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/98ce0500-d9b4-4218-bcc6-dd6194068958.jpg?1686264363"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Goblin",
+    "oracle_text": "",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6964c3d5-4bb7-46b1-a057-878af73f2e5f",
+        "component": "combo_piece",
+        "name": "Box of Free-Range Goblins",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/6964c3d5-4bb7-46b1-a057-878af73f2e5f"
+      },
+      {
+        "object": "related_card",
+        "id": "599032a9-4652-46c5-bdf4-43be00e25db3",
+        "component": "combo_piece",
+        "name": "Goblin Gathering",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/599032a9-4652-46c5-bdf4-43be00e25db3"
+      },
+      {
+        "object": "related_card",
+        "id": "dc0741ad-83c2-4ee5-a712-529787e532ba",
+        "component": "combo_piece",
+        "name": "Blast from the Past",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/dc0741ad-83c2-4ee5-a712-529787e532ba"
+      },
+      {
+        "object": "related_card",
+        "id": "3d726dff-2904-4a82-adaa-29c57a5c2aed",
+        "component": "combo_piece",
+        "name": "Legion Warboss",
+        "type_line": "Creature — Goblin Soldier",
+        "uri": "https://api.scryfall.com/cards/3d726dff-2904-4a82-adaa-29c57a5c2aed"
+      },
+      {
+        "object": "related_card",
+        "id": "d9d4b0a0-2e09-4291-b23c-e2c4ca43ab3f",
+        "component": "combo_piece",
+        "name": "Squee, Dubious Monarch",
+        "type_line": "Legendary Creature — Goblin Noble",
+        "uri": "https://api.scryfall.com/cards/d9d4b0a0-2e09-4291-b23c-e2c4ca43ab3f"
+      },
+      {
+        "object": "related_card",
+        "id": "86b29f57-010e-4b32-b49f-c5af989b8281",
+        "component": "combo_piece",
+        "name": "Goblin Goliath",
+        "type_line": "Creature — Goblin Mutant",
+        "uri": "https://api.scryfall.com/cards/86b29f57-010e-4b32-b49f-c5af989b8281"
+      },
+      {
+        "object": "related_card",
+        "id": "3dafece7-c3a0-465b-84c2-e095890a7a8b",
+        "component": "combo_piece",
+        "name": "Kathari Bomber",
+        "type_line": "Creature — Bird Shaman",
+        "uri": "https://api.scryfall.com/cards/3dafece7-c3a0-465b-84c2-e095890a7a8b"
+      },
+      {
+        "object": "related_card",
+        "id": "f246e128-0a43-478a-a232-51020fab76d5",
+        "component": "combo_piece",
+        "name": "Mogg Alarm",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f246e128-0a43-478a-a232-51020fab76d5"
+      },
+      {
+        "object": "related_card",
+        "id": "e9a1920f-43a9-456f-bc3e-517fee9023df",
+        "component": "combo_piece",
+        "name": "Goblin Rabblemaster",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/e9a1920f-43a9-456f-bc3e-517fee9023df"
+      },
+      {
+        "object": "related_card",
+        "id": "7d97d0c8-5c9a-4b04-a680-39ae3367367c",
+        "component": "combo_piece",
+        "name": "Goblin Offensive",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/7d97d0c8-5c9a-4b04-a680-39ae3367367c"
+      },
+      {
+        "object": "related_card",
+        "id": "a6e750f9-ad86-4d60-98a3-78d11cd52cd1",
+        "component": "combo_piece",
+        "name": "Survey the Wreckage",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/a6e750f9-ad86-4d60-98a3-78d11cd52cd1"
+      },
+      {
+        "object": "related_card",
+        "id": "049acc79-1d68-410f-a081-88a7d40e823a",
+        "component": "combo_piece",
+        "name": "Underfoot Underdogs",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/049acc79-1d68-410f-a081-88a7d40e823a"
+      },
+      {
+        "object": "related_card",
+        "id": "050e6512-557b-4bac-8fe7-0316e4c3ff7f",
+        "component": "combo_piece",
+        "name": "Empty the Warrens",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/050e6512-557b-4bac-8fe7-0316e4c3ff7f"
+      },
+      {
+        "object": "related_card",
+        "id": "fc942957-1067-428c-8ee1-01f9e260efe1",
+        "component": "combo_piece",
+        "name": "Warbreak Trumpeter",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/fc942957-1067-428c-8ee1-01f9e260efe1"
+      },
+      {
+        "object": "related_card",
+        "id": "98ce0500-d9b4-4218-bcc6-dd6194068958",
+        "component": "token",
+        "name": "Goblin",
+        "type_line": "Token Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/98ce0500-d9b4-4218-bcc6-dd6194068958"
+      },
+      {
+        "object": "related_card",
+        "id": "b0e81bcf-d2f1-4ce0-9c1e-730632caa328",
+        "component": "combo_piece",
+        "name": "Goblinslide",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/b0e81bcf-d2f1-4ce0-9c1e-730632caa328"
+      },
+      {
+        "object": "related_card",
+        "id": "6a85b2f9-c12c-46dd-ae04-470ebf5ec6d9",
+        "component": "combo_piece",
+        "name": "Goblin Marshal",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/6a85b2f9-c12c-46dd-ae04-470ebf5ec6d9"
+      },
+      {
+        "object": "related_card",
+        "id": "36633f10-ea38-421c-ab80-9862eb18d6da",
+        "component": "combo_piece",
+        "name": "Sling-Gang Lieutenant",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/36633f10-ea38-421c-ab80-9862eb18d6da"
+      },
+      {
+        "object": "related_card",
+        "id": "26307e83-66ae-4def-9532-dd874fd39efc",
+        "component": "combo_piece",
+        "name": "Tin Street Cadet",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/26307e83-66ae-4def-9532-dd874fd39efc"
+      },
+      {
+        "object": "related_card",
+        "id": "59b11ff8-f118-4978-87dd-509dc0c8c932",
+        "component": "combo_piece",
+        "name": "Lost Mine of Phandelver",
+        "type_line": "Dungeon",
+        "uri": "https://api.scryfall.com/cards/59b11ff8-f118-4978-87dd-509dc0c8c932"
+      },
+      {
+        "object": "related_card",
+        "id": "998f3785-c806-4848-adcb-d89ea51159c5",
+        "component": "combo_piece",
+        "name": "Goblin Morningstar",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/998f3785-c806-4848-adcb-d89ea51159c5"
+      },
+      {
+        "object": "related_card",
+        "id": "e10fc4c5-7066-4d48-ae23-6c80a65ed0cf",
+        "component": "combo_piece",
+        "name": "Windcrag Siege",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/e10fc4c5-7066-4d48-ae23-6c80a65ed0cf"
+      },
+      {
+        "object": "related_card",
+        "id": "d09f9597-c2a9-4c1a-8375-ab06b1a21ee3",
+        "component": "combo_piece",
+        "name": "Ib Halfheart, Goblin Tactician",
+        "type_line": "Legendary Creature — Goblin Advisor",
+        "uri": "https://api.scryfall.com/cards/d09f9597-c2a9-4c1a-8375-ab06b1a21ee3"
+      },
+      {
+        "object": "related_card",
+        "id": "f888f402-c6f7-4387-a512-6edf9b262bb3",
+        "component": "combo_piece",
+        "name": "Krenko, Mob Boss",
+        "type_line": "Legendary Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/f888f402-c6f7-4387-a512-6edf9b262bb3"
+      },
+      {
+        "object": "related_card",
+        "id": "24025e76-0016-46a6-93cd-366071953c36",
+        "component": "combo_piece",
+        "name": "Swarming Goblins",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/24025e76-0016-46a6-93cd-366071953c36"
+      },
+      {
+        "object": "related_card",
+        "id": "f0c79f75-0389-4514-b86f-5ee353965c02",
+        "component": "combo_piece",
+        "name": "Rulik Mons, Warren Chief",
+        "type_line": "Legendary Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/f0c79f75-0389-4514-b86f-5ee353965c02"
+      },
+      {
+        "object": "related_card",
+        "id": "b69e7200-96ea-4455-83cc-0a497d56efe5",
+        "component": "combo_piece",
+        "name": "You See a Pair of Goblins",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/b69e7200-96ea-4455-83cc-0a497d56efe5"
+      },
+      {
+        "object": "related_card",
+        "id": "f2016585-e26c-4d13-b09f-af6383c192f7",
+        "component": "combo_piece",
+        "name": "Goblin Negotiation",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f2016585-e26c-4d13-b09f-af6383c192f7"
+      },
+      {
+        "object": "related_card",
+        "id": "f092806d-b2de-44a8-85cd-0ab2b16e344e",
+        "component": "combo_piece",
+        "name": "Goblin Surprise",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/f092806d-b2de-44a8-85cd-0ab2b16e344e"
+      },
+      {
+        "object": "related_card",
+        "id": "2c1392c5-91a5-4e6e-803d-ed032e4d594b",
+        "component": "combo_piece",
+        "name": "A Killer Among Us",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/2c1392c5-91a5-4e6e-803d-ed032e4d594b"
+      },
+      {
+        "object": "related_card",
+        "id": "98be3783-23e8-4143-8685-6d887f164294",
+        "component": "combo_piece",
+        "name": "Goblin Gang Leader",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/98be3783-23e8-4143-8685-6d887f164294"
+      },
+      {
+        "object": "related_card",
+        "id": "fd170aa1-18be-470e-aa36-bfb11e9f92c1",
+        "component": "combo_piece",
+        "name": "Mogg War Marshal",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/fd170aa1-18be-470e-aa36-bfb11e9f92c1"
+      },
+      {
+        "object": "related_card",
+        "id": "89d97d33-6299-4ad1-81f0-327a6f52c2ba",
+        "component": "combo_piece",
+        "name": "Searslicer Goblin",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/89d97d33-6299-4ad1-81f0-327a6f52c2ba"
+      },
+      {
+        "object": "related_card",
+        "id": "71c818eb-3846-471f-967a-76e1cb809b9f",
+        "component": "combo_piece",
+        "name": "Goblin Instigator",
+        "type_line": "Creature — Goblin Rogue",
+        "uri": "https://api.scryfall.com/cards/71c818eb-3846-471f-967a-76e1cb809b9f"
+      },
+      {
+        "object": "related_card",
+        "id": "2d1102e4-447a-4b40-8131-5b36b8979fe0",
+        "component": "combo_piece",
+        "name": "Ainok Strike Leader",
+        "type_line": "Creature — Dog Warrior",
+        "uri": "https://api.scryfall.com/cards/2d1102e4-447a-4b40-8131-5b36b8979fe0"
+      },
+      {
+        "object": "related_card",
+        "id": "192d77ef-e8b5-44e2-842b-2c1f342c1e69",
+        "component": "combo_piece",
+        "name": "Ponyback Brigade",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/192d77ef-e8b5-44e2-842b-2c1f342c1e69"
+      },
+      {
+        "object": "related_card",
+        "id": "8fa6db76-0f7b-4172-a72b-6a4a843e5773",
+        "component": "combo_piece",
+        "name": "Krenko, Baron of Tin Street",
+        "type_line": "Legendary Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/8fa6db76-0f7b-4172-a72b-6a4a843e5773"
+      },
+      {
+        "object": "related_card",
+        "id": "585fde63-4cb5-4235-8c95-2a7a511e7c3f",
+        "component": "combo_piece",
+        "name": "Jund",
+        "type_line": "Plane — Alara",
+        "uri": "https://api.scryfall.com/cards/585fde63-4cb5-4235-8c95-2a7a511e7c3f"
+      },
+      {
+        "object": "related_card",
+        "id": "60b0a697-e901-42d9-9833-fedfcb6db9b3",
+        "component": "combo_piece",
+        "name": "Goblin Rally",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/60b0a697-e901-42d9-9833-fedfcb6db9b3"
+      },
+      {
+        "object": "related_card",
+        "id": "699295ea-edf4-46f4-972e-82359c80bb2e",
+        "component": "combo_piece",
+        "name": "Krenko's Command",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/699295ea-edf4-46f4-972e-82359c80bb2e"
+      },
+      {
+        "object": "related_card",
+        "id": "e22c2df5-ae00-4d71-ac60-6ea402b9036b",
+        "component": "combo_piece",
+        "name": "Siege-Gang Lieutenant",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/e22c2df5-ae00-4d71-ac60-6ea402b9036b"
+      },
+      {
+        "object": "related_card",
+        "id": "a5579dfb-4e63-4e7b-80c5-56949518c71e",
+        "component": "combo_piece",
+        "name": "Garbage Elemental",
+        "type_line": "Creature — Elemental",
+        "uri": "https://api.scryfall.com/cards/a5579dfb-4e63-4e7b-80c5-56949518c71e"
+      },
+      {
+        "object": "related_card",
+        "id": "5183ca53-dc90-4971-a610-38b4ba85dc83",
+        "component": "combo_piece",
+        "name": "Hordeling Outburst",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/5183ca53-dc90-4971-a610-38b4ba85dc83"
+      },
+      {
+        "object": "related_card",
+        "id": "b95749d7-5967-4e49-9de0-74e156650095",
+        "component": "combo_piece",
+        "name": "Mardu Ascendancy",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/b95749d7-5967-4e49-9de0-74e156650095"
+      },
+      {
+        "object": "related_card",
+        "id": "2ce8a205-99d6-4a9c-83a7-18b7220177d3",
+        "component": "combo_piece",
+        "name": "Frontline Rush",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/2ce8a205-99d6-4a9c-83a7-18b7220177d3"
+      },
+      {
+        "object": "related_card",
+        "id": "2a012f05-0009-42cf-8a69-07140b2a2aef",
+        "component": "combo_piece",
+        "name": "Ardoz, Cobbler of War",
+        "type_line": "Legendary Creature — Goblin Shaman",
+        "uri": "https://api.scryfall.com/cards/2a012f05-0009-42cf-8a69-07140b2a2aef"
+      },
+      {
+        "object": "related_card",
+        "id": "a62b7671-efde-40b2-9cb1-76339d614d29",
+        "component": "combo_piece",
+        "name": "Pashalik Mons",
+        "type_line": "Legendary Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/a62b7671-efde-40b2-9cb1-76339d614d29"
+      },
+      {
+        "object": "related_card",
+        "id": "2d8ce8ad-2bb9-4c53-8e36-9690e8a118f1",
+        "component": "combo_piece",
+        "name": "Goblin Warrens",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/2d8ce8ad-2bb9-4c53-8e36-9690e8a118f1"
+      },
+      {
+        "object": "related_card",
+        "id": "fc545089-cf48-49e1-99b4-660946260da8",
+        "component": "combo_piece",
+        "name": "Rasputin, the Oneiromancer",
+        "type_line": "Legendary Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/fc545089-cf48-49e1-99b4-660946260da8"
+      },
+      {
+        "object": "related_card",
+        "id": "ac552ea3-f521-4c42-a846-21a73364e0ca",
+        "component": "combo_piece",
+        "name": "Neriv, Crackling Vanguard",
+        "type_line": "Legendary Creature — Spirit Dragon",
+        "uri": "https://api.scryfall.com/cards/ac552ea3-f521-4c42-a846-21a73364e0ca"
+      },
+      {
+        "object": "related_card",
+        "id": "52192c46-21dd-4b65-9434-f6857111019f",
+        "component": "combo_piece",
+        "name": "Howlsquad Heavy",
+        "type_line": "Creature — Goblin Mercenary",
+        "uri": "https://api.scryfall.com/cards/52192c46-21dd-4b65-9434-f6857111019f"
+      },
+      {
+        "object": "related_card",
+        "id": "ef8b7992-d4d9-4d0f-9eca-5085588a4669",
+        "component": "combo_piece",
+        "name": "Mogg Infestation",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/ef8b7992-d4d9-4d0f-9eca-5085588a4669"
+      },
+      {
+        "object": "related_card",
+        "id": "f9abe517-f601-4784-8d62-2350bd755146",
+        "component": "combo_piece",
+        "name": "Dragon Fodder",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/f9abe517-f601-4784-8d62-2350bd755146"
+      },
+      {
+        "object": "related_card",
+        "id": "26bccccc-f694-47a8-90fa-e3f1f62b9664",
+        "component": "combo_piece",
+        "name": "Goblin Assault",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/26bccccc-f694-47a8-90fa-e3f1f62b9664"
+      },
+      {
+        "object": "related_card",
+        "id": "226fc101-abcc-4ed4-8c0b-3677dc8d8f0a",
+        "component": "combo_piece",
+        "name": "General Kreat, the Boltbringer",
+        "type_line": "Legendary Creature — Goblin Soldier",
+        "uri": "https://api.scryfall.com/cards/226fc101-abcc-4ed4-8c0b-3677dc8d8f0a"
+      },
+      {
+        "object": "related_card",
+        "id": "98b913e1-c26d-4a7d-9671-50d483304ba3",
+        "component": "combo_piece",
+        "name": "Siege-Gang Commander",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/98b913e1-c26d-4a7d-9671-50d483304ba3"
+      },
+      {
+        "object": "related_card",
+        "id": "ba41ec1b-e631-4882-b897-df26e26ada04",
+        "component": "combo_piece",
+        "name": "Battle Cry Goblin",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/ba41ec1b-e631-4882-b897-df26e26ada04"
+      },
+      {
+        "object": "related_card",
+        "id": "0c7d8714-a0ef-4ae8-909b-60f3319c646c",
+        "component": "combo_piece",
+        "name": "Krenko, Tin Street Kingpin",
+        "type_line": "Legendary Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/0c7d8714-a0ef-4ae8-909b-60f3319c646c"
+      },
+      {
+        "object": "related_card",
+        "id": "faec8ab3-80c6-4b8f-a60d-50cc683e66b4",
+        "component": "combo_piece",
+        "name": "Hunted Phantasm",
+        "type_line": "Creature — Spirit",
+        "uri": "https://api.scryfall.com/cards/faec8ab3-80c6-4b8f-a60d-50cc683e66b4"
+      },
+      {
+        "object": "related_card",
+        "id": "1c7930aa-9556-487a-9e37-78c722dfb4bc",
+        "component": "combo_piece",
+        "name": "Kuldotha Rebirth",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/1c7930aa-9556-487a-9e37-78c722dfb4bc"
+      },
+      {
+        "object": "related_card",
+        "id": "461ea351-9dfb-4e40-90db-e95f5faf2b03",
+        "component": "combo_piece",
+        "name": "Den of the Bugbear",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/461ea351-9dfb-4e40-90db-e95f5faf2b03"
+      },
+      {
+        "object": "related_card",
+        "id": "2d19a474-b008-4088-8a31-333c0b2d9d65",
+        "component": "combo_piece",
+        "name": "Beetleback Chief",
+        "type_line": "Creature — Goblin Warrior",
+        "uri": "https://api.scryfall.com/cards/2d19a474-b008-4088-8a31-333c0b2d9d65"
+      },
+      {
+        "object": "related_card",
+        "id": "b37a6cf7-f239-4bca-b4c3-a48932ef56b5",
+        "component": "combo_piece",
+        "name": "Sarpadian Empires, Vol. VII",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/b37a6cf7-f239-4bca-b4c3-a48932ef56b5"
+      },
+      {
+        "object": "related_card",
+        "id": "2b4155d1-0a87-4d2c-a1a0-06b2553eaae4",
+        "component": "combo_piece",
+        "name": "Goblin War Party",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/2b4155d1-0a87-4d2c-a1a0-06b2553eaae4"
+      },
+      {
+        "object": "related_card",
+        "id": "4190dd17-adf3-4174-ab4b-cc49698b7901",
+        "component": "combo_piece",
+        "name": "Gift Horse",
+        "type_line": "Artifact — Contraption",
+        "uri": "https://api.scryfall.com/cards/4190dd17-adf3-4174-ab4b-cc49698b7901"
+      },
+      {
+        "object": "related_card",
+        "id": "36f0fd37-eb34-418d-b136-03d816c93034",
+        "component": "combo_piece",
+        "name": "Goblin Traprunner",
+        "type_line": "Creature — Goblin",
+        "uri": "https://api.scryfall.com/cards/36f0fd37-eb34-418d-b136-03d816c93034"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/98ce0500-d9b4-4218-bcc6-dd6194068958/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4465eff4-5851-4721-a248-866c686c2ab8&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Zoltan Boros",
+    "artist_ids": [
+      "1885e6cb-c827-4896-994e-3d0a027d602f"
+    ],
+    "illustration_id": "964420b5-5550-4446-a143-7719ebb8d901",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin",
+      "edhrec": "https://edhrec.com/route/?cc=Goblin"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGoblin%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "491fc1c3-a46e-4cfd-a749-57f4c96f6aea",
+    "oracle_id": "1ee82580-9d1d-4908-8d58-99f7781b08f4",
+    "multiverse_ids": [],
+    "name": "Human Knight",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/491fc1c3-a46e-4cfd-a749-57f4c96f6aea",
+    "scryfall_uri": "https://scryfall.com/card/tltc/9/human-knight?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1709590977",
+      "normal": "https://cards.scryfall.io/normal/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1709590977",
+      "large": "https://cards.scryfall.io/large/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1709590977",
+      "png": "https://cards.scryfall.io/png/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.png?1709590977",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1709590977",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/491fc1c3-a46e-4cfd-a749-57f4c96f6aea.jpg?1709590977"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Human Knight",
+    "oracle_text": "Trample, haste",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste",
+      "Trample"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "491fc1c3-a46e-4cfd-a749-57f4c96f6aea",
+        "component": "token",
+        "name": "Human Knight",
+        "type_line": "Token Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/491fc1c3-a46e-4cfd-a749-57f4c96f6aea"
+      },
+      {
+        "object": "related_card",
+        "id": "8c529ffe-03cd-46f3-b8d6-9b9b6909d654",
+        "component": "combo_piece",
+        "name": "Forth Eorlingas!",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/8c529ffe-03cd-46f3-b8d6-9b9b6909d654"
+      },
+      {
+        "object": "related_card",
+        "id": "1cf7ebef-014e-4305-851d-28659306bab8",
+        "component": "combo_piece",
+        "name": "Oath of Eorl",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/1cf7ebef-014e-4305-851d-28659306bab8"
+      },
+      {
+        "object": "related_card",
+        "id": "b71734f6-b2ba-4648-ac3d-418c15947d6b",
+        "component": "combo_piece",
+        "name": "Riders of Rohan",
+        "type_line": "Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/b71734f6-b2ba-4648-ac3d-418c15947d6b"
+      },
+      {
+        "object": "related_card",
+        "id": "902122b6-ad76-4069-8177-2ac720809659",
+        "component": "combo_piece",
+        "name": "Éowyn, Shieldmaiden",
+        "type_line": "Legendary Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/902122b6-ad76-4069-8177-2ac720809659"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/491fc1c3-a46e-4cfd-a749-57f4c96f6aea/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ee82580-9d1d-4908-8d58-99f7781b08f4&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Inka Schulz",
+    "artist_ids": [
+      "3f93408e-c510-42a5-beef-9ddbc56d9056"
+    ],
+    "illustration_id": "107c957e-813c-4e61-817c-9c3ff91bdda2",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHuman%2BKnight",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHuman%2BKnight",
+      "edhrec": "https://edhrec.com/route/?cc=Human+Knight"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHuman%2BKnight%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human+Knight&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human+Knight&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c622237d-92e5-4efc-aec4-0a18efd6fb38",
+    "oracle_id": "6bb61f34-5d57-4eaa-a02c-f5d08c1ee920",
+    "multiverse_ids": [],
+    "name": "Beast",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/c622237d-92e5-4efc-aec4-0a18efd6fb38",
+    "scryfall_uri": "https://scryfall.com/card/tltc/10/beast?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549",
+      "normal": "https://cards.scryfall.io/normal/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549",
+      "large": "https://cards.scryfall.io/large/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549",
+      "png": "https://cards.scryfall.io/png/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.png?1686264549",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c622237d-92e5-4efc-aec4-0a18efd6fb38.jpg?1686264549"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Beast",
+    "oracle_text": "",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "19ca91ea-dffd-44a9-a54a-c664d83c357b",
+        "component": "combo_piece",
+        "name": "Druid of Horns",
+        "type_line": "Creature — Human Druid",
+        "uri": "https://api.scryfall.com/cards/19ca91ea-dffd-44a9-a54a-c664d83c357b"
+      },
+      {
+        "object": "related_card",
+        "id": "beda7acd-e970-4222-9577-5133765d6052",
+        "component": "combo_piece",
+        "name": "Thragtusk",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/beda7acd-e970-4222-9577-5133765d6052"
+      },
+      {
+        "object": "related_card",
+        "id": "6b12a208-0ecf-4403-b988-d8c5ccc2906d",
+        "component": "combo_piece",
+        "name": "Garruk Wildspeaker",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/6b12a208-0ecf-4403-b988-d8c5ccc2906d"
+      },
+      {
+        "object": "related_card",
+        "id": "88cf1c67-9edc-42dd-ba7f-96baab25813a",
+        "component": "combo_piece",
+        "name": "Pulse of the Tangle",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/88cf1c67-9edc-42dd-ba7f-96baab25813a"
+      },
+      {
+        "object": "related_card",
+        "id": "79cfc0d7-fccb-47fb-87b6-08dd32528be6",
+        "component": "combo_piece",
+        "name": "Garruk, Primal Hunter",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/79cfc0d7-fccb-47fb-87b6-08dd32528be6"
+      },
+      {
+        "object": "related_card",
+        "id": "5ab07f63-f52f-47b8-8dd1-a1d6414b6ba2",
+        "component": "combo_piece",
+        "name": "Wild Endeavor",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/5ab07f63-f52f-47b8-8dd1-a1d6414b6ba2"
+      },
+      {
+        "object": "related_card",
+        "id": "d8c0c7e7-81f5-4e75-8120-95488fd6ff60",
+        "component": "combo_piece",
+        "name": "Feral Incarnation",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/d8c0c7e7-81f5-4e75-8120-95488fd6ff60"
+      },
+      {
+        "object": "related_card",
+        "id": "5c7ce150-5a57-47d4-a076-7249c36a2d78",
+        "component": "combo_piece",
+        "name": "Garruk, Unleashed",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/5c7ce150-5a57-47d4-a076-7249c36a2d78"
+      },
+      {
+        "object": "related_card",
+        "id": "e5729bd1-f480-4a9a-a36c-c36bf4b85a3f",
+        "component": "combo_piece",
+        "name": "Elder Gargaroth",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/e5729bd1-f480-4a9a-a36c-c36bf4b85a3f"
+      },
+      {
+        "object": "related_card",
+        "id": "78bbdc81-d47f-4f0a-b359-c146cc07931d",
+        "component": "combo_piece",
+        "name": "Fresh Meat",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/78bbdc81-d47f-4f0a-b359-c146cc07931d"
+      },
+      {
+        "object": "related_card",
+        "id": "265b59b4-e32f-4c73-b896-8fb1e88d8d52",
+        "component": "combo_piece",
+        "name": "Savage Conception",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/265b59b4-e32f-4c73-b896-8fb1e88d8d52"
+      },
+      {
+        "object": "related_card",
+        "id": "c7ea6b4f-36bb-4c84-a3cb-f962ece41b2b",
+        "component": "combo_piece",
+        "name": "Radagast, Wizard of Wilds",
+        "type_line": "Legendary Creature — Avatar Wizard",
+        "uri": "https://api.scryfall.com/cards/c7ea6b4f-36bb-4c84-a3cb-f962ece41b2b"
+      },
+      {
+        "object": "related_card",
+        "id": "c622237d-92e5-4efc-aec4-0a18efd6fb38",
+        "component": "token",
+        "name": "Beast",
+        "type_line": "Token Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/c622237d-92e5-4efc-aec4-0a18efd6fb38"
+      },
+      {
+        "object": "related_card",
+        "id": "433e853d-bdd6-4151-ae17-97b0c05083f9",
+        "component": "combo_piece",
+        "name": "Vivien, Monsters' Advocate",
+        "type_line": "Legendary Planeswalker — Vivien",
+        "uri": "https://api.scryfall.com/cards/433e853d-bdd6-4151-ae17-97b0c05083f9"
+      },
+      {
+        "object": "related_card",
+        "id": "3ca5c492-e7e8-48c3-ba98-db1ff50759bc",
+        "component": "combo_piece",
+        "name": "Trumpeting Gnarr",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/3ca5c492-e7e8-48c3-ba98-db1ff50759bc"
+      },
+      {
+        "object": "related_card",
+        "id": "2baf505b-ea99-470b-ac87-fd4fb8f5f322",
+        "component": "combo_piece",
+        "name": "Beast Within",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/2baf505b-ea99-470b-ac87-fd4fb8f5f322"
+      },
+      {
+        "object": "related_card",
+        "id": "a34a1550-183a-4f7d-ba28-f3249e13a9d6",
+        "component": "combo_piece",
+        "name": "Sawtusk Demolisher",
+        "type_line": "Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/a34a1550-183a-4f7d-ba28-f3249e13a9d6"
+      },
+      {
+        "object": "related_card",
+        "id": "e3563033-b1a9-402b-b289-4845efb17bfe",
+        "component": "combo_piece",
+        "name": "Soul of Zendikar",
+        "type_line": "Creature — Avatar",
+        "uri": "https://api.scryfall.com/cards/e3563033-b1a9-402b-b289-4845efb17bfe"
+      },
+      {
+        "object": "related_card",
+        "id": "f2c2f50e-ccfd-494e-ac52-fc4846f1f4ea",
+        "component": "combo_piece",
+        "name": "The Huntsman's Redemption",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/f2c2f50e-ccfd-494e-ac52-fc4846f1f4ea"
+      },
+      {
+        "object": "related_card",
+        "id": "b40a7f65-10fe-4ce5-ad1c-be53a635d7a9",
+        "component": "combo_piece",
+        "name": "Midsummer Revel",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/b40a7f65-10fe-4ce5-ad1c-be53a635d7a9"
+      },
+      {
+        "object": "related_card",
+        "id": "167eac91-56a8-4bfe-ac95-bb460e0206fa",
+        "component": "combo_piece",
+        "name": "Somberwald Beastmaster",
+        "type_line": "Creature — Human Ranger",
+        "uri": "https://api.scryfall.com/cards/167eac91-56a8-4bfe-ac95-bb460e0206fa"
+      },
+      {
+        "object": "related_card",
+        "id": "4ab96b42-4240-4a24-bf58-c035ca8ec66b",
+        "component": "combo_piece",
+        "name": "Herd Migration",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/4ab96b42-4240-4a24-bf58-c035ca8ec66b"
+      },
+      {
+        "object": "related_card",
+        "id": "5a20acbc-6ca8-4b0c-ab7e-4bb8d429336b",
+        "component": "combo_piece",
+        "name": "Curious Herd",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/5a20acbc-6ca8-4b0c-ab7e-4bb8d429336b"
+      },
+      {
+        "object": "related_card",
+        "id": "3041bd1d-86cd-4c7c-b6d7-a33a7ae202fb",
+        "component": "combo_piece",
+        "name": "Bringer of the Green Dawn",
+        "type_line": "Creature — Bringer",
+        "uri": "https://api.scryfall.com/cards/3041bd1d-86cd-4c7c-b6d7-a33a7ae202fb"
+      },
+      {
+        "object": "related_card",
+        "id": "f1623228-0935-4a8d-863c-249d613bd3ab",
+        "component": "combo_piece",
+        "name": "Primeval Bounty",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/f1623228-0935-4a8d-863c-249d613bd3ab"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c622237d-92e5-4efc-aec4-0a18efd6fb38/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6bb61f34-5d57-4eaa-a02c-f5d08c1ee920&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Warren Mahy",
+    "artist_ids": [
+      "002c739e-aa1f-4c1d-921b-37cb2d1b1c5b"
+    ],
+    "illustration_id": "fde9ea95-2413-4bfc-b34f-445c1edfde98",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBeast",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBeast",
+      "edhrec": "https://edhrec.com/route/?cc=Beast"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBeast%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Beast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "023f668a-a8e6-4fcb-98d1-30adf343f050",
+    "oracle_id": "dac8a765-6845-4b57-bb79-4ec463436f92",
+    "multiverse_ids": [],
+    "name": "Elf Warrior",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/023f668a-a8e6-4fcb-98d1-30adf343f050",
+    "scryfall_uri": "https://scryfall.com/card/tltc/11/elf-warrior?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599",
+      "normal": "https://cards.scryfall.io/normal/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599",
+      "large": "https://cards.scryfall.io/large/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599",
+      "png": "https://cards.scryfall.io/png/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.png?1686264599",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/023f668a-a8e6-4fcb-98d1-30adf343f050.jpg?1686264599"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Elf Warrior",
+    "oracle_text": "",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "575d407c-c37e-4664-b2e3-217dfd5a78a2",
+        "component": "combo_piece",
+        "name": "Wolverine Riders",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/575d407c-c37e-4664-b2e3-217dfd5a78a2"
+      },
+      {
+        "object": "related_card",
+        "id": "3c772bcf-2468-42d0-a671-f57814ba8cbb",
+        "component": "combo_piece",
+        "name": "Tyvar Kell",
+        "type_line": "Legendary Planeswalker — Tyvar",
+        "uri": "https://api.scryfall.com/cards/3c772bcf-2468-42d0-a671-f57814ba8cbb"
+      },
+      {
+        "object": "related_card",
+        "id": "e5198c82-e2df-41e0-8b04-47d567fff10a",
+        "component": "combo_piece",
+        "name": "Thorn Lieutenant",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/e5198c82-e2df-41e0-8b04-47d567fff10a"
+      },
+      {
+        "object": "related_card",
+        "id": "b870c742-e799-4276-bb3d-f2c288ce0db8",
+        "component": "combo_piece",
+        "name": "Prowess of the Fair",
+        "type_line": "Kindred Enchantment — Elf",
+        "uri": "https://api.scryfall.com/cards/b870c742-e799-4276-bb3d-f2c288ce0db8"
+      },
+      {
+        "object": "related_card",
+        "id": "a175c5cf-b33d-481d-b093-57072f6f671e",
+        "component": "combo_piece",
+        "name": "Elderleaf Mentor",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/a175c5cf-b33d-481d-b093-57072f6f671e"
+      },
+      {
+        "object": "related_card",
+        "id": "444b75d9-f7c7-4a13-9318-02d7bbd80c9c",
+        "component": "combo_piece",
+        "name": "Exquisite Huntmaster",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/444b75d9-f7c7-4a13-9318-02d7bbd80c9c"
+      },
+      {
+        "object": "related_card",
+        "id": "b5707611-13e4-489f-85fa-a6ba01f5e8dc",
+        "component": "combo_piece",
+        "name": "Windswift Slice",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/b5707611-13e4-489f-85fa-a6ba01f5e8dc"
+      },
+      {
+        "object": "related_card",
+        "id": "6bbd1461-bd98-4ba9-a538-2dae0cf39b53",
+        "component": "combo_piece",
+        "name": "Galadhrim Ambush",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/6bbd1461-bd98-4ba9-a538-2dae0cf39b53"
+      },
+      {
+        "object": "related_card",
+        "id": "2e70732f-68c1-4341-879e-5c9c68ea8503",
+        "component": "combo_piece",
+        "name": "Dwynen's Elite",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/2e70732f-68c1-4341-879e-5c9c68ea8503"
+      },
+      {
+        "object": "related_card",
+        "id": "c5fc9e54-8fc4-4de4-be74-e925a85187b4",
+        "component": "combo_piece",
+        "name": "Lys Alana Huntmaster",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/c5fc9e54-8fc4-4de4-be74-e925a85187b4"
+      },
+      {
+        "object": "related_card",
+        "id": "83b4a09f-ea53-42b4-a41a-4299192a6fd3",
+        "component": "combo_piece",
+        "name": "Imperious Perfect",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/83b4a09f-ea53-42b4-a41a-4299192a6fd3"
+      },
+      {
+        "object": "related_card",
+        "id": "5be17ab1-a94d-4ba5-9468-a1df345a1eda",
+        "component": "combo_piece",
+        "name": "Ambassador Oak",
+        "type_line": "Creature — Treefolk Warrior",
+        "uri": "https://api.scryfall.com/cards/5be17ab1-a94d-4ba5-9468-a1df345a1eda"
+      },
+      {
+        "object": "related_card",
+        "id": "cb43c86e-3d86-43ff-9c3b-94caee887b39",
+        "component": "combo_piece",
+        "name": "Nadier, Agent of the Duskenel",
+        "type_line": "Legendary Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/cb43c86e-3d86-43ff-9c3b-94caee887b39"
+      },
+      {
+        "object": "related_card",
+        "id": "fd78af69-4b8e-4063-a3bb-48026054cbd2",
+        "component": "combo_piece",
+        "name": "Elven Bow",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/fd78af69-4b8e-4063-a3bb-48026054cbd2"
+      },
+      {
+        "object": "related_card",
+        "id": "c24930f3-34e8-40e1-a798-3df5d2d12ef1",
+        "component": "combo_piece",
+        "name": "Hunting Triad",
+        "type_line": "Kindred Sorcery — Elf",
+        "uri": "https://api.scryfall.com/cards/c24930f3-34e8-40e1-a798-3df5d2d12ef1"
+      },
+      {
+        "object": "related_card",
+        "id": "82c2a0f7-0f53-4627-8be8-227fde331a69",
+        "component": "combo_piece",
+        "name": "Skemfar Elderhall",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/82c2a0f7-0f53-4627-8be8-227fde331a69"
+      },
+      {
+        "object": "related_card",
+        "id": "96320770-e879-4c29-ab93-03b6ff191464",
+        "component": "combo_piece",
+        "name": "Sylvan Offering",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/96320770-e879-4c29-ab93-03b6ff191464"
+      },
+      {
+        "object": "related_card",
+        "id": "20602cb8-f925-4de0-ad4b-86d0f5514384",
+        "component": "combo_piece",
+        "name": "Elvish Promenade",
+        "type_line": "Kindred Sorcery — Elf",
+        "uri": "https://api.scryfall.com/cards/20602cb8-f925-4de0-ad4b-86d0f5514384"
+      },
+      {
+        "object": "related_card",
+        "id": "c83e860a-6dd5-4522-8b2b-b730934f59f7",
+        "component": "combo_piece",
+        "name": "Battle for Bretagard",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/c83e860a-6dd5-4522-8b2b-b730934f59f7"
+      },
+      {
+        "object": "related_card",
+        "id": "294ccc67-6fc9-411b-9100-ae6a9b7fadfc",
+        "component": "combo_piece",
+        "name": "Nath of the Gilt-Leaf",
+        "type_line": "Legendary Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/294ccc67-6fc9-411b-9100-ae6a9b7fadfc"
+      },
+      {
+        "object": "related_card",
+        "id": "266b32e4-122e-4b30-9d95-fbfaeae0d45a",
+        "component": "combo_piece",
+        "name": "Lathril, Blade of the Elves",
+        "type_line": "Legendary Creature — Elf Noble",
+        "uri": "https://api.scryfall.com/cards/266b32e4-122e-4b30-9d95-fbfaeae0d45a"
+      },
+      {
+        "object": "related_card",
+        "id": "331915f6-d6df-443e-a821-3970825164c3",
+        "component": "combo_piece",
+        "name": "Elven Ambush",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/331915f6-d6df-443e-a821-3970825164c3"
+      },
+      {
+        "object": "related_card",
+        "id": "74e28915-216d-45c1-a3fc-aa34120afddf",
+        "component": "combo_piece",
+        "name": "Presence of Gond",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/74e28915-216d-45c1-a3fc-aa34120afddf"
+      },
+      {
+        "object": "related_card",
+        "id": "470601b0-9598-487f-bb14-4bfec7ca6d61",
+        "component": "combo_piece",
+        "name": "Return Upon the Tide",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/470601b0-9598-487f-bb14-4bfec7ca6d61"
+      },
+      {
+        "object": "related_card",
+        "id": "89b47813-9b6c-4e8f-9212-fe37fb50e405",
+        "component": "combo_piece",
+        "name": "Eyeblight Cullers",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/89b47813-9b6c-4e8f-9212-fe37fb50e405"
+      },
+      {
+        "object": "related_card",
+        "id": "551a3557-3d91-4198-afd2-d4d7a3dbe153",
+        "component": "combo_piece",
+        "name": "Elvish Warmaster",
+        "type_line": "Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/551a3557-3d91-4198-afd2-d4d7a3dbe153"
+      },
+      {
+        "object": "related_card",
+        "id": "023f668a-a8e6-4fcb-98d1-30adf343f050",
+        "component": "token",
+        "name": "Elf Warrior",
+        "type_line": "Token Creature — Elf Warrior",
+        "uri": "https://api.scryfall.com/cards/023f668a-a8e6-4fcb-98d1-30adf343f050"
+      },
+      {
+        "object": "related_card",
+        "id": "47bf7254-4302-41a0-bc87-d7dc437ff38d",
+        "component": "combo_piece",
+        "name": "Gilt-Leaf Ambush",
+        "type_line": "Kindred Instant — Elf",
+        "uri": "https://api.scryfall.com/cards/47bf7254-4302-41a0-bc87-d7dc437ff38d"
+      },
+      {
+        "object": "related_card",
+        "id": "6223f5d6-83f1-454e-9cd5-aba157850430",
+        "component": "combo_piece",
+        "name": "Flourishing Defenses",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/6223f5d6-83f1-454e-9cd5-aba157850430"
+      },
+      {
+        "object": "related_card",
+        "id": "5128a5be-ffa6-4998-8488-872d80b24cb2",
+        "component": "combo_piece",
+        "name": "Elfsworn Giant",
+        "type_line": "Creature — Giant",
+        "uri": "https://api.scryfall.com/cards/5128a5be-ffa6-4998-8488-872d80b24cb2"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/023f668a-a8e6-4fcb-98d1-30adf343f050/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adac8a765-6845-4b57-bb79-4ec463436f92&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daniel Correia",
+    "artist_ids": [
+      "d383f00d-0078-4c43-92f6-cbf62ab5df05"
+    ],
+    "illustration_id": "2d01baf2-ed7c-4a62-9df1-1ccbb6d5f995",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior",
+      "edhrec": "https://edhrec.com/route/?cc=Elf+Warrior"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElf%2BWarrior%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elf+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elf+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+    "oracle_id": "b4f3e7ab-68fd-4613-ae6d-79ca43343d37",
+    "multiverse_ids": [],
+    "name": "Insect",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+    "scryfall_uri": "https://scryfall.com/card/tltc/12/insect?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+      "normal": "https://cards.scryfall.io/normal/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+      "large": "https://cards.scryfall.io/large/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+      "png": "https://cards.scryfall.io/png/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.png?1686264640",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/83d61e7f-9eef-48d4-9261-9ff18dfd2a65.jpg?1686264640"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Insect",
+    "oracle_text": "Flying, deathtouch",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Deathtouch",
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "cc4693c6-f532-4726-b51a-21b04f820448",
+        "component": "combo_piece",
+        "name": "Hornet Nest",
+        "type_line": "Creature — Insect",
+        "uri": "https://api.scryfall.com/cards/cc4693c6-f532-4726-b51a-21b04f820448"
+      },
+      {
+        "object": "related_card",
+        "id": "a247694f-7b23-489b-b524-898625d000e2",
+        "component": "combo_piece",
+        "name": "Hornet Queen",
+        "type_line": "Creature — Insect",
+        "uri": "https://api.scryfall.com/cards/a247694f-7b23-489b-b524-898625d000e2"
+      },
+      {
+        "object": "related_card",
+        "id": "83d61e7f-9eef-48d4-9261-9ff18dfd2a65",
+        "component": "token",
+        "name": "Insect",
+        "type_line": "Token Creature — Insect",
+        "uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/83d61e7f-9eef-48d4-9261-9ff18dfd2a65/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab4f3e7ab-68fd-4613-ae6d-79ca43343d37&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Oleg Bulakh",
+    "artist_ids": [
+      "28d6be71-4801-4fe7-9747-2e3733e4653e"
+    ],
+    "illustration_id": "42ca0e53-19e2-4564-b7fa-8c0bb2299da6",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsect",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsect",
+      "edhrec": "https://edhrec.com/route/?cc=Insect"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInsect%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Insect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "bf661b43-53eb-4e51-8152-420f6d8c925f",
+    "oracle_id": "79af2f72-e60a-4722-a794-92da85b994ee",
+    "multiverse_ids": [],
+    "name": "Treefolk",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/bf661b43-53eb-4e51-8152-420f6d8c925f",
+    "scryfall_uri": "https://scryfall.com/card/tltc/13/treefolk?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.jpg?1686264692",
+      "normal": "https://cards.scryfall.io/normal/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.jpg?1686264692",
+      "large": "https://cards.scryfall.io/large/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.jpg?1686264692",
+      "png": "https://cards.scryfall.io/png/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.png?1686264692",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.jpg?1686264692",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf661b43-53eb-4e51-8152-420f6d8c925f.jpg?1686264692"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Treefolk",
+    "oracle_text": "",
+    "power": "*",
+    "toughness": "*",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6e5d0d0c-0e6e-4750-80f0-73615267e6c5",
+        "component": "combo_piece",
+        "name": "Assemble the Entmoot",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/6e5d0d0c-0e6e-4750-80f0-73615267e6c5"
+      },
+      {
+        "object": "related_card",
+        "id": "96320770-e879-4c29-ab93-03b6ff191464",
+        "component": "combo_piece",
+        "name": "Sylvan Offering",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/96320770-e879-4c29-ab93-03b6ff191464"
+      },
+      {
+        "object": "related_card",
+        "id": "bf661b43-53eb-4e51-8152-420f6d8c925f",
+        "component": "token",
+        "name": "Treefolk",
+        "type_line": "Token Creature — Treefolk",
+        "uri": "https://api.scryfall.com/cards/bf661b43-53eb-4e51-8152-420f6d8c925f"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/bf661b43-53eb-4e51-8152-420f6d8c925f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A79af2f72-e60a-4722-a794-92da85b994ee&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Audrey Benjaminsen",
+    "artist_ids": [
+      "1af22031-f033-40b5-81ee-79551a9ee5b1"
+    ],
+    "illustration_id": "3005dc48-6ff5-46b4-ab43-1b6352c1f2c1",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTreefolk",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTreefolk",
+      "edhrec": "https://edhrec.com/route/?cc=Treefolk"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTreefolk%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treefolk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treefolk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "11335886-a422-42ff-be14-226602202603",
+    "oracle_id": "8fa79a98-8e52-4614-b1f0-3ba8ec9e0c20",
+    "multiverse_ids": [],
+    "name": "Dragon",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/11335886-a422-42ff-be14-226602202603",
+    "scryfall_uri": "https://scryfall.com/card/tltc/14/dragon?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974",
+      "normal": "https://cards.scryfall.io/normal/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974",
+      "large": "https://cards.scryfall.io/large/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974",
+      "png": "https://cards.scryfall.io/png/front/1/1/11335886-a422-42ff-be14-226602202603.png?1709590974",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/11335886-a422-42ff-be14-226602202603.jpg?1709590974"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Dragon",
+    "oracle_text": "Flying, menace\nWhenever this creature deals combat damage to a player, gain control of target artifact that player controls.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Menace"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "11335886-a422-42ff-be14-226602202603",
+        "component": "token",
+        "name": "Dragon",
+        "type_line": "Token Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/11335886-a422-42ff-be14-226602202603"
+      },
+      {
+        "object": "related_card",
+        "id": "5a307db8-4beb-4a42-b9e2-8b6a6df78936",
+        "component": "combo_piece",
+        "name": "Wake the Dragon",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/5a307db8-4beb-4a42-b9e2-8b6a6df78936"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/11335886-a422-42ff-be14-226602202603/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fa79a98-8e52-4614-b1f0-3ba8ec9e0c20&unique=prints",
+    "collector_number": "14",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Crystal Sully",
+    "artist_ids": [
+      "5c14673f-f538-490a-a7a8-457c1f4b67cf"
+    ],
+    "illustration_id": "07ca6be2-e911-4b32-b769-9a26d51fd4eb",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDragon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDragon",
+      "edhrec": "https://edhrec.com/route/?cc=Dragon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDragon%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "63455c28-3e53-45b1-8d0b-a5045dab1fb9",
+    "oracle_id": "7c934091-1bc7-4458-acef-fdac62ec3df1",
+    "multiverse_ids": [],
+    "name": "The Monarch",
+    "lang": "en",
+    "released_at": "2023-06-23",
+    "uri": "https://api.scryfall.com/cards/63455c28-3e53-45b1-8d0b-a5045dab1fb9",
+    "scryfall_uri": "https://scryfall.com/card/tltc/15/the-monarch?utm_source=api",
+    "layout": "token",
+    "highres_image": false,
+    "image_status": "lowres",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959",
+      "normal": "https://cards.scryfall.io/normal/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959",
+      "large": "https://cards.scryfall.io/large/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959",
+      "png": "https://cards.scryfall.io/png/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.png?1686264959",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/3/63455c28-3e53-45b1-8d0b-a5045dab1fb9.jpg?1686264959"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Card",
+    "oracle_text": "At the beginning of your end step, draw a card.\nWhenever a creature deals combat damage to you, its controller becomes the monarch.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "5d77f50f-f63d-47bd-8bf9-01febee315fd",
+        "component": "combo_piece",
+        "name": "Custodi Lich",
+        "type_line": "Creature — Zombie Cleric",
+        "uri": "https://api.scryfall.com/cards/5d77f50f-f63d-47bd-8bf9-01febee315fd"
+      },
+      {
+        "object": "related_card",
+        "id": "14efb04a-67d0-4d48-b292-b211f9cf967c",
+        "component": "combo_piece",
+        "name": "Court of Ire",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/14efb04a-67d0-4d48-b292-b211f9cf967c"
+      },
+      {
+        "object": "related_card",
+        "id": "2bcaec9f-fab6-48a2-96d0-0eea7165c061",
+        "component": "combo_piece",
+        "name": "Palace Jailer",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/2bcaec9f-fab6-48a2-96d0-0eea7165c061"
+      },
+      {
+        "object": "related_card",
+        "id": "9b13b7cb-7778-40a2-afb1-035f0531cded",
+        "component": "combo_piece",
+        "name": "Court of Garenbrig",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/9b13b7cb-7778-40a2-afb1-035f0531cded"
+      },
+      {
+        "object": "related_card",
+        "id": "0274bd7a-5db7-4676-91bf-f3a5deee27b6",
+        "component": "combo_piece",
+        "name": "Keeper of Keys",
+        "type_line": "Creature — Human Rogue Mutant",
+        "uri": "https://api.scryfall.com/cards/0274bd7a-5db7-4676-91bf-f3a5deee27b6"
+      },
+      {
+        "object": "related_card",
+        "id": "78075b31-8145-4053-90dd-6a34bd48fa7c",
+        "component": "combo_piece",
+        "name": "Entourage of Trest",
+        "type_line": "Creature — Elf Soldier",
+        "uri": "https://api.scryfall.com/cards/78075b31-8145-4053-90dd-6a34bd48fa7c"
+      },
+      {
+        "object": "related_card",
+        "id": "ac5dab4e-6941-409d-a7a7-d39e7b3ac9e9",
+        "component": "combo_piece",
+        "name": "Court of Cunning",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/ac5dab4e-6941-409d-a7a7-d39e7b3ac9e9"
+      },
+      {
+        "object": "related_card",
+        "id": "8c529ffe-03cd-46f3-b8d6-9b9b6909d654",
+        "component": "combo_piece",
+        "name": "Forth Eorlingas!",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/8c529ffe-03cd-46f3-b8d6-9b9b6909d654"
+      },
+      {
+        "object": "related_card",
+        "id": "4b23e2e0-b7d8-41fa-8441-118c552cd872",
+        "component": "combo_piece",
+        "name": "Regal Sliver",
+        "type_line": "Creature — Sliver",
+        "uri": "https://api.scryfall.com/cards/4b23e2e0-b7d8-41fa-8441-118c552cd872"
+      },
+      {
+        "object": "related_card",
+        "id": "90fa398b-f2f7-474f-a840-244238a67c31",
+        "component": "combo_piece",
+        "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+        "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+        "uri": "https://api.scryfall.com/cards/90fa398b-f2f7-474f-a840-244238a67c31"
+      },
+      {
+        "object": "related_card",
+        "id": "1cf7ebef-014e-4305-851d-28659306bab8",
+        "component": "combo_piece",
+        "name": "Oath of Eorl",
+        "type_line": "Enchantment — Saga",
+        "uri": "https://api.scryfall.com/cards/1cf7ebef-014e-4305-851d-28659306bab8"
+      },
+      {
+        "object": "related_card",
+        "id": "7ba2acdb-2c88-43f0-bacf-d9ec7bd011bb",
+        "component": "combo_piece",
+        "name": "Champions of Minas Tirith",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/7ba2acdb-2c88-43f0-bacf-d9ec7bd011bb"
+      },
+      {
+        "object": "related_card",
+        "id": "f4180f30-38c2-4836-a748-4ecb5f186458",
+        "component": "combo_piece",
+        "name": "Faramir, Steward of Gondor",
+        "type_line": "Legendary Creature — Human Noble",
+        "uri": "https://api.scryfall.com/cards/f4180f30-38c2-4836-a748-4ecb5f186458"
+      },
+      {
+        "object": "related_card",
+        "id": "1872af8f-aa13-4e72-a6b5-cc01d9960151",
+        "component": "combo_piece",
+        "name": "Emberwilde Captain",
+        "type_line": "Creature — Djinn Pirate",
+        "uri": "https://api.scryfall.com/cards/1872af8f-aa13-4e72-a6b5-cc01d9960151"
+      },
+      {
+        "object": "related_card",
+        "id": "a60fd036-8df3-49b8-8413-acc6af12106d",
+        "component": "combo_piece",
+        "name": "Éomer, King of Rohan",
+        "type_line": "Legendary Creature — Human Noble",
+        "uri": "https://api.scryfall.com/cards/a60fd036-8df3-49b8-8413-acc6af12106d"
+      },
+      {
+        "object": "related_card",
+        "id": "27207ba1-ce8b-41c3-9129-4458c13ed1c1",
+        "component": "combo_piece",
+        "name": "Court of Locthwain",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/27207ba1-ce8b-41c3-9129-4458c13ed1c1"
+      },
+      {
+        "object": "related_card",
+        "id": "2c306cf7-da52-4cc4-9272-bd7d78f1175d",
+        "component": "combo_piece",
+        "name": "Archon of Coronation",
+        "type_line": "Creature — Archon",
+        "uri": "https://api.scryfall.com/cards/2c306cf7-da52-4cc4-9272-bd7d78f1175d"
+      },
+      {
+        "object": "related_card",
+        "id": "6216f806-6164-40e4-aed8-bf756320322b",
+        "component": "combo_piece",
+        "name": "Court of Ambition",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/6216f806-6164-40e4-aed8-bf756320322b"
+      },
+      {
+        "object": "related_card",
+        "id": "2fefccad-c7f5-474e-b237-8ae6e86acf92",
+        "component": "combo_piece",
+        "name": "Denethor, Stone Seer",
+        "type_line": "Legendary Creature — Human Noble",
+        "uri": "https://api.scryfall.com/cards/2fefccad-c7f5-474e-b237-8ae6e86acf92"
+      },
+      {
+        "object": "related_card",
+        "id": "e3a8bdfa-a39c-4ca7-b591-1c6aca4cc5ac",
+        "component": "combo_piece",
+        "name": "Regal Behemoth",
+        "type_line": "Creature — Dinosaur",
+        "uri": "https://api.scryfall.com/cards/e3a8bdfa-a39c-4ca7-b591-1c6aca4cc5ac"
+      },
+      {
+        "object": "related_card",
+        "id": "63455c28-3e53-45b1-8d0b-a5045dab1fb9",
+        "component": "combo_piece",
+        "name": "The Monarch",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/63455c28-3e53-45b1-8d0b-a5045dab1fb9"
+      },
+      {
+        "object": "related_card",
+        "id": "a8427d4b-8788-4723-b9ec-446dbe06eefe",
+        "component": "combo_piece",
+        "name": "Court of Embereth",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/a8427d4b-8788-4723-b9ec-446dbe06eefe"
+      },
+      {
+        "object": "related_card",
+        "id": "bf43967f-756c-4e01-9fdc-7d4abdf4e9dd",
+        "component": "combo_piece",
+        "name": "Throne of the High City",
+        "type_line": "Land",
+        "uri": "https://api.scryfall.com/cards/bf43967f-756c-4e01-9fdc-7d4abdf4e9dd"
+      },
+      {
+        "object": "related_card",
+        "id": "ffd1bf4b-3ab0-4ab3-b351-01cc2e857bb6",
+        "component": "combo_piece",
+        "name": "Knights of the Black Rose",
+        "type_line": "Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/ffd1bf4b-3ab0-4ab3-b351-01cc2e857bb6"
+      },
+      {
+        "object": "related_card",
+        "id": "455a2e59-7468-4739-9af8-2df074f15c30",
+        "component": "combo_piece",
+        "name": "Archivist of Gondor",
+        "type_line": "Creature — Human Advisor",
+        "uri": "https://api.scryfall.com/cards/455a2e59-7468-4739-9af8-2df074f15c30"
+      },
+      {
+        "object": "related_card",
+        "id": "b4b266e2-1cad-40df-bc0e-3e1464b299b3",
+        "component": "combo_piece",
+        "name": "Thorn of the Black Rose",
+        "type_line": "Creature — Human Assassin",
+        "uri": "https://api.scryfall.com/cards/b4b266e2-1cad-40df-bc0e-3e1464b299b3"
+      },
+      {
+        "object": "related_card",
+        "id": "0a4cb69a-4ca6-43ac-9b8a-78e968c19293",
+        "component": "combo_piece",
+        "name": "Court of Vantress",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/0a4cb69a-4ca6-43ac-9b8a-78e968c19293"
+      },
+      {
+        "object": "related_card",
+        "id": "adb04bab-a10a-40da-813e-6afa68956efc",
+        "component": "combo_piece",
+        "name": "Azure Fleet Admiral",
+        "type_line": "Creature — Human Pirate",
+        "uri": "https://api.scryfall.com/cards/adb04bab-a10a-40da-813e-6afa68956efc"
+      },
+      {
+        "object": "related_card",
+        "id": "ae54027e-4204-498b-9b6e-9d4a1f84ade7",
+        "component": "combo_piece",
+        "name": "Jared Carthalion, True Heir",
+        "type_line": "Legendary Creature — Human Warrior",
+        "uri": "https://api.scryfall.com/cards/ae54027e-4204-498b-9b6e-9d4a1f84ade7"
+      },
+      {
+        "object": "related_card",
+        "id": "2b0e11c0-5347-4241-9a7e-f1a266d058c2",
+        "component": "combo_piece",
+        "name": "Throne Warden",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/2b0e11c0-5347-4241-9a7e-f1a266d058c2"
+      },
+      {
+        "object": "related_card",
+        "id": "dec42986-849d-4487-9694-c5d4f30e6883",
+        "component": "combo_piece",
+        "name": "Dawnglade Regent",
+        "type_line": "Creature — Elk",
+        "uri": "https://api.scryfall.com/cards/dec42986-849d-4487-9694-c5d4f30e6883"
+      },
+      {
+        "object": "related_card",
+        "id": "af7f7659-1f20-45b6-bcd2-21879beb7849",
+        "component": "combo_piece",
+        "name": "Court of Ardenvale",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/af7f7659-1f20-45b6-bcd2-21879beb7849"
+      },
+      {
+        "object": "related_card",
+        "id": "c3b06eef-0f95-4c37-8dad-903df0d11916",
+        "component": "combo_piece",
+        "name": "Aragorn, King of Gondor",
+        "type_line": "Legendary Creature — Human Noble",
+        "uri": "https://api.scryfall.com/cards/c3b06eef-0f95-4c37-8dad-903df0d11916"
+      },
+      {
+        "object": "related_card",
+        "id": "0f7577cf-4803-477f-9060-34afe9a70f98",
+        "component": "combo_piece",
+        "name": "Fealty to the Realm",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/0f7577cf-4803-477f-9060-34afe9a70f98"
+      },
+      {
+        "object": "related_card",
+        "id": "32a74ab1-30ad-4b12-b86d-fa721052e073",
+        "component": "combo_piece",
+        "name": "Skyline Despot",
+        "type_line": "Creature — Dragon",
+        "uri": "https://api.scryfall.com/cards/32a74ab1-30ad-4b12-b86d-fa721052e073"
+      },
+      {
+        "object": "related_card",
+        "id": "73f15c50-cfb2-4567-bad5-3d18a2d7d0aa",
+        "component": "combo_piece",
+        "name": "Feast of Succession",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/73f15c50-cfb2-4567-bad5-3d18a2d7d0aa"
+      },
+      {
+        "object": "related_card",
+        "id": "fe509cef-83e5-48d9-a9ec-e187ab65b5e0",
+        "component": "combo_piece",
+        "name": "Paliano",
+        "type_line": "Plane — Fiora",
+        "uri": "https://api.scryfall.com/cards/fe509cef-83e5-48d9-a9ec-e187ab65b5e0"
+      },
+      {
+        "object": "related_card",
+        "id": "d60160a6-8786-4488-b373-6599221341e5",
+        "component": "combo_piece",
+        "name": "Staunch Throneguard",
+        "type_line": "Artifact Creature — Construct",
+        "uri": "https://api.scryfall.com/cards/d60160a6-8786-4488-b373-6599221341e5"
+      },
+      {
+        "object": "related_card",
+        "id": "6c0bbbe0-e6cf-43df-9c44-b6bbfa9c9af7",
+        "component": "combo_piece",
+        "name": "Palace Sentinels",
+        "type_line": "Creature — Human Soldier",
+        "uri": "https://api.scryfall.com/cards/6c0bbbe0-e6cf-43df-9c44-b6bbfa9c9af7"
+      },
+      {
+        "object": "related_card",
+        "id": "d0849f42-cf51-4128-ab91-6caf0ce3669c",
+        "component": "combo_piece",
+        "name": "Crimson Fleet Commodore",
+        "type_line": "Creature — Ogre Pirate",
+        "uri": "https://api.scryfall.com/cards/d0849f42-cf51-4128-ab91-6caf0ce3669c"
+      },
+      {
+        "object": "related_card",
+        "id": "93b04456-c692-47e1-90d7-53bba320bbda",
+        "component": "combo_piece",
+        "name": "Queen Marchesa",
+        "type_line": "Legendary Creature — Human Assassin",
+        "uri": "https://api.scryfall.com/cards/93b04456-c692-47e1-90d7-53bba320bbda"
+      },
+      {
+        "object": "related_card",
+        "id": "652be579-44ad-4656-975b-5e336a9e21c8",
+        "component": "combo_piece",
+        "name": "Coin of Fate",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/652be579-44ad-4656-975b-5e336a9e21c8"
+      },
+      {
+        "object": "related_card",
+        "id": "0528de36-46c6-496c-8514-2944423b3e64",
+        "component": "combo_piece",
+        "name": "Marchesa's Decree",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/0528de36-46c6-496c-8514-2944423b3e64"
+      },
+      {
+        "object": "related_card",
+        "id": "27abf520-e5cb-4e61-bbf9-be4f23d6578a",
+        "component": "combo_piece",
+        "name": "Court of Bounty",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/27abf520-e5cb-4e61-bbf9-be4f23d6578a"
+      },
+      {
+        "object": "related_card",
+        "id": "29679998-2fb4-4fb4-9048-27b6bf6b79e8",
+        "component": "combo_piece",
+        "name": "Fall from Favor",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/29679998-2fb4-4fb4-9048-27b6bf6b79e8"
+      },
+      {
+        "object": "related_card",
+        "id": "a3af3351-9457-443c-b31f-a57a2fc9be46",
+        "component": "combo_piece",
+        "name": "Canal Courier",
+        "type_line": "Creature — Human Rogue",
+        "uri": "https://api.scryfall.com/cards/a3af3351-9457-443c-b31f-a57a2fc9be46"
+      },
+      {
+        "object": "related_card",
+        "id": "d4ed6d32-abee-42f1-b47f-3c168465bf6b",
+        "component": "combo_piece",
+        "name": "Protector of the Crown",
+        "type_line": "Creature — Giant Soldier",
+        "uri": "https://api.scryfall.com/cards/d4ed6d32-abee-42f1-b47f-3c168465bf6b"
+      },
+      {
+        "object": "related_card",
+        "id": "dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3",
+        "component": "combo_piece",
+        "name": "Court of Grace",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/dc098d5b-0cdb-422f-8bd2-7afd81a7b7c3"
+      },
+      {
+        "object": "related_card",
+        "id": "5ed34e69-aefe-440e-a0f4-495578a15904",
+        "component": "combo_piece",
+        "name": "Crown of Gondor",
+        "type_line": "Legendary Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/5ed34e69-aefe-440e-a0f4-495578a15904"
+      },
+      {
+        "object": "related_card",
+        "id": "7f94fdfe-6a64-4afa-a610-bfc61d4530d1",
+        "component": "combo_piece",
+        "name": "Crown-Hunter Hireling",
+        "type_line": "Creature — Ogre Mercenary",
+        "uri": "https://api.scryfall.com/cards/7f94fdfe-6a64-4afa-a610-bfc61d4530d1"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set": "tltc",
+    "set_name": "Tales of Middle-earth Commander Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/tltc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/63455c28-3e53-45b1-8d0b-a5045dab1fb9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c934091-1bc7-4458-acef-fdac62ec3df1&unique=prints",
+    "collector_number": "15",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Audrey Benjaminsen",
+    "artist_ids": [
+      "1af22031-f033-40b5-81ee-79551a9ee5b1"
+    ],
+    "illustration_id": "276479f7-43c3-48d4-912f-d4412513407e",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch",
+      "edhrec": "https://edhrec.com/route/?cc=The+Monarch"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThe%2BMonarch%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Monarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Monarch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

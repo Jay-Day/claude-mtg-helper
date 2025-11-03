@@ -1,0 +1,986 @@
+[
+  {
+    "object": "card",
+    "id": "fc0d11d3-4d55-43a4-b59d-acc41aa671c5",
+    "oracle_id": "fb868840-09fa-49b1-85cb-b08ad065e972",
+    "multiverse_ids": [],
+    "tcgplayer_id": 39331,
+    "cardmarket_id": 245690,
+    "name": "Bitterblossom",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/fc0d11d3-4d55-43a4-b59d-acc41aa671c5",
+    "scryfall_uri": "https://scryfall.com/card/g11/1/bitterblossom?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.jpg?1561758476",
+      "normal": "https://cards.scryfall.io/normal/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.jpg?1561758476",
+      "large": "https://cards.scryfall.io/large/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.jpg?1561758476",
+      "png": "https://cards.scryfall.io/png/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.png?1561758476",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.jpg?1561758476",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/c/fc0d11d3-4d55-43a4-b59d-acc41aa671c5.jpg?1561758476"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Kindred Enchantment — Faerie",
+    "oracle_text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "096cbccf-cd00-49d6-9885-54ba68667c27",
+        "component": "token",
+        "name": "Faerie Rogue",
+        "type_line": "Token Creature — Faerie Rogue",
+        "uri": "https://api.scryfall.com/cards/096cbccf-cd00-49d6-9885-54ba68667c27"
+      },
+      {
+        "object": "related_card",
+        "id": "fc0d11d3-4d55-43a4-b59d-acc41aa671c5",
+        "component": "combo_piece",
+        "name": "Bitterblossom",
+        "type_line": "Kindred Enchantment — Faerie",
+        "uri": "https://api.scryfall.com/cards/fc0d11d3-4d55-43a4-b59d-acc41aa671c5"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/fc0d11d3-4d55-43a4-b59d-acc41aa671c5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb868840-09fa-49b1-85cb-b08ad065e972&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "dci",
+    "flavor_text": "In Lorwyn's brief evenings, the sun pauses at the horizon long enough for a certain species of violet to bloom with the fragrance of mischief.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Nils Hamm",
+    "artist_ids": [
+      "c540d1fc-1500-457f-93cf-d6069ee66546"
+    ],
+    "illustration_id": "8e0f4417-d272-4741-a20b-8282f7a67ee1",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 656,
+    "penny_rank": 113,
+    "prices": {
+      "usd": null,
+      "usd_foil": "52.22",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "46.64",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBitterblossom",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBitterblossom",
+      "edhrec": "https://edhrec.com/route/?cc=Bitterblossom"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F39331%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=245690&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bitterblossom&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "298b410e-263e-4cb8-bc6d-309ecf3310d9",
+    "oracle_id": "2ccdc60a-49a9-44b9-a7af-0ebf18b26785",
+    "multiverse_ids": [],
+    "tcgplayer_id": 39031,
+    "cardmarket_id": 245054,
+    "name": "Sword of Fire and Ice",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/298b410e-263e-4cb8-bc6d-309ecf3310d9",
+    "scryfall_uri": "https://scryfall.com/card/g11/2/sword-of-fire-and-ice?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.jpg?1561756822",
+      "normal": "https://cards.scryfall.io/normal/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.jpg?1561756822",
+      "large": "https://cards.scryfall.io/large/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.jpg?1561756822",
+      "png": "https://cards.scryfall.io/png/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.png?1561756822",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.jpg?1561756822",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/298b410e-263e-4cb8-bc6d-309ecf3310d9.jpg?1561756822"
+    },
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, this Equipment deals 2 damage to any target and you draw a card.\nEquip {2}",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/298b410e-263e-4cb8-bc6d-309ecf3310d9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2ccdc60a-49a9-44b9-a7af-0ebf18b26785&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "dci",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Mark Zug",
+    "artist_ids": [
+      "48e2b98c-5467-4671-bd42-4c3746115117"
+    ],
+    "illustration_id": "d41559e7-442f-47a7-b0ef-721c58a4a4f1",
+    "border_color": "black",
+    "frame": "1997",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 1424,
+    "penny_rank": 611,
+    "prices": {
+      "usd": null,
+      "usd_foil": "74.59",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "51.31",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSword%2Bof%2BFire%2Band%2BIce",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSword%2Bof%2BFire%2Band%2BIce",
+      "edhrec": "https://edhrec.com/route/?cc=Sword+of+Fire+and+Ice"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F39031%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=245054&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sword+of+Fire+and+Ice&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "78206620-db4a-44fb-b68c-fbbeaf2a9e24",
+    "oracle_id": "244d4807-0802-41bc-9460-55ac38a28a72",
+    "multiverse_ids": [],
+    "tcgplayer_id": 39332,
+    "cardmarket_id": 245691,
+    "name": "Vendilion Clique",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/78206620-db4a-44fb-b68c-fbbeaf2a9e24",
+    "scryfall_uri": "https://scryfall.com/card/g11/3/vendilion-clique?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.jpg?1561757429",
+      "normal": "https://cards.scryfall.io/normal/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.jpg?1561757429",
+      "large": "https://cards.scryfall.io/large/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.jpg?1561757429",
+      "png": "https://cards.scryfall.io/png/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.png?1561757429",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.jpg?1561757429",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/8/78206620-db4a-44fb-b68c-fbbeaf2a9e24.jpg?1561757429"
+    },
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Faerie Wizard",
+    "oracle_text": "Flash\nFlying\nWhen Vendilion Clique enters, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card.",
+    "power": "3",
+    "toughness": "1",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Flash"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/78206620-db4a-44fb-b68c-fbbeaf2a9e24/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A244d4807-0802-41bc-9460-55ac38a28a72&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "dci",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jesper Ejsing",
+    "artist_ids": [
+      "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+    ],
+    "illustration_id": "6adbfc4e-a188-45d1-909f-f540ae8b3ab8",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 7154,
+    "penny_rank": 146,
+    "prices": {
+      "usd": null,
+      "usd_foil": "36.07",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "25.21",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVendilion%2BClique",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVendilion%2BClique",
+      "edhrec": "https://edhrec.com/route/?cc=Vendilion+Clique"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F39332%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=245691&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vendilion+Clique&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6",
+    "oracle_id": "299fc083-0834-4064-8344-f895aff68867",
+    "multiverse_ids": [],
+    "tcgplayer_id": 79288,
+    "cardmarket_id": 266414,
+    "name": "Entomb",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6",
+    "scryfall_uri": "https://scryfall.com/card/g11/4/entomb?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.jpg?1561757231",
+      "normal": "https://cards.scryfall.io/normal/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.jpg?1561757231",
+      "large": "https://cards.scryfall.io/large/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.jpg?1561757231",
+      "png": "https://cards.scryfall.io/png/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.png?1561757231",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.jpg?1561757231",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6.jpg?1561757231"
+    },
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Search your library for a card, put that card into your graveyard, then shuffle.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "banned",
+      "oldschool": "not_legal",
+      "premodern": "banned",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5c7bb22c-55b0-43e1-b52c-8bb4e75daaf6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A299fc083-0834-4064-8344-f895aff68867&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "dci",
+    "flavor_text": "A grave is the safest place to store ill-gotten treasures.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ron Spears",
+    "artist_ids": [
+      "fce9030b-86bd-4439-b06a-920a1eeb184c"
+    ],
+    "illustration_id": "5f51eecd-6a7a-4e16-9f8f-2e4ed9ebaafc",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 311,
+    "prices": {
+      "usd": null,
+      "usd_foil": "49.09",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "29.32",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEntomb",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEntomb",
+      "edhrec": "https://edhrec.com/route/?cc=Entomb"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F79288%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=266414&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Entomb&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "af226b54-7cde-462a-b1c5-42dfef1c2ee6",
+    "oracle_id": "2c63e4e1-89d2-4bc6-a232-94e75c4b1c8a",
+    "multiverse_ids": [],
+    "tcgplayer_id": 57646,
+    "cardmarket_id": 246714,
+    "name": "Mana Crypt",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/af226b54-7cde-462a-b1c5-42dfef1c2ee6",
+    "scryfall_uri": "https://scryfall.com/card/g11/5/mana-crypt?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.jpg?1561757823",
+      "normal": "https://cards.scryfall.io/normal/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.jpg?1561757823",
+      "large": "https://cards.scryfall.io/large/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.jpg?1561757823",
+      "png": "https://cards.scryfall.io/png/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.png?1561757823",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.jpg?1561757823",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af226b54-7cde-462a-b1c5-42dfef1c2ee6.jpg?1561757823"
+    },
+    "mana_cost": "{0}",
+    "cmc": 0.0,
+    "type_line": "Artifact",
+    "oracle_text": "At the beginning of your upkeep, flip a coin. If you lose the flip, this artifact deals 3 damage to you.\n{T}: Add {C}{C}.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "C"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "banned",
+      "pauper": "not_legal",
+      "vintage": "restricted",
+      "penny": "not_legal",
+      "commander": "banned",
+      "oathbreaker": "banned",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "banned",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "banned"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/af226b54-7cde-462a-b1c5-42dfef1c2ee6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c63e4e1-89d2-4bc6-a232-94e75c4b1c8a&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "wotc",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Matt Stewart",
+    "artist_ids": [
+      "20871267-2d8a-41d5-b03a-be3d557c5734"
+    ],
+    "illustration_id": "b7c5b0f8-6bc4-4a4d-9d48-da1fa197e479",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 396,
+    "prices": {
+      "usd": null,
+      "usd_foil": "205.27",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "60.08",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMana%2BCrypt",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMana%2BCrypt",
+      "edhrec": "https://edhrec.com/route/?cc=Mana+Crypt"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F57646%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=246714&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mana+Crypt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "14266659-4f24-4489-be7d-57e05fc874a2",
+    "oracle_id": "2068185c-1b50-47d0-aa3f-bf505d199428",
+    "multiverse_ids": [],
+    "tcgplayer_id": 48134,
+    "cardmarket_id": 248397,
+    "name": "Dark Confidant",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/14266659-4f24-4489-be7d-57e05fc874a2",
+    "scryfall_uri": "https://scryfall.com/card/g11/6/dark-confidant?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.jpg?1561756687",
+      "normal": "https://cards.scryfall.io/normal/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.jpg?1561756687",
+      "large": "https://cards.scryfall.io/large/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.jpg?1561756687",
+      "png": "https://cards.scryfall.io/png/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.png?1561756687",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.jpg?1561756687",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/14266659-4f24-4489-be7d-57e05fc874a2.jpg?1561756687"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Wizard",
+    "oracle_text": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/14266659-4f24-4489-be7d-57e05fc874a2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2068185c-1b50-47d0-aa3f-bf505d199428&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Greatness, at any cost.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ron Spears",
+    "artist_ids": [
+      "fce9030b-86bd-4439-b06a-920a1eeb184c"
+    ],
+    "illustration_id": "e8c534f2-d08c-4ff7-9a7a-46430090f698",
+    "border_color": "black",
+    "frame": "1997",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 1385,
+    "penny_rank": 53,
+    "prices": {
+      "usd": null,
+      "usd_foil": "67.90",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "51.41",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDark%2BConfidant",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDark%2BConfidant",
+      "edhrec": "https://edhrec.com/route/?cc=Dark+Confidant"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F48134%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=248397&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dark+Confidant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "dd5157b8-07df-4aec-8ea6-792cd582598f",
+    "oracle_id": "01546b7d-a233-4176-8843-d732074dc5b6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 57636,
+    "cardmarket_id": 250563,
+    "name": "Doubling Season",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/dd5157b8-07df-4aec-8ea6-792cd582598f",
+    "scryfall_uri": "https://scryfall.com/card/g11/7/doubling-season?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.jpg?1561758219",
+      "normal": "https://cards.scryfall.io/normal/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.jpg?1561758219",
+      "large": "https://cards.scryfall.io/large/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.jpg?1561758219",
+      "png": "https://cards.scryfall.io/png/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.png?1561758219",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.jpg?1561758219",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd5157b8-07df-4aec-8ea6-792cd582598f.jpg?1561758219"
+    },
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/dd5157b8-07df-4aec-8ea6-792cd582598f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01546b7d-a233-4176-8843-d732074dc5b6&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "wotc",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chuck Lukacs",
+    "artist_ids": [
+      "2bdf4da7-c66c-4c46-a253-284c856ccfab"
+    ],
+    "illustration_id": "325884d5-0e57-4cbf-aa39-2a7b7ec645ae",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 217,
+    "penny_rank": 3645,
+    "prices": {
+      "usd": null,
+      "usd_foil": "60.67",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "32.90",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDoubling%2BSeason",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDoubling%2BSeason",
+      "edhrec": "https://edhrec.com/route/?cc=Doubling+Season"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F57636%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=250563&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Doubling+Season&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e30ec0f5-5ce6-4498-abcb-8a116064ff3e",
+    "oracle_id": "9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29",
+    "multiverse_ids": [],
+    "tcgplayer_id": 57645,
+    "cardmarket_id": 248395,
+    "name": "Goblin Welder",
+    "lang": "en",
+    "released_at": "2011-01-01",
+    "uri": "https://api.scryfall.com/cards/e30ec0f5-5ce6-4498-abcb-8a116064ff3e",
+    "scryfall_uri": "https://scryfall.com/card/g11/8/goblin-welder?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.jpg?1561758312",
+      "normal": "https://cards.scryfall.io/normal/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.jpg?1561758312",
+      "large": "https://cards.scryfall.io/large/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.jpg?1561758312",
+      "png": "https://cards.scryfall.io/png/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.png?1561758312",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.jpg?1561758312",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/3/e30ec0f5-5ce6-4498-abcb-8a116064ff3e.jpg?1561758312"
+    },
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Creature — Goblin Artificer",
+    "oracle_text": "{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set": "g11",
+    "set_name": "Judge Gift Cards 2011",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/e9ec9f60-333b-48f7-8e73-5db562638a54",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ag11&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/g11?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e30ec0f5-5ce6-4498-abcb-8a116064ff3e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "wotc",
+    "flavor_text": "\"I wrecked your metal guy, boss. But look! I made you an ashtray.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Scott M. Fischer",
+    "artist_ids": [
+      "23b0cf43-3e43-44c6-8329-96446eca5bce"
+    ],
+    "illustration_id": "9290e288-838e-4d63-bc1c-661d445cec08",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "judgegift"
+    ],
+    "edhrec_rank": 1414,
+    "prices": {
+      "usd": null,
+      "usd_foil": "74.17",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "43.31",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BWelder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BWelder",
+      "edhrec": "https://edhrec.com/route/?cc=Goblin+Welder"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F57645%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=248395&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Welder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

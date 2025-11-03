@@ -1,0 +1,189 @@
+[
+  {
+    "object": "card",
+    "id": "1e498e42-f55c-4afa-b2e2-02345f91cdb5",
+    "oracle_id": "bfa57f61-3811-43da-b73e-90e3e5b0b2c2",
+    "multiverse_ids": [],
+    "tcgplayer_id": 108439,
+    "name": "Monk",
+    "lang": "en",
+    "released_at": "2015-01-01",
+    "uri": "https://api.scryfall.com/cards/1e498e42-f55c-4afa-b2e2-02345f91cdb5",
+    "scryfall_uri": "https://scryfall.com/card/l15/1/monk?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.jpg?1561756357",
+      "normal": "https://cards.scryfall.io/normal/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.jpg?1561756357",
+      "large": "https://cards.scryfall.io/large/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.jpg?1561756357",
+      "png": "https://cards.scryfall.io/png/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.png?1561756357",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.jpg?1561756357",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1e498e42-f55c-4afa-b2e2-02345f91cdb5.jpg?1561756357"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Monk",
+    "oracle_text": "Prowess",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Prowess"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "2343e69d-f30e-4826-953c-fbf31c6079e6",
+        "component": "combo_piece",
+        "name": "Monastery Mentor",
+        "type_line": "Creature — Human Monk",
+        "uri": "https://api.scryfall.com/cards/2343e69d-f30e-4826-953c-fbf31c6079e6"
+      },
+      {
+        "object": "related_card",
+        "id": "b56e0037-8143-4c13-83e1-0c3f44e685ea",
+        "component": "combo_piece",
+        "name": "Rally the Monastery",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/b56e0037-8143-4c13-83e1-0c3f44e685ea"
+      },
+      {
+        "object": "related_card",
+        "id": "77fd5b8e-55cb-48f6-8917-84db4efee20d",
+        "component": "combo_piece",
+        "name": "Cori-Steel Cutter",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/77fd5b8e-55cb-48f6-8917-84db4efee20d"
+      },
+      {
+        "object": "related_card",
+        "id": "728e253c-3417-4142-8408-8981aab5411c",
+        "component": "combo_piece",
+        "name": "Jeskai Revelation",
+        "type_line": "Instant",
+        "uri": "https://api.scryfall.com/cards/728e253c-3417-4142-8408-8981aab5411c"
+      },
+      {
+        "object": "related_card",
+        "id": "058da414-1f05-45a0-8938-2fbc1050e17e",
+        "component": "combo_piece",
+        "name": "A-Cori-Steel Cutter",
+        "type_line": "Artifact — Equipment",
+        "uri": "https://api.scryfall.com/cards/058da414-1f05-45a0-8938-2fbc1050e17e"
+      },
+      {
+        "object": "related_card",
+        "id": "836c9684-06bf-45c8-8706-449def571e66",
+        "component": "combo_piece",
+        "name": "Aligned Heart",
+        "type_line": "Enchantment",
+        "uri": "https://api.scryfall.com/cards/836c9684-06bf-45c8-8706-449def571e66"
+      },
+      {
+        "object": "related_card",
+        "id": "1e498e42-f55c-4afa-b2e2-02345f91cdb5",
+        "component": "token",
+        "name": "Monk",
+        "type_line": "Token Creature — Monk",
+        "uri": "https://api.scryfall.com/cards/1e498e42-f55c-4afa-b2e2-02345f91cdb5"
+      },
+      {
+        "object": "related_card",
+        "id": "eee11606-5902-41d3-aec6-d6a3da01091b",
+        "component": "combo_piece",
+        "name": "Elsha, Threefold Master",
+        "type_line": "Legendary Creature — Djinn Monk",
+        "uri": "https://api.scryfall.com/cards/eee11606-5902-41d3-aec6-d6a3da01091b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "e0fbbc6d-5427-4648-8dd7-6df1d5f30476",
+    "set": "l15",
+    "set_name": "League Tokens 2015",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/e0fbbc6d-5427-4648-8dd7-6df1d5f30476",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Al15&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/l15?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1e498e42-f55c-4afa-b2e2-02345f91cdb5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abfa57f61-3811-43da-b73e-90e3e5b0b2c2&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Magali Villeneuve",
+    "artist_ids": [
+      "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    ],
+    "illustration_id": "2354b730-5027-4dd2-84bf-6953ef1eb6ce",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "league",
+      "instore"
+    ],
+    "prices": {
+      "usd": "35.50",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMonk",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMonk",
+      "edhrec": "https://edhrec.com/route/?cc=Monk"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F108439%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Monk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Monk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

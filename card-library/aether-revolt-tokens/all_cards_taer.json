@@ -1,0 +1,557 @@
+[
+  {
+    "object": "card",
+    "id": "c6071fed-39c1-4f3b-a821-1611aedd8054",
+    "oracle_id": "bb8ac1fb-fcab-464e-a9c3-3c1641da4e5e",
+    "multiverse_ids": [],
+    "tcgplayer_id": 126552,
+    "name": "Gremlin",
+    "lang": "en",
+    "released_at": "2017-01-20",
+    "uri": "https://api.scryfall.com/cards/c6071fed-39c1-4f3b-a821-1611aedd8054",
+    "scryfall_uri": "https://scryfall.com/card/taer/1/gremlin?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg?1561758029",
+      "normal": "https://cards.scryfall.io/normal/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg?1561758029",
+      "large": "https://cards.scryfall.io/large/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg?1561758029",
+      "png": "https://cards.scryfall.io/png/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.png?1561758029",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg?1561758029",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c6071fed-39c1-4f3b-a821-1611aedd8054.jpg?1561758029"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Gremlin",
+    "oracle_text": "",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "6d851efc-bb42-43a9-92ff-55eeaefd9b45",
+        "component": "combo_piece",
+        "name": "Release the Gremlins",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/6d851efc-bb42-43a9-92ff-55eeaefd9b45"
+      },
+      {
+        "object": "related_card",
+        "id": "d7ee8f1a-76ca-48a5-b71c-bc787cf66a09",
+        "component": "combo_piece",
+        "name": "Chandra, Gremlin Wrangler",
+        "type_line": "Legendary Planeswalker — Chandra",
+        "uri": "https://api.scryfall.com/cards/d7ee8f1a-76ca-48a5-b71c-bc787cf66a09"
+      },
+      {
+        "object": "related_card",
+        "id": "b51438f5-c4d4-434a-b7ea-dee0b60303e4",
+        "component": "combo_piece",
+        "name": "Gremlin Infestation",
+        "type_line": "Enchantment — Aura",
+        "uri": "https://api.scryfall.com/cards/b51438f5-c4d4-434a-b7ea-dee0b60303e4"
+      },
+      {
+        "object": "related_card",
+        "id": "c6071fed-39c1-4f3b-a821-1611aedd8054",
+        "component": "token",
+        "name": "Gremlin",
+        "type_line": "Token Creature — Gremlin",
+        "uri": "https://api.scryfall.com/cards/c6071fed-39c1-4f3b-a821-1611aedd8054"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set": "taer",
+    "set_name": "Aether Revolt Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ataer&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/taer?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c6071fed-39c1-4f3b-a821-1611aedd8054/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abb8ac1fb-fcab-464e-a9c3-3c1641da4e5e&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jason Rainville",
+    "artist_ids": [
+      "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+    ],
+    "illustration_id": "ac9a73b2-afbb-43e1-a989-00dd8e985afc",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.09",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGremlin",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGremlin",
+      "edhrec": "https://edhrec.com/route/?cc=Gremlin"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F126552%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gremlin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gremlin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31",
+    "oracle_id": "e2a98673-a9c2-4579-b962-080405bbb661",
+    "multiverse_ids": [],
+    "tcgplayer_id": 126553,
+    "name": "Ragavan",
+    "lang": "en",
+    "released_at": "2017-01-20",
+    "uri": "https://api.scryfall.com/cards/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31",
+    "scryfall_uri": "https://scryfall.com/card/taer/2/ragavan?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg?1561756762",
+      "normal": "https://cards.scryfall.io/normal/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg?1561756762",
+      "large": "https://cards.scryfall.io/large/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg?1561756762",
+      "png": "https://cards.scryfall.io/png/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.png?1561756762",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg?1561756762",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31.jpg?1561756762"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Legendary Creature — Monkey",
+    "oracle_text": "",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "3ad3450a-56ce-4c02-93c5-70b46e19ff2f",
+        "component": "combo_piece",
+        "name": "Kari Zev, Skyship Raider",
+        "type_line": "Legendary Creature — Human Pirate",
+        "uri": "https://api.scryfall.com/cards/3ad3450a-56ce-4c02-93c5-70b46e19ff2f"
+      },
+      {
+        "object": "related_card",
+        "id": "1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31",
+        "component": "token",
+        "name": "Ragavan",
+        "type_line": "Token Legendary Creature — Monkey",
+        "uri": "https://api.scryfall.com/cards/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set": "taer",
+    "set_name": "Aether Revolt Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ataer&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/taer?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1ebc91a9-23e0-4ca1-bc6d-e710ad2efb31/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae2a98673-a9c2-4579-b962-080405bbb661&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daniel Ljunggren",
+    "artist_ids": [
+      "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+    ],
+    "illustration_id": "25cc7ea6-636f-4460-b724-9679d4a06e69",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.32",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRagavan",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRagavan",
+      "edhrec": "https://edhrec.com/route/?cc=Ragavan"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F126553%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ragavan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ragavan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed",
+    "oracle_id": "95020317-49d3-463a-a3c1-d492bd4fc86e",
+    "multiverse_ids": [],
+    "tcgplayer_id": 126554,
+    "name": "Etherium Cell",
+    "lang": "en",
+    "released_at": "2017-01-20",
+    "uri": "https://api.scryfall.com/cards/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed",
+    "scryfall_uri": "https://scryfall.com/card/taer/3/etherium-cell?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618",
+      "normal": "https://cards.scryfall.io/normal/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618",
+      "large": "https://cards.scryfall.io/large/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618",
+      "png": "https://cards.scryfall.io/png/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.png?1561757618",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed.jpg?1561757618"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Artifact",
+    "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "f1601447-7110-4dc4-8a05-85d0419e2262",
+        "component": "combo_piece",
+        "name": "Tezzeret the Schemer",
+        "type_line": "Legendary Planeswalker — Tezzeret",
+        "uri": "https://api.scryfall.com/cards/f1601447-7110-4dc4-8a05-85d0419e2262"
+      },
+      {
+        "object": "related_card",
+        "id": "9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed",
+        "component": "token",
+        "name": "Etherium Cell",
+        "type_line": "Token Artifact",
+        "uri": "https://api.scryfall.com/cards/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set": "taer",
+    "set_name": "Aether Revolt Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ataer&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/taer?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/9616ca53-ea6a-4fc1-8e01-94e0fb47e5ed/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95020317-49d3-463a-a3c1-d492bd4fc86e&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Craig J Spearing",
+    "artist_ids": [
+      "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+    ],
+    "illustration_id": "d900f270-da60-4600-8d64-1f3445b897f7",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.12",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEtherium%2BCell",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEtherium%2BCell",
+      "edhrec": "https://edhrec.com/route/?cc=Etherium+Cell"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F126554%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Etherium+Cell&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Etherium+Cell&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5f136537-1ebe-4018-b406-44ef32ceef04",
+    "oracle_id": "3a54dd28-d52d-479b-b783-49a848302cd6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 126555,
+    "name": "Tezzeret the Schemer Emblem",
+    "lang": "en",
+    "released_at": "2017-01-20",
+    "uri": "https://api.scryfall.com/cards/5f136537-1ebe-4018-b406-44ef32ceef04",
+    "scryfall_uri": "https://scryfall.com/card/taer/4/tezzeret-the-schemer-emblem?utm_source=api",
+    "layout": "emblem",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg?1561757257",
+      "normal": "https://cards.scryfall.io/normal/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg?1561757257",
+      "large": "https://cards.scryfall.io/large/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg?1561757257",
+      "png": "https://cards.scryfall.io/png/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.png?1561757257",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg?1561757257",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5f136537-1ebe-4018-b406-44ef32ceef04.jpg?1561757257"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Emblem — Tezzeret",
+    "oracle_text": "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "5f136537-1ebe-4018-b406-44ef32ceef04",
+        "component": "combo_piece",
+        "name": "Tezzeret the Schemer Emblem",
+        "type_line": "Emblem — Tezzeret",
+        "uri": "https://api.scryfall.com/cards/5f136537-1ebe-4018-b406-44ef32ceef04"
+      },
+      {
+        "object": "related_card",
+        "id": "f1601447-7110-4dc4-8a05-85d0419e2262",
+        "component": "combo_piece",
+        "name": "Tezzeret the Schemer",
+        "type_line": "Legendary Planeswalker — Tezzeret",
+        "uri": "https://api.scryfall.com/cards/f1601447-7110-4dc4-8a05-85d0419e2262"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set": "taer",
+    "set_name": "Aether Revolt Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/540e9f76-9408-49bb-910f-ab9c5baea23f",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ataer&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/taer?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5f136537-1ebe-4018-b406-44ef32ceef04/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a54dd28-d52d-479b-b783-49a848302cd6&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Ryan Alexander Lee",
+    "artist_ids": [
+      "f4d194b4-958a-4830-8d87-1a84e0b9ffbc"
+    ],
+    "illustration_id": "ce60a2fb-b00f-45fc-a317-c0bb69ba1768",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.15",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTezzeret%2Bthe%2BSchemer%2BEmblem",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTezzeret%2Bthe%2BSchemer%2BEmblem",
+      "edhrec": "https://edhrec.com/route/?cc=Tezzeret+the+Schemer+Emblem"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F126555%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tezzeret+the+Schemer+Emblem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tezzeret+the+Schemer+Emblem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

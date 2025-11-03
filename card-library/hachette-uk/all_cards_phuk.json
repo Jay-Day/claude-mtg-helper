@@ -1,0 +1,2783 @@
+[
+  {
+    "object": "card",
+    "id": "974a571e-aea1-4e80-8e83-e6d9c6ef201b",
+    "oracle_id": "2b934761-5720-477b-94b7-d1d91dc581a6",
+    "multiverse_ids": [],
+    "name": "Marrow-Gnawer",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/974a571e-aea1-4e80-8e83-e6d9c6ef201b",
+    "scryfall_uri": "https://scryfall.com/card/phuk/1/marrow-gnawer?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.jpg?1683246846",
+      "normal": "https://cards.scryfall.io/normal/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.jpg?1683246846",
+      "large": "https://cards.scryfall.io/large/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.jpg?1683246846",
+      "png": "https://cards.scryfall.io/png/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.png?1683246846",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.jpg?1683246846",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/974a571e-aea1-4e80-8e83-e6d9c6ef201b.jpg?1683246846"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Rat Rogue",
+    "oracle_text": "All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.",
+    "power": "2",
+    "toughness": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "974a571e-aea1-4e80-8e83-e6d9c6ef201b",
+        "component": "combo_piece",
+        "name": "Marrow-Gnawer",
+        "type_line": "Legendary Creature — Rat Rogue",
+        "uri": "https://api.scryfall.com/cards/974a571e-aea1-4e80-8e83-e6d9c6ef201b"
+      },
+      {
+        "object": "related_card",
+        "id": "02c73185-3062-4801-8ab2-5006b9c3b232",
+        "component": "token",
+        "name": "Rat",
+        "type_line": "Token Creature — Rat",
+        "uri": "https://api.scryfall.com/cards/02c73185-3062-4801-8ab2-5006b9c3b232"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/974a571e-aea1-4e80-8e83-e6d9c6ef201b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b934761-5720-477b-94b7-d1d91dc581a6&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Marrow-Gnawer united three nezumi gangs when he slew their leaders in a single night. Now they call him their first lord.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Wayne Reynolds",
+    "artist_ids": [
+      "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+    ],
+    "illustration_id": "5b62b844-00b4-474b-838f-2d7f33e3401a",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 3159,
+    "penny_rank": 7868,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarrow-Gnawer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarrow-Gnawer",
+      "edhrec": "https://edhrec.com/route/?cc=Marrow-Gnawer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMarrow-Gnawer%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Marrow-Gnawer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Marrow-Gnawer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "06a11bfc-9acb-4ed8-9a3c-923307eee0c5",
+    "oracle_id": "7fe21ade-01f1-45ff-9b70-bc6302c3d284",
+    "multiverse_ids": [],
+    "name": "Swarm of Rats",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/06a11bfc-9acb-4ed8-9a3c-923307eee0c5",
+    "scryfall_uri": "https://scryfall.com/card/phuk/2/swarm-of-rats?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.jpg?1687906548",
+      "normal": "https://cards.scryfall.io/normal/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.jpg?1687906548",
+      "large": "https://cards.scryfall.io/large/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.jpg?1687906548",
+      "png": "https://cards.scryfall.io/png/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.png?1687906548",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.jpg?1687906548",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/6/06a11bfc-9acb-4ed8-9a3c-923307eee0c5.jpg?1687906548"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat",
+    "oracle_text": "Swarm of Rats's power is equal to the number of Rats you control.",
+    "power": "*",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/06a11bfc-9acb-4ed8-9a3c-923307eee0c5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fe21ade-01f1-45ff-9b70-bc6302c3d284&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "\"Rats, rats, rats! Hundreds, thousands, millions of them, and every one a life.\"\n—Bram Stoker, *Dracula*",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "09a2bcdd-c537-4ed9-92a0-7badd9f6278c",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 8633,
+    "penny_rank": 11885,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwarm%2Bof%2BRats",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwarm%2Bof%2BRats",
+      "edhrec": "https://edhrec.com/route/?cc=Swarm+of+Rats"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSwarm%2Bof%2BRats%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swarm+of+Rats&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swarm+of+Rats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3ce3de8a-de37-4ae4-89a0-8cad68885609",
+    "oracle_id": "5b4b08a5-3af8-4c33-ab5e-7bee7f79e77a",
+    "multiverse_ids": [],
+    "name": "Nocturnal Raid",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/3ce3de8a-de37-4ae4-89a0-8cad68885609",
+    "scryfall_uri": "https://scryfall.com/card/phuk/3/nocturnal-raid?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.jpg?1683246901",
+      "normal": "https://cards.scryfall.io/normal/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.jpg?1683246901",
+      "large": "https://cards.scryfall.io/large/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.jpg?1683246901",
+      "png": "https://cards.scryfall.io/png/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.png?1683246901",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.jpg?1683246901",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3ce3de8a-de37-4ae4-89a0-8cad68885609.jpg?1683246901"
+    },
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Black creatures get +2/+0 until end of turn.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3ce3de8a-de37-4ae4-89a0-8cad68885609/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b4b08a5-3af8-4c33-ab5e-7bee7f79e77a&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "The Eastern Paladin doesn't attack at night for the tactical advantage. He does it for the sheer joy of fighting beneath the moon.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Pete Venters",
+    "artist_ids": [
+      "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+    ],
+    "illustration_id": "863cce6c-a237-45c8-b7f3-7840bda96773",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 28677,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNocturnal%2BRaid",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNocturnal%2BRaid",
+      "edhrec": "https://edhrec.com/route/?cc=Nocturnal+Raid"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNocturnal%2BRaid%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nocturnal+Raid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nocturnal+Raid&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8de16ba1-c1c5-4388-ad3b-a8dbb39af300",
+    "oracle_id": "5326381e-e5e7-4c3e-9565-4837b3ffaec0",
+    "multiverse_ids": [],
+    "name": "Skullsnatcher",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/8de16ba1-c1c5-4388-ad3b-a8dbb39af300",
+    "scryfall_uri": "https://scryfall.com/card/phuk/4/skullsnatcher?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.jpg?1562921278",
+      "normal": "https://cards.scryfall.io/normal/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.jpg?1562921278",
+      "large": "https://cards.scryfall.io/large/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.jpg?1562921278",
+      "png": "https://cards.scryfall.io/png/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.png?1562921278",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.jpg?1562921278",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8de16ba1-c1c5-4388-ad3b-a8dbb39af300.jpg?1562921278"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat Ninja",
+    "oracle_text": "Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, exile up to two target cards from that player's graveyard.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8de16ba1-c1c5-4388-ad3b-a8dbb39af300/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5326381e-e5e7-4c3e-9565-4837b3ffaec0&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Matt Cavotta",
+    "artist_ids": [
+      "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+    ],
+    "illustration_id": "7974e474-238e-4fa2-b8e0-b087c3dc884d",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 5416,
+    "penny_rank": 9145,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkullsnatcher",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkullsnatcher",
+      "edhrec": "https://edhrec.com/route/?cc=Skullsnatcher"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSkullsnatcher%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skullsnatcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skullsnatcher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b3c1898d-76b6-438e-a7c3-3bb89ade1d30",
+    "oracle_id": "08dfe42e-35c0-4be0-abba-57269792ff3d",
+    "multiverse_ids": [],
+    "name": "Chittering Rats",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/b3c1898d-76b6-438e-a7c3-3bb89ade1d30",
+    "scryfall_uri": "https://scryfall.com/card/phuk/5/chittering-rats?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.jpg?1683246774",
+      "normal": "https://cards.scryfall.io/normal/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.jpg?1683246774",
+      "large": "https://cards.scryfall.io/large/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.jpg?1683246774",
+      "png": "https://cards.scryfall.io/png/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.png?1683246774",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.jpg?1683246774",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b3c1898d-76b6-438e-a7c3-3bb89ade1d30.jpg?1683246774"
+    },
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Rat",
+    "oracle_text": "When this creature enters, target opponent puts a card from their hand on top of their library.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b3c1898d-76b6-438e-a7c3-3bb89ade1d30/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08dfe42e-35c0-4be0-abba-57269792ff3d&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "Bottom feeders sometimes rise to the top.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Tom Wänerstrand",
+    "artist_ids": [
+      "c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b"
+    ],
+    "illustration_id": "c5b84798-d810-4524-a80f-94defe9d8f4a",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 16475,
+    "penny_rank": 2140,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChittering%2BRats",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChittering%2BRats",
+      "edhrec": "https://edhrec.com/route/?cc=Chittering+Rats"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DChittering%2BRats%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chittering+Rats&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chittering+Rats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6ec1bbdb-66a6-40f0-b70e-279d763e8746",
+    "oracle_id": "d87190d0-bda3-4ad9-84b2-019f751999ce",
+    "multiverse_ids": [],
+    "name": "Crippling Fatigue",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/6ec1bbdb-66a6-40f0-b70e-279d763e8746",
+    "scryfall_uri": "https://scryfall.com/card/phuk/6/crippling-fatigue?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.jpg?1562915537",
+      "normal": "https://cards.scryfall.io/normal/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.jpg?1562915537",
+      "large": "https://cards.scryfall.io/large/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.jpg?1562915537",
+      "png": "https://cards.scryfall.io/png/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.png?1562915537",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.jpg?1562915537",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6ec1bbdb-66a6-40f0-b70e-279d763e8746.jpg?1562915537"
+    },
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target creature gets -2/-2 until end of turn.\nFlashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flashback"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6ec1bbdb-66a6-40f0-b70e-279d763e8746/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad87190d0-bda3-4ad9-84b2-019f751999ce&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Heather Hudson",
+    "artist_ids": [
+      "4441fe52-9e41-40c1-9b74-8510426279ab"
+    ],
+    "illustration_id": "e9ec02d9-9f7a-4653-9f68-aec820f2a346",
+    "border_color": "white",
+    "frame": "2003",
+    "frame_effects": [
+      "tombstone"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 27070,
+    "penny_rank": 9684,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrippling%2BFatigue",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrippling%2BFatigue",
+      "edhrec": "https://edhrec.com/route/?cc=Crippling+Fatigue"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCrippling%2BFatigue%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crippling+Fatigue&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crippling+Fatigue&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d5b7723a-8230-4052-9ae1-4bfa46a1bd61",
+    "oracle_id": "7fbd5f69-f6b4-4ad7-8e9e-47a798324f6c",
+    "multiverse_ids": [],
+    "name": "Dirty Wererat",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/d5b7723a-8230-4052-9ae1-4bfa46a1bd61",
+    "scryfall_uri": "https://scryfall.com/card/phuk/7/dirty-wererat?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.jpg?1562934915",
+      "normal": "https://cards.scryfall.io/normal/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.jpg?1562934915",
+      "large": "https://cards.scryfall.io/large/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.jpg?1562934915",
+      "png": "https://cards.scryfall.io/png/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.png?1562934915",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.jpg?1562934915",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/5/d5b7723a-8230-4052-9ae1-4bfa46a1bd61.jpg?1562934915"
+    },
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Rat Minion",
+    "oracle_text": "{B}, Discard a card: Regenerate this creature.\nThreshold — As long as seven or more cards are in your graveyard, this creature gets +2/+2 and can't block.",
+    "power": "2",
+    "toughness": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Threshold"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d5b7723a-8230-4052-9ae1-4bfa46a1bd61/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fbd5f69-f6b4-4ad7-8e9e-47a798324f6c&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daren Bader",
+    "artist_ids": [
+      "7da1a585-c875-45e4-b322-5da9e8e1f651"
+    ],
+    "illustration_id": "38d7f5aa-6cdb-4afa-ae0a-425fec7af14a",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 22407,
+    "penny_rank": 14540,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDirty%2BWererat",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDirty%2BWererat",
+      "edhrec": "https://edhrec.com/route/?cc=Dirty+Wererat"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDirty%2BWererat%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dirty+Wererat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dirty+Wererat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f5de8d80-8695-4393-ae59-9b7a3ad738f3",
+    "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+    "multiverse_ids": [],
+    "name": "Swamp",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/f5de8d80-8695-4393-ae59-9b7a3ad738f3",
+    "scryfall_uri": "https://scryfall.com/card/phuk/8/swamp?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.jpg?1562941152",
+      "normal": "https://cards.scryfall.io/normal/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.jpg?1562941152",
+      "large": "https://cards.scryfall.io/large/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.jpg?1562941152",
+      "png": "https://cards.scryfall.io/png/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.png?1562941152",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.jpg?1562941152",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f5de8d80-8695-4393-ae59-9b7a3ad738f3.jpg?1562941152"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Swamp",
+    "oracle_text": "({T}: Add {B}.)",
+    "colors": [],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "B"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f5de8d80-8695-4393-ae59-9b7a3ad738f3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Bob Eggleton",
+    "artist_ids": [
+      "fc0fb0e9-aa30-4143-a43e-d20b4aa9d8ed"
+    ],
+    "illustration_id": "0b60df74-f3ad-4573-9a88-7bf8858e4d6f",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwamp",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwamp",
+      "edhrec": "https://edhrec.com/route/?cc=Swamp"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSwamp%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swamp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e716076d-22b3-4614-b8f0-80ba0501913d",
+    "oracle_id": "4372205f-45e6-49c7-b1fd-13a41e20d4de",
+    "multiverse_ids": [],
+    "name": "Infernal Contract",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/e716076d-22b3-4614-b8f0-80ba0501913d",
+    "scryfall_uri": "https://scryfall.com/card/phuk/13/infernal-contract?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.jpg?1683246819",
+      "normal": "https://cards.scryfall.io/normal/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.jpg?1683246819",
+      "large": "https://cards.scryfall.io/large/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.jpg?1683246819",
+      "png": "https://cards.scryfall.io/png/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.png?1683246819",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.jpg?1683246819",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/7/e716076d-22b3-4614-b8f0-80ba0501913d.jpg?1683246819"
+    },
+    "mana_cost": "{B}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Draw four cards. You lose half your life, rounded up.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e716076d-22b3-4614-b8f0-80ba0501913d/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4372205f-45e6-49c7-b1fd-13a41e20d4de&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"East and West meet and angels cry.\nUnholy power darkens the sky.\"\n—\"The Ballad of the Paladins\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Pete Venters",
+    "artist_ids": [
+      "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+    ],
+    "illustration_id": "8040c2d9-9576-4780-9ee1-632fba320de5",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 17551,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInfernal%2BContract",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInfernal%2BContract",
+      "edhrec": "https://edhrec.com/route/?cc=Infernal+Contract"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInfernal%2BContract%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Infernal+Contract&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Infernal+Contract&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ea18b372-2324-4d9c-a38e-fb35c599dd42",
+    "oracle_id": "577d027a-96c3-46fe-880b-f8b5dd3f3a3d",
+    "multiverse_ids": [],
+    "name": "Sever Soul",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/ea18b372-2324-4d9c-a38e-fb35c599dd42",
+    "scryfall_uri": "https://scryfall.com/card/phuk/15/sever-soul?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.jpg?1683246914",
+      "normal": "https://cards.scryfall.io/normal/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.jpg?1683246914",
+      "large": "https://cards.scryfall.io/large/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.jpg?1683246914",
+      "png": "https://cards.scryfall.io/png/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.png?1683246914",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.jpg?1683246914",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea18b372-2324-4d9c-a38e-fb35c599dd42.jpg?1683246914"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ea18b372-2324-4d9c-a38e-fb35c599dd42/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A577d027a-96c3-46fe-880b-f8b5dd3f3a3d&unique=prints",
+    "collector_number": "15",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "\"The mortal world is a grove of sweet fruit, and I am ready to harvest it.\"\n—Fallen angel",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Glen Angus",
+    "artist_ids": [
+      "7be3b9e4-de9b-4a3d-884e-e67b9681d409"
+    ],
+    "illustration_id": "68acac32-f8aa-45dc-9efa-c68cbd36e3bc",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 25282,
+    "penny_rank": 15119,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSever%2BSoul",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSever%2BSoul",
+      "edhrec": "https://edhrec.com/route/?cc=Sever+Soul"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSever%2BSoul%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sever+Soul&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sever+Soul&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5cfd3cca-ae40-44be-b641-9b65363abfb7",
+    "oracle_id": "a323a3af-8a74-433c-8994-707a09ef3a0c",
+    "multiverse_ids": [],
+    "name": "Nezumi Cutthroat",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/5cfd3cca-ae40-44be-b641-9b65363abfb7",
+    "scryfall_uri": "https://scryfall.com/card/phuk/17/nezumi-cutthroat?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.jpg?1683246877",
+      "normal": "https://cards.scryfall.io/normal/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.jpg?1683246877",
+      "large": "https://cards.scryfall.io/large/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.jpg?1683246877",
+      "png": "https://cards.scryfall.io/png/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.png?1683246877",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.jpg?1683246877",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5cfd3cca-ae40-44be-b641-9b65363abfb7.jpg?1683246877"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat Warrior",
+    "oracle_text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThis creature can't block.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Fear"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5cfd3cca-ae40-44be-b641-9b65363abfb7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa323a3af-8a74-433c-8994-707a09ef3a0c&unique=prints",
+    "collector_number": "17",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "\"These nezumi, they disgust me. The things they will do for money no other thinking creature would consider. This, of course, makes them useful beyond words.\"\n—Meloku the Clouded Mirror",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Carl Critchlow",
+    "artist_ids": [
+      "17948f16-611a-44b8-8d10-9895a0bdfff1"
+    ],
+    "illustration_id": "7fd8b827-5048-4415-8c9b-f7c38a1853f4",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 15234,
+    "penny_rank": 12682,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNezumi%2BCutthroat",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNezumi%2BCutthroat",
+      "edhrec": "https://edhrec.com/route/?cc=Nezumi+Cutthroat"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNezumi%2BCutthroat%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nezumi+Cutthroat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nezumi+Cutthroat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "208cebc5-692c-41b8-ae6d-c245c6981023",
+    "oracle_id": "be7b16ef-32aa-40d5-b287-c5e79d52d6b9",
+    "multiverse_ids": [],
+    "name": "Dirge of Dread",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/208cebc5-692c-41b8-ae6d-c245c6981023",
+    "scryfall_uri": "https://scryfall.com/card/phuk/18/dirge-of-dread?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.jpg?1562901051",
+      "normal": "https://cards.scryfall.io/normal/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.jpg?1562901051",
+      "large": "https://cards.scryfall.io/large/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.jpg?1562901051",
+      "png": "https://cards.scryfall.io/png/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.png?1562901051",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.jpg?1562901051",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/208cebc5-692c-41b8-ae6d-c245c6981023.jpg?1562901051"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)\nWhen you cycle this card, you may have target creature gain fear until end of turn.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Cycling"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/208cebc5-692c-41b8-ae6d-c245c6981023/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe7b16ef-32aa-40d5-b287-c5e79d52d6b9&unique=prints",
+    "collector_number": "18",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Heather Hudson",
+    "artist_ids": [
+      "4441fe52-9e41-40c1-9b74-8510426279ab"
+    ],
+    "illustration_id": "9571d00b-5f75-4462-95ff-eae3b3cfae44",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 15038,
+    "penny_rank": 13027,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDirge%2Bof%2BDread",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDirge%2Bof%2BDread",
+      "edhrec": "https://edhrec.com/route/?cc=Dirge+of+Dread"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDirge%2Bof%2BDread%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dirge+of+Dread&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dirge+of+Dread&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "80df21ef-20e3-48ab-8324-6a9068533781",
+    "oracle_id": "038a8b6b-4529-4e06-bdff-9ee7ba291776",
+    "multiverse_ids": [],
+    "name": "Patron of the Nezumi",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/80df21ef-20e3-48ab-8324-6a9068533781",
+    "scryfall_uri": "https://scryfall.com/card/phuk/25/patron-of-the-nezumi?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.jpg?1562918892",
+      "normal": "https://cards.scryfall.io/normal/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.jpg?1562918892",
+      "large": "https://cards.scryfall.io/large/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.jpg?1562918892",
+      "png": "https://cards.scryfall.io/png/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.png?1562918892",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.jpg?1562918892",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/80df21ef-20e3-48ab-8324-6a9068533781.jpg?1562918892"
+    },
+    "mana_cost": "{5}{B}{B}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Spirit",
+    "oracle_text": "Rat offering (You may cast this spell any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)\nWhenever a permanent is put into an opponent's graveyard, that player loses 1 life.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Offering"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/80df21ef-20e3-48ab-8324-6a9068533781/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A038a8b6b-4529-4e06-bdff-9ee7ba291776&unique=prints",
+    "collector_number": "25",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "c5783524-c87b-4801-879b-7df283b93ac6",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 15548,
+    "penny_rank": 14046,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPatron%2Bof%2Bthe%2BNezumi",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPatron%2Bof%2Bthe%2BNezumi",
+      "edhrec": "https://edhrec.com/route/?cc=Patron+of+the+Nezumi"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPatron%2Bof%2Bthe%2BNezumi%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Patron+of+the+Nezumi&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Patron+of+the+Nezumi&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "97d048c2-7456-4d68-b2f9-19d91d5e68d7",
+    "oracle_id": "b39651ad-1c05-45f8-b036-536c4d7324c0",
+    "multiverse_ids": [],
+    "name": "Suppress",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/97d048c2-7456-4d68-b2f9-19d91d5e68d7",
+    "scryfall_uri": "https://scryfall.com/card/phuk/26/suppress?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.jpg?1562923194",
+      "normal": "https://cards.scryfall.io/normal/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.jpg?1562923194",
+      "large": "https://cards.scryfall.io/large/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.jpg?1562923194",
+      "png": "https://cards.scryfall.io/png/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.png?1562923194",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.jpg?1562923194",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/97d048c2-7456-4d68-b2f9-19d91d5e68d7.jpg?1562923194"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target player exiles all cards from their hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to their hand.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/97d048c2-7456-4d68-b2f9-19d91d5e68d7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab39651ad-1c05-45f8-b036-536c4d7324c0&unique=prints",
+    "collector_number": "26",
+    "digital": false,
+    "rarity": "uncommon",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Terese Nielsen & Thomas M. Baxa",
+    "artist_ids": [
+      "eb55171c-2342-45f4-a503-2d5a75baf752",
+      "ff346569-557d-4043-ae44-97c2c7cabd7d"
+    ],
+    "illustration_id": "9f117ff6-bcda-4c3a-996f-9b77a70d2e69",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 25027,
+    "penny_rank": 16900,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSuppress",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSuppress",
+      "edhrec": "https://edhrec.com/route/?cc=Suppress"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSuppress%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Suppress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Suppress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6c925e34-4a60-4081-9517-b5ea262fe8ae",
+    "oracle_id": "104095ed-55e3-408e-bf70-4fe06bb16d2f",
+    "multiverse_ids": [],
+    "name": "Crypt Rats",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/6c925e34-4a60-4081-9517-b5ea262fe8ae",
+    "scryfall_uri": "https://scryfall.com/card/phuk/28/crypt-rats?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.jpg?1757588145",
+      "normal": "https://cards.scryfall.io/normal/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.jpg?1757588145",
+      "large": "https://cards.scryfall.io/large/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.jpg?1757588145",
+      "png": "https://cards.scryfall.io/png/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.png?1757588145",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.jpg?1757588145",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c925e34-4a60-4081-9517-b5ea262fe8ae.jpg?1757588145"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Rat",
+    "oracle_text": "{X}: This creature deals X damage to each creature and each player. Spend only black mana on X.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6c925e34-4a60-4081-9517-b5ea262fe8ae/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A104095ed-55e3-408e-bf70-4fe06bb16d2f&unique=prints",
+    "collector_number": "28",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "Beware anything born among the dead.\n—Tolarian saying",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Matt Cavotta",
+    "artist_ids": [
+      "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+    ],
+    "illustration_id": "72cead64-3c4d-41f6-9e3f-3cbd8bf0e5b3",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 5124,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCrypt%2BRats",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCrypt%2BRats",
+      "edhrec": "https://edhrec.com/route/?cc=Crypt+Rats"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCrypt%2BRats%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crypt+Rats&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crypt+Rats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "56a6a409-b898-4951-8930-ce4506a86741",
+    "oracle_id": "c815d510-73c9-4a8b-9947-f478a2f5297d",
+    "multiverse_ids": [],
+    "name": "Gravestorm",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/56a6a409-b898-4951-8930-ce4506a86741",
+    "scryfall_uri": "https://scryfall.com/card/phuk/37/gravestorm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.jpg?1562910932",
+      "normal": "https://cards.scryfall.io/normal/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.jpg?1562910932",
+      "large": "https://cards.scryfall.io/large/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.jpg?1562910932",
+      "png": "https://cards.scryfall.io/png/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.png?1562910932",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.jpg?1562910932",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/56a6a409-b898-4951-8930-ce4506a86741.jpg?1562910932"
+    },
+    "mana_cost": "{B}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn't, you may draw a card.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/56a6a409-b898-4951-8930-ce4506a86741/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac815d510-73c9-4a8b-9947-f478a2f5297d&unique=prints",
+    "collector_number": "37",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Alex Horley-Orlandelli",
+    "artist_ids": [
+      "1631a2ad-bf03-4ab9-b86c-60da982d58a1"
+    ],
+    "illustration_id": "f569865a-daee-4e6f-b08d-6be6f0f9979c",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 15648,
+    "penny_rank": 3088,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGravestorm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGravestorm",
+      "edhrec": "https://edhrec.com/route/?cc=Gravestorm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGravestorm%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gravestorm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gravestorm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "2a253b6f-d5b8-4667-855d-c7213c595d5f",
+    "oracle_id": "1373fa8d-0a39-4451-a482-ce2071438dc8",
+    "multiverse_ids": [],
+    "name": "Nezumi Graverobber // Nighteyes the Desecrator",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/2a253b6f-d5b8-4667-855d-c7213c595d5f",
+    "scryfall_uri": "https://scryfall.com/card/phuk/38/nezumi-graverobber-nighteyes-the-desecrator?utm_source=api",
+    "layout": "flip",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.jpg?1562902767",
+      "normal": "https://cards.scryfall.io/normal/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.jpg?1562902767",
+      "large": "https://cards.scryfall.io/large/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.jpg?1562902767",
+      "png": "https://cards.scryfall.io/png/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.png?1562902767",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.jpg?1562902767",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/a/2a253b6f-d5b8-4667-855d-c7213c595d5f.jpg?1562902767"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat Rogue // Legendary Creature — Rat Wizard",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Nezumi Graverobber",
+        "mana_cost": "{1}{B}",
+        "type_line": "Creature — Rat Rogue",
+        "oracle_text": "{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip this creature.",
+        "power": "2",
+        "toughness": "1",
+        "artist": "Jim Nelson",
+        "artist_id": "aa9f64d1-29e1-4c82-877e-44c18183f40b",
+        "illustration_id": "37d5a583-974b-4c8a-aa5a-8d6fbe7fe420"
+      },
+      {
+        "object": "card_face",
+        "name": "Nighteyes the Desecrator",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Rat Wizard",
+        "oracle_text": "{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.",
+        "power": "4",
+        "toughness": "2",
+        "artist": "Jim Nelson",
+        "artist_id": "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/2a253b6f-d5b8-4667-855d-c7213c595d5f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1373fa8d-0a39-4451-a482-ce2071438dc8&unique=prints",
+    "collector_number": "38",
+    "digital": false,
+    "rarity": "uncommon",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jim Nelson",
+    "artist_ids": [
+      "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+    ],
+    "illustration_id": "37d5a583-974b-4c8a-aa5a-8d6fbe7fe420",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 9925,
+    "penny_rank": 7139,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNezumi%2BGraverobber%2B%252F%252F%2BNighteyes%2Bthe%2BDesecrator",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNezumi%2BGraverobber%2B%252F%252F%2BNighteyes%2Bthe%2BDesecrator",
+      "edhrec": "https://edhrec.com/route/?cc=Nezumi+Graverobber"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNezumi%2BGraverobber%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nezumi+Graverobber&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nezumi+Graverobber&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c54f6ac3-5822-4920-9cc3-38fe8c8a1f78",
+    "oracle_id": "1aa6b31b-cd30-4741-abc6-2ef72e445630",
+    "multiverse_ids": [],
+    "name": "Carrion Rats",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78",
+    "scryfall_uri": "https://scryfall.com/card/phuk/40/carrion-rats?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.jpg?1683246731",
+      "normal": "https://cards.scryfall.io/normal/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.jpg?1683246731",
+      "large": "https://cards.scryfall.io/large/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.jpg?1683246731",
+      "png": "https://cards.scryfall.io/png/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.png?1683246731",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.jpg?1683246731",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78.jpg?1683246731"
+    },
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Creature — Rat",
+    "oracle_text": "Whenever this creature attacks or blocks, any player may exile a card from their graveyard. If a player does, this creature assigns no combat damage this turn.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c54f6ac3-5822-4920-9cc3-38fe8c8a1f78/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1aa6b31b-cd30-4741-abc6-2ef72e445630&unique=prints",
+    "collector_number": "40",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "\"Just what I need—more competition.\"\n—Cabal grave robber",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Edward P. Beard, Jr.",
+    "artist_ids": [
+      "b845b8ee-aeea-4822-bcf9-7230625ac95c"
+    ],
+    "illustration_id": "ba4dfbf0-34f1-41eb-8e53-f773ba6e8f80",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 19799,
+    "penny_rank": 12443,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCarrion%2BRats",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCarrion%2BRats",
+      "edhrec": "https://edhrec.com/route/?cc=Carrion+Rats"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCarrion%2BRats%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Carrion+Rats&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Carrion+Rats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3cbfdc8f-397f-4fba-9333-a6999c5eb687",
+    "oracle_id": "327c5ca2-4eeb-49cb-84fb-f6a4b06b24bc",
+    "multiverse_ids": [],
+    "name": "Rats' Feast",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/3cbfdc8f-397f-4fba-9333-a6999c5eb687",
+    "scryfall_uri": "https://scryfall.com/card/phuk/44/rats-feast?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.jpg?1595095838",
+      "normal": "https://cards.scryfall.io/normal/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.jpg?1595095838",
+      "large": "https://cards.scryfall.io/large/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.jpg?1595095838",
+      "png": "https://cards.scryfall.io/png/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.png?1595095838",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.jpg?1595095838",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3cbfdc8f-397f-4fba-9333-a6999c5eb687.jpg?1595095838"
+    },
+    "mana_cost": "{X}{B}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Exile X target cards from a single graveyard.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3cbfdc8f-397f-4fba-9333-a6999c5eb687/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A327c5ca2-4eeb-49cb-84fb-f6a4b06b24bc&unique=prints",
+    "collector_number": "44",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "\"That does it—I quit!\"\n—Cabal grave robber",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Bob Petillo",
+    "artist_ids": [
+      "a2e47e0e-68e6-4b7a-b91e-0ded197b94d1"
+    ],
+    "illustration_id": "72955e3f-b031-4248-9c72-e941c833a1c6",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 25695,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRats%2527%2BFeast",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRats%2527%2BFeast",
+      "edhrec": "https://edhrec.com/route/?cc=Rats%27+Feast"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRats%2527%2BFeast%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rats%27+Feast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rats%27+Feast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "33d618cf-37f1-463a-840a-4f9e07ebd3d7",
+    "oracle_id": "f356087e-e1d2-4c25-aa1d-215d09535e7c",
+    "multiverse_ids": [],
+    "name": "Larceny",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/33d618cf-37f1-463a-840a-4f9e07ebd3d7",
+    "scryfall_uri": "https://scryfall.com/card/phuk/49/larceny?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.jpg?1683246832",
+      "normal": "https://cards.scryfall.io/normal/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.jpg?1683246832",
+      "large": "https://cards.scryfall.io/large/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.jpg?1683246832",
+      "png": "https://cards.scryfall.io/png/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.png?1683246832",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.jpg?1683246832",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/33d618cf-37f1-463a-840a-4f9e07ebd3d7.jpg?1683246832"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control deals combat damage to a player, that player discards a card.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/33d618cf-37f1-463a-840a-4f9e07ebd3d7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af356087e-e1d2-4c25-aa1d-215d09535e7c&unique=prints",
+    "collector_number": "49",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "Opportunity makes the thief.\n—Roman proverb",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Dave Dorman",
+    "artist_ids": [
+      "9235458b-ce92-45bd-a430-a72ecd8e6176"
+    ],
+    "illustration_id": "9088a614-ff42-4e43-9373-9e9d7b264b9c",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 14860,
+    "penny_rank": 16248,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLarceny",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLarceny",
+      "edhrec": "https://edhrec.com/route/?cc=Larceny"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DLarceny%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Larceny&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Larceny&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "77dc102f-1d0c-4144-b741-eb0df3d7c11e",
+    "oracle_id": "c77f8fee-8d2d-4cec-948f-2ca3e5b64070",
+    "multiverse_ids": [],
+    "name": "Nezumi Bone-Reader",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/77dc102f-1d0c-4144-b741-eb0df3d7c11e",
+    "scryfall_uri": "https://scryfall.com/card/phuk/50/nezumi-bone-reader?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.jpg?1683246862",
+      "normal": "https://cards.scryfall.io/normal/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.jpg?1683246862",
+      "large": "https://cards.scryfall.io/large/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.jpg?1683246862",
+      "png": "https://cards.scryfall.io/png/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.png?1683246862",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.jpg?1683246862",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77dc102f-1d0c-4144-b741-eb0df3d7c11e.jpg?1683246862"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat Shaman",
+    "oracle_text": "{B}, Sacrifice a creature: Target player discards a card. Activate only as a sorcery.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/77dc102f-1d0c-4144-b741-eb0df3d7c11e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac77f8fee-8d2d-4cec-948f-2ca3e5b64070&unique=prints",
+    "collector_number": "50",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "Four generations ago, old Split-Tail stole a bundle of scrolls from the Minamo School. Soon after, the first nezumi shamans were born.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Dan Murayama Scott",
+    "artist_ids": [
+      "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+    ],
+    "illustration_id": "8ebd537e-7d06-4b0e-af7a-8122dfaeba6c",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 13854,
+    "penny_rank": 9427,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNezumi%2BBone-Reader",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNezumi%2BBone-Reader",
+      "edhrec": "https://edhrec.com/route/?cc=Nezumi+Bone-Reader"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DNezumi%2BBone-Reader%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nezumi+Bone-Reader&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nezumi+Bone-Reader&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "476177f6-bd50-406f-a04f-644b46c215a3",
+    "oracle_id": "14589b6b-1814-46f9-a364-83cc15dacac2",
+    "multiverse_ids": [],
+    "name": "Diabolic Tutor",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/476177f6-bd50-406f-a04f-644b46c215a3",
+    "scryfall_uri": "https://scryfall.com/card/phuk/51/diabolic-tutor?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.jpg?1683246807",
+      "normal": "https://cards.scryfall.io/normal/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.jpg?1683246807",
+      "large": "https://cards.scryfall.io/large/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.jpg?1683246807",
+      "png": "https://cards.scryfall.io/png/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.png?1683246807",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.jpg?1683246807",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/476177f6-bd50-406f-a04f-644b46c215a3.jpg?1683246807"
+    },
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/476177f6-bd50-406f-a04f-644b46c215a3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14589b6b-1814-46f9-a364-83cc15dacac2&unique=prints",
+    "collector_number": "51",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "The best ideas often come from the worst minds.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Rick Farrell",
+    "artist_ids": [
+      "f566c1d2-db3f-4f13-9591-3e479a3078ca"
+    ],
+    "illustration_id": "10d0f4fc-1709-4cf3-802d-8a1693501778",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 423,
+    "penny_rank": 2248,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+      "edhrec": "https://edhrec.com/route/?cc=Diabolic+Tutor"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Diabolic+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diabolic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "cd063fe1-1160-436d-b883-5f2ddefd8dc3",
+    "oracle_id": "43cee9b6-9853-4337-869a-45540c9db10f",
+    "multiverse_ids": [],
+    "name": "Betrayal of Flesh",
+    "lang": "en",
+    "released_at": "2006-01-01",
+    "uri": "https://api.scryfall.com/cards/cd063fe1-1160-436d-b883-5f2ddefd8dc3",
+    "scryfall_uri": "https://scryfall.com/card/phuk/52/betrayal-of-flesh?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.jpg?1562933350",
+      "normal": "https://cards.scryfall.io/normal/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.jpg?1562933350",
+      "large": "https://cards.scryfall.io/large/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.jpg?1562933350",
+      "png": "https://cards.scryfall.io/png/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.png?1562933350",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.jpg?1562933350",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd063fe1-1160-436d-b883-5f2ddefd8dc3.jpg?1562933350"
+    },
+    "mana_cost": "{5}{B}",
+    "cmc": 6.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Entwine"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set": "phuk",
+    "set_name": "Hachette UK",
+    "set_type": "box",
+    "set_uri": "https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphuk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/phuk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/cd063fe1-1160-436d-b883-5f2ddefd8dc3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43cee9b6-9853-4337-869a-45540c9db10f&unique=prints",
+    "collector_number": "52",
+    "digital": false,
+    "rarity": "uncommon",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Wayne England",
+    "artist_ids": [
+      "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+    ],
+    "illustration_id": "f72a3659-defb-4631-9e6d-3e8a8ec08e8b",
+    "border_color": "white",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "mediainsert"
+    ],
+    "edhrec_rank": 20749,
+    "penny_rank": 15519,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBetrayal%2Bof%2BFlesh",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBetrayal%2Bof%2BFlesh",
+      "edhrec": "https://edhrec.com/route/?cc=Betrayal+of+Flesh"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBetrayal%2Bof%2BFlesh%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Betrayal+of+Flesh&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Betrayal+of+Flesh&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

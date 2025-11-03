@@ -1,0 +1,3820 @@
+[
+  {
+    "object": "card",
+    "id": "1d06f729-990b-4c2c-ad2a-c17449117f75",
+    "oracle_id": "23cf095c-d43e-4a80-9bc5-f0f46ff885c4",
+    "multiverse_ids": [
+      642672
+    ],
+    "mtgo_id": 117408,
+    "tcgplayer_id": 524341,
+    "cardmarket_id": 741068,
+    "name": "Don't Move",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/1d06f729-990b-4c2c-ad2a-c17449117f75",
+    "scryfall_uri": "https://scryfall.com/card/rex/1/dont-move?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731",
+      "normal": "https://cards.scryfall.io/normal/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731",
+      "large": "https://cards.scryfall.io/large/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731",
+      "png": "https://cards.scryfall.io/png/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.png?1698988731",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731"
+    },
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy all tapped creatures. Until your next turn, whenever a creature becomes tapped, destroy it.",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1d06f729-990b-4c2c-ad2a-c17449117f75/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A23cf095c-d43e-4a80-9bc5-f0f46ff885c4&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Keep absolutely still. Its vision is based on movement.\"\n—Alan Grant",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Inkognit",
+    "artist_ids": [
+      "0ebd73e7-55c9-49d6-bf99-241f10801f89"
+    ],
+    "illustration_id": "1b96429a-5f50-4e05-86eb-8312fe3c49ea",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 6594,
+    "prices": {
+      "usd": "7.78",
+      "usd_foil": "11.64",
+      "usd_etched": null,
+      "eur": "7.31",
+      "eur_foil": "8.47",
+      "tix": "1.64"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642672&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDon%2527t%2BMove",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDon%2527t%2BMove",
+      "edhrec": "https://edhrec.com/route/?cc=Don%27t+Move"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524341%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=741068&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117408?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b6011e4b-a8a7-4cad-a276-c1022b45edc3",
+    "oracle_id": "bf245433-8e3b-47d7-b628-3cdae93c384d",
+    "multiverse_ids": [
+      642673
+    ],
+    "mtgo_id": 117410,
+    "tcgplayer_id": 525593,
+    "cardmarket_id": 744726,
+    "name": "Cresting Mosasaurus",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/b6011e4b-a8a7-4cad-a276-c1022b45edc3",
+    "scryfall_uri": "https://scryfall.com/card/rex/2/cresting-mosasaurus?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734",
+      "normal": "https://cards.scryfall.io/normal/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734",
+      "large": "https://cards.scryfall.io/large/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734",
+      "png": "https://cards.scryfall.io/png/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.png?1698988734",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734"
+    },
+    "mana_cost": "{6}{U}{U}",
+    "cmc": 8.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)\nWhen this creature enters, if you cast it, return each non-Dinosaur creature to its owner's hand.",
+    "power": "4",
+    "toughness": "8",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Emerge"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b6011e4b-a8a7-4cad-a276-c1022b45edc3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abf245433-8e3b-47d7-b628-3cdae93c384d&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "It preyed on anything it could sink its teeth into.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rallis",
+    "artist_ids": [
+      "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    ],
+    "illustration_id": "19099839-ebe1-4910-9f9e-e93bacb48914",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 9821,
+    "prices": {
+      "usd": "2.97",
+      "usd_foil": "4.94",
+      "usd_etched": null,
+      "eur": "2.51",
+      "eur_foil": "4.93",
+      "tix": "0.83"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642673&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCresting%2BMosasaurus",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCresting%2BMosasaurus",
+      "edhrec": "https://edhrec.com/route/?cc=Cresting+Mosasaurus"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525593%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744726&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117410?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f4f0c479-5fd1-45c2-af3f-15b6e5811b0f",
+    "oracle_id": "19f2c2c1-cd29-4e66-b5d9-e85e1979d843",
+    "multiverse_ids": [
+      642674
+    ],
+    "mtgo_id": 117412,
+    "tcgplayer_id": 525597,
+    "cardmarket_id": 744727,
+    "name": "Spitting Dilophosaurus",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f",
+    "scryfall_uri": "https://scryfall.com/card/rex/3/spitting-dilophosaurus?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.jpg?1699783766",
+      "normal": "https://cards.scryfall.io/normal/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.jpg?1699783766",
+      "large": "https://cards.scryfall.io/large/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.jpg?1699783766",
+      "png": "https://cards.scryfall.io/png/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.png?1699783766",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.jpg?1699783766",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f.jpg?1699783766"
+    },
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "Whenever this creature enters or attacks, put a -1/-1 counter on up to one target creature.\nCreatures your opponents control with -1/-1 counters on them can't block.",
+    "power": "3",
+    "toughness": "2",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f4f0c479-5fd1-45c2-af3f-15b6e5811b0f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A19f2c2c1-cd29-4e66-b5d9-e85e1979d843&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Nice boy . . . nice boy. Nice dinosaur!\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Francisco Badilla",
+    "artist_ids": [
+      "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c"
+    ],
+    "illustration_id": "942983f0-c0ad-44f8-bfff-c534c0820af9",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 5722,
+    "prices": {
+      "usd": "14.98",
+      "usd_foil": "18.64",
+      "usd_etched": null,
+      "eur": "11.85",
+      "eur_foil": "16.38",
+      "tix": "6.09"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642674&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSpitting%2BDilophosaurus",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSpitting%2BDilophosaurus",
+      "edhrec": "https://edhrec.com/route/?cc=Spitting+Dilophosaurus"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525597%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744727&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117412?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e2c5c161-49c5-404d-bd8e-86e634222232",
+    "oracle_id": "bca33fb6-cd37-4259-8c0b-7a4675754a00",
+    "multiverse_ids": [
+      642675
+    ],
+    "mtgo_id": 117414,
+    "tcgplayer_id": 525381,
+    "cardmarket_id": 743244,
+    "name": "Hunting Velociraptor",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/e2c5c161-49c5-404d-bd8e-86e634222232",
+    "scryfall_uri": "https://scryfall.com/card/rex/4/hunting-velociraptor?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1698988738",
+      "normal": "https://cards.scryfall.io/normal/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1698988738",
+      "large": "https://cards.scryfall.io/large/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1698988738",
+      "png": "https://cards.scryfall.io/png/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.png?1698988738",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1698988738",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e2c5c161-49c5-404d-bd8e-86e634222232.jpg?1698988738"
+    },
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "First strike\nDinosaur spells you cast have prowl {2}{R}. (You may cast a spell for its prowl cost if you dealt combat damage to a player this turn with a creature with any of its creature types.)",
+    "power": "3",
+    "toughness": "2",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "First strike"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e2c5c161-49c5-404d-bd8e-86e634222232/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abca33fb6-cd37-4259-8c0b-7a4675754a00&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Clever girl.\"\n—Robert Muldoon",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Caio Monteiro",
+    "artist_ids": [
+      "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+    ],
+    "illustration_id": "83fc88b7-7475-4694-88b4-50c0cec506fe",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 3421,
+    "preview": {
+      "source": "IGN",
+      "source_uri": "https://www.ign.com/articles/chris-pratt-magic-the-gathering-jurassic-world-crossover-spoiler",
+      "previewed_at": "2023-10-30"
+    },
+    "prices": {
+      "usd": "46.99",
+      "usd_foil": "53.22",
+      "usd_etched": null,
+      "eur": "42.63",
+      "eur_foil": "54.12",
+      "tix": "11.53"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642675&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHunting%2BVelociraptor",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHunting%2BVelociraptor",
+      "edhrec": "https://edhrec.com/route/?cc=Hunting+Velociraptor"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525381%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743244&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117414?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "72137cda-ab1b-4bb7-9190-66a954c36e1e",
+    "oracle_id": "fa4f22b2-7fe4-4f7f-8afd-32add76d740d",
+    "multiverse_ids": [
+      642676
+    ],
+    "mtgo_id": 117416,
+    "tcgplayer_id": 524279,
+    "cardmarket_id": 740982,
+    "name": "Life Finds a Way",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/72137cda-ab1b-4bb7-9190-66a954c36e1e",
+    "scryfall_uri": "https://scryfall.com/card/rex/5/life-finds-a-way?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.jpg?1698988740",
+      "normal": "https://cards.scryfall.io/normal/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.jpg?1698988740",
+      "large": "https://cards.scryfall.io/large/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.jpg?1698988740",
+      "png": "https://cards.scryfall.io/png/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.png?1698988740",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.jpg?1698988740",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72137cda-ab1b-4bb7-9190-66a954c36e1e.jpg?1698988740"
+    },
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a nontoken creature you control with power 4 or greater enters, populate. (Create a token that's a copy of a creature token you control.)",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Populate"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/72137cda-ab1b-4bb7-9190-66a954c36e1e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa4f22b2-7fe4-4f7f-8afd-32add76d740d&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Life breaks free. It expands to new territories and crashes through barriers. Painfully, maybe even dangerously. But, uh, well there it is.\"\n—Ian Malcolm",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Inkognit",
+    "artist_ids": [
+      "0ebd73e7-55c9-49d6-bf99-241f10801f89"
+    ],
+    "illustration_id": "3453054e-4e83-4253-ae96-c366ef9a519d",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 7556,
+    "prices": {
+      "usd": "5.75",
+      "usd_foil": "7.11",
+      "usd_etched": null,
+      "eur": "4.26",
+      "eur_foil": "5.89",
+      "tix": "1.93"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642676&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLife%2BFinds%2Ba%2BWay",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLife%2BFinds%2Ba%2BWay",
+      "edhrec": "https://edhrec.com/route/?cc=Life+Finds+a+Way"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524279%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740982&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117416?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f571ef55-50dd-4624-aa42-fea5a0303033",
+    "oracle_id": "8dd5b7d5-3d92-40e2-9572-bf70ae591bed",
+    "multiverse_ids": [
+      642677
+    ],
+    "mtgo_id": 117418,
+    "tcgplayer_id": 525601,
+    "cardmarket_id": 744728,
+    "name": "Savage Order",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/f571ef55-50dd-4624-aa42-fea5a0303033",
+    "scryfall_uri": "https://scryfall.com/card/rex/6/savage-order?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.jpg?1698988745",
+      "normal": "https://cards.scryfall.io/normal/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.jpg?1698988745",
+      "large": "https://cards.scryfall.io/large/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.jpg?1698988745",
+      "png": "https://cards.scryfall.io/png/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.png?1698988745",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.jpg?1698988745",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f571ef55-50dd-4624-aa42-fea5a0303033.jpg?1698988745"
+    },
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, sacrifice a creature with power 4 or greater.\nSearch your library for a Dinosaur creature card, put it onto the battlefield, then shuffle. It gains indestructible until your next turn.",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f571ef55-50dd-4624-aa42-fea5a0303033/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8dd5b7d5-3d92-40e2-9572-bf70ae591bed&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Well... it's a superpredator.\"\n—Billy Brennan",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jesper Ejsing",
+    "artist_ids": [
+      "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+    ],
+    "illustration_id": "a82b6198-ad63-41a6-a3c4-7166b404a17f",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 4684,
+    "prices": {
+      "usd": "17.00",
+      "usd_foil": "18.84",
+      "usd_etched": null,
+      "eur": "14.16",
+      "eur_foil": "16.46",
+      "tix": "3.98"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642677&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSavage%2BOrder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSavage%2BOrder",
+      "edhrec": "https://edhrec.com/route/?cc=Savage+Order"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525601%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744728&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117418?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6d84e2d4-38bf-4d46-99a6-37c2dda66b16",
+    "oracle_id": "a4b37d16-95b3-4143-a0b2-ad9f2aba91f8",
+    "multiverse_ids": [
+      642678,
+      642679
+    ],
+    "mtgo_id": 117420,
+    "tcgplayer_id": 517547,
+    "cardmarket_id": 740983,
+    "name": "Welcome to . . . // Jurassic Park",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/6d84e2d4-38bf-4d46-99a6-37c2dda66b16",
+    "scryfall_uri": "https://scryfall.com/card/rex/7/welcome-to-jurassic-park?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Saga // Legendary Land",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Transform"
+    ],
+    "produced_mana": [
+      "G"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Welcome to . . .",
+        "mana_cost": "{1}{G}{G}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — For each opponent, up to one target noncreature artifact they control becomes a 0/4 Wall artifact creature with defender for as long as you control this Saga.\nII — Create a 3/3 green Dinosaur creature token with trample. It gains haste until end of turn.\nIII — Destroy all Walls. Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "G"
+        ],
+        "artist": "Villarrte",
+        "artist_id": "86e7f7ce-7a21-4f2d-9edd-28fa2a8d988b",
+        "illustration_id": "6a8add04-dc57-4b23-914d-e6f91ba498db",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "normal": "https://cards.scryfall.io/normal/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "large": "https://cards.scryfall.io/large/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "png": "https://cards.scryfall.io/png/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.png?1698988748",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Jurassic Park",
+        "mana_cost": "",
+        "type_line": "Legendary Land",
+        "oracle_text": "(Transforms from Welcome to ....)\nEach Dinosaur card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\n{T}: Add {G} for each Dinosaur you control.",
+        "colors": [],
+        "artist": "Villarrte",
+        "artist_id": "86e7f7ce-7a21-4f2d-9edd-28fa2a8d988b",
+        "illustration_id": "47c2fd81-5bdd-4822-87c4-f84465d43607",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "normal": "https://cards.scryfall.io/normal/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "large": "https://cards.scryfall.io/large/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "png": "https://cards.scryfall.io/png/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.png?1698988748",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/6/d/6d84e2d4-38bf-4d46-99a6-37c2dda66b16.jpg?1698988748"
+        }
+      }
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "20f22bef-e00f-461b-a75b-c5ad49865044",
+        "component": "token",
+        "name": "Dinosaur",
+        "type_line": "Token Creature — Dinosaur",
+        "uri": "https://api.scryfall.com/cards/20f22bef-e00f-461b-a75b-c5ad49865044"
+      },
+      {
+        "object": "related_card",
+        "id": "6d84e2d4-38bf-4d46-99a6-37c2dda66b16",
+        "component": "combo_piece",
+        "name": "Welcome to . . . // Jurassic Park",
+        "type_line": "Enchantment — Saga // Legendary Land",
+        "uri": "https://api.scryfall.com/cards/6d84e2d4-38bf-4d46-99a6-37c2dda66b16"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6d84e2d4-38bf-4d46-99a6-37c2dda66b16/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa4b37d16-95b3-4143-a0b2-ad9f2aba91f8&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "rare",
+    "artist": "Villarrte",
+    "artist_ids": [
+      "86e7f7ce-7a21-4f2d-9edd-28fa2a8d988b"
+    ],
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 4499,
+    "prices": {
+      "usd": "20.35",
+      "usd_foil": "26.09",
+      "usd_etched": null,
+      "eur": "17.84",
+      "eur_foil": "23.29",
+      "tix": "4.01"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642678&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWelcome%2Bto%2B.%2B.%2B.%2B%252F%252F%2BJurassic%2BPark",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWelcome%2Bto%2B.%2B.%2B.%2B%252F%252F%2BJurassic%2BPark",
+      "edhrec": "https://edhrec.com/route/?cc=Welcome+to+.+.+."
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517547%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740983&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117420?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0a764ec9-6a30-4df3-91b4-c64fd8e32fa0",
+    "oracle_id": "4f13ed2e-7790-499f-87bf-07480b567811",
+    "multiverse_ids": [
+      642680
+    ],
+    "mtgo_id": 117424,
+    "tcgplayer_id": 525380,
+    "cardmarket_id": 743245,
+    "name": "Blue, Loyal Raptor",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0",
+    "scryfall_uri": "https://scryfall.com/card/rex/8/blue-loyal-raptor?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.jpg?1698988752",
+      "normal": "https://cards.scryfall.io/normal/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.jpg?1698988752",
+      "large": "https://cards.scryfall.io/large/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.jpg?1698988752",
+      "png": "https://cards.scryfall.io/png/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.png?1698988752",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.jpg?1698988752",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0.jpg?1698988752"
+    },
+    "mana_cost": "{2}{G}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Dinosaur",
+    "oracle_text": "Partner with Owen Grady, Raptor Trainer (When this creature enters, target player may put Owen into their hand from their library, then shuffle.)\nFor each kind of counter on Blue, Loyal Raptor, each other Dinosaur you control enters with a counter of that kind on it.",
+    "power": "5",
+    "toughness": "4",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d69d3be4-3ab2-426e-90a0-848acf7c2cdb",
+        "component": "combo_piece",
+        "name": "Owen Grady, Raptor Trainer",
+        "type_line": "Legendary Creature — Human Soldier Scientist",
+        "uri": "https://api.scryfall.com/cards/d69d3be4-3ab2-426e-90a0-848acf7c2cdb"
+      },
+      {
+        "object": "related_card",
+        "id": "f197b176-8fa0-451b-a981-a7a942890296",
+        "component": "combo_piece",
+        "name": "Blue, Loyal Raptor",
+        "type_line": "Legendary Creature — Dinosaur",
+        "uri": "https://api.scryfall.com/cards/f197b176-8fa0-451b-a981-a7a942890296"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0a764ec9-6a30-4df3-91b4-c64fd8e32fa0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f13ed2e-7790-499f-87bf-07480b567811&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Maaz Ali Khan",
+    "artist_ids": [
+      "52014e37-b594-4572-9783-674eac79790a"
+    ],
+    "illustration_id": "df362086-d3af-4cf2-be8f-5ebd861ba17d",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 19623,
+    "preview": {
+      "source": "IGN",
+      "source_uri": "https://www.ign.com/articles/chris-pratt-magic-the-gathering-jurassic-world-crossover-spoiler",
+      "previewed_at": "2023-10-30"
+    },
+    "prices": {
+      "usd": "4.22",
+      "usd_foil": "9.44",
+      "usd_etched": null,
+      "eur": "2.87",
+      "eur_foil": "5.92",
+      "tix": "0.59"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642680&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlue%252C%2BLoyal%2BRaptor",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlue%252C%2BLoyal%2BRaptor",
+      "edhrec": "https://edhrec.com/route/?cc=Blue%2C+Loyal+Raptor"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525380%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743245&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117424?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "800871ee-7394-4a31-98a7-4b92860208a1",
+    "oracle_id": "f5bd96dd-0d1f-4923-a014-6c8dcb3b2266",
+    "multiverse_ids": [
+      642681
+    ],
+    "mtgo_id": 117426,
+    "tcgplayer_id": 524342,
+    "cardmarket_id": 741069,
+    "name": "Compy Swarm",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/800871ee-7394-4a31-98a7-4b92860208a1",
+    "scryfall_uri": "https://scryfall.com/card/rex/9/compy-swarm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.jpg?1698988753",
+      "normal": "https://cards.scryfall.io/normal/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.jpg?1698988753",
+      "large": "https://cards.scryfall.io/large/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.jpg?1698988753",
+      "png": "https://cards.scryfall.io/png/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.png?1698988753",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.jpg?1698988753",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/800871ee-7394-4a31-98a7-4b92860208a1.jpg?1698988753"
+    },
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "At the beginning of your end step, if a creature died this turn, create a tapped token that's a copy of this creature.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "01c3b739-89b3-4ad8-aab9-76e8f87cf123",
+        "component": "token",
+        "name": "Copy",
+        "type_line": "Token",
+        "uri": "https://api.scryfall.com/cards/01c3b739-89b3-4ad8-aab9-76e8f87cf123"
+      },
+      {
+        "object": "related_card",
+        "id": "801b3fc9-722d-497a-a1ae-c3a158d5ca64",
+        "component": "combo_piece",
+        "name": "Compy Swarm",
+        "type_line": "Creature — Dinosaur",
+        "uri": "https://api.scryfall.com/cards/801b3fc9-722d-497a-a1ae-c3a158d5ca64"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/800871ee-7394-4a31-98a7-4b92860208a1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5bd96dd-0d1f-4923-a014-6c8dcb3b2266&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"There's no reason for it to fear man.\"\n—Robert Burke",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Izzy",
+    "artist_ids": [
+      "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+    ],
+    "illustration_id": "88132924-9d4e-4e8d-b4c7-9433d66190db",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 6305,
+    "prices": {
+      "usd": "5.74",
+      "usd_foil": "7.44",
+      "usd_etched": null,
+      "eur": "7.00",
+      "eur_foil": "7.39",
+      "tix": "2.00"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642681&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCompy%2BSwarm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCompy%2BSwarm",
+      "edhrec": "https://edhrec.com/route/?cc=Compy+Swarm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524342%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=741069&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117426?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c40b25d7-73c9-4f30-a707-5afb08185a8d",
+    "oracle_id": "0f4d513e-100d-4cbb-b919-09249cef5fad",
+    "multiverse_ids": [
+      642682
+    ],
+    "mtgo_id": 117428,
+    "tcgplayer_id": 524280,
+    "cardmarket_id": 740984,
+    "name": "Ellie and Alan, Paleontologists",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/c40b25d7-73c9-4f30-a707-5afb08185a8d",
+    "scryfall_uri": "https://scryfall.com/card/rex/10/ellie-and-alan-paleontologists?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755",
+      "normal": "https://cards.scryfall.io/normal/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755",
+      "large": "https://cards.scryfall.io/large/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755",
+      "png": "https://cards.scryfall.io/png/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.png?1698988755",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755"
+    },
+    "mana_cost": "{2}{G}{W}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Scientist",
+    "oracle_text": "{T}, Exile a creature card from your graveyard: Discover X, where X is the mana value of the exiled card. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",
+    "power": "2",
+    "toughness": "5",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Discover"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c40b25d7-73c9-4f30-a707-5afb08185a8d/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0f4d513e-100d-4cbb-b919-09249cef5fad&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Zoltan Boros",
+    "artist_ids": [
+      "1885e6cb-c827-4896-994e-3d0a027d602f"
+    ],
+    "illustration_id": "55c3e9e2-6561-4982-ab72-233d22b1d1e1",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 12539,
+    "prices": {
+      "usd": "2.71",
+      "usd_foil": "4.28",
+      "usd_etched": null,
+      "eur": "1.78",
+      "eur_foil": "3.10",
+      "tix": "0.33"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642682&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEllie%2Band%2BAlan%252C%2BPaleontologists",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEllie%2Band%2BAlan%252C%2BPaleontologists",
+      "edhrec": "https://edhrec.com/route/?cc=Ellie+and+Alan%2C+Paleontologists"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524280%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740984&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117428?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ae30b824-9586-413b-b925-ce6f915bf7e5",
+    "oracle_id": "1c197b3c-f540-4766-aeaa-ae09d22214cb",
+    "multiverse_ids": [
+      642683
+    ],
+    "mtgo_id": 117430,
+    "tcgplayer_id": 525604,
+    "cardmarket_id": 744729,
+    "name": "Grim Giganotosaurus",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/ae30b824-9586-413b-b925-ce6f915bf7e5",
+    "scryfall_uri": "https://scryfall.com/card/rex/11/grim-giganotosaurus?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759",
+      "normal": "https://cards.scryfall.io/normal/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759",
+      "large": "https://cards.scryfall.io/large/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759",
+      "png": "https://cards.scryfall.io/png/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.png?1698988759",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759"
+    },
+    "mana_cost": "{5}{B}{G}",
+    "cmc": 7.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "{10}{B}{G}: Monstrosity 10. This ability costs {1} less to activate for each creature with power 4 or greater your opponents control. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, destroy all artifacts and creatures other than this creature.",
+    "power": "10",
+    "toughness": "10",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Monstrosity"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ae30b824-9586-413b-b925-ce6f915bf7e5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1c197b3c-f540-4766-aeaa-ae09d22214cb&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daren Bader",
+    "artist_ids": [
+      "7da1a585-c875-45e4-b322-5da9e8e1f651"
+    ],
+    "illustration_id": "74d7e496-903b-41dc-9a96-5608eb00ecfe",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 12470,
+    "prices": {
+      "usd": "2.98",
+      "usd_foil": "5.28",
+      "usd_etched": null,
+      "eur": "1.89",
+      "eur_foil": "4.84",
+      "tix": "0.46"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642683&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGrim%2BGiganotosaurus",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGrim%2BGiganotosaurus",
+      "edhrec": "https://edhrec.com/route/?cc=Grim+Giganotosaurus"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525604%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744729&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117430?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5b67d302-ddaa-4627-adc8-86bb665f69ad",
+    "oracle_id": "d94a792f-a48b-4181-b656-86fe452a4875",
+    "multiverse_ids": [
+      642684
+    ],
+    "mtgo_id": 117432,
+    "tcgplayer_id": 525605,
+    "cardmarket_id": 744730,
+    "name": "Henry Wu, InGen Geneticist",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/5b67d302-ddaa-4627-adc8-86bb665f69ad",
+    "scryfall_uri": "https://scryfall.com/card/rex/12/henry-wu-ingen-geneticist?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761",
+      "normal": "https://cards.scryfall.io/normal/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761",
+      "large": "https://cards.scryfall.io/large/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761",
+      "png": "https://cards.scryfall.io/png/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.png?1698988761",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761"
+    },
+    "mana_cost": "{B}{G}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Scientist",
+    "oracle_text": "Henry Wu and other Human creatures you control have exploit. (When a creature with exploit enters, you may sacrifice a creature.)\nWhenever a creature you control exploits a non-Human creature, draw a card. If the exploited creature had power 3 or greater, create a Treasure token.",
+    "power": "1",
+    "toughness": "4",
+    "colors": [
+      "B",
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Treasure"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "2e28240d-3306-42d7-aa7a-0af0a07f345d",
+        "component": "token",
+        "name": "Treasure",
+        "type_line": "Token Artifact — Treasure",
+        "uri": "https://api.scryfall.com/cards/2e28240d-3306-42d7-aa7a-0af0a07f345d"
+      },
+      {
+        "object": "related_card",
+        "id": "c4150d37-36f2-49ba-8830-0bfa1d4df6e3",
+        "component": "combo_piece",
+        "name": "Henry Wu, InGen Geneticist",
+        "type_line": "Legendary Creature — Human Scientist",
+        "uri": "https://api.scryfall.com/cards/c4150d37-36f2-49ba-8830-0bfa1d4df6e3"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5b67d302-ddaa-4627-adc8-86bb665f69ad/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad94a792f-a48b-4181-b656-86fe452a4875&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Justin Cornell",
+    "artist_ids": [
+      "851c62e2-7fa1-4f75-97b8-bca3d0d6171a"
+    ],
+    "illustration_id": "31cea0f5-f5a6-4853-a9fd-6e1c4665669e",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 17148,
+    "prices": {
+      "usd": "0.51",
+      "usd_foil": "1.86",
+      "usd_etched": null,
+      "eur": "0.45",
+      "eur_foil": "0.83",
+      "tix": "0.48"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642684&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHenry%2BWu%252C%2BInGen%2BGeneticist",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHenry%2BWu%252C%2BInGen%2BGeneticist",
+      "edhrec": "https://edhrec.com/route/?cc=Henry+Wu%2C+InGen+Geneticist"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525605%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=744730&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117432?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b4a0402e-e39b-4008-b654-189b4a5e03a3",
+    "oracle_id": "57ff1665-0a7b-4d98-bd8f-cc07cf04f701",
+    "multiverse_ids": [
+      642685
+    ],
+    "mtgo_id": 117434,
+    "tcgplayer_id": 517548,
+    "cardmarket_id": 740985,
+    "name": "Ian Malcolm, Chaotician",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/b4a0402e-e39b-4008-b654-189b4a5e03a3",
+    "scryfall_uri": "https://scryfall.com/card/rex/13/ian-malcolm-chaotician?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761",
+      "normal": "https://cards.scryfall.io/normal/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761",
+      "large": "https://cards.scryfall.io/large/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761",
+      "png": "https://cards.scryfall.io/png/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.png?1698988761",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761"
+    },
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Scientist",
+    "oracle_text": "Whenever a player draws their second card each turn, that player exiles the top card of their library.\nDuring each player's turn, that player may cast a spell from among the cards they don't own exiled with Ian Malcolm, and mana of any type can be spent to cast it.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b4a0402e-e39b-4008-b654-189b4a5e03a3/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A57ff1665-0a7b-4d98-bd8f-cc07cf04f701&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"You've heard of chaos theory?\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Caio Monteiro",
+    "artist_ids": [
+      "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+    ],
+    "illustration_id": "bad5c9da-7117-44c7-9141-d8eb196294c5",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 9944,
+    "prices": {
+      "usd": "4.05",
+      "usd_foil": "6.64",
+      "usd_etched": null,
+      "eur": "2.70",
+      "eur_foil": "3.31",
+      "tix": "1.15"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642685&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIan%2BMalcolm%252C%2BChaotician",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIan%2BMalcolm%252C%2BChaotician",
+      "edhrec": "https://edhrec.com/route/?cc=Ian+Malcolm%2C+Chaotician"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517548%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740985&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117434?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "25e6ebfb-8f0b-44f0-a911-103ade41c6bc",
+    "oracle_id": "723a66c3-2c2c-411c-bba5-922e8601981b",
+    "multiverse_ids": [
+      642686
+    ],
+    "mtgo_id": 117436,
+    "tcgplayer_id": 517549,
+    "cardmarket_id": 740986,
+    "name": "Indominus Rex, Alpha",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/25e6ebfb-8f0b-44f0-a911-103ade41c6bc",
+    "scryfall_uri": "https://scryfall.com/card/rex/14/indominus-rex-alpha?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.jpg?1698988767",
+      "normal": "https://cards.scryfall.io/normal/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.jpg?1698988767",
+      "large": "https://cards.scryfall.io/large/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.jpg?1698988767",
+      "png": "https://cards.scryfall.io/png/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.png?1698988767",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.jpg?1698988767",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25e6ebfb-8f0b-44f0-a911-103ade41c6bc.jpg?1698988767"
+    },
+    "mana_cost": "{1}{U/B}{U/B}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Dinosaur Mutant",
+    "oracle_text": "As Indominus Rex enters, discard any number of creature cards. It enters with a flying counter on it if a card discarded this way has flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance.\nWhen Indominus Rex enters, draw a card for each counter on it.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "B",
+      "G",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/25e6ebfb-8f0b-44f0-a911-103ade41c6bc/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A723a66c3-2c2c-411c-bba5-922e8601981b&unique=prints",
+    "collector_number": "14",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Miro Petrov",
+    "artist_ids": [
+      "bd56e591-b386-4ee1-9652-2de0d7acaf40"
+    ],
+    "illustration_id": "7b70ad02-09ff-4d58-9ed8-f1b4d741c688",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 9085,
+    "prices": {
+      "usd": "8.70",
+      "usd_foil": "15.92",
+      "usd_etched": null,
+      "eur": "6.54",
+      "eur_foil": "17.45",
+      "tix": "2.85"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642686&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIndominus%2BRex%252C%2BAlpha",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIndominus%2BRex%252C%2BAlpha",
+      "edhrec": "https://edhrec.com/route/?cc=Indominus+Rex%2C+Alpha"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517549%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740986&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117436?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "3826e2af-c134-4dc1-98b5-574b1bda9a98",
+    "oracle_id": "0dd4bc7b-2ddf-4ca4-912c-59685c41c3b5",
+    "multiverse_ids": [
+      642687
+    ],
+    "mtgo_id": 117438,
+    "tcgplayer_id": 524277,
+    "cardmarket_id": 740987,
+    "name": "Indoraptor, the Perfect Hybrid",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/3826e2af-c134-4dc1-98b5-574b1bda9a98",
+    "scryfall_uri": "https://scryfall.com/card/rex/15/indoraptor-the-perfect-hybrid?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315",
+      "normal": "https://cards.scryfall.io/normal/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315",
+      "large": "https://cards.scryfall.io/large/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315",
+      "png": "https://cards.scryfall.io/png/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.png?1731690315",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315"
+    },
+    "mana_cost": "{1}{B/G}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Dinosaur Mutant",
+    "oracle_text": "Bloodthirst X (This creature enters with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)\nMenace\nEnrage — Whenever Indoraptor is dealt damage, choose an opponent at random. Indoraptor deals damage equal to its power to that player unless they sacrifice a nontoken creature of their choice.",
+    "power": "3",
+    "toughness": "1",
+    "colors": [
+      "B",
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Enrage",
+      "Bloodthirst",
+      "Menace"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/3826e2af-c134-4dc1-98b5-574b1bda9a98/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0dd4bc7b-2ddf-4ca4-912c-59685c41c3b5&unique=prints",
+    "collector_number": "15",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daren Bader",
+    "artist_ids": [
+      "7da1a585-c875-45e4-b322-5da9e8e1f651"
+    ],
+    "illustration_id": "96ff5ba2-9b93-49ab-b034-c7b41f2f6231",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 8170,
+    "prices": {
+      "usd": "12.00",
+      "usd_foil": "21.84",
+      "usd_etched": null,
+      "eur": "10.61",
+      "eur_foil": "29.83",
+      "tix": "4.27"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642687&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIndoraptor%252C%2Bthe%2BPerfect%2BHybrid",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIndoraptor%252C%2Bthe%2BPerfect%2BHybrid",
+      "edhrec": "https://edhrec.com/route/?cc=Indoraptor%2C+the+Perfect+Hybrid"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524277%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740987&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117438?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a85a1e4c-af02-4072-872f-956fa74f8aa6",
+    "oracle_id": "4eda40a2-39e5-4b0e-ba6d-8a6f89d6f55f",
+    "multiverse_ids": [
+      642688
+    ],
+    "mtgo_id": 117440,
+    "tcgplayer_id": 525378,
+    "cardmarket_id": 743246,
+    "name": "Owen Grady, Raptor Trainer",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/a85a1e4c-af02-4072-872f-956fa74f8aa6",
+    "scryfall_uri": "https://scryfall.com/card/rex/16/owen-grady-raptor-trainer?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.jpg?1698988768",
+      "normal": "https://cards.scryfall.io/normal/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.jpg?1698988768",
+      "large": "https://cards.scryfall.io/large/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.jpg?1698988768",
+      "png": "https://cards.scryfall.io/png/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.png?1698988768",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.jpg?1698988768",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a85a1e4c-af02-4072-872f-956fa74f8aa6.jpg?1698988768"
+    },
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Soldier Scientist",
+    "oracle_text": "Partner with Blue, Loyal Raptor\n{T}: Put your choice of a menace, trample, reach, or haste counter on target Dinosaur. Activate only as a sorcery.",
+    "power": "3",
+    "toughness": "2",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d69d3be4-3ab2-426e-90a0-848acf7c2cdb",
+        "component": "combo_piece",
+        "name": "Owen Grady, Raptor Trainer",
+        "type_line": "Legendary Creature — Human Soldier Scientist",
+        "uri": "https://api.scryfall.com/cards/d69d3be4-3ab2-426e-90a0-848acf7c2cdb"
+      },
+      {
+        "object": "related_card",
+        "id": "f197b176-8fa0-451b-a981-a7a942890296",
+        "component": "combo_piece",
+        "name": "Blue, Loyal Raptor",
+        "type_line": "Legendary Creature — Dinosaur",
+        "uri": "https://api.scryfall.com/cards/f197b176-8fa0-451b-a981-a7a942890296"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a85a1e4c-af02-4072-872f-956fa74f8aa6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4eda40a2-39e5-4b0e-ba6d-8a6f89d6f55f&unique=prints",
+    "collector_number": "16",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"I don't control the raptors. It's a relationship. It's based on mutual respect.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jaroslav Kosmina",
+    "artist_ids": [
+      "2ac4115a-486a-414b-b61c-dc0019880b64"
+    ],
+    "illustration_id": "7e9e5ba2-0b2f-41f3-bf89-578adb25be52",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 10278,
+    "preview": {
+      "source": "IGN",
+      "source_uri": "https://www.ign.com/articles/chris-pratt-magic-the-gathering-jurassic-world-crossover-spoiler",
+      "previewed_at": "2023-10-30"
+    },
+    "prices": {
+      "usd": "5.12",
+      "usd_foil": "6.59",
+      "usd_etched": null,
+      "eur": "3.47",
+      "eur_foil": "3.96",
+      "tix": "1.29"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642688&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOwen%2BGrady%252C%2BRaptor%2BTrainer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOwen%2BGrady%252C%2BRaptor%2BTrainer",
+      "edhrec": "https://edhrec.com/route/?cc=Owen+Grady%2C+Raptor+Trainer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525378%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743246&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117440?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c3e8dd5a-d52d-481d-b48c-1392462beb33",
+    "oracle_id": "95aae5ba-7634-4cad-a0be-496c3398fa3c",
+    "multiverse_ids": [
+      642689
+    ],
+    "mtgo_id": 117442,
+    "tcgplayer_id": 526131,
+    "cardmarket_id": 743399,
+    "name": "Permission Denied",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/c3e8dd5a-d52d-481d-b48c-1392462beb33",
+    "scryfall_uri": "https://scryfall.com/card/rex/17/permission-denied?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.jpg?1698988775",
+      "normal": "https://cards.scryfall.io/normal/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.jpg?1698988775",
+      "large": "https://cards.scryfall.io/large/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.jpg?1698988775",
+      "png": "https://cards.scryfall.io/png/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.png?1698988775",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.jpg?1698988775",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c3e8dd5a-d52d-481d-b48c-1392462beb33.jpg?1698988775"
+    },
+    "mana_cost": "{W}{U}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Counter target noncreature spell. Your opponents can't cast noncreature spells this turn.",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c3e8dd5a-d52d-481d-b48c-1392462beb33/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95aae5ba-7634-4cad-a0be-496c3398fa3c&unique=prints",
+    "collector_number": "17",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Ah, ah, ah! You didn't say the magic word.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Leonardo Santanna",
+    "artist_ids": [
+      "f1f8e6d8-8fb3-472a-a32f-a4b1225bd054"
+    ],
+    "illustration_id": "39fddc1b-c836-467d-9381-9f9076d1f68c",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 3745,
+    "preview": {
+      "source": "ComicBook.com",
+      "source_uri": "https://comicbook.com/gaming/news/mtg-magic-the-gathering-cards-spoilers-lost-caverns-of-ixalan-lands-swooping-pteranodon-permission-denied/",
+      "previewed_at": "2023-11-01"
+    },
+    "prices": {
+      "usd": "8.30",
+      "usd_foil": "13.68",
+      "usd_etched": null,
+      "eur": "6.73",
+      "eur_foil": "10.14",
+      "tix": "3.74"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642689&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPermission%2BDenied",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPermission%2BDenied",
+      "edhrec": "https://edhrec.com/route/?cc=Permission+Denied"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526131%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743399&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117442?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "2be38927-637b-4dce-b228-83ce4f50c4a4",
+    "oracle_id": "9cfac390-4638-4654-8b50-65c0f0886b18",
+    "multiverse_ids": [
+      642690
+    ],
+    "mtgo_id": 117444,
+    "tcgplayer_id": 524281,
+    "cardmarket_id": 740988,
+    "name": "Ravenous Tyrannosaurus",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/2be38927-637b-4dce-b228-83ce4f50c4a4",
+    "scryfall_uri": "https://scryfall.com/card/rex/18/ravenous-tyrannosaurus?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775",
+      "normal": "https://cards.scryfall.io/normal/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775",
+      "large": "https://cards.scryfall.io/large/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775",
+      "png": "https://cards.scryfall.io/png/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.png?1698988775",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775"
+    },
+    "mana_cost": "{4}{R}{G}",
+    "cmc": 6.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "Devour 3 (As this creature enters, you may sacrifice any number of creatures. It enters with three times that many +1/+1 counters on it.)\nWhenever this creature attacks, it deals damage equal to its power to up to one other target creature. Excess damage is dealt to that creature's controller instead.",
+    "power": "6",
+    "toughness": "6",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Devour"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/2be38927-637b-4dce-b228-83ce4f50c4a4/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9cfac390-4638-4654-8b50-65c0f0886b18&unique=prints",
+    "collector_number": "18",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Raymond Swanland",
+    "artist_ids": [
+      "e956bacc-077d-4c12-b6bc-ba798b718af9"
+    ],
+    "illustration_id": "e18f5832-dfc8-4c7e-bcb3-7ac9aebcc030",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 4487,
+    "prices": {
+      "usd": "32.83",
+      "usd_foil": "43.68",
+      "usd_etched": null,
+      "eur": "31.14",
+      "eur_foil": "42.63",
+      "tix": "3.13"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642690&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRavenous%2BTyrannosaurus",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRavenous%2BTyrannosaurus",
+      "edhrec": "https://edhrec.com/route/?cc=Ravenous+Tyrannosaurus"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524281%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740988&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117444?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "43aa5d97-7483-4f90-998d-70732a7ae1dc",
+    "oracle_id": "0b1f6e77-55db-4638-9030-3f4e4d37eb1b",
+    "multiverse_ids": [
+      642691
+    ],
+    "mtgo_id": 117446,
+    "tcgplayer_id": 526132,
+    "cardmarket_id": 743400,
+    "name": "Swooping Pteranodon",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/43aa5d97-7483-4f90-998d-70732a7ae1dc",
+    "scryfall_uri": "https://scryfall.com/card/rex/19/swooping-pteranodon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174",
+      "normal": "https://cards.scryfall.io/normal/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174",
+      "large": "https://cards.scryfall.io/large/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174",
+      "png": "https://cards.scryfall.io/png/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.png?1698993174",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174"
+    },
+    "mana_cost": "{3}{R}{W}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "Flying, haste\nWhenever this creature or another Dinosaur you control with flying enters, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains flying and haste until end of turn. At the beginning of the next end step, target land deals 3 damage to that creature.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Haste"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/43aa5d97-7483-4f90-998d-70732a7ae1dc/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b1f6e77-55db-4638-9030-3f4e4d37eb1b&unique=prints",
+    "collector_number": "19",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Slawomir Maniak",
+    "artist_ids": [
+      "d887bc66-2779-416c-a1ff-d8720242063e"
+    ],
+    "illustration_id": "f15219b6-995f-472a-b904-35cebe82a325",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 8540,
+    "preview": {
+      "source": "ComicBook.com",
+      "source_uri": "https://comicbook.com/gaming/news/mtg-magic-the-gathering-cards-spoilers-lost-caverns-of-ixalan-lands-swooping-pteranodon-permission-denied/",
+      "previewed_at": "2023-11-01"
+    },
+    "prices": {
+      "usd": "6.79",
+      "usd_foil": "8.15",
+      "usd_etched": null,
+      "eur": "6.67",
+      "eur_foil": "7.51",
+      "tix": "1.29"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642691&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwooping%2BPteranodon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwooping%2BPteranodon",
+      "edhrec": "https://edhrec.com/route/?cc=Swooping+Pteranodon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526132%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743400&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117446?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ceb287d3-cb8e-4ff2-8082-c0bd59c59b45",
+    "oracle_id": "26e988da-52cf-4382-8646-a27c5ad1b92d",
+    "multiverse_ids": [
+      642692
+    ],
+    "mtgo_id": 117448,
+    "tcgplayer_id": 524278,
+    "cardmarket_id": 740989,
+    "name": "Dino DNA",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45",
+    "scryfall_uri": "https://scryfall.com/card/rex/20/dino-dna?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.jpg?1698988782",
+      "normal": "https://cards.scryfall.io/normal/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.jpg?1698988782",
+      "large": "https://cards.scryfall.io/large/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.jpg?1698988782",
+      "png": "https://cards.scryfall.io/png/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.png?1698988782",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.jpg?1698988782",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45.jpg?1698988782"
+    },
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact",
+    "oracle_text": "Imprint — {1}, {T}: Exile target creature card from a graveyard. Activate only as a sorcery.\n{6}: Create a token that's a copy of target creature card exiled with this artifact, except it's a 6/6 green Dinosaur creature with trample. Activate only as a sorcery.",
+    "colors": [],
+    "color_identity": [],
+    "keywords": [
+      "Imprint"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "f5f192d0-6265-41a7-8d95-4cbe48d1657f",
+        "component": "combo_piece",
+        "name": "Dino DNA",
+        "type_line": "Artifact",
+        "uri": "https://api.scryfall.com/cards/f5f192d0-6265-41a7-8d95-4cbe48d1657f"
+      },
+      {
+        "object": "related_card",
+        "id": "01c3b739-89b3-4ad8-aab9-76e8f87cf123",
+        "component": "token",
+        "name": "Copy",
+        "type_line": "Token",
+        "uri": "https://api.scryfall.com/cards/01c3b739-89b3-4ad8-aab9-76e8f87cf123"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ceb287d3-cb8e-4ff2-8082-c0bd59c59b45/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A26e988da-52cf-4382-8646-a27c5ad1b92d&unique=prints",
+    "collector_number": "20",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"Dinosaurs left their blueprints behind for us.\"\n—Mr. DNA",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Leonardo Santanna",
+    "artist_ids": [
+      "f1f8e6d8-8fb3-472a-a32f-a4b1225bd054"
+    ],
+    "illustration_id": "ffb79fcf-4f4f-4351-bb40-2717d5c2545b",
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 5420,
+    "prices": {
+      "usd": "9.33",
+      "usd_foil": "14.12",
+      "usd_etched": null,
+      "eur": "8.47",
+      "eur_foil": "12.16",
+      "tix": "7.15"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642692&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDino%2BDNA",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDino%2BDNA",
+      "edhrec": "https://edhrec.com/route/?cc=Dino+DNA"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524278%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740989&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117448?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
+    "multiverse_ids": [
+      642577,
+      642576
+    ],
+    "mtgo_id": 117452,
+    "tcgplayer_id": 524344,
+    "cardmarket_id": 741071,
+    "name": "Plains // Plains",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
+    "scryfall_uri": "https://scryfall.com/card/rex/21/plains-plains?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "W"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+        "layout": "normal",
+        "name": "Plains",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Plains",
+        "oracle_text": "({T}: Add {W}.)",
+        "colors": [],
+        "artist": "Véronique Meignaud",
+        "artist_id": "41084244-a313-4d14-8123-db05855f9cfe",
+        "illustration_id": "d9f202a0-8267-484c-af25-f4e5a2e52831",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "normal": "https://cards.scryfall.io/normal/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "large": "https://cards.scryfall.io/large/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "png": "https://cards.scryfall.io/png/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+        "layout": "normal",
+        "name": "Plains",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Plains",
+        "oracle_text": "({T}: Add {W}.)",
+        "colors": [],
+        "artist": "Véronique Meignaud",
+        "artist_id": "41084244-a313-4d14-8123-db05855f9cfe",
+        "illustration_id": "8ec41337-50b3-4856-b966-1267bf2f5f7f",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "normal": "https://cards.scryfall.io/normal/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "large": "https://cards.scryfall.io/large/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "png": "https://cards.scryfall.io/png/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+    "collector_number": "21",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Véronique Meignaud",
+    "artist_ids": [
+      "41084244-a313-4d14-8123-db05855f9cfe"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "prices": {
+      "usd": "1.51",
+      "usd_foil": "6.00",
+      "usd_etched": null,
+      "eur": "1.69",
+      "eur_foil": "8.58",
+      "tix": "0.57"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642577&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPlains%2B%252F%252F%2BPlains",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPlains%2B%252F%252F%2BPlains",
+      "edhrec": "https://edhrec.com/route/?cc=Plains+%2F%2F+Plains"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524344%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=741071&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117452?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "76c343f5-6955-4ba2-a435-36d55182d1dd",
+    "multiverse_ids": [
+      642579,
+      642578
+    ],
+    "mtgo_id": 117456,
+    "tcgplayer_id": 526432,
+    "cardmarket_id": 743401,
+    "name": "Island // Island",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/76c343f5-6955-4ba2-a435-36d55182d1dd",
+    "scryfall_uri": "https://scryfall.com/card/rex/22/island-island?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "U"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+        "layout": "normal",
+        "name": "Island",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Island",
+        "oracle_text": "({T}: Add {U}.)",
+        "colors": [],
+        "artist": "Svetlin Velinov",
+        "artist_id": "ffd063ae-c097-4f26-b2e6-b1e2137708bc",
+        "illustration_id": "9649df13-0d4d-4bdc-affc-63672bc6ec10",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "normal": "https://cards.scryfall.io/normal/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "large": "https://cards.scryfall.io/large/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "png": "https://cards.scryfall.io/png/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+        "layout": "normal",
+        "name": "Island",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Island",
+        "oracle_text": "({T}: Add {U}.)",
+        "colors": [],
+        "artist": "Svetlin Velinov",
+        "artist_id": "ffd063ae-c097-4f26-b2e6-b1e2137708bc",
+        "illustration_id": "1411ca77-e1e7-4148-a87c-4d6ebe2c8986",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "normal": "https://cards.scryfall.io/normal/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "large": "https://cards.scryfall.io/large/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "png": "https://cards.scryfall.io/png/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/76c343f5-6955-4ba2-a435-36d55182d1dd/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+    "collector_number": "22",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Svetlin Velinov",
+    "artist_ids": [
+      "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "prices": {
+      "usd": "1.54",
+      "usd_foil": "5.18",
+      "usd_etched": null,
+      "eur": "1.43",
+      "eur_foil": "4.16",
+      "tix": "0.35"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642579&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIsland%2B%252F%252F%2BIsland",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIsland%2B%252F%252F%2BIsland",
+      "edhrec": "https://edhrec.com/route/?cc=Island+%2F%2F+Island"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526432%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743401&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117456?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "843b35ec-7b59-4a22-8fee-2e876a02306b",
+    "multiverse_ids": [
+      642581,
+      642580
+    ],
+    "mtgo_id": 117460,
+    "tcgplayer_id": 526433,
+    "cardmarket_id": 743402,
+    "name": "Swamp // Swamp",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/843b35ec-7b59-4a22-8fee-2e876a02306b",
+    "scryfall_uri": "https://scryfall.com/card/rex/23/swamp-swamp?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "B"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+        "layout": "normal",
+        "name": "Swamp",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Swamp",
+        "oracle_text": "({T}: Add {B}.)",
+        "colors": [],
+        "artist": "Pablo Mendoza",
+        "artist_id": "57f8d135-42e9-46e2-bb00-eff941b3152b",
+        "illustration_id": "d97e1287-d011-420a-be7a-85ae88420d32",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "normal": "https://cards.scryfall.io/normal/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "large": "https://cards.scryfall.io/large/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "png": "https://cards.scryfall.io/png/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.png?1698992870",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+        "layout": "normal",
+        "name": "Swamp",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Swamp",
+        "oracle_text": "({T}: Add {B}.)",
+        "colors": [],
+        "artist": "Pablo Mendoza",
+        "artist_id": "57f8d135-42e9-46e2-bb00-eff941b3152b",
+        "illustration_id": "25cebf6d-db78-46be-9cf2-c481277cf756",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "normal": "https://cards.scryfall.io/normal/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "large": "https://cards.scryfall.io/large/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "png": "https://cards.scryfall.io/png/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.png?1698992870",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/843b35ec-7b59-4a22-8fee-2e876a02306b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+    "collector_number": "23",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Pablo Mendoza",
+    "artist_ids": [
+      "57f8d135-42e9-46e2-bb00-eff941b3152b"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "prices": {
+      "usd": "1.60",
+      "usd_foil": "3.21",
+      "usd_etched": null,
+      "eur": "0.95",
+      "eur_foil": "2.74",
+      "tix": "0.95"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642581&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSwamp%2B%252F%252F%2BSwamp",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSwamp%2B%252F%252F%2BSwamp",
+      "edhrec": "https://edhrec.com/route/?cc=Swamp+%2F%2F+Swamp"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526433%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743402&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117460?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "aae84079-b65b-4132-86fb-e82503bb6c7b",
+    "multiverse_ids": [
+      642583,
+      642582
+    ],
+    "mtgo_id": 117464,
+    "tcgplayer_id": 525383,
+    "cardmarket_id": 743247,
+    "name": "Mountain // Mountain",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/aae84079-b65b-4132-86fb-e82503bb6c7b",
+    "scryfall_uri": "https://scryfall.com/card/rex/24/mountain-mountain?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "R"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+        "layout": "normal",
+        "name": "Mountain",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Mountain",
+        "oracle_text": "({T}: Add {R}.)",
+        "colors": [],
+        "artist": "Simon Dominic",
+        "artist_id": "b0e80135-db5a-4b88-a0bc-815a0e94faa1",
+        "illustration_id": "0f8b2e30-fc00-4f5d-abe1-5a237edc319d",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "normal": "https://cards.scryfall.io/normal/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "large": "https://cards.scryfall.io/large/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "png": "https://cards.scryfall.io/png/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.png?1698992885",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+        "layout": "normal",
+        "name": "Mountain",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Mountain",
+        "oracle_text": "({T}: Add {R}.)",
+        "colors": [],
+        "artist": "Simon Dominic",
+        "artist_id": "b0e80135-db5a-4b88-a0bc-815a0e94faa1",
+        "illustration_id": "7b03408d-6230-4a15-b231-cdb16373a37e",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "normal": "https://cards.scryfall.io/normal/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "large": "https://cards.scryfall.io/large/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "png": "https://cards.scryfall.io/png/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.png?1698992885",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/aae84079-b65b-4132-86fb-e82503bb6c7b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+    "collector_number": "24",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Simon Dominic",
+    "artist_ids": [
+      "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "prices": {
+      "usd": "3.49",
+      "usd_foil": "8.24",
+      "usd_etched": null,
+      "eur": "2.96",
+      "eur_foil": "9.47",
+      "tix": "1.43"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642583&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMountain%2B%252F%252F%2BMountain",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMountain%2B%252F%252F%2BMountain",
+      "edhrec": "https://edhrec.com/route/?cc=Mountain+%2F%2F+Mountain"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525383%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743247&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117464?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7e703632-5ed0-4509-a12b-594269f865f1",
+    "multiverse_ids": [
+      642584,
+      642585
+    ],
+    "mtgo_id": 117468,
+    "tcgplayer_id": 524345,
+    "cardmarket_id": 741070,
+    "name": "Forest // Forest",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/7e703632-5ed0-4509-a12b-594269f865f1",
+    "scryfall_uri": "https://scryfall.com/card/rex/25/forest-forest?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "G"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+        "layout": "normal",
+        "name": "Forest",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Forest",
+        "oracle_text": "({T}: Add {G}.)",
+        "colors": [],
+        "artist": "Yeong-Hao Han",
+        "artist_id": "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e",
+        "illustration_id": "c2d1ae64-1fe8-43b6-b72b-400bfee17271",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "normal": "https://cards.scryfall.io/normal/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "large": "https://cards.scryfall.io/large/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "png": "https://cards.scryfall.io/png/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.png?1698992898",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+        "layout": "normal",
+        "name": "Forest",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Basic Land — Forest",
+        "oracle_text": "({T}: Add {G}.)",
+        "colors": [],
+        "artist": "Yeong-Hao Han",
+        "artist_id": "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e",
+        "illustration_id": "6a9c8c48-e347-482a-a1cf-f5e12f7efe92",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "normal": "https://cards.scryfall.io/normal/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "large": "https://cards.scryfall.io/large/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "png": "https://cards.scryfall.io/png/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.png?1698992898",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7e703632-5ed0-4509-a12b-594269f865f1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+    "collector_number": "25",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Yeong-Hao Han",
+    "artist_ids": [
+      "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "prices": {
+      "usd": "5.89",
+      "usd_foil": "14.52",
+      "usd_etched": null,
+      "eur": "5.49",
+      "eur_foil": "18.56",
+      "tix": "1.30"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642584&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForest%2B%252F%252F%2BForest",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForest%2B%252F%252F%2BForest",
+      "edhrec": "https://edhrec.com/route/?cc=Forest+%2F%2F+Forest"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524345%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=741070&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117468?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+    "multiverse_ids": [
+      642587,
+      642586
+    ],
+    "mtgo_id": 117472,
+    "tcgplayer_id": 524276,
+    "cardmarket_id": 740990,
+    "name": "Command Tower // Command Tower",
+    "lang": "en",
+    "released_at": "2023-11-17",
+    "uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+    "scryfall_uri": "https://scryfall.com/card/rex/26/command-tower-command-tower?utm_source=api",
+    "layout": "reversible_card",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "color_identity": [],
+    "keywords": [],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+        "layout": "normal",
+        "name": "Command Tower",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land",
+        "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+        "colors": [],
+        "flavor_text": "\"Corporate felt genetic modification would up the 'wow' factor.\"\n—Claire Dearing",
+        "artist": "Xabi Gaztelua",
+        "artist_id": "35b87e24-bfe0-43f4-83c3-2fa9574d6026",
+        "illustration_id": "b72710e3-5cc0-4c61-b442-80aa21f8e282",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "normal": "https://cards.scryfall.io/normal/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "large": "https://cards.scryfall.io/large/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "png": "https://cards.scryfall.io/png/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.png?1698992913",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913"
+        }
+      },
+      {
+        "object": "card_face",
+        "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+        "layout": "normal",
+        "name": "Command Tower",
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Land",
+        "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+        "colors": [],
+        "flavor_text": "\"They're dinosaurs. 'Wow' enough.\"\n—Owen Grady",
+        "artist": "Xabi Gaztelua",
+        "artist_id": "35b87e24-bfe0-43f4-83c3-2fa9574d6026",
+        "illustration_id": "66d80ac2-cb56-4cec-8f31-b41f4b51d56d",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "normal": "https://cards.scryfall.io/normal/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "large": "https://cards.scryfall.io/large/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "png": "https://cards.scryfall.io/png/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.png?1698992913",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913"
+        }
+      }
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+        "component": "combo_piece",
+        "name": "Command Tower // Command Tower",
+        "type_line": "Land // Land",
+        "uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c"
+      },
+      {
+        "object": "related_card",
+        "id": "ad03209f-568a-40f5-8470-a083080e6831",
+        "component": "combo_piece",
+        "name": "Tower Winder",
+        "type_line": "Creature — Snake",
+        "uri": "https://api.scryfall.com/cards/ad03209f-568a-40f5-8470-a083080e6831"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arex&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/rex?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0895c9b7-ae7d-4bb3-af17-3b75deb50a25&unique=prints",
+    "collector_number": "26",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Xabi Gaztelua",
+    "artist_ids": [
+      "35b87e24-bfe0-43f4-83c3-2fa9574d6026"
+    ],
+    "border_color": "borderless",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "triangle",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond",
+      "boosterfun"
+    ],
+    "edhrec_rank": 2,
+    "prices": {
+      "usd": "1.66",
+      "usd_foil": "6.97",
+      "usd_etched": null,
+      "eur": "1.88",
+      "eur_foil": "5.91",
+      "tix": "0.21"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=642587&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCommand%2BTower%2B%252F%252F%2BCommand%2BTower",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCommand%2BTower%2B%252F%252F%2BCommand%2BTower",
+      "edhrec": "https://edhrec.com/route/?cc=Command+Tower+%2F%2F+Command+Tower"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524276%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=740990&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/117472?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

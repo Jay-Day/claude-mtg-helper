@@ -1,0 +1,524 @@
+[
+  {
+    "object": "card",
+    "id": "8dd4d771-366c-4d81-875d-7ba9f1f00320",
+    "oracle_id": "329f84dd-889c-4d03-a0bb-d96712ebcad8",
+    "multiverse_ids": [],
+    "tcgplayer_id": 206013,
+    "cardmarket_id": 428086,
+    "name": "Kharis & The Beholder",
+    "lang": "en",
+    "released_at": "2019-08-01",
+    "uri": "https://api.scryfall.com/cards/8dd4d771-366c-4d81-875d-7ba9f1f00320",
+    "scryfall_uri": "https://scryfall.com/card/ph18/1/kharis-&-the-beholder?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.jpg?1619711964",
+      "normal": "https://cards.scryfall.io/normal/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.jpg?1619711964",
+      "large": "https://cards.scryfall.io/large/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.jpg?1619711964",
+      "png": "https://cards.scryfall.io/png/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.png?1619711964",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.jpg?1619711964",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8dd4d771-366c-4d81-875d-7ba9f1f00320.jpg?1619711964"
+    },
+    "mana_cost": "{1}{G}{G}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Dragon Eye Wizard",
+    "oracle_text": "Flying\nWhen Kharis & The Beholder enters and at the beginning of your upkeep, create a 1/1 white Human creature token and make a charisma check. (Roll a d20.)\n• If the result plus the number of creatures you control is greater than 11, put a +1/+1 counter on each creature you control.\n• If the result is a natural 20, for each nonlegendary creature you control, create a token that's a copy of that creature.",
+    "power": "1",
+    "toughness": "20",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3",
+        "component": "token",
+        "name": "Human",
+        "type_line": "Token Creature — Human",
+        "uri": "https://api.scryfall.com/cards/5054bb15-ddd5-4e5e-a9fd-6bdf255f7fd3"
+      },
+      {
+        "object": "related_card",
+        "id": "8dd4d771-366c-4d81-875d-7ba9f1f00320",
+        "component": "combo_piece",
+        "name": "Kharis & The Beholder",
+        "type_line": "Legendary Creature — Dragon Eye Wizard",
+        "uri": "https://api.scryfall.com/cards/8dd4d771-366c-4d81-875d-7ba9f1f00320"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set": "ph18",
+    "set_name": "2018 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8dd4d771-366c-4d81-875d-7ba9f1f00320/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A329f84dd-889c-4d03-a0bb-d96712ebcad8&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "#sponsored",
+    "card_back_id": "2d53e50e-77d5-4353-9dde-0b1832d850f6",
+    "artist": "Joe Slucher",
+    "artist_ids": [
+      "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2"
+    ],
+    "illustration_id": "7d8f79c0-390c-48f9-a789-11574352f2e5",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKharis%2B%2526%2BThe%2BBeholder",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKharis%2B%2526%2BThe%2BBeholder",
+      "edhrec": "https://edhrec.com/route/?cc=Kharis+%26+The+Beholder"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206013%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=428086&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kharis+%26+The+Beholder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "eac33481-3c68-4b29-92bf-c448368a5793",
+    "oracle_id": "9cf22aee-0f97-4bf6-8941-22c7e0dcafd7",
+    "multiverse_ids": [],
+    "tcgplayer_id": 206014,
+    "cardmarket_id": 428091,
+    "name": "Optimus Prime, Inspiring Leader",
+    "lang": "en",
+    "released_at": "2019-08-01",
+    "uri": "https://api.scryfall.com/cards/eac33481-3c68-4b29-92bf-c448368a5793",
+    "scryfall_uri": "https://scryfall.com/card/ph18/2/optimus-prime-inspiring-leader?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.jpg?1625361017",
+      "normal": "https://cards.scryfall.io/normal/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.jpg?1625361017",
+      "large": "https://cards.scryfall.io/large/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.jpg?1625361017",
+      "png": "https://cards.scryfall.io/png/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.png?1625361017",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.jpg?1625361017",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/eac33481-3c68-4b29-92bf-c448368a5793.jpg?1625361017"
+    },
+    "mana_cost": "{3}{R}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Autobot",
+    "oracle_text": "{1}: Turn target permanent you control to its other face.\n{1}: Until end of turn, Optimus Prime, Inspiring Leader becomes a Construct with base power and toughness 6/6 and creatures you control gain trample.",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set": "ph18",
+    "set_name": "2018 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/eac33481-3c68-4b29-92bf-c448368a5793/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9cf22aee-0f97-4bf6-8941-22c7e0dcafd7&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "mythic",
+    "watermark": "transformers",
+    "flavor_text": "\"Roll out!\"",
+    "card_back_id": "3e32385d-8d13-44cc-85d8-2a507c9caff0",
+    "artist": "Steve Argyle",
+    "artist_ids": [
+      "a44ddda4-5331-4f83-aac9-3e00ed36bd7b"
+    ],
+    "illustration_id": "d6eeaf56-e0b6-4ded-ba03-b067ecb95f00",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOptimus%2BPrime%252C%2BInspiring%2BLeader",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOptimus%2BPrime%252C%2BInspiring%2BLeader",
+      "edhrec": "https://edhrec.com/route/?cc=Optimus+Prime%2C+Inspiring+Leader"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206014%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=428091&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Optimus+Prime%2C+Inspiring+Leader&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "711ccbf2-1cd6-4881-b020-a71bedb8f664",
+    "oracle_id": "3191ef26-eeeb-419b-acbd-f4b496eea0db",
+    "multiverse_ids": [],
+    "tcgplayer_id": 206015,
+    "cardmarket_id": 428096,
+    "name": "Sol, Advocate Eternal",
+    "lang": "en",
+    "released_at": "2019-08-01",
+    "uri": "https://api.scryfall.com/cards/711ccbf2-1cd6-4881-b020-a71bedb8f664",
+    "scryfall_uri": "https://scryfall.com/card/ph18/3/sol-advocate-eternal?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.jpg?1753361979",
+      "normal": "https://cards.scryfall.io/normal/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.jpg?1753361979",
+      "large": "https://cards.scryfall.io/large/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.jpg?1753361979",
+      "png": "https://cards.scryfall.io/png/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.png?1753361979",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.jpg?1753361979",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/711ccbf2-1cd6-4881-b020-a71bedb8f664.jpg?1753361979"
+    },
+    "mana_cost": "{G}{W}{U}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Dragon Angel",
+    "oracle_text": "Legendary partner (You can have two commanders if this is one of them. The other one is promoted to legendary.)\nFlying, vigilance\nTeamwork — Whenever you attack or block with both Sol, Advocate Eternal and its partner, support 4 and investigate four times.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B",
+      "G",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Teamwork",
+      "Flying",
+      "Support",
+      "Investigate",
+      "Vigilance"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set": "ph18",
+    "set_name": "2018 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/711ccbf2-1cd6-4881-b020-a71bedb8f664/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3191ef26-eeeb-419b-acbd-f4b496eea0db&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "mythic",
+    "flavor_text": "Heroes endure; legends prevail.",
+    "card_back_id": "2d53e50e-77d5-4353-9dde-0b1832d850f6",
+    "artist": "Randy Vargas",
+    "artist_ids": [
+      "d20672ca-0555-4238-a984-fd171d36b247"
+    ],
+    "illustration_id": "e7bf0bf0-7363-4109-b06c-5b61876835e3",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": true,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSol%252C%2BAdvocate%2BEternal",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSol%252C%2BAdvocate%2BEternal",
+      "edhrec": "https://edhrec.com/route/?cc=Sol%2C+Advocate+Eternal"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206015%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=428096&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sol%2C+Advocate+Eternal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "9acbbb54-f08d-4926-acdb-db376d4b46cd",
+    "oracle_id": "51dddde5-c826-4adc-8fca-0a7f9b6cf17f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 206016,
+    "cardmarket_id": 428911,
+    "name": "The Legend of Arena",
+    "lang": "en",
+    "released_at": "2019-08-01",
+    "uri": "https://api.scryfall.com/cards/9acbbb54-f08d-4926-acdb-db376d4b46cd",
+    "scryfall_uri": "https://scryfall.com/card/ph18/4/the-legend-of-arena?utm_source=api",
+    "layout": "saga",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.jpg?1753361994",
+      "normal": "https://cards.scryfall.io/normal/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.jpg?1753361994",
+      "large": "https://cards.scryfall.io/large/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.jpg?1753361994",
+      "png": "https://cards.scryfall.io/png/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.png?1753361994",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.jpg?1753361994",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9acbbb54-f08d-4926-acdb-db376d4b46cd.jpg?1753361994"
+    },
+    "mana_cost": "{1}{U}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Enchantment — Saga",
+    "oracle_text": "The Legend of Arena can be your commander.\nI, II — Create a 2/1 red Human Wizard creature token. Spells you cast this turn cost {1} less to cast for each Wizard you control.\nIII — Search your library for a planeswalker card, put it onto the battlefield, then shuffle your library. It enters with an additional loyalty counter on it for each Wizard you control.",
+    "colors": [
+      "R",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set": "ph18",
+    "set_name": "2018 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/38346fd1-60eb-4f27-850d-81c9967e8c3e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/9acbbb54-f08d-4926-acdb-db376d4b46cd/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51dddde5-c826-4adc-8fca-0a7f9b6cf17f&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "2d53e50e-77d5-4353-9dde-0b1832d850f6",
+    "artist": "Olena Richards",
+    "artist_ids": [
+      "fad4282c-49d1-4b5b-be1d-713369fc8bc8"
+    ],
+    "illustration_id": "02988f28-ee55-420c-b470-5f04a15d291d",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BLegend%2Bof%2BArena",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BLegend%2Bof%2BArena",
+      "edhrec": "https://edhrec.com/route/?cc=The+Legend+of+Arena"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206016%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=428911&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Legend+of+Arena&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

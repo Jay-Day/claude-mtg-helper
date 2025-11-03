@@ -1,0 +1,767 @@
+[
+  {
+    "object": "card",
+    "id": "8fd62681-18f2-4841-a92a-d0d55e5cfe31",
+    "oracle_id": "17975a20-2c13-4325-be1e-0bcda5063a2d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 71285,
+    "cardmarket_id": 258179,
+    "name": "Terastodon",
+    "lang": "en",
+    "released_at": "2012-08-01",
+    "uri": "https://api.scryfall.com/cards/8fd62681-18f2-4841-a92a-d0d55e5cfe31",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/A6/terastodon?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.jpg?1733012476",
+      "normal": "https://cards.scryfall.io/normal/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.jpg?1733012476",
+      "large": "https://cards.scryfall.io/large/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.jpg?1733012476",
+      "png": "https://cards.scryfall.io/png/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.png?1733012476",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.jpg?1733012476",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/f/8fd62681-18f2-4841-a92a-d0d55e5cfe31.jpg?1733012476"
+    },
+    "mana_cost": "{6}{G}{G}",
+    "cmc": 8.0,
+    "type_line": "Creature — Elephant",
+    "oracle_text": "When this creature enters, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.",
+    "power": "9",
+    "toughness": "9",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "1c5a05d3-7824-4570-b32d-91fe2dced952",
+        "component": "token",
+        "name": "Elephant",
+        "type_line": "Token Creature — Elephant",
+        "uri": "https://api.scryfall.com/cards/1c5a05d3-7824-4570-b32d-91fe2dced952"
+      },
+      {
+        "object": "related_card",
+        "id": "8fd62681-18f2-4841-a92a-d0d55e5cfe31",
+        "component": "combo_piece",
+        "name": "Terastodon",
+        "type_line": "Creature — Elephant",
+        "uri": "https://api.scryfall.com/cards/8fd62681-18f2-4841-a92a-d0d55e5cfe31"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8fd62681-18f2-4841-a92a-d0d55e5cfe31/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A17975a20-2c13-4325-be1e-0bcda5063a2d&unique=prints",
+    "collector_number": "A6",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "colorpie",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lars Grant-West",
+    "artist_ids": [
+      "21ed6499-c4d3-4965-ab02-6c7228275bec"
+    ],
+    "illustration_id": "204a9954-ce36-4824-b7d8-cb5d5d47e685",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "resale"
+    ],
+    "edhrec_rank": 1175,
+    "penny_rank": 989,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.47",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "1.20",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTerastodon",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTerastodon",
+      "edhrec": "https://edhrec.com/route/?cc=Terastodon"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F71285%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=258179&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Terastodon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "a70c4952-9daf-4824-88ed-fad50753a30f",
+    "oracle_id": "18961e25-3feb-4dba-a77f-240a4d664ecb",
+    "multiverse_ids": [],
+    "tcgplayer_id": 206664,
+    "cardmarket_id": 245062,
+    "name": "Loam Lion",
+    "printed_name": "壌土のライオン",
+    "lang": "ja",
+    "released_at": "2010-02-10",
+    "uri": "https://api.scryfall.com/cards/a70c4952-9daf-4824-88ed-fad50753a30f",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/13%E2%98%85/ja/%E5%A3%8C%E5%9C%9F%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3-(loam-lion)?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.jpg?1733012690",
+      "normal": "https://cards.scryfall.io/normal/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.jpg?1733012690",
+      "large": "https://cards.scryfall.io/large/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.jpg?1733012690",
+      "png": "https://cards.scryfall.io/png/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.png?1733012690",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.jpg?1733012690",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a70c4952-9daf-4824-88ed-fad50753a30f.jpg?1733012690"
+    },
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Cat",
+    "printed_type_line": "クリーチャー — 猫",
+    "oracle_text": "This creature gets +1/+2 as long as you control a Forest.",
+    "printed_text": "壌土のライオンは、あなたが森をコントロールしているかぎり＋１/＋２の修整を受ける。",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a70c4952-9daf-4824-88ed-fad50753a30f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18961e25-3feb-4dba-a77f-240a4d664ecb&unique=prints",
+    "collector_number": "13★",
+    "digital": false,
+    "rarity": "uncommon",
+    "watermark": "colorpie",
+    "flavor_text": "ゼンディカーでは、今日の草原は明日の密林であり、狩場も天気と同じぐらいにすぐ変わってしまう。",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Daniel Ljunggren",
+    "artist_ids": [
+      "0fbd4798-76eb-46d5-a5d4-1e3a25870e34"
+    ],
+    "illustration_id": "1152dfa2-2153-4930-b27c-5eb187ce5361",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "resale"
+    ],
+    "edhrec_rank": 13987,
+    "penny_rank": 3560,
+    "prices": {
+      "usd": null,
+      "usd_foil": "44.97",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "12.72",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLoam%2BLion",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLoam%2BLion",
+      "edhrec": "https://edhrec.com/route/?cc=Loam+Lion"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F206664%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=245062&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Loam+Lion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac",
+    "oracle_id": "b7748ad6-a8cd-45e7-a4d6-4ee747722657",
+    "multiverse_ids": [],
+    "cardmarket_id": 260410,
+    "name": "Ruthless Cullblade",
+    "lang": "ja",
+    "released_at": "2010-07-30",
+    "uri": "https://api.scryfall.com/cards/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/65%E2%98%85/ja/ruthless-cullblade?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.jpg?1677543488",
+      "normal": "https://cards.scryfall.io/normal/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.jpg?1677543488",
+      "large": "https://cards.scryfall.io/large/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.jpg?1677543488",
+      "png": "https://cards.scryfall.io/png/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.png?1677543488",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.jpg?1677543488",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac.jpg?1677543488"
+    },
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Vampire Warrior",
+    "oracle_text": "This creature gets +2/+1 as long as an opponent has 10 or less life.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/dae03745-cec0-4fb1-ab5b-2b0ce5bfdbac/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab7748ad6-a8cd-45e7-a4d6-4ee747722657&unique=prints",
+    "collector_number": "65★",
+    "digital": false,
+    "rarity": "common",
+    "watermark": "colorpie",
+    "flavor_text": "She wields a blade as bloodthirsty and elegant as herself.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "rk post",
+    "artist_ids": [
+      "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+    ],
+    "illustration_id": "aa0d86b2-3a0a-4b36-b0a6-75d64ec708b7",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "buyabox"
+    ],
+    "edhrec_rank": 26659,
+    "penny_rank": 10633,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "5.87",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRuthless%2BCullblade",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRuthless%2BCullblade",
+      "edhrec": "https://edhrec.com/route/?cc=Ruthless+Cullblade"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRuthless%2BCullblade%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=260410&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ruthless+Cullblade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "14b0011a-f0b4-40c1-85ff-a83f45601cb8",
+    "oracle_id": "9c2b262b-53c0-41a1-8f1a-0c336453d4bf",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38370,
+    "cardmarket_id": 22124,
+    "name": "Comet Storm",
+    "lang": "en",
+    "released_at": "2010-02-05",
+    "uri": "https://api.scryfall.com/cards/14b0011a-f0b4-40c1-85ff-a83f45601cb8",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/76%E2%98%85/comet-storm?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.jpg?1682291079",
+      "normal": "https://cards.scryfall.io/normal/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.jpg?1682291079",
+      "large": "https://cards.scryfall.io/large/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.jpg?1682291079",
+      "png": "https://cards.scryfall.io/png/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.png?1682291079",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.jpg?1682291079",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/14b0011a-f0b4-40c1-85ff-a83f45601cb8.jpg?1682291079"
+    },
+    "mana_cost": "{X}{R}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose any target, then choose another target for each time this spell was kicked. Comet Storm deals X damage to each of them.",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Multikicker"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/14b0011a-f0b4-40c1-85ff-a83f45601cb8/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c2b262b-53c0-41a1-8f1a-0c336453d4bf&unique=prints",
+    "collector_number": "76★",
+    "digital": false,
+    "rarity": "mythic",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Tomasz Jedruszek",
+    "artist_ids": [
+      "bba69285-2445-4a4b-a847-59397be972ea"
+    ],
+    "illustration_id": "4bd808a6-ac28-4e80-8cac-c024f0c02298",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "datestamped",
+      "prerelease"
+    ],
+    "edhrec_rank": 1499,
+    "penny_rank": 7603,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.56",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.52",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DComet%2BStorm",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DComet%2BStorm",
+      "edhrec": "https://edhrec.com/route/?cc=Comet+Storm"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38370%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=22124&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Comet+Storm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ac802bda-6214-4631-a378-eb67765445c0",
+    "oracle_id": "8959a147-75b1-4f4a-a699-cb354ff55e59",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38288,
+    "cardmarket_id": 22193,
+    "name": "Joraga Warcaller",
+    "lang": "en",
+    "released_at": "2010-02-05",
+    "uri": "https://api.scryfall.com/cards/ac802bda-6214-4631-a378-eb67765445c0",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/106%E2%98%85/joraga-warcaller?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.jpg?1605371425",
+      "normal": "https://cards.scryfall.io/normal/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.jpg?1605371425",
+      "large": "https://cards.scryfall.io/large/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.jpg?1605371425",
+      "png": "https://cards.scryfall.io/png/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.png?1605371425",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.jpg?1605371425",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac802bda-6214-4631-a378-eb67765445c0.jpg?1605371425"
+    },
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Creature — Elf Warrior",
+    "oracle_text": "Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nThis creature enters with a +1/+1 counter on it for each time it was kicked.\nOther Elf creatures you control get +1/+1 for each +1/+1 counter on this creature.",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Multikicker"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ac802bda-6214-4631-a378-eb67765445c0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8959a147-75b1-4f4a-a699-cb354ff55e59&unique=prints",
+    "collector_number": "106★",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "set",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "c3b84eb0-13d6-4e22-bd07-f95f89f7e196",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "datestamped",
+      "release"
+    ],
+    "edhrec_rank": 4049,
+    "penny_rank": 1740,
+    "prices": {
+      "usd": null,
+      "usd_foil": "7.65",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "4.79",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJoraga%2BWarcaller",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJoraga%2BWarcaller",
+      "edhrec": "https://edhrec.com/route/?cc=Joraga+Warcaller"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38288%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=22193&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Joraga+Warcaller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "e2915763-2b63-4408-b014-49d52e3d65f6",
+    "oracle_id": "876ac6f6-74de-4666-84c6-83d81f054723",
+    "multiverse_ids": [],
+    "tcgplayer_id": 38351,
+    "cardmarket_id": 22938,
+    "name": "Celestial Colonnade",
+    "lang": "en",
+    "released_at": "2010-02-05",
+    "uri": "https://api.scryfall.com/cards/e2915763-2b63-4408-b014-49d52e3d65f6",
+    "scryfall_uri": "https://scryfall.com/card/pwwk/133/celestial-colonnade?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302",
+      "normal": "https://cards.scryfall.io/normal/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302",
+      "large": "https://cards.scryfall.io/large/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302",
+      "png": "https://cards.scryfall.io/png/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.png?1561758302",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{3}{W}{U}: Until end of turn, this land becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.",
+    "colors": [],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "U",
+      "W"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "not_legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set": "pwwk",
+    "set_name": "Worldwake Promos",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/pwwk?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/e2915763-2b63-4408-b014-49d52e3d65f6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A876ac6f6-74de-4666-84c6-83d81f054723&unique=prints",
+    "collector_number": "133",
+    "digital": false,
+    "rarity": "rare",
+    "watermark": "colorpie",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kekai Kotaki",
+    "artist_ids": [
+      "4b771085-c049-4308-930d-ec9665f803a4"
+    ],
+    "illustration_id": "bf1bb2fd-97d0-4a72-b3a1-133c1a1603ef",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo",
+      "buyabox"
+    ],
+    "edhrec_rank": 5210,
+    "penny_rank": 128,
+    "prices": {
+      "usd": null,
+      "usd_foil": "3.82",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "2.01",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCelestial%2BColonnade",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCelestial%2BColonnade",
+      "edhrec": "https://edhrec.com/route/?cc=Celestial+Colonnade"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F38351%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=22938&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Celestial+Colonnade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

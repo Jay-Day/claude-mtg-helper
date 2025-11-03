@@ -1,0 +1,792 @@
+[
+  {
+    "object": "card",
+    "id": "31477c26-2256-4c66-a15b-8a16431fffdb",
+    "oracle_id": "90249526-1875-450a-882d-bf6f6bfd37a6",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91630,
+    "cardmarket_id": 268105,
+    "name": "Ajani Steadfast",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb",
+    "scryfall_uri": "https://scryfall.com/card/ps14/1/ajani-steadfast?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1739043904",
+      "normal": "https://cards.scryfall.io/normal/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1739043904",
+      "large": "https://cards.scryfall.io/large/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1739043904",
+      "png": "https://cards.scryfall.io/png/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.png?1739043904",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1739043904",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/31477c26-2256-4c66-a15b-8a16431fffdb.jpg?1739043904"
+    },
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Ajani",
+    "oracle_text": "+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.\n−7: You get an emblem with \"If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.\"",
+    "loyalty": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "e9f9aebc-6eb8-4325-801f-ad2fbbf391b2",
+        "component": "combo_piece",
+        "name": "Ajani Steadfast Emblem",
+        "type_line": "Emblem — Ajani",
+        "uri": "https://api.scryfall.com/cards/e9f9aebc-6eb8-4325-801f-ad2fbbf391b2"
+      },
+      {
+        "object": "related_card",
+        "id": "31477c26-2256-4c66-a15b-8a16431fffdb",
+        "component": "combo_piece",
+        "name": "Ajani Steadfast",
+        "type_line": "Legendary Planeswalker — Ajani",
+        "uri": "https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/31477c26-2256-4c66-a15b-8a16431fffdb/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90249526-1875-450a-882d-bf6f6bfd37a6&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "6ecd36b5-2d23-4870-a3cb-f510d93ba553",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 4709,
+    "penny_rank": 6720,
+    "prices": {
+      "usd": null,
+      "usd_foil": "37.35",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "32.04",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%2BSteadfast",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%2BSteadfast",
+      "edhrec": "https://edhrec.com/route/?cc=Ajani+Steadfast"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91630%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268105&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ajani+Steadfast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "72504cc8-0ad4-48e6-8f51-12259121ae5c",
+    "oracle_id": "55259de3-561d-4a9e-bb28-63c6a7ac5c68",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91631,
+    "cardmarket_id": 268108,
+    "name": "Jace, the Living Guildpact",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/72504cc8-0ad4-48e6-8f51-12259121ae5c",
+    "scryfall_uri": "https://scryfall.com/card/ps14/62/jace-the-living-guildpact?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.jpg?1739043906",
+      "normal": "https://cards.scryfall.io/normal/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.jpg?1739043906",
+      "large": "https://cards.scryfall.io/large/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.jpg?1739043906",
+      "png": "https://cards.scryfall.io/png/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.png?1739043906",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.jpg?1739043906",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72504cc8-0ad4-48e6-8f51-12259121ae5c.jpg?1739043906"
+    },
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Jace",
+    "oracle_text": "+1: Look at the top two cards of your library. Put one of them into your graveyard.\n−3: Return another target nonland permanent to its owner's hand.\n−8: Each player shuffles their hand and graveyard into their library. You draw seven cards.",
+    "loyalty": "5",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/72504cc8-0ad4-48e6-8f51-12259121ae5c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55259de3-561d-4a9e-bb28-63c6a7ac5c68&unique=prints",
+    "collector_number": "62",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "ca0617dd-2a43-42d5-8a7d-fa79577123ab",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 15848,
+    "penny_rank": 3701,
+    "prices": {
+      "usd": null,
+      "usd_foil": "20.78",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "19.58",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BLiving%2BGuildpact",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2Bthe%2BLiving%2BGuildpact",
+      "edhrec": "https://edhrec.com/route/?cc=Jace%2C+the+Living+Guildpact"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91631%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268108&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+the+Living+Guildpact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "58041a68-19f0-4343-9102-fb86fb817b07",
+    "oracle_id": "a6c05941-2cfb-4dac-a7c0-ab808187eb7c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91632,
+    "cardmarket_id": 268107,
+    "name": "Liliana Vess",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/58041a68-19f0-4343-9102-fb86fb817b07",
+    "scryfall_uri": "https://scryfall.com/card/ps14/103/liliana-vess?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.jpg?1739043909",
+      "normal": "https://cards.scryfall.io/normal/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.jpg?1739043909",
+      "large": "https://cards.scryfall.io/large/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.jpg?1739043909",
+      "png": "https://cards.scryfall.io/png/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.png?1739043909",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.jpg?1739043909",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/58041a68-19f0-4343-9102-fb86fb817b07.jpg?1739043909"
+    },
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Liliana",
+    "oracle_text": "+1: Target player discards a card.\n−2: Search your library for a card, then shuffle and put that card on top.\n−8: Put all creature cards from all graveyards onto the battlefield under your control.",
+    "loyalty": "5",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/58041a68-19f0-4343-9102-fb86fb817b07/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6c05941-2cfb-4dac-a7c0-ab808187eb7c&unique=prints",
+    "collector_number": "103",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "30ea2160-a246-4806-b406-f3414a8fe360",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 4210,
+    "penny_rank": 1020,
+    "prices": {
+      "usd": null,
+      "usd_foil": "97.25",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "53.49",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%2BVess",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%2BVess",
+      "edhrec": "https://edhrec.com/route/?cc=Liliana+Vess"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91632%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268107&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana+Vess&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "0947a15a-957a-4858-8143-5fa3d286e6d9",
+    "oracle_id": "68e12748-9a7b-4e99-a6de-be097a269342",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91633,
+    "cardmarket_id": 268106,
+    "name": "Chandra, Pyromaster",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/0947a15a-957a-4858-8143-5fa3d286e6d9",
+    "scryfall_uri": "https://scryfall.com/card/ps14/134/chandra-pyromaster?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.jpg?1739043912",
+      "normal": "https://cards.scryfall.io/normal/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.jpg?1739043912",
+      "large": "https://cards.scryfall.io/large/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.jpg?1739043912",
+      "png": "https://cards.scryfall.io/png/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.png?1739043912",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.jpg?1739043912",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/9/0947a15a-957a-4858-8143-5fa3d286e6d9.jpg?1739043912"
+    },
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Chandra",
+    "oracle_text": "+1: Chandra deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+    "loyalty": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/0947a15a-957a-4858-8143-5fa3d286e6d9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68e12748-9a7b-4e99-a6de-be097a269342&unique=prints",
+    "collector_number": "134",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "c900002b-e9a9-4d62-afef-e623f75f5274",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 11530,
+    "penny_rank": 633,
+    "prices": {
+      "usd": null,
+      "usd_foil": "43.13",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "37.98",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BPyromaster",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BPyromaster",
+      "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Pyromaster"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91633%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268106&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Pyromaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "1fd44e8f-0494-42c6-b21a-0072e1b8c2f2",
+    "oracle_id": "468f9b8e-4423-4131-8611-d34b0aa3d96f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91634,
+    "cardmarket_id": 268110,
+    "name": "Nissa, Worldwaker",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2",
+    "scryfall_uri": "https://scryfall.com/card/ps14/187/nissa-worldwaker?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.jpg?1739043916",
+      "normal": "https://cards.scryfall.io/normal/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.jpg?1739043916",
+      "large": "https://cards.scryfall.io/large/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.jpg?1739043916",
+      "png": "https://cards.scryfall.io/png/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.png?1739043916",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.jpg?1739043916",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2.jpg?1739043916"
+    },
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Nissa",
+    "oracle_text": "+1: Target land you control becomes a 4/4 Elemental creature with trample. It's still a land.\n+1: Untap up to four target Forests.\n−7: Search your library for any number of basic land cards, put them onto the battlefield, then shuffle. Those lands become 4/4 Elemental creatures with trample. They're still lands.",
+    "loyalty": "3",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/1fd44e8f-0494-42c6-b21a-0072e1b8c2f2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A468f9b8e-4423-4131-8611-d34b0aa3d96f&unique=prints",
+    "collector_number": "187",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "cabfcd34-617e-444c-aa69-946d499403a0",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 8406,
+    "penny_rank": 1375,
+    "prices": {
+      "usd": null,
+      "usd_foil": "36.95",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "29.87",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWorldwaker",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNissa%252C%2BWorldwaker",
+      "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Worldwaker"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91634%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268110&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Worldwaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "4377cc8a-c987-4089-bee4-5f4e883dbead",
+    "oracle_id": "ef9a8bdc-3361-440d-89f6-0bf5ff7a09e8",
+    "multiverse_ids": [],
+    "tcgplayer_id": 91635,
+    "cardmarket_id": 268109,
+    "name": "Garruk, Apex Predator",
+    "lang": "en",
+    "released_at": "2014-07-08",
+    "uri": "https://api.scryfall.com/cards/4377cc8a-c987-4089-bee4-5f4e883dbead",
+    "scryfall_uri": "https://scryfall.com/card/ps14/210/garruk-apex-predator?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.jpg?1739043919",
+      "normal": "https://cards.scryfall.io/normal/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.jpg?1739043919",
+      "large": "https://cards.scryfall.io/large/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.jpg?1739043919",
+      "png": "https://cards.scryfall.io/png/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.png?1739043919",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.jpg?1739043919",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/4377cc8a-c987-4089-bee4-5f4e883dbead.jpg?1739043919"
+    },
+    "mana_cost": "{5}{B}{G}",
+    "cmc": 7.0,
+    "type_line": "Legendary Planeswalker — Garruk",
+    "oracle_text": "+1: Destroy another target planeswalker.\n+1: Create a 3/3 black Beast creature token with deathtouch.\n−3: Destroy target creature. You gain life equal to its toughness.\n−8: Target opponent gets an emblem with \"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.\"",
+    "loyalty": "5",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "b56fd392-17c2-43d5-a92d-3f91beb8adfb",
+        "component": "token",
+        "name": "Beast",
+        "type_line": "Token Creature — Beast",
+        "uri": "https://api.scryfall.com/cards/b56fd392-17c2-43d5-a92d-3f91beb8adfb"
+      },
+      {
+        "object": "related_card",
+        "id": "4377cc8a-c987-4089-bee4-5f4e883dbead",
+        "component": "combo_piece",
+        "name": "Garruk, Apex Predator",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/4377cc8a-c987-4089-bee4-5f4e883dbead"
+      },
+      {
+        "object": "related_card",
+        "id": "31745fa9-5f11-490f-8dba-a5033a604bc0",
+        "component": "combo_piece",
+        "name": "Garruk, Apex Predator Emblem",
+        "type_line": "Emblem — Garruk",
+        "uri": "https://api.scryfall.com/cards/31745fa9-5f11-490f-8dba-a5033a604bc0"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set": "ps14",
+    "set_name": "San Diego Comic-Con 2014",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/09d844de-a5ec-401c-9b0f-f99be569b8f9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aps14&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ps14?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/4377cc8a-c987-4089-bee4-5f4e883dbead/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef9a8bdc-3361-440d-89f6-0bf5ff7a09e8&unique=prints",
+    "collector_number": "210",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jae Lee",
+    "artist_ids": [
+      "af82d66a-8655-42b5-b1f1-4347ac675b4d"
+    ],
+    "illustration_id": "cb5f8bdf-0273-4a00-be4b-0d1bfb8ebecf",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "inverted"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 8412,
+    "penny_rank": 5136,
+    "prices": {
+      "usd": null,
+      "usd_foil": "25.18",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "21.90",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BApex%2BPredator",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BApex%2BPredator",
+      "edhrec": "https://edhrec.com/route/?cc=Garruk%2C+Apex+Predator"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F91635%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=268109&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Garruk%2C+Apex+Predator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "object": "card",
+    "id": "ad2bbfa1-81e0-4683-b1dc-a3aaa9837690",
+    "oracle_id": "87d5b9d0-3fb3-4554-a27c-0862d59dd59d",
+    "multiverse_ids": [],
+    "name": "Treizeci, Sun of Serra",
+    "lang": "en",
+    "released_at": "2023-08-01",
+    "uri": "https://api.scryfall.com/cards/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690",
+    "scryfall_uri": "https://scryfall.com/card/ph22/1/treizeci-sun-of-serra?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.jpg?1737078053",
+      "normal": "https://cards.scryfall.io/normal/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.jpg?1737078053",
+      "large": "https://cards.scryfall.io/large/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.jpg?1737078053",
+      "png": "https://cards.scryfall.io/png/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.png?1737078053",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.jpg?1737078053",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690.jpg?1737078053"
+    },
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Knight",
+    "oracle_text": "Companion — Your starting deck contains only nostalgic cards. (Retro frames, legends, and artifacts are nostalgic.)\nVigilance\nWhenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 counter on Treizeci, then for each +1/+1 counter on it, create a Serra Angel token.",
+    "power": "3",
+    "toughness": "3",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Companion"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "da497cf0-942e-48a5-943e-16183a4567fd",
+        "component": "combo_piece",
+        "name": "Serra Angel",
+        "type_line": "Creature — Angel",
+        "uri": "https://api.scryfall.com/cards/da497cf0-942e-48a5-943e-16183a4567fd"
+      },
+      {
+        "object": "related_card",
+        "id": "ad2bbfa1-81e0-4683-b1dc-a3aaa9837690",
+        "component": "combo_piece",
+        "name": "Treizeci, Sun of Serra",
+        "type_line": "Legendary Creature — Human Knight",
+        "uri": "https://api.scryfall.com/cards/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "db138fa6-33da-4062-9e48-712cdb893528",
+    "set": "ph22",
+    "set_name": "2022 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/db138fa6-33da-4062-9e48-712cdb893528",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph22&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph22?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ad2bbfa1-81e0-4683-b1dc-a3aaa9837690/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87d5b9d0-3fb3-4554-a27c-0862d59dd59d&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Gaboleps",
+    "artist_ids": [
+      "0c37cdfe-5651-4ae6-a3c8-e7153509f970"
+    ],
+    "illustration_id": "993ba678-fa2d-430a-82a1-aac0773d32a3",
+    "border_color": "black",
+    "frame": "1997",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTreizeci%252C%2BSun%2Bof%2BSerra",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTreizeci%252C%2BSun%2Bof%2BSerra",
+      "edhrec": "https://edhrec.com/route/?cc=Treizeci%2C+Sun+of+Serra"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTreizeci%252C%2BSun%2Bof%2BSerra%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treizeci%2C+Sun+of+Serra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treizeci%2C+Sun+of+Serra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "42ec3561-019c-49cc-95d1-d1282c1dfe76",
+    "oracle_id": "9c47d2ab-a7df-4c3c-81d4-462d2637cbae",
+    "multiverse_ids": [],
+    "name": "Elusen, the Giving",
+    "lang": "en",
+    "released_at": "2023-08-01",
+    "uri": "https://api.scryfall.com/cards/42ec3561-019c-49cc-95d1-d1282c1dfe76",
+    "scryfall_uri": "https://scryfall.com/card/ph22/2/elusen-the-giving?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.jpg?1753361942",
+      "normal": "https://cards.scryfall.io/normal/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.jpg?1753361942",
+      "large": "https://cards.scryfall.io/large/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.jpg?1753361942",
+      "png": "https://cards.scryfall.io/png/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.png?1753361942",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.jpg?1753361942",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/2/42ec3561-019c-49cc-95d1-d1282c1dfe76.jpg?1753361942"
+    },
+    "mana_cost": "{R}{G}{W}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Angel Advisor",
+    "oracle_text": "Flying, vigilance, lifelink, haste\nAt the beginning of your second main phase, the player to your left gains control of Elusen, the Giving.\nWhenever a player donates a permanent to another player, the donating player draws a card, gains 1 life, and creates three Treasure tokens.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Lifelink",
+      "Vigilance",
+      "Treasure",
+      "Haste"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "db138fa6-33da-4062-9e48-712cdb893528",
+    "set": "ph22",
+    "set_name": "2022 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/db138fa6-33da-4062-9e48-712cdb893528",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph22&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph22?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/42ec3561-019c-49cc-95d1-d1282c1dfe76/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9c47d2ab-a7df-4c3c-81d4-462d2637cbae&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Livia Prima",
+    "artist_ids": [
+      "0f41e561-bc26-4d85-aab6-66c384e01b74"
+    ],
+    "illustration_id": "2c7fdc38-61ef-4b97-ab06-8a3701528e35",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElusen%252C%2Bthe%2BGiving",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElusen%252C%2Bthe%2BGiving",
+      "edhrec": "https://edhrec.com/route/?cc=Elusen%2C+the+Giving"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElusen%252C%2Bthe%2BGiving%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elusen%2C+the+Giving&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elusen%2C+the+Giving&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "fba5a708-be07-42bb-a834-e4662d84f22c",
+    "oracle_id": "720614e0-a94a-44e0-b937-b0a6e28b386d",
+    "multiverse_ids": [],
+    "name": "Heroes of Kamigawa",
+    "lang": "en",
+    "released_at": "2023-08-01",
+    "uri": "https://api.scryfall.com/cards/fba5a708-be07-42bb-a834-e4662d84f22c",
+    "scryfall_uri": "https://scryfall.com/card/ph22/3/heroes-of-kamigawa?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.jpg?1753361948",
+      "normal": "https://cards.scryfall.io/normal/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.jpg?1753361948",
+      "large": "https://cards.scryfall.io/large/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.jpg?1753361948",
+      "png": "https://cards.scryfall.io/png/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.png?1753361948",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.jpg?1753361948",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fba5a708-be07-42bb-a834-e4662d84f22c.jpg?1753361948"
+    },
+    "mana_cost": "{1}{W}{U}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Kaito Wanderer",
+    "oracle_text": "Each spell you cast with a name printed in a Kamigawa expansion costs {1} less to cast.\n+2: Open up to one sealed Kamigawa booster pack and shuffle those cards into your booster pile. Look at the top four cards of your booster pile. Put two of those cards into your hand and the rest into your graveyard.\n−3: Return a creature card with a name printed in a Kamigawa expansion from your graveyard to the battlefield.\nHeroes of Kamigawa can be your commander.",
+    "loyalty": "4",
+    "colors": [
+      "B",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "db138fa6-33da-4062-9e48-712cdb893528",
+    "set": "ph22",
+    "set_name": "2022 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/db138fa6-33da-4062-9e48-712cdb893528",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph22&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph22?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/fba5a708-be07-42bb-a834-e4662d84f22c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A720614e0-a94a-44e0-b937-b0a6e28b386d&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Magali Villeneuve",
+    "artist_ids": [
+      "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    ],
+    "illustration_id": "d972c23e-54ff-4ad8-80d7-0306b46ef4f8",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeroes%2Bof%2BKamigawa",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeroes%2Bof%2BKamigawa",
+      "edhrec": "https://edhrec.com/route/?cc=Heroes+of+Kamigawa"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHeroes%2Bof%2BKamigawa%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Heroes+of+Kamigawa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Heroes+of+Kamigawa&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "058bb1fd-5e1a-4be9-a174-fbe1938e11a2",
+    "oracle_id": "fe68fca9-7975-4ad6-a49e-1ed78b815511",
+    "multiverse_ids": [],
+    "name": "Svega, the Unconventional",
+    "lang": "en",
+    "released_at": "2023-08-01",
+    "uri": "https://api.scryfall.com/cards/058bb1fd-5e1a-4be9-a174-fbe1938e11a2",
+    "scryfall_uri": "https://scryfall.com/card/ph22/4/svega-the-unconventional?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.jpg?1753361985",
+      "normal": "https://cards.scryfall.io/normal/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.jpg?1753361985",
+      "large": "https://cards.scryfall.io/large/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.jpg?1753361985",
+      "png": "https://cards.scryfall.io/png/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.png?1753361985",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.jpg?1753361985",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/058bb1fd-5e1a-4be9-a174-fbe1938e11a2.jpg?1753361985"
+    },
+    "mana_cost": "{1}{G}{W}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Svega",
+    "oracle_text": "Landfall — Whenever a land enters under your control, put a loyalty counter on target planeswalker.\n−2: For each planeswalker type among planeswalkers you control, create a 1/1 Attendee creature token that's all colors.\n−X: Choose an Elspeth, Teferi, Liliana, Chandra, or Garruk planeswalker card name with mana value X. Create a copy of the card with the chosen name. You may cast the copy without paying its mana cost.\nSvega can be your commander.",
+    "loyalty": "3",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "db138fa6-33da-4062-9e48-712cdb893528",
+    "set": "ph22",
+    "set_name": "2022 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/db138fa6-33da-4062-9e48-712cdb893528",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph22&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph22?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/058bb1fd-5e1a-4be9-a174-fbe1938e11a2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe68fca9-7975-4ad6-a49e-1ed78b815511&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rallis",
+    "artist_ids": [
+      "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    ],
+    "illustration_id": "c8221bcf-0f9a-4a3e-9159-717a2d59adbd",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSvega%252C%2Bthe%2BUnconventional",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSvega%252C%2Bthe%2BUnconventional",
+      "edhrec": "https://edhrec.com/route/?cc=Svega%2C+the+Unconventional"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSvega%252C%2Bthe%2BUnconventional%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Svega%2C+the+Unconventional&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Svega%2C+the+Unconventional&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "24527eb8-ae2f-4154-80b7-7bf588862981",
+    "oracle_id": "605fb066-5b1b-402a-aece-b2970c80caba",
+    "multiverse_ids": [],
+    "name": "Wizard from Beyond",
+    "lang": "en",
+    "released_at": "2023-08-01",
+    "uri": "https://api.scryfall.com/cards/24527eb8-ae2f-4154-80b7-7bf588862981",
+    "scryfall_uri": "https://scryfall.com/card/ph22/5/wizard-from-beyond?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.jpg?1753362002",
+      "normal": "https://cards.scryfall.io/normal/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.jpg?1753362002",
+      "large": "https://cards.scryfall.io/large/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.jpg?1753362002",
+      "png": "https://cards.scryfall.io/png/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.png?1753362002",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.jpg?1753362002",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24527eb8-ae2f-4154-80b7-7bf588862981.jpg?1753362002"
+    },
+    "mana_cost": "{W}{U}{B}{R}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Enchantment — Background",
+    "oracle_text": "Create a Character (Any nonlegendary creature can choose this as its Background. It becomes legendary and can be your commander.)\nCommander creatures you own are Clerics, Rogues, Warriors, and Wizards in addition to their other types.\nAs long as you have a full party, if an ability of a creature you control triggers, that ability triggers an additional time.",
+    "colors": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "db138fa6-33da-4062-9e48-712cdb893528",
+    "set": "ph22",
+    "set_name": "2022 Heroes of the Realm",
+    "set_type": "funny",
+    "set_uri": "https://api.scryfall.com/sets/db138fa6-33da-4062-9e48-712cdb893528",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aph22&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ph22?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/24527eb8-ae2f-4154-80b7-7bf588862981/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A605fb066-5b1b-402a-aece-b2970c80caba&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Néstor Ossandón Leal",
+    "artist_ids": [
+      "7a6f1667-a8ac-47f5-a302-f71cb54b2adf"
+    ],
+    "illustration_id": "e5b8dda2-4e31-4e29-ad39-79de7157f0ef",
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary"
+    ],
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWizard%2Bfrom%2BBeyond",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWizard%2Bfrom%2BBeyond",
+      "edhrec": "https://edhrec.com/route/?cc=Wizard+from+Beyond"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWizard%2Bfrom%2BBeyond%26view%3Dgrid",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wizard+from+Beyond&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wizard+from+Beyond&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

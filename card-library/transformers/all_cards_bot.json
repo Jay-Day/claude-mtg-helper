@@ -1,0 +1,2744 @@
+[
+  {
+    "object": "card",
+    "id": "f0a3dc50-a5c4-4073-8fec-2f68544bc2a1",
+    "oracle_id": "8dfd9baf-c3cc-4d2f-a0b0-b323b6480562",
+    "multiverse_ids": [
+      587874,
+      587875
+    ],
+    "mtgo_id": 105550,
+    "tcgplayer_id": 448829,
+    "cardmarket_id": 678541,
+    "name": "Prowl, Stoic Strategist // Prowl, Pursuit Vehicle",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1",
+    "scryfall_uri": "https://scryfall.com/card/bot/1/prowl-stoic-strategist-prowl-pursuit-vehicle?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 4.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Prowl, Stoic Strategist",
+        "mana_cost": "{3}{W}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{W} (You may cast this card converted for {2}{W}.)\nWhenever Prowl attacks, exile up to one other target tapped creature or Vehicle. For as long as that card remains exiled, its owner may play it.\nWhenever a player plays a card exiled with Prowl, you draw a card and convert Prowl.",
+        "colors": [
+          "W"
+        ],
+        "power": "3",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "8d1aeebb-7dcf-4469-ada0-70236d6c6202",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "normal": "https://cards.scryfall.io/normal/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "large": "https://cards.scryfall.io/large/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "png": "https://cards.scryfall.io/png/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.png?1703899468",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Prowl, Pursuit Vehicle",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nWhenever another creature or Vehicle you control enters, put a +1/+1 counter on Prowl. If this is the second time this ability has resolved this turn, convert Prowl.",
+        "colors": [
+          "W"
+        ],
+        "color_indicator": [
+          "W"
+        ],
+        "power": "2",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "160322cf-b23f-4b44-b2db-c3a4749df2af",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "normal": "https://cards.scryfall.io/normal/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "large": "https://cards.scryfall.io/large/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "png": "https://cards.scryfall.io/png/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.png?1703899468",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/f/0/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1.jpg?1703899468"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f0a3dc50-a5c4-4073-8fec-2f68544bc2a1/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8dfd9baf-c3cc-4d2f-a0b0-b323b6480562&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 9515,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "1.07",
+      "usd_foil": "1.50",
+      "usd_etched": null,
+      "eur": "0.33",
+      "eur_foil": "0.50",
+      "tix": "2.68"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587874&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProwl%252C%2BStoic%2BStrategist%2B%252F%252F%2BProwl%252C%2BPursuit%2BVehicle",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProwl%252C%2BStoic%2BStrategist%2B%252F%252F%2BProwl%252C%2BPursuit%2BVehicle",
+      "edhrec": "https://edhrec.com/route/?cc=Prowl%2C+Stoic+Strategist"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448829%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678541&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105550?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c23a2d6b-43c2-4756-94c7-207cc344f0a7",
+    "oracle_id": "4f95664f-6113-41e6-a99e-12bfc9d1710a",
+    "multiverse_ids": [
+      587876,
+      587877
+    ],
+    "mtgo_id": 105554,
+    "tcgplayer_id": 448830,
+    "cardmarket_id": 678544,
+    "name": "Ratchet, Field Medic // Ratchet, Rescue Racer",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/c23a2d6b-43c2-4756-94c7-207cc344f0a7",
+    "scryfall_uri": "https://scryfall.com/card/bot/2/ratchet-field-medic-ratchet-rescue-racer?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 3.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Lifelink",
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Ratchet, Field Medic",
+        "mana_cost": "{2}{W}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {1}{W} (You may cast this card converted for {1}{W}.)\nLifelink\nWhenever you gain life, you may convert Ratchet. When you do, return target artifact card with mana value less than or equal to the amount of life you gained this turn from your graveyard to the battlefield tapped.",
+        "colors": [
+          "W"
+        ],
+        "power": "2",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "94b0dbef-59f7-4935-8842-33007c734dc9",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "normal": "https://cards.scryfall.io/normal/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "large": "https://cards.scryfall.io/large/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "png": "https://cards.scryfall.io/png/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.png?1703899662",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Ratchet, Rescue Racer",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nLifelink\nWhenever one or more nontoken artifacts you control are put into a graveyard from the battlefield, convert Ratchet. This ability triggers only once each turn.",
+        "colors": [
+          "W"
+        ],
+        "color_indicator": [
+          "W"
+        ],
+        "power": "1",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "adb6deb2-a6e2-437d-be6c-8f3a7aceccd6",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "normal": "https://cards.scryfall.io/normal/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "large": "https://cards.scryfall.io/large/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "png": "https://cards.scryfall.io/png/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.png?1703899662",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/c/2/c23a2d6b-43c2-4756-94c7-207cc344f0a7.jpg?1703899662"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c23a2d6b-43c2-4756-94c7-207cc344f0a7/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4f95664f-6113-41e6-a99e-12bfc9d1710a&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 7823,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "2.55",
+      "usd_foil": "4.13",
+      "usd_etched": null,
+      "eur": "0.86",
+      "eur_foil": "1.07",
+      "tix": "11.41"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587876&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRatchet%252C%2BField%2BMedic%2B%252F%252F%2BRatchet%252C%2BRescue%2BRacer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRatchet%252C%2BField%2BMedic%2B%252F%252F%2BRatchet%252C%2BRescue%2BRacer",
+      "edhrec": "https://edhrec.com/route/?cc=Ratchet%2C+Field+Medic"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448830%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678544&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105554?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "6bf61883-2343-4a9f-9a34-99326a8827ad",
+    "oracle_id": "38de7183-81ef-4a79-b231-7195ba89a281",
+    "multiverse_ids": [
+      587878,
+      587879
+    ],
+    "mtgo_id": 105558,
+    "tcgplayer_id": 448831,
+    "cardmarket_id": 678545,
+    "name": "Jetfire, Ingenious Scientist // Jetfire, Air Guardian",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/6bf61883-2343-4a9f-9a34-99326a8827ad",
+    "scryfall_uri": "https://scryfall.com/card/bot/3/jetfire-ingenious-scientist-jetfire-air-guardian?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Adapt",
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "produced_mana": [
+      "C"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Jetfire, Ingenious Scientist",
+        "mana_cost": "{4}{U}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {3}{U} (You may cast this card converted for {3}{U}.)\nFlying\nRemove one or more +1/+1 counters from among artifacts you control: Target player adds that much {C}. This mana can't be spent to cast nonartifact spells. Convert Jetfire.",
+        "colors": [
+          "U"
+        ],
+        "power": "3",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "47713926-6d32-4111-978e-f100fef4f823",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "normal": "https://cards.scryfall.io/normal/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "large": "https://cards.scryfall.io/large/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "png": "https://cards.scryfall.io/png/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.png?1674092775",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Jetfire, Air Guardian",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nFlying\n{U}{U}{U}: Convert Jetfire, then adapt 3. (If it has no +1/+1 counters on it, put three +1/+1 counters on it.)",
+        "colors": [
+          "U"
+        ],
+        "color_indicator": [
+          "U"
+        ],
+        "power": "3",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "83bc3920-611c-4e3c-b1e2-af73180c7029",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "normal": "https://cards.scryfall.io/normal/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "large": "https://cards.scryfall.io/large/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "png": "https://cards.scryfall.io/png/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.png?1674092775",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/6/b/6bf61883-2343-4a9f-9a34-99326a8827ad.jpg?1674092775"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/6bf61883-2343-4a9f-9a34-99326a8827ad/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38de7183-81ef-4a79-b231-7195ba89a281&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 10645,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "0.89",
+      "usd_foil": "1.59",
+      "usd_etched": null,
+      "eur": "0.45",
+      "eur_foil": "0.90",
+      "tix": "1.83"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587878&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJetfire%252C%2BIngenious%2BScientist%2B%252F%252F%2BJetfire%252C%2BAir%2BGuardian",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJetfire%252C%2BIngenious%2BScientist%2B%252F%252F%2BJetfire%252C%2BAir%2BGuardian",
+      "edhrec": "https://edhrec.com/route/?cc=Jetfire%2C+Ingenious+Scientist"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448831%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678545&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105558?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d20738d2-a159-4e3e-be7a-561a121bd447",
+    "oracle_id": "9a10668a-df42-40c2-88d1-ad3b2aba5b03",
+    "multiverse_ids": [
+      587880,
+      587881
+    ],
+    "mtgo_id": 105562,
+    "tcgplayer_id": 448832,
+    "cardmarket_id": 678548,
+    "name": "Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/d20738d2-a159-4e3e-be7a-561a121bd447",
+    "scryfall_uri": "https://scryfall.com/card/bot/4/blitzwing-cruel-tormentor-blitzwing-adaptive-assailant?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 6.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Blitzwing, Cruel Tormentor",
+        "mana_cost": "{5}{B}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {3}{B} (You may cast this card converted for {3}{B}.)\nAt the beginning of your end step, target opponent loses life equal to the life that player lost this turn. If no life is lost this way, convert Blitzwing.",
+        "colors": [
+          "B"
+        ],
+        "power": "6",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "a33c0413-3d03-465b-9a85-aa5d8f06da9c",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "normal": "https://cards.scryfall.io/normal/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "large": "https://cards.scryfall.io/large/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "png": "https://cards.scryfall.io/png/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.png?1703899858",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Blitzwing, Adaptive Assailant",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nAt the beginning of combat on your turn, choose flying or indestructible at random. Blitzwing gains that ability until end of turn.\nWhenever Blitzwing deals combat damage to a player, convert it.",
+        "colors": [
+          "B"
+        ],
+        "color_indicator": [
+          "B"
+        ],
+        "power": "3",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "5e94cf43-340e-4acc-9c4e-8d33511d1750",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "normal": "https://cards.scryfall.io/normal/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "large": "https://cards.scryfall.io/large/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "png": "https://cards.scryfall.io/png/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.png?1703899858",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d20738d2-a159-4e3e-be7a-561a121bd447/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9a10668a-df42-40c2-88d1-ad3b2aba5b03&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 7984,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "1.33",
+      "usd_foil": "2.30",
+      "usd_etched": null,
+      "eur": "0.67",
+      "eur_foil": "0.68",
+      "tix": "3.07"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587880&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlitzwing%252C%2BCruel%2BTormentor%2B%252F%252F%2BBlitzwing%252C%2BAdaptive%2BAssailant",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlitzwing%252C%2BCruel%2BTormentor%2B%252F%252F%2BBlitzwing%252C%2BAdaptive%2BAssailant",
+      "edhrec": "https://edhrec.com/route/?cc=Blitzwing%2C+Cruel+Tormentor"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448832%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678548&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105562?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8234ea77-9ed6-4f3e-acc2-f52fb7003ed2",
+    "oracle_id": "3e924a35-0e08-4050-b33a-a143d2ab5aea",
+    "multiverse_ids": [
+      587882,
+      587883
+    ],
+    "mtgo_id": 105566,
+    "tcgplayer_id": 448833,
+    "cardmarket_id": 678549,
+    "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2",
+    "scryfall_uri": "https://scryfall.com/card/bot/5/starscream-power-hungry-starscream-seeker-leader?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 4.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying",
+      "Living metal",
+      "Haste",
+      "Convert",
+      "Menace",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Starscream, Power Hungry",
+        "mana_cost": "{3}{B}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{B} (You may cast this card converted for {2}{B}.)\nFlying\nWhenever you draw a card, if you're the monarch, target opponent loses 2 life.\nWhenever one or more creatures deal combat damage to you, convert Starscream.",
+        "colors": [
+          "B"
+        ],
+        "power": "2",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "a625d7e5-76ff-434b-9263-49479f348324",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "normal": "https://cards.scryfall.io/normal/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "large": "https://cards.scryfall.io/large/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "png": "https://cards.scryfall.io/png/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.png?1674092806",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Starscream, Seeker Leader",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nFlying, menace, haste\nWhenever Starscream deals combat damage to a player, if there is no monarch, that player becomes the monarch.\nWhenever you become the monarch, convert Starscream.",
+        "colors": [
+          "B"
+        ],
+        "color_indicator": [
+          "B"
+        ],
+        "power": "2",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "980f7b1b-a110-4f78-8545-f42e4d60b75d",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "normal": "https://cards.scryfall.io/normal/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "large": "https://cards.scryfall.io/large/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "png": "https://cards.scryfall.io/png/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.png?1674092806",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806"
+        }
+      }
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "90fa398b-f2f7-474f-a840-244238a67c31",
+        "component": "combo_piece",
+        "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+        "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+        "uri": "https://api.scryfall.com/cards/90fa398b-f2f7-474f-a840-244238a67c31"
+      },
+      {
+        "object": "related_card",
+        "id": "66f569e1-5a37-4801-be01-9c5d44a82427",
+        "component": "combo_piece",
+        "name": "The Monarch",
+        "type_line": "Card",
+        "uri": "https://api.scryfall.com/cards/66f569e1-5a37-4801-be01-9c5d44a82427"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3e924a35-0e08-4050-b33a-a143d2ab5aea&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 6117,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "3.16",
+      "usd_foil": "5.16",
+      "usd_etched": null,
+      "eur": "1.19",
+      "eur_foil": "1.72",
+      "tix": "12.34"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587882&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStarscream%252C%2BPower%2BHungry%2B%252F%252F%2BStarscream%252C%2BSeeker%2BLeader",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStarscream%252C%2BPower%2BHungry%2B%252F%252F%2BStarscream%252C%2BSeeker%2BLeader",
+      "edhrec": "https://edhrec.com/route/?cc=Starscream%2C+Power+Hungry"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448833%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678549&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105566?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "9d9a9350-4734-4cc1-986d-467e6715199f",
+    "oracle_id": "fa716557-8e75-4617-8310-ab23a9ca1af1",
+    "multiverse_ids": [
+      587884,
+      587885
+    ],
+    "mtgo_id": 105570,
+    "tcgplayer_id": 448834,
+    "cardmarket_id": 678552,
+    "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/9d9a9350-4734-4cc1-986d-467e6715199f",
+    "scryfall_uri": "https://scryfall.com/card/bot/6/slicer-hired-muscle-slicer-high-speed-antagonist?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Goad",
+      "Living metal",
+      "First strike",
+      "Haste",
+      "Convert",
+      "More Than Meets the Eye",
+      "Double strike"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Slicer, Hired Muscle",
+        "mana_cost": "{4}{R}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{R} (You may cast this card converted for {2}{R}.)\nDouble strike, haste\nAt the beginning of each opponent's upkeep, you may have that player gain control of Slicer until end of turn. If you do, untap Slicer, goad it, and it can't be sacrificed this turn. If you don't, convert it.",
+        "colors": [
+          "R"
+        ],
+        "power": "3",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "185657f6-f945-4423-b0f4-babe5dbe8eab",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "normal": "https://cards.scryfall.io/normal/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "large": "https://cards.scryfall.io/large/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "png": "https://cards.scryfall.io/png/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.png?1674092821",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Slicer, High-Speed Antagonist",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nFirst strike, haste\nWhenever Slicer deals combat damage to a player, convert it at end of combat.",
+        "colors": [
+          "R"
+        ],
+        "color_indicator": [
+          "R"
+        ],
+        "power": "3",
+        "toughness": "2",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "77c80fee-fe51-4d42-b2ad-872bca2da830",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "normal": "https://cards.scryfall.io/normal/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "large": "https://cards.scryfall.io/large/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "png": "https://cards.scryfall.io/png/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.png?1674092821",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/9d9a9350-4734-4cc1-986d-467e6715199f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa716557-8e75-4617-8310-ab23a9ca1af1&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 3188,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "6.74",
+      "usd_foil": "6.80",
+      "usd_etched": null,
+      "eur": "6.08",
+      "eur_foil": "7.19",
+      "tix": "39.95"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587884&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlicer%252C%2BHired%2BMuscle%2B%252F%252F%2BSlicer%252C%2BHigh-Speed%2BAntagonist",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlicer%252C%2BHired%2BMuscle%2B%252F%252F%2BSlicer%252C%2BHigh-Speed%2BAntagonist",
+      "edhrec": "https://edhrec.com/route/?cc=Slicer%2C+Hired+Muscle"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448834%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678552&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105570?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "21462db4-7739-4853-845f-0c2aa38fd2a6",
+    "oracle_id": "9fba3097-d53f-4ea4-b5d2-8adddaa09524",
+    "multiverse_ids": [
+      587886,
+      587887
+    ],
+    "mtgo_id": 105574,
+    "tcgplayer_id": 448836,
+    "cardmarket_id": 678553,
+    "name": "Arcee, Sharpshooter // Arcee, Acrobatic Coupe",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/21462db4-7739-4853-845f-0c2aa38fd2a6",
+    "scryfall_uri": "https://scryfall.com/card/bot/7/arcee-sharpshooter-arcee-acrobatic-coupe?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 3.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "First strike",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Arcee, Sharpshooter",
+        "mana_cost": "{1}{R}{W}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {R}{W} (You may cast this card converted for {R}{W}.)\nFirst strike\n{1}, Remove one or more +1/+1 counters from Arcee: It deals that much damage to target creature. Convert Arcee.",
+        "colors": [
+          "R",
+          "W"
+        ],
+        "power": "2",
+        "toughness": "2",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "b079d00e-d3d4-4100-bf9d-cec6cf9814f7",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "normal": "https://cards.scryfall.io/normal/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "large": "https://cards.scryfall.io/large/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "png": "https://cards.scryfall.io/png/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.png?1674092837",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Arcee, Acrobatic Coupe",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nWhenever you cast a spell that targets one or more creatures or Vehicles you control, put that many +1/+1 counters on Arcee. Convert Arcee.",
+        "colors": [
+          "R",
+          "W"
+        ],
+        "color_indicator": [
+          "R",
+          "W"
+        ],
+        "power": "2",
+        "toughness": "2",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "06b42203-e003-49a3-8b8d-bc873ddeb0c7",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "normal": "https://cards.scryfall.io/normal/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "large": "https://cards.scryfall.io/large/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "png": "https://cards.scryfall.io/png/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.png?1674092837",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/2/1/21462db4-7739-4853-845f-0c2aa38fd2a6.jpg?1674092837"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/21462db4-7739-4853-845f-0c2aa38fd2a6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9fba3097-d53f-4ea4-b5d2-8adddaa09524&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 12275,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "0.62",
+      "usd_foil": "1.38",
+      "usd_etched": null,
+      "eur": "0.42",
+      "eur_foil": "0.78",
+      "tix": "2.07"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587886&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArcee%252C%2BSharpshooter%2B%252F%252F%2BArcee%252C%2BAcrobatic%2BCoupe",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArcee%252C%2BSharpshooter%2B%252F%252F%2BArcee%252C%2BAcrobatic%2BCoupe",
+      "edhrec": "https://edhrec.com/route/?cc=Arcee%2C+Sharpshooter"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448836%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678553&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105574?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e",
+    "oracle_id": "59c2af34-a2e5-4c67-af2d-a782e41a8e1e",
+    "multiverse_ids": [
+      587888,
+      587889
+    ],
+    "mtgo_id": 105578,
+    "tcgplayer_id": 448825,
+    "cardmarket_id": 678554,
+    "name": "Blaster, Combat DJ // Blaster, Morale Booster",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e",
+    "scryfall_uri": "https://scryfall.com/card/bot/8/blaster-combat-dj-blaster-morale-booster?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Modular",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Blaster, Combat DJ",
+        "mana_cost": "{3}{R}{G}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {1}{R}{G} (You may cast this card converted for {1}{R}{G}.)\nOther nontoken artifact creatures and Vehicles you control have modular 1. (They enter with an additional +1/+1 counter on them. When they die, you may put their +1/+1 counters on target artifact creature.)\nWhenever you put one or more +1/+1 counters on Blaster, convert it.",
+        "colors": [
+          "G",
+          "R"
+        ],
+        "power": "3",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "317daf7b-0d2a-473c-b6d3-4aecac71509b",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "normal": "https://cards.scryfall.io/normal/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "large": "https://cards.scryfall.io/large/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "png": "https://cards.scryfall.io/png/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.png?1674092853",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Blaster, Morale Booster",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact",
+        "oracle_text": "Modular 3\n{X}, {T}: Move X +1/+1 counters from Blaster onto another target artifact. That artifact gains haste until end of turn. If Blaster has no +1/+1 counters on it, convert it. Activate only as a sorcery.",
+        "colors": [
+          "G",
+          "R"
+        ],
+        "color_indicator": [
+          "G",
+          "R"
+        ],
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "6d8e3da2-ddf0-4084-8b76-6e22aff141ef",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "normal": "https://cards.scryfall.io/normal/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "large": "https://cards.scryfall.io/large/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "png": "https://cards.scryfall.io/png/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.png?1674092853",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/b/2/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e.jpg?1674092853"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b2f8d457-ca4d-4b7d-83ed-17c2ba11ec0e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59c2af34-a2e5-4c67-af2d-a782e41a8e1e&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 13012,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "0.54",
+      "usd_foil": "1.10",
+      "usd_etched": null,
+      "eur": "0.38",
+      "eur_foil": "0.42",
+      "tix": "1.61"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587888&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlaster%252C%2BCombat%2BDJ%2B%252F%252F%2BBlaster%252C%2BMorale%2BBooster",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlaster%252C%2BCombat%2BDJ%2B%252F%252F%2BBlaster%252C%2BMorale%2BBooster",
+      "edhrec": "https://edhrec.com/route/?cc=Blaster%2C+Combat+DJ"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448825%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678554&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105578?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73",
+    "oracle_id": "7ead01b9-def3-4f9d-a860-af64e94cb45e",
+    "multiverse_ids": [
+      587890,
+      587891
+    ],
+    "mtgo_id": 105582,
+    "tcgplayer_id": 448837,
+    "cardmarket_id": 678557,
+    "name": "Cyclonus, the Saboteur // Cyclonus, Cybertronian Fighter",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73",
+    "scryfall_uri": "https://scryfall.com/card/bot/9/cyclonus-the-saboteur-cyclonus-cybertronian-fighter?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 4.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye",
+      "Connive"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Cyclonus, the Saboteur",
+        "mana_cost": "{2}{U}{B}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {5}{U}{B} (You may cast this card converted for {5}{U}{B}.)\nFlying\nWhenever Cyclonus deals combat damage to a player, it connives. Then if Cyclonus's power is 5 or greater, convert it. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)",
+        "colors": [
+          "B",
+          "U"
+        ],
+        "power": "2",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "d7ccdf3a-e2c3-4900-a948-aa3ee3cce7c6",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "normal": "https://cards.scryfall.io/normal/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "large": "https://cards.scryfall.io/large/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "png": "https://cards.scryfall.io/png/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.png?1674092869",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Cyclonus, Cybertronian Fighter",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nFlying\nWhenever Cyclonus deals combat damage to a player, convert it. If you do, there is an additional beginning phase after this phase. (The beginning phase includes the untap, upkeep, and draw steps.)",
+        "colors": [
+          "B",
+          "U"
+        ],
+        "color_indicator": [
+          "B",
+          "U"
+        ],
+        "power": "5",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "6e1b03fb-b231-48a0-98f2-cab1661963e6",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "normal": "https://cards.scryfall.io/normal/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "large": "https://cards.scryfall.io/large/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "png": "https://cards.scryfall.io/png/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.png?1674092869",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/2/d/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73.jpg?1674092869"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/2d3bb50a-2892-4e28-aa70-ab8d0fcdcc73/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7ead01b9-def3-4f9d-a860-af64e94cb45e&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 11758,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "0.72",
+      "usd_foil": "1.05",
+      "usd_etched": null,
+      "eur": "0.49",
+      "eur_foil": "0.96",
+      "tix": "1.17"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587890&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCyclonus%252C%2Bthe%2BSaboteur%2B%252F%252F%2BCyclonus%252C%2BCybertronian%2BFighter",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCyclonus%252C%2Bthe%2BSaboteur%2B%252F%252F%2BCyclonus%252C%2BCybertronian%2BFighter",
+      "edhrec": "https://edhrec.com/route/?cc=Cyclonus%2C+the+Saboteur"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448837%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678557&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105582?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "876d9732-9201-4327-8748-7c87ec55453f",
+    "oracle_id": "cf812f1e-f48a-4375-8d2c-f6e3cb82e067",
+    "multiverse_ids": [
+      587892,
+      587893
+    ],
+    "mtgo_id": 105586,
+    "tcgplayer_id": 448838,
+    "cardmarket_id": 678558,
+    "name": "Flamewar, Brash Veteran // Flamewar, Streetwise Operative",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/876d9732-9201-4327-8748-7c87ec55453f",
+    "scryfall_uri": "https://scryfall.com/card/bot/10/flamewar-brash-veteran-flamewar-streetwise-operative?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 3.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Living metal",
+      "Convert",
+      "Menace",
+      "More Than Meets the Eye",
+      "Deathtouch"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Flamewar, Brash Veteran",
+        "mana_cost": "{1}{B}{R}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {B}{R} (You may cast this card converted for {B}{R}.)\nSacrifice another artifact: Put a +1/+1 counter on Flamewar and convert it. Activate only as a sorcery.\n{1}, Discard your hand: Put all exiled cards you own with intel counters on them into your hand.",
+        "colors": [
+          "B",
+          "R"
+        ],
+        "power": "3",
+        "toughness": "2",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "27fa98a6-0089-4484-afc9-1ec40bccab2e",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "normal": "https://cards.scryfall.io/normal/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "large": "https://cards.scryfall.io/large/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "png": "https://cards.scryfall.io/png/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.png?1674092884",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Flamewar, Streetwise Operative",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nMenace, deathtouch\nWhenever Flamewar deals combat damage to a player, exile that many cards from the top of your library face down. Put an intel counter on each of them. Convert Flamewar.",
+        "colors": [
+          "B",
+          "R"
+        ],
+        "color_indicator": [
+          "B",
+          "R"
+        ],
+        "power": "2",
+        "toughness": "1",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "4fe37970-3f26-4c4f-b04a-76478f6fe4f3",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "normal": "https://cards.scryfall.io/normal/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "large": "https://cards.scryfall.io/large/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "png": "https://cards.scryfall.io/png/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.png?1674092884",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/7/876d9732-9201-4327-8748-7c87ec55453f.jpg?1674092884"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/876d9732-9201-4327-8748-7c87ec55453f/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf812f1e-f48a-4375-8d2c-f6e3cb82e067&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 11696,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "0.52",
+      "usd_foil": "0.91",
+      "usd_etched": null,
+      "eur": "0.36",
+      "eur_foil": "0.91",
+      "tix": "6.75"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587892&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFlamewar%252C%2BBrash%2BVeteran%2B%252F%252F%2BFlamewar%252C%2BStreetwise%2BOperative",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFlamewar%252C%2BBrash%2BVeteran%2B%252F%252F%2BFlamewar%252C%2BStreetwise%2BOperative",
+      "edhrec": "https://edhrec.com/route/?cc=Flamewar%2C+Brash+Veteran"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448838%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678558&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105586?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9",
+    "oracle_id": "d1960749-c11e-4ac4-97cb-f37d7875d479",
+    "multiverse_ids": [
+      587894,
+      587895
+    ],
+    "mtgo_id": 105590,
+    "tcgplayer_id": 448839,
+    "cardmarket_id": 678560,
+    "name": "Goldbug, Humanity's Ally // Goldbug, Scrappy Scout",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9",
+    "scryfall_uri": "https://scryfall.com/card/bot/11/goldbug-humanitys-ally-goldbug-scrappy-scout?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 3.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Goldbug, Humanity's Ally",
+        "mana_cost": "{1}{W}{U}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {W}{U} (You may cast this card converted for {W}{U}.)\nPrevent all combat damage that would be dealt to attacking Humans you control.\nWhenever you cast your second spell each turn, convert Goldbug.",
+        "colors": [
+          "U",
+          "W"
+        ],
+        "power": "3",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "afce09c8-89c2-403a-8918-592961f02769",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "normal": "https://cards.scryfall.io/normal/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "large": "https://cards.scryfall.io/large/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "png": "https://cards.scryfall.io/png/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.png?1674092900",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Goldbug, Scrappy Scout",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nHuman spells you control can't be countered.\nWhenever Goldbug and at least one Human attack, draw a card and convert Goldbug.",
+        "colors": [
+          "U",
+          "W"
+        ],
+        "color_indicator": [
+          "U",
+          "W"
+        ],
+        "power": "1",
+        "toughness": "3",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "1dda933b-22fa-412f-bf79-9af07adba939",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "normal": "https://cards.scryfall.io/normal/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "large": "https://cards.scryfall.io/large/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "png": "https://cards.scryfall.io/png/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.png?1674092900",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/e/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9.jpg?1674092900"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8e4a8db9-ef57-4ea0-952c-1e5d343fb5d9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad1960749-c11e-4ac4-97cb-f37d7875d479&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 10425,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "0.70",
+      "usd_foil": "1.14",
+      "usd_etched": null,
+      "eur": "0.45",
+      "eur_foil": "0.86",
+      "tix": "5.81"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587894&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoldbug%252C%2BHumanity%2527s%2BAlly%2B%252F%252F%2BGoldbug%252C%2BScrappy%2BScout",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoldbug%252C%2BHumanity%2527s%2BAlly%2B%252F%252F%2BGoldbug%252C%2BScrappy%2BScout",
+      "edhrec": "https://edhrec.com/route/?cc=Goldbug%2C+Humanity%27s+Ally"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448839%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678560&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105590?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ac6ded62-7bf2-476f-ad8e-020da6327c6b",
+    "oracle_id": "33e88072-3840-4090-8d0b-7fb38279e150",
+    "multiverse_ids": [
+      587896,
+      587897
+    ],
+    "mtgo_id": 105594,
+    "tcgplayer_id": 448842,
+    "cardmarket_id": 678562,
+    "name": "Megatron, Tyrant // Megatron, Destructive Force",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/ac6ded62-7bf2-476f-ad8e-020da6327c6b",
+    "scryfall_uri": "https://scryfall.com/card/bot/12/megatron-tyrant-megatron-destructive-force?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 6.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "produced_mana": [
+      "C"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Megatron, Tyrant",
+        "mana_cost": "{3}{R}{W}{B}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {1}{R}{W}{B} (You may cast this card converted for {1}{R}{W}{B}.)\nYour opponents can't cast spells during combat.\nAt the beginning of each of your postcombat main phases, you may convert Megatron. If you do, add {C} for each 1 life your opponents have lost this turn.",
+        "colors": [
+          "B",
+          "R",
+          "W"
+        ],
+        "power": "7",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "c1f3c3e6-e8cc-4838-9dcc-c46a11bfa03f",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "normal": "https://cards.scryfall.io/normal/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "large": "https://cards.scryfall.io/large/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "png": "https://cards.scryfall.io/png/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.png?1674092916",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Megatron, Destructive Force",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nWhenever Megatron attacks, you may sacrifice another artifact. When you do, Megatron deals damage equal to the sacrificed artifact's mana value to target creature. If excess damage would be dealt to that creature this way, instead that damage is dealt to that creature's controller and you convert Megatron.",
+        "colors": [
+          "B",
+          "R",
+          "W"
+        ],
+        "color_indicator": [
+          "B",
+          "R",
+          "W"
+        ],
+        "power": "4",
+        "toughness": "5",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "ffcd6f28-f83f-4748-bcc7-6fbc6209fd13",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "normal": "https://cards.scryfall.io/normal/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "large": "https://cards.scryfall.io/large/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "png": "https://cards.scryfall.io/png/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.png?1674092916",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/c/ac6ded62-7bf2-476f-ad8e-020da6327c6b.jpg?1674092916"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ac6ded62-7bf2-476f-ad8e-020da6327c6b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33e88072-3840-4090-8d0b-7fb38279e150&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 10452,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "1.20",
+      "usd_foil": "2.31",
+      "usd_etched": null,
+      "eur": "0.48",
+      "eur_foil": "1.53",
+      "tix": "7.82"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587896&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMegatron%252C%2BTyrant%2B%252F%252F%2BMegatron%252C%2BDestructive%2BForce",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMegatron%252C%2BTyrant%2B%252F%252F%2BMegatron%252C%2BDestructive%2BForce",
+      "edhrec": "https://edhrec.com/route/?cc=Megatron%2C+Tyrant"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448842%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678562&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105594?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714",
+    "oracle_id": "199c4a1a-2082-417c-a174-f479d7334d15",
+    "multiverse_ids": [
+      587898,
+      587899
+    ],
+    "mtgo_id": 105598,
+    "tcgplayer_id": 448845,
+    "cardmarket_id": 678564,
+    "name": "Optimus Prime, Hero // Optimus Prime, Autobot Leader",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714",
+    "scryfall_uri": "https://scryfall.com/card/bot/13/optimus-prime-hero-optimus-prime-autobot-leader?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 6.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "Trample",
+      "Convert",
+      "More Than Meets the Eye",
+      "Bolster"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Optimus Prime, Hero",
+        "mana_cost": "{3}{U}{R}{W}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{U}{R}{W} (You may cast this card converted for {2}{U}{R}{W}.)\nAt the beginning of each end step, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)\nWhen Optimus Prime dies, return it to the battlefield converted under its owner's control.",
+        "colors": [
+          "R",
+          "U",
+          "W"
+        ],
+        "power": "4",
+        "toughness": "8",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "2563f9c5-0675-43bf-86e4-d218fb4ed0d2",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "normal": "https://cards.scryfall.io/normal/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "large": "https://cards.scryfall.io/large/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "png": "https://cards.scryfall.io/png/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.png?1674092931",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Optimus Prime, Autobot Leader",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nTrample\nWhenever you attack, bolster 2. The chosen creature gains trample until end of turn. When that creature deals combat damage to a player this turn, convert Optimus Prime.",
+        "colors": [
+          "R",
+          "U",
+          "W"
+        ],
+        "color_indicator": [
+          "R",
+          "U",
+          "W"
+        ],
+        "power": "6",
+        "toughness": "8",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "534563c9-07a3-4c89-91e3-7df017ffe56c",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "normal": "https://cards.scryfall.io/normal/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "large": "https://cards.scryfall.io/large/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "png": "https://cards.scryfall.io/png/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.png?1674092931",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/f/0/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714.jpg?1674092931"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f04ed2cc-aae1-400b-9cc5-5d4e3e3dd714/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A199c4a1a-2082-417c-a174-f479d7334d15&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 8429,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "2.97",
+      "usd_foil": "4.36",
+      "usd_etched": null,
+      "eur": "0.93",
+      "eur_foil": "2.32",
+      "tix": "6.32"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587898&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOptimus%2BPrime%252C%2BHero%2B%252F%252F%2BOptimus%2BPrime%252C%2BAutobot%2BLeader",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOptimus%2BPrime%252C%2BHero%2B%252F%252F%2BOptimus%2BPrime%252C%2BAutobot%2BLeader",
+      "edhrec": "https://edhrec.com/route/?cc=Optimus+Prime%2C+Hero"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448845%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678564&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105598?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8733cd6f-37e1-4e3a-bb25-7a238f04657e",
+    "oracle_id": "cc18e782-a965-404f-96f1-348f3ed799fd",
+    "multiverse_ids": [
+      587900,
+      587901
+    ],
+    "mtgo_id": 105602,
+    "tcgplayer_id": 448847,
+    "cardmarket_id": 678566,
+    "name": "Soundwave, Sonic Spy // Soundwave, Superior Captain",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/8733cd6f-37e1-4e3a-bb25-7a238f04657e",
+    "scryfall_uri": "https://scryfall.com/card/bot/14/soundwave-sonic-spy-soundwave-superior-captain?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 4.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Convert",
+      "More Than Meets the Eye"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Soundwave, Sonic Spy",
+        "mana_cost": "{1}{W}{U}{B}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{W}{U}{B} (You may cast this card converted for {2}{W}{U}{B}.)\nWhenever one or more creature tokens you control deal combat damage to a player, exile target instant or sorcery card with mana value equal to the damage dealt from their graveyard. Copy it. You may cast the copy without paying its mana cost. If you do, convert Soundwave.",
+        "colors": [
+          "B",
+          "U",
+          "W"
+        ],
+        "power": "5",
+        "toughness": "4",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "ddb963fa-c4b8-4f46-8b89-0b83dc76aaf6",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "normal": "https://cards.scryfall.io/normal/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "large": "https://cards.scryfall.io/large/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "png": "https://cards.scryfall.io/png/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.png?1674092946",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Soundwave, Superior Captain",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact",
+        "oracle_text": "Whenever you cast a spell with an odd mana value, convert Soundwave. If you do, create Ravage, a legendary 3/3 black Robot artifact creature token with menace and deathtouch.\nWhenever you cast a spell with an even mana value, convert Soundwave. If you do, create Laserbeak, a legendary 2/2 blue Robot artifact creature token with flying and hexproof.",
+        "colors": [
+          "B",
+          "U",
+          "W"
+        ],
+        "color_indicator": [
+          "B",
+          "U",
+          "W"
+        ],
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "746405bd-2729-446c-ad9b-0d499f16ae44",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "normal": "https://cards.scryfall.io/normal/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "large": "https://cards.scryfall.io/large/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "png": "https://cards.scryfall.io/png/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.png?1674092946",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/7/8733cd6f-37e1-4e3a-bb25-7a238f04657e.jpg?1674092946"
+        }
+      }
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "b3170b92-b4eb-4826-92ed-85deba4c4c88",
+        "component": "token",
+        "name": "Ravage",
+        "type_line": "Token Legendary Artifact Creature — Robot",
+        "uri": "https://api.scryfall.com/cards/b3170b92-b4eb-4826-92ed-85deba4c4c88"
+      },
+      {
+        "object": "related_card",
+        "id": "3c24f9cb-2451-4651-826b-a1cd645af502",
+        "component": "combo_piece",
+        "name": "Soundwave, Sonic Spy // Soundwave, Superior Captain",
+        "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact",
+        "uri": "https://api.scryfall.com/cards/3c24f9cb-2451-4651-826b-a1cd645af502"
+      },
+      {
+        "object": "related_card",
+        "id": "47b48ea5-a12f-4a3b-b7d9-2124e43d8833",
+        "component": "token",
+        "name": "Laserbeak",
+        "type_line": "Token Legendary Artifact Creature — Robot",
+        "uri": "https://api.scryfall.com/cards/47b48ea5-a12f-4a3b-b7d9-2124e43d8833"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8733cd6f-37e1-4e3a-bb25-7a238f04657e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc18e782-a965-404f-96f1-348f3ed799fd&unique=prints",
+    "collector_number": "14",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "legendary",
+      "convertdfc"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 13105,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-09-30"
+    },
+    "prices": {
+      "usd": "1.03",
+      "usd_foil": "1.81",
+      "usd_etched": null,
+      "eur": "0.47",
+      "eur_foil": "1.62",
+      "tix": "3.33"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587900&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSoundwave%252C%2BSonic%2BSpy%2B%252F%252F%2BSoundwave%252C%2BSuperior%2BCaptain",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSoundwave%252C%2BSonic%2BSpy%2B%252F%252F%2BSoundwave%252C%2BSuperior%2BCaptain",
+      "edhrec": "https://edhrec.com/route/?cc=Soundwave%2C+Sonic+Spy"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448847%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678566&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105602?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "687695ad-d212-4da4-a326-ce9876afdda2",
+    "oracle_id": "48e913c0-efeb-47f5-9dcb-b795751e6b6d",
+    "multiverse_ids": [
+      587902,
+      587903
+    ],
+    "mtgo_id": 105606,
+    "tcgplayer_id": 448854,
+    "cardmarket_id": 678568,
+    "name": "Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier",
+    "lang": "en",
+    "released_at": "2022-11-18",
+    "uri": "https://api.scryfall.com/cards/687695ad-d212-4da4-a326-ce9876afdda2",
+    "scryfall_uri": "https://scryfall.com/card/bot/15/ultra-magnus-tactician-ultra-magnus-armored-carrier?utm_source=api",
+    "layout": "transform",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 7.0,
+    "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Living metal",
+      "Haste",
+      "Convert",
+      "More Than Meets the Eye",
+      "Ward",
+      "Formidable"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Ultra Magnus, Tactician",
+        "mana_cost": "{4}{R}{G}{W}",
+        "type_line": "Legendary Artifact Creature — Robot",
+        "oracle_text": "More Than Meets the Eye {2}{R}{G}{W} (You may cast this card converted for {2}{R}{G}{W}.)\nWard {2}\nWhenever Ultra Magnus attacks, you may put an artifact creature card from your hand onto the battlefield tapped and attacking. If you do, convert Ultra Magnus at end of combat.",
+        "colors": [
+          "G",
+          "R",
+          "W"
+        ],
+        "power": "7",
+        "toughness": "7",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "3c12eedd-42c4-406b-bf8a-49b17ab10d20",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "normal": "https://cards.scryfall.io/normal/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "large": "https://cards.scryfall.io/large/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "png": "https://cards.scryfall.io/png/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.png?1674092963",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Ultra Magnus, Armored Carrier",
+        "mana_cost": "",
+        "type_line": "Legendary Artifact — Vehicle",
+        "oracle_text": "Living metal (During your turn, this Vehicle is also a creature.)\nHaste\nFormidable — Whenever Ultra Magnus attacks, attacking creatures you control gain indestructible until end of turn. If those creatures have total power 8 or greater, convert Ultra Magnus.",
+        "colors": [
+          "G",
+          "R",
+          "W"
+        ],
+        "color_indicator": [
+          "G",
+          "R",
+          "W"
+        ],
+        "power": "4",
+        "toughness": "7",
+        "artist": "Volta Creation",
+        "artist_id": "284782c4-ada1-466c-8115-fe00421975eb",
+        "illustration_id": "7c815d70-ead7-4708-a527-962ef46baaec",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "normal": "https://cards.scryfall.io/normal/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "large": "https://cards.scryfall.io/large/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "png": "https://cards.scryfall.io/png/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.png?1674092963",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/6/8/687695ad-d212-4da4-a326-ce9876afdda2.jpg?1674092963"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set": "bot",
+    "set_name": "Transformers",
+    "set_type": "masterpiece",
+    "set_uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abot&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/bot?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/687695ad-d212-4da4-a326-ce9876afdda2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48e913c0-efeb-47f5-9dcb-b795751e6b6d&unique=prints",
+    "collector_number": "15",
+    "digital": false,
+    "rarity": "mythic",
+    "artist": "Volta Creation",
+    "artist_ids": [
+      "284782c4-ada1-466c-8115-fe00421975eb"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "frame_effects": [
+      "convertdfc",
+      "legendary"
+    ],
+    "security_stamp": "triangle",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "universesbeyond"
+    ],
+    "edhrec_rank": 14400,
+    "preview": {
+      "source": "Wizards of the Coast",
+      "source_uri": "",
+      "previewed_at": "2022-10-01"
+    },
+    "prices": {
+      "usd": "0.60",
+      "usd_foil": "0.84",
+      "usd_etched": null,
+      "eur": "0.57",
+      "eur_foil": "0.50",
+      "tix": "1.66"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=587902&printed=false",
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUltra%2BMagnus%252C%2BTactician%2B%252F%252F%2BUltra%2BMagnus%252C%2BArmored%2BCarrier",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUltra%2BMagnus%252C%2BTactician%2B%252F%252F%2BUltra%2BMagnus%252C%2BArmored%2BCarrier",
+      "edhrec": "https://edhrec.com/route/?cc=Ultra+Magnus%2C+Tactician"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F448854%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=678568&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/105606?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

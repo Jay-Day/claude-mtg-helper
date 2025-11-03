@@ -1,0 +1,459 @@
+[
+  {
+    "object": "card",
+    "id": "2e20d047-0d43-4709-919c-0b0f714e9903",
+    "oracle_id": "967e5a03-e4b5-4334-82b6-6e43485271a0",
+    "multiverse_ids": [],
+    "tcgplayer_id": 155815,
+    "name": "Merfolk // Treasure",
+    "lang": "en",
+    "released_at": "2017-12-27",
+    "uri": "https://api.scryfall.com/cards/2e20d047-0d43-4709-919c-0b0f714e9903",
+    "scryfall_uri": "https://scryfall.com/card/f18/1/merfolk-treasure?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Merfolk // Token Artifact — Treasure",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Hexproof"
+    ],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Merfolk",
+        "mana_cost": "",
+        "type_line": "Token Creature — Merfolk",
+        "oracle_text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+        "colors": [
+          "U"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "artist": "Randy Gallegos",
+        "artist_id": "a5048cc7-438a-4378-98e4-da99b78e1db0",
+        "illustration_id": "d0ba16c4-81cc-4dad-8977-d6a77d78ef1f",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "normal": "https://cards.scryfall.io/normal/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "large": "https://cards.scryfall.io/large/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "png": "https://cards.scryfall.io/png/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.png?1665775974",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Treasure",
+        "mana_cost": "",
+        "type_line": "Token Artifact — Treasure",
+        "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+        "colors": [],
+        "artist": "Jason Felix",
+        "artist_id": "af42a44c-8ec3-47a7-9047-5d29ddad186d",
+        "illustration_id": "c417cef6-632a-473a-a828-331895904aa0",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "normal": "https://cards.scryfall.io/normal/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "large": "https://cards.scryfall.io/large/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "png": "https://cards.scryfall.io/png/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.png?1665775974",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/2/e/2e20d047-0d43-4709-919c-0b0f714e9903.jpg?1665775974"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": false,
+    "variation": false,
+    "set_id": "3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set": "f18",
+    "set_name": "Friday Night Magic 2018",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/2e20d047-0d43-4709-919c-0b0f714e9903/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A967e5a03-e4b5-4334-82b6-6e43485271a0&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Randy Gallegos & Jason Felix",
+    "artist_ids": [
+      "a5048cc7-438a-4378-98e4-da99b78e1db0",
+      "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.58",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMerfolk%2B%252F%252F%2BTreasure",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMerfolk%2B%252F%252F%2BTreasure",
+      "edhrec": "https://edhrec.com/route/?cc=Merfolk+%2F%2F+Treasure"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F155815%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Merfolk+%2F%2F+Treasure&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Merfolk+%2F%2F+Treasure&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "60ca146d-4e88-4e87-a775-9cfbc9e6b9f2",
+    "oracle_id": "07bd569f-d14f-4cd7-9614-5131234a032a",
+    "multiverse_ids": [],
+    "tcgplayer_id": 158252,
+    "name": "City's Blessing // Elemental",
+    "lang": "en",
+    "released_at": "2017-12-27",
+    "uri": "https://api.scryfall.com/cards/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2",
+    "scryfall_uri": "https://scryfall.com/card/f18/2/citys-blessing-elemental?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Card // Token Creature — Elemental",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "City's Blessing",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "",
+        "colors": [],
+        "flavor_text": "Once you have ascended to the highest temple of Orazca, the power of the Immortal Sun is yours to wield forever.",
+        "artist": "Yeong-Hao Han",
+        "artist_id": "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e",
+        "illustration_id": "8c1be4a0-ecd2-42ca-bb5e-712668e6a831",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "normal": "https://cards.scryfall.io/normal/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "large": "https://cards.scryfall.io/large/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "png": "https://cards.scryfall.io/png/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.png?1665775978",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Elemental",
+        "mana_cost": "",
+        "type_line": "Token Creature — Elemental",
+        "oracle_text": "At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.",
+        "colors": [],
+        "power": "0",
+        "toughness": "1",
+        "artist": "Jason Rainville",
+        "artist_id": "6ed7e669-579b-443d-b223-e5cbcb2a7483",
+        "illustration_id": "37071500-1a8d-4298-9202-1931cd2bb073",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "normal": "https://cards.scryfall.io/normal/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "large": "https://cards.scryfall.io/large/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "png": "https://cards.scryfall.io/png/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.png?1665775978",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/6/0/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2.jpg?1665775978"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": false,
+    "variation": false,
+    "set_id": "3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set": "f18",
+    "set_name": "Friday Night Magic 2018",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/60ca146d-4e88-4e87-a775-9cfbc9e6b9f2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A07bd569f-d14f-4cd7-9614-5131234a032a&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Yeong-Hao Han & Jason Rainville",
+    "artist_ids": [
+      "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e",
+      "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.63",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCity%2527s%2BBlessing%2B%252F%252F%2BElemental",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCity%2527s%2BBlessing%2B%252F%252F%2BElemental",
+      "edhrec": "https://edhrec.com/route/?cc=City%27s+Blessing+%2F%2F+Elemental"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F158252%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=City%27s+Blessing+%2F%2F+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=City%27s+Blessing+%2F%2F+Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5cf70d25-9de9-4c3a-a52f-be17831e5695",
+    "oracle_id": "8d39c8ca-df68-49cf-8e78-b38ccdad6c68",
+    "multiverse_ids": [],
+    "tcgplayer_id": 158253,
+    "name": "Illusion // Saproling",
+    "lang": "en",
+    "released_at": "2017-12-27",
+    "uri": "https://api.scryfall.com/cards/5cf70d25-9de9-4c3a-a52f-be17831e5695",
+    "scryfall_uri": "https://scryfall.com/card/f18/3/illusion-saproling?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Illusion // Token Creature — Saproling",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Illusion",
+        "mana_cost": "",
+        "type_line": "Token Creature — Illusion",
+        "oracle_text": "When this creature becomes the target of a spell, sacrifice it.",
+        "colors": [
+          "U"
+        ],
+        "power": "2",
+        "toughness": "2",
+        "artist": "Noah Bradley",
+        "artist_id": "81995d11-da98-4f8b-89bd-b88ca2ddb06b",
+        "illustration_id": "55329662-628d-4260-a572-b77f44b85dd3",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "normal": "https://cards.scryfall.io/normal/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "large": "https://cards.scryfall.io/large/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "png": "https://cards.scryfall.io/png/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.png?1665775982",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Saproling",
+        "mana_cost": "",
+        "type_line": "Token Creature — Saproling",
+        "oracle_text": "",
+        "colors": [
+          "G"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "artist": "Joseph Meehan",
+        "artist_id": "6befd6d5-7f8d-4b7c-87e3-5511391a3359",
+        "illustration_id": "0f6cf6eb-8f1f-4a7b-bcdf-8202c2384260",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "normal": "https://cards.scryfall.io/normal/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "large": "https://cards.scryfall.io/large/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "png": "https://cards.scryfall.io/png/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.png?1665775982",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/5/c/5cf70d25-9de9-4c3a-a52f-be17831e5695.jpg?1665775982"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": false,
+    "variation": false,
+    "set_id": "3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set": "f18",
+    "set_name": "Friday Night Magic 2018",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af18&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/f18?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5cf70d25-9de9-4c3a-a52f-be17831e5695/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8d39c8ca-df68-49cf-8e78-b38ccdad6c68&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "artist": "Noah Bradley & Joseph Meehan",
+    "artist_ids": [
+      "81995d11-da98-4f8b-89bd-b88ca2ddb06b",
+      "6befd6d5-7f8d-4b7c-87e3-5511391a3359"
+    ],
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "tourney",
+      "fnm"
+    ],
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.34",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIllusion%2B%252F%252F%2BSaproling",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIllusion%2B%252F%252F%2BSaproling",
+      "edhrec": "https://edhrec.com/route/?cc=Illusion+%2F%2F+Saproling"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F158253%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Illusion+%2F%2F+Saproling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Illusion+%2F%2F+Saproling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

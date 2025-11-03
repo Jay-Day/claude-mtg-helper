@@ -1,0 +1,759 @@
+[
+  {
+    "object": "card",
+    "id": "5c0a3339-6fde-41c1-aefd-18fdd6208718",
+    "oracle_id": "ae42fa8a-b0f6-43dc-a4c6-e2531890ca3a",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100184,
+    "cardmarket_id": 283443,
+    "name": "Honored Hierarch",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/5c0a3339-6fde-41c1-aefd-18fdd6208718",
+    "scryfall_uri": "https://scryfall.com/card/cp3/1/honored-hierarch?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.jpg?1561757230",
+      "normal": "https://cards.scryfall.io/normal/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.jpg?1561757230",
+      "large": "https://cards.scryfall.io/large/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.jpg?1561757230",
+      "png": "https://cards.scryfall.io/png/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.png?1561757230",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.jpg?1561757230",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c0a3339-6fde-41c1-aefd-18fdd6208718.jpg?1561757230"
+    },
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Druid",
+    "oracle_text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as this creature is renowned, it has vigilance and \"{T}: Add one mana of any color.\"",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Renown"
+    ],
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5c0a3339-6fde-41c1-aefd-18fdd6208718/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae42fa8a-b0f6-43dc-a4c6-e2531890ca3a&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Magali Villeneuve",
+    "artist_ids": [
+      "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    ],
+    "illustration_id": "60ce8ea1-61ec-4353-8784-97a14adb9512",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 16574,
+    "penny_rank": 5122,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.32",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.30",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHonored%2BHierarch",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHonored%2BHierarch",
+      "edhrec": "https://edhrec.com/route/?cc=Honored+Hierarch"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100184%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283443&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Honored+Hierarch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "b1e50811-048f-4dc6-a453-a5e36f3eb0a0",
+    "oracle_id": "e206842f-139b-490d-bc10-d365705ac720",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100182,
+    "cardmarket_id": 283445,
+    "name": "Seeker of the Way",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/b1e50811-048f-4dc6-a453-a5e36f3eb0a0",
+    "scryfall_uri": "https://scryfall.com/card/cp3/2/seeker-of-the-way?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837",
+      "normal": "https://cards.scryfall.io/normal/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837",
+      "large": "https://cards.scryfall.io/large/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837",
+      "png": "https://cards.scryfall.io/png/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.png?1561757837",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837"
+    },
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Warrior",
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, this creature gains lifelink until end of turn.",
+    "power": "2",
+    "toughness": "2",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Prowess"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/b1e50811-048f-4dc6-a453-a5e36f3eb0a0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae206842f-139b-490d-bc10-d365705ac720&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "\"I don't know where my destiny lies, but I know it isn't here.\"",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Magali Villeneuve",
+    "artist_ids": [
+      "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+    ],
+    "illustration_id": "20b4b302-ed1a-4bad-95f0-895b9dda0fa6",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 17192,
+    "penny_rank": 2096,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.24",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.33",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSeeker%2Bof%2Bthe%2BWay",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSeeker%2Bof%2Bthe%2BWay",
+      "edhrec": "https://edhrec.com/route/?cc=Seeker+of+the+Way"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100182%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283445&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Seeker+of+the+Way&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f482213a-4e3e-4e13-82a1-88e7d6c4ba2c",
+    "oracle_id": "1f938353-9081-4dc1-b8e7-d18ece038bd4",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100573,
+    "cardmarket_id": 283661,
+    "name": "Valorous Stance",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c",
+    "scryfall_uri": "https://scryfall.com/card/cp3/3/valorous-stance?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.jpg?1561758433",
+      "normal": "https://cards.scryfall.io/normal/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.jpg?1561758433",
+      "large": "https://cards.scryfall.io/large/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.jpg?1561758433",
+      "png": "https://cards.scryfall.io/png/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.png?1561758433",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.jpg?1561758433",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c.jpg?1561758433"
+    },
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Target creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)\n• Destroy target creature with toughness 4 or greater.",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f482213a-4e3e-4e13-82a1-88e7d6c4ba2c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f938353-9081-4dc1-b8e7-d18ece038bd4&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "\"Every choice alters the path of fate.\"\n—Sarkhan Vol",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Victor Adame Minguez",
+    "artist_ids": [
+      "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+    ],
+    "illustration_id": "e74ed951-509b-477b-860b-284ec4c9b723",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 2603,
+    "penny_rank": 5672,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.29",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.16",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DValorous%2BStance",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DValorous%2BStance",
+      "edhrec": "https://edhrec.com/route/?cc=Valorous+Stance"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100573%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283661&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Valorous+Stance&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "04e19ddc-0d13-4540-a399-73258f741bb2",
+    "oracle_id": "73520b5a-3d55-40c9-af60-90fdd811934f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100183,
+    "cardmarket_id": 283444,
+    "name": "Dromoka, the Eternal",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/04e19ddc-0d13-4540-a399-73258f741bb2",
+    "scryfall_uri": "https://scryfall.com/card/cp3/4/dromoka-the-eternal?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.jpg?1561756592",
+      "normal": "https://cards.scryfall.io/normal/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.jpg?1561756592",
+      "large": "https://cards.scryfall.io/large/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.jpg?1561756592",
+      "png": "https://cards.scryfall.io/png/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.png?1561756592",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.jpg?1561756592",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/4/04e19ddc-0d13-4540-a399-73258f741bb2.jpg?1561756592"
+    },
+    "mana_cost": "{3}{G}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Bolster",
+      "Flying"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/04e19ddc-0d13-4540-a399-73258f741bb2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A73520b5a-3d55-40c9-af60-90fdd811934f&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "\"The bane of countless shattered weapons, each a failure to slay her.\"\n—Daghatar the Adamant",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Slawomir Maniak",
+    "artist_ids": [
+      "d887bc66-2779-416c-a1ff-d8720242063e"
+    ],
+    "illustration_id": "571c9c07-1db7-439c-ab23-15104625453d",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 7958,
+    "penny_rank": 10762,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.65",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.62",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDromoka%252C%2Bthe%2BEternal",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDromoka%252C%2Bthe%2BEternal",
+      "edhrec": "https://edhrec.com/route/?cc=Dromoka%2C+the+Eternal"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100183%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283444&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dromoka%2C+the+Eternal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "5a232a87-f8d2-4c91-99ee-2060796df09b",
+    "oracle_id": "e1087ce2-e3c2-4ab1-bd08-1dc9ab70f12f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100571,
+    "cardmarket_id": 283662,
+    "name": "Siege Rhino",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/5a232a87-f8d2-4c91-99ee-2060796df09b",
+    "scryfall_uri": "https://scryfall.com/card/cp3/5/siege-rhino?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.jpg?1561757201",
+      "normal": "https://cards.scryfall.io/normal/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.jpg?1561757201",
+      "large": "https://cards.scryfall.io/large/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.jpg?1561757201",
+      "png": "https://cards.scryfall.io/png/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.png?1561757201",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.jpg?1561757201",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5a232a87-f8d2-4c91-99ee-2060796df09b.jpg?1561757201"
+    },
+    "mana_cost": "{1}{W}{B}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Rhino",
+    "oracle_text": "Trample\nWhen this creature enters, each opponent loses 3 life and you gain 3 life.",
+    "power": "4",
+    "toughness": "5",
+    "colors": [
+      "B",
+      "G",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d0fd49a5-ce30-4f87-8643-bd8670ed8eb1",
+        "component": "combo_piece",
+        "name": "Call the Crash",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/d0fd49a5-ce30-4f87-8643-bd8670ed8eb1"
+      },
+      {
+        "object": "related_card",
+        "id": "5a232a87-f8d2-4c91-99ee-2060796df09b",
+        "component": "combo_piece",
+        "name": "Siege Rhino",
+        "type_line": "Creature — Rhino",
+        "uri": "https://api.scryfall.com/cards/5a232a87-f8d2-4c91-99ee-2060796df09b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/5a232a87-f8d2-4c91-99ee-2060796df09b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1087ce2-e3c2-4ab1-bd08-1dc9ab70f12f&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "rare",
+    "flavor_text": "The mere approach of an Abzan war beast is enough to send enemies fleeing in panic.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Kev Walker",
+    "artist_ids": [
+      "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+    ],
+    "illustration_id": "55a0ffca-5374-458c-ba51-a62c1f470bd1",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 14385,
+    "penny_rank": 718,
+    "prices": {
+      "usd": null,
+      "usd_foil": "0.44",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.47",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSiege%2BRhino",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSiege%2BRhino",
+      "edhrec": "https://edhrec.com/route/?cc=Siege+Rhino"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100571%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283662&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Siege+Rhino&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7ce265fa-1b23-4d03-8675-6c9447d31115",
+    "oracle_id": "544dbabd-cbfc-40da-a5ba-2fea9cddb453",
+    "multiverse_ids": [],
+    "tcgplayer_id": 100572,
+    "cardmarket_id": 283663,
+    "name": "Sandsteppe Citadel",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/7ce265fa-1b23-4d03-8675-6c9447d31115",
+    "scryfall_uri": "https://scryfall.com/card/cp3/6/sandsteppe-citadel?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.jpg?1561757459",
+      "normal": "https://cards.scryfall.io/normal/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.jpg?1561757459",
+      "large": "https://cards.scryfall.io/large/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.jpg?1561757459",
+      "png": "https://cards.scryfall.io/png/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.png?1561757459",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.jpg?1561757459",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7ce265fa-1b23-4d03-8675-6c9447d31115.jpg?1561757459"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {W}, {B}, or {G}.",
+    "colors": [],
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "B",
+      "G",
+      "W"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "not_legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set": "cp3",
+    "set_name": "Magic Origins Clash Pack",
+    "set_type": "starter",
+    "set_uri": "https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/cp3?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7ce265fa-1b23-4d03-8675-6c9447d31115/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A544dbabd-cbfc-40da-a5ba-2fea9cddb453&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "uncommon",
+    "flavor_text": "That which endures, survives.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "John Avon",
+    "artist_ids": [
+      "798f3932-30e0-4420-aa3f-db4d613f89ca"
+    ],
+    "illustration_id": "04510457-02c9-4708-9bbf-15e5e36828c7",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "edhrec_rank": 512,
+    "penny_rank": 489,
+    "prices": {
+      "usd": null,
+      "usd_foil": "1.11",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "0.52",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSandsteppe%2BCitadel",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSandsteppe%2BCitadel",
+      "edhrec": "https://edhrec.com/route/?cc=Sandsteppe+Citadel"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F100572%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=283663&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sandsteppe+Citadel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

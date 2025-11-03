@@ -1,0 +1,676 @@
+[
+  {
+    "object": "card",
+    "id": "a2ff8a87-b07d-436f-9e0b-86ef6aa918d2",
+    "oracle_id": "1d5ff280-7f4d-4801-aefd-9b6e6b1f2818",
+    "multiverse_ids": [],
+    "tcgplayer_id": 70708,
+    "cardmarket_id": 263498,
+    "name": "Ajani, Caller of the Pride",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2",
+    "scryfall_uri": "https://scryfall.com/card/psdc/1%E2%98%85/ajani-caller-of-the-pride?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.jpg?1739043886",
+      "normal": "https://cards.scryfall.io/normal/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.jpg?1739043886",
+      "large": "https://cards.scryfall.io/large/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.jpg?1739043886",
+      "png": "https://cards.scryfall.io/png/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.png?1739043886",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.jpg?1739043886",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2.jpg?1739043886"
+    },
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Ajani",
+    "oracle_text": "+1: Put a +1/+1 counter on up to one target creature.\n−3: Target creature gains flying and double strike until end of turn.\n−8: Create X 2/2 white Cat creature tokens, where X is your life total.",
+    "loyalty": "4",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "a2ff8a87-b07d-436f-9e0b-86ef6aa918d2",
+        "component": "combo_piece",
+        "name": "Ajani, Caller of the Pride",
+        "type_line": "Legendary Planeswalker — Ajani",
+        "uri": "https://api.scryfall.com/cards/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2"
+      },
+      {
+        "object": "related_card",
+        "id": "d16213b5-c0da-4a24-9f2e-b9432652859e",
+        "component": "token",
+        "name": "Cat",
+        "type_line": "Token Creature — Cat",
+        "uri": "https://api.scryfall.com/cards/d16213b5-c0da-4a24-9f2e-b9432652859e"
+      }
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set": "psdc",
+    "set_name": "San Diego Comic-Con 2013",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/psdc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/a2ff8a87-b07d-436f-9e0b-86ef6aa918d2/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1d5ff280-7f4d-4801-aefd-9b6e6b1f2818&unique=prints",
+    "collector_number": "1★",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steve Prescott",
+    "artist_ids": [
+      "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+    ],
+    "illustration_id": "33ea2cc6-3fba-47d3-915e-4a2bad08ef5a",
+    "border_color": "black",
+    "frame": "2003",
+    "frame_effects": [
+      "inverted"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 4582,
+    "penny_rank": 3009,
+    "prices": {
+      "usd": null,
+      "usd_foil": "174.00",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "136.86",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BCaller%2Bof%2Bthe%2BPride",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BCaller%2Bof%2Bthe%2BPride",
+      "edhrec": "https://edhrec.com/route/?cc=Ajani%2C+Caller+of+the+Pride"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F70708%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263498&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ajani%2C+Caller+of+the+Pride&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ca17ab95-2799-4822-a345-d81dc2c8dba9",
+    "oracle_id": "4a4dc133-541f-456b-a95f-3d707e1c95e9",
+    "multiverse_ids": [],
+    "tcgplayer_id": 70707,
+    "cardmarket_id": 263499,
+    "name": "Jace, Memory Adept",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/ca17ab95-2799-4822-a345-d81dc2c8dba9",
+    "scryfall_uri": "https://scryfall.com/card/psdc/60%E2%98%85/jace-memory-adept?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.jpg?1739043883",
+      "normal": "https://cards.scryfall.io/normal/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.jpg?1739043883",
+      "large": "https://cards.scryfall.io/large/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.jpg?1739043883",
+      "png": "https://cards.scryfall.io/png/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.png?1739043883",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.jpg?1739043883",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/ca17ab95-2799-4822-a345-d81dc2c8dba9.jpg?1739043883"
+    },
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Jace",
+    "oracle_text": "+1: Draw a card. Target player mills a card.\n0: Target player mills ten cards.\n−7: Any number of target players each draw twenty cards.",
+    "loyalty": "4",
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set": "psdc",
+    "set_name": "San Diego Comic-Con 2013",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/psdc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ca17ab95-2799-4822-a345-d81dc2c8dba9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a4dc133-541f-456b-a95f-3d707e1c95e9&unique=prints",
+    "collector_number": "60★",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steve Prescott",
+    "artist_ids": [
+      "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+    ],
+    "illustration_id": "1cbae437-43a7-4e0d-84cb-6e7a6b295c62",
+    "border_color": "black",
+    "frame": "2003",
+    "frame_effects": [
+      "inverted"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 5659,
+    "penny_rank": 1236,
+    "prices": {
+      "usd": null,
+      "usd_foil": "81.81",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "119.23",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJace%252C%2BMemory%2BAdept",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJace%252C%2BMemory%2BAdept",
+      "edhrec": "https://edhrec.com/route/?cc=Jace%2C+Memory+Adept"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F70707%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263499&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%2C+Memory+Adept&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "15c0c1eb-09ac-4d07-aeef-181af9f2a1ca",
+    "oracle_id": "92301066-8904-41bc-84bd-4aa286cbab9c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 70710,
+    "cardmarket_id": 263500,
+    "name": "Liliana of the Dark Realms",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca",
+    "scryfall_uri": "https://scryfall.com/card/psdc/102%E2%98%85/liliana-of-the-dark-realms?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.jpg?1739043880",
+      "normal": "https://cards.scryfall.io/normal/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.jpg?1739043880",
+      "large": "https://cards.scryfall.io/large/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.jpg?1739043880",
+      "png": "https://cards.scryfall.io/png/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.png?1739043880",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.jpg?1739043880",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/5/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca.jpg?1739043880"
+    },
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Liliana",
+    "oracle_text": "+1: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n−3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n−6: You get an emblem with \"Swamps you control have '{T}: Add {B}{B}{B}{B}.'\"",
+    "loyalty": "3",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "produced_mana": [
+      "B"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "15c0c1eb-09ac-4d07-aeef-181af9f2a1ca",
+        "component": "combo_piece",
+        "name": "Liliana of the Dark Realms",
+        "type_line": "Legendary Planeswalker — Liliana",
+        "uri": "https://api.scryfall.com/cards/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca"
+      },
+      {
+        "object": "related_card",
+        "id": "f327de6e-c9f1-478d-9940-b500df8cef10",
+        "component": "combo_piece",
+        "name": "Liliana of the Dark Realms Emblem",
+        "type_line": "Emblem — Liliana",
+        "uri": "https://api.scryfall.com/cards/f327de6e-c9f1-478d-9940-b500df8cef10"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set": "psdc",
+    "set_name": "San Diego Comic-Con 2013",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/psdc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/15c0c1eb-09ac-4d07-aeef-181af9f2a1ca/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92301066-8904-41bc-84bd-4aa286cbab9c&unique=prints",
+    "collector_number": "102★",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steve Prescott",
+    "artist_ids": [
+      "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+    ],
+    "illustration_id": "cff7bf06-cda3-4df5-8eab-41d151f72008",
+    "border_color": "black",
+    "frame": "2003",
+    "frame_effects": [
+      "inverted"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 2182,
+    "penny_rank": 3312,
+    "prices": {
+      "usd": null,
+      "usd_foil": "295.31",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "414.16",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%2Bof%2Bthe%2BDark%2BRealms",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%2Bof%2Bthe%2BDark%2BRealms",
+      "edhrec": "https://edhrec.com/route/?cc=Liliana+of+the+Dark+Realms"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F70710%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263500&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Liliana+of+the+Dark+Realms&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "53ce8381-4cbb-4bf9-bdac-3b2375a46340",
+    "oracle_id": "68e12748-9a7b-4e99-a6de-be097a269342",
+    "multiverse_ids": [],
+    "tcgplayer_id": 70709,
+    "cardmarket_id": 263497,
+    "name": "Chandra, Pyromaster",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/53ce8381-4cbb-4bf9-bdac-3b2375a46340",
+    "scryfall_uri": "https://scryfall.com/card/psdc/132%E2%98%85/chandra-pyromaster?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.jpg?1739043877",
+      "normal": "https://cards.scryfall.io/normal/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.jpg?1739043877",
+      "large": "https://cards.scryfall.io/large/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.jpg?1739043877",
+      "png": "https://cards.scryfall.io/png/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.png?1739043877",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.jpg?1739043877",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53ce8381-4cbb-4bf9-bdac-3b2375a46340.jpg?1739043877"
+    },
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Planeswalker — Chandra",
+    "oracle_text": "+1: Chandra deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n0: Exile the top card of your library. You may play it this turn.\n−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+    "loyalty": "4",
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set": "psdc",
+    "set_name": "San Diego Comic-Con 2013",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/psdc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/53ce8381-4cbb-4bf9-bdac-3b2375a46340/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68e12748-9a7b-4e99-a6de-be097a269342&unique=prints",
+    "collector_number": "132★",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steve Prescott",
+    "artist_ids": [
+      "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+    ],
+    "illustration_id": "72b0e884-3d35-4f71-a2aa-ddfef068f4b1",
+    "border_color": "black",
+    "frame": "2003",
+    "frame_effects": [
+      "inverted"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 11530,
+    "penny_rank": 633,
+    "prices": {
+      "usd": null,
+      "usd_foil": "97.32",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "126.43",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BPyromaster",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChandra%252C%2BPyromaster",
+      "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Pyromaster"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F70709%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263497&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Pyromaster&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "d61f670e-8e4c-493f-bef0-c4c7b0bcd288",
+    "oracle_id": "8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18",
+    "multiverse_ids": [],
+    "tcgplayer_id": 70711,
+    "cardmarket_id": 263496,
+    "name": "Garruk, Caller of Beasts",
+    "lang": "en",
+    "released_at": "2013-07-18",
+    "uri": "https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288",
+    "scryfall_uri": "https://scryfall.com/card/psdc/172%E2%98%85/garruk-caller-of-beasts?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1739043866",
+      "normal": "https://cards.scryfall.io/normal/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1739043866",
+      "large": "https://cards.scryfall.io/large/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1739043866",
+      "png": "https://cards.scryfall.io/png/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.png?1739043866",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1739043866",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d61f670e-8e4c-493f-bef0-c4c7b0bcd288.jpg?1739043866"
+    },
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Planeswalker — Garruk",
+    "oracle_text": "+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.\n−3: You may put a green creature card from your hand onto the battlefield.\n−7: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle.\"",
+    "loyalty": "4",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "d61f670e-8e4c-493f-bef0-c4c7b0bcd288",
+        "component": "combo_piece",
+        "name": "Garruk, Caller of Beasts",
+        "type_line": "Legendary Planeswalker — Garruk",
+        "uri": "https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288"
+      },
+      {
+        "object": "related_card",
+        "id": "d16429cb-9b00-4411-9ffc-252b38ad0b8c",
+        "component": "combo_piece",
+        "name": "Garruk, Caller of Beasts Emblem",
+        "type_line": "Emblem — Garruk",
+        "uri": "https://api.scryfall.com/cards/d16429cb-9b00-4411-9ffc-252b38ad0b8c"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "not_legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "not_legal",
+      "brawl": "legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": true,
+    "nonfoil": false,
+    "finishes": [
+      "foil"
+    ],
+    "oversized": false,
+    "promo": true,
+    "reprint": true,
+    "variation": false,
+    "set_id": "19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set": "psdc",
+    "set_name": "San Diego Comic-Con 2013",
+    "set_type": "promo",
+    "set_uri": "https://api.scryfall.com/sets/19132aaf-ed11-4985-9cac-a8dc58827701",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apsdc&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/psdc?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d61f670e-8e4c-493f-bef0-c4c7b0bcd288/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e2fbc26-5373-4fd7-8e9e-41af5bb9ff18&unique=prints",
+    "collector_number": "172★",
+    "digital": false,
+    "rarity": "mythic",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Steve Prescott",
+    "artist_ids": [
+      "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+    ],
+    "illustration_id": "b82e4b55-744b-4baf-b7aa-e42c573a020b",
+    "border_color": "black",
+    "frame": "2003",
+    "frame_effects": [
+      "inverted"
+    ],
+    "full_art": false,
+    "textless": false,
+    "booster": false,
+    "story_spotlight": false,
+    "promo_types": [
+      "convention"
+    ],
+    "edhrec_rank": 9049,
+    "penny_rank": 5354,
+    "prices": {
+      "usd": null,
+      "usd_foil": "78.68",
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": "64.19",
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BCaller%2Bof%2BBeasts",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGarruk%252C%2BCaller%2Bof%2BBeasts",
+      "edhrec": "https://edhrec.com/route/?cc=Garruk%2C+Caller+of+Beasts"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F70711%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=263496&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Garruk%2C+Caller+of+Beasts&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

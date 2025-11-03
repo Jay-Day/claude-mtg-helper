@@ -1,0 +1,1778 @@
+[
+  {
+    "object": "card",
+    "id": "71dc8556-a658-40e1-8a93-6a62af208a28",
+    "oracle_id": "28f3c157-e004-4fd3-9302-f18ab0bf18ed",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136731,
+    "name": "Adorned Pouncer",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/71dc8556-a658-40e1-8a93-6a62af208a28",
+    "scryfall_uri": "https://scryfall.com/card/thou/1/adorned-pouncer?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg?1562639859",
+      "normal": "https://cards.scryfall.io/normal/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg?1562639859",
+      "large": "https://cards.scryfall.io/large/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg?1562639859",
+      "png": "https://cards.scryfall.io/png/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.png?1562639859",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg?1562639859",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/71dc8556-a658-40e1-8a93-6a62af208a28.jpg?1562639859"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Cat",
+    "oracle_text": "Double strike",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Double strike"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "71dc8556-a658-40e1-8a93-6a62af208a28",
+        "component": "token",
+        "name": "Adorned Pouncer",
+        "type_line": "Token Creature — Zombie Cat",
+        "uri": "https://api.scryfall.com/cards/71dc8556-a658-40e1-8a93-6a62af208a28"
+      },
+      {
+        "object": "related_card",
+        "id": "db0e4d61-dda4-479a-acf8-e7f1ded26baa",
+        "component": "combo_piece",
+        "name": "Adorned Pouncer",
+        "type_line": "Creature — Cat",
+        "uri": "https://api.scryfall.com/cards/db0e4d61-dda4-479a-acf8-e7f1ded26baa"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/71dc8556-a658-40e1-8a93-6a62af208a28/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28f3c157-e004-4fd3-9302-f18ab0bf18ed&unique=prints",
+    "collector_number": "1",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Slawomir Maniak",
+    "artist_ids": [
+      "d887bc66-2779-416c-a1ff-d8720242063e"
+    ],
+    "illustration_id": "37564857-98ea-437a-b61f-a9eabfb5b48f",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.68",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAdorned%2BPouncer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAdorned%2BPouncer",
+      "edhrec": "https://edhrec.com/route/?cc=Adorned+Pouncer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136731%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Adorned+Pouncer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Adorned+Pouncer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "65eebe6c-5bc9-463c-b74c-eae79fc3c1b6",
+    "oracle_id": "0ea13867-97bd-4b0b-87dd-02003244f027",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136732,
+    "name": "Champion of Wits",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6",
+    "scryfall_uri": "https://scryfall.com/card/thou/2/champion-of-wits?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763",
+      "normal": "https://cards.scryfall.io/normal/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763",
+      "large": "https://cards.scryfall.io/large/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763",
+      "png": "https://cards.scryfall.io/png/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.png?1746945763",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6.jpg?1746945763"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Naga Wizard",
+    "oracle_text": "When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "65eebe6c-5bc9-463c-b74c-eae79fc3c1b6",
+        "component": "token",
+        "name": "Champion of Wits",
+        "type_line": "Token Creature — Zombie Naga Wizard",
+        "uri": "https://api.scryfall.com/cards/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6"
+      },
+      {
+        "object": "related_card",
+        "id": "d945177b-a94f-4d05-8d4c-d03afb04acf5",
+        "component": "token",
+        "name": "Champion of Wits",
+        "type_line": "Token Creature — Zombie Snake Wizard",
+        "uri": "https://api.scryfall.com/cards/d945177b-a94f-4d05-8d4c-d03afb04acf5"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/65eebe6c-5bc9-463c-b74c-eae79fc3c1b6/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ea13867-97bd-4b0b-87dd-02003244f027&unique=prints",
+    "collector_number": "2",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Even Amundsen",
+    "artist_ids": [
+      "127faa6a-6c02-49a0-beba-ae76d06dd153"
+    ],
+    "illustration_id": "b43cfafb-152f-42bc-9c5c-dc8a4f9c1353",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.18",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChampion%2Bof%2BWits",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChampion%2Bof%2BWits",
+      "edhrec": "https://edhrec.com/route/?cc=Champion+of+Wits"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136732%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Champion+of+Wits&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Champion+of+Wits&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "8c362d05-f2f7-4415-8937-f9f368986e61",
+    "oracle_id": "fb13e45e-138f-4507-b6bd-e1c9027d2a7c",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136733,
+    "name": "Dreamstealer",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/8c362d05-f2f7-4415-8937-f9f368986e61",
+    "scryfall_uri": "https://scryfall.com/card/thou/3/dreamstealer?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg?1562639915",
+      "normal": "https://cards.scryfall.io/normal/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg?1562639915",
+      "large": "https://cards.scryfall.io/large/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg?1562639915",
+      "png": "https://cards.scryfall.io/png/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.png?1562639915",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg?1562639915",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c362d05-f2f7-4415-8937-f9f368986e61.jpg?1562639915"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Human Wizard",
+    "oracle_text": "Menace\nWhenever Dreamstealer deals combat damage to a player, that player discards that many cards.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "888bbabf-ba52-42cf-a068-db8246f10517",
+        "component": "combo_piece",
+        "name": "Dreamstealer",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/888bbabf-ba52-42cf-a068-db8246f10517"
+      },
+      {
+        "object": "related_card",
+        "id": "8c362d05-f2f7-4415-8937-f9f368986e61",
+        "component": "token",
+        "name": "Dreamstealer",
+        "type_line": "Token Creature — Zombie Human Wizard",
+        "uri": "https://api.scryfall.com/cards/8c362d05-f2f7-4415-8937-f9f368986e61"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8c362d05-f2f7-4415-8937-f9f368986e61/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb13e45e-138f-4507-b6bd-e1c9027d2a7c&unique=prints",
+    "collector_number": "3",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Yongjae Choi",
+    "artist_ids": [
+      "5ab91c3b-a6da-4751-a56e-81d0f61a67ab"
+    ],
+    "illustration_id": "cd4f787e-8b0d-416c-a064-315f7ab76d6b",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.18",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDreamstealer",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDreamstealer",
+      "edhrec": "https://edhrec.com/route/?cc=Dreamstealer"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136733%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dreamstealer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dreamstealer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c4bb3bd7-5aef-495e-81ba-f5d287981dbd",
+    "oracle_id": "7c60d7b2-fdc9-4e4f-92e7-9790905cfcb4",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136734,
+    "name": "Earthshaker Khenra",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/c4bb3bd7-5aef-495e-81ba-f5d287981dbd",
+    "scryfall_uri": "https://scryfall.com/card/thou/4/earthshaker-khenra?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.jpg?1562640030",
+      "normal": "https://cards.scryfall.io/normal/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.jpg?1562640030",
+      "large": "https://cards.scryfall.io/large/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.jpg?1562640030",
+      "png": "https://cards.scryfall.io/png/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.png?1562640030",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.jpg?1562640030",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c4bb3bd7-5aef-495e-81ba-f5d287981dbd.jpg?1562640030"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Jackal Warrior",
+    "oracle_text": "Haste\nWhen Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Haste"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "c4bb3bd7-5aef-495e-81ba-f5d287981dbd",
+        "component": "token",
+        "name": "Earthshaker Khenra",
+        "type_line": "Token Creature — Zombie Jackal Warrior",
+        "uri": "https://api.scryfall.com/cards/c4bb3bd7-5aef-495e-81ba-f5d287981dbd"
+      },
+      {
+        "object": "related_card",
+        "id": "064310bd-4a37-4774-b3b4-e7a163571040",
+        "component": "combo_piece",
+        "name": "Earthshaker Khenra",
+        "type_line": "Creature — Jackal Warrior",
+        "uri": "https://api.scryfall.com/cards/064310bd-4a37-4774-b3b4-e7a163571040"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c4bb3bd7-5aef-495e-81ba-f5d287981dbd/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c60d7b2-fdc9-4e4f-92e7-9790905cfcb4&unique=prints",
+    "collector_number": "4",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Jason A. Engle",
+    "artist_ids": [
+      "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+    ],
+    "illustration_id": "77f070d5-ff7c-4b82-9d0f-a9f810e6553d",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.22",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEarthshaker%2BKhenra",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEarthshaker%2BKhenra",
+      "edhrec": "https://edhrec.com/route/?cc=Earthshaker+Khenra"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136734%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Earthshaker+Khenra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Earthshaker+Khenra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19",
+    "oracle_id": "1dea6957-aa6b-42b4-be21-8dc5e01d68e2",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136737,
+    "name": "Proven Combatant",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19",
+    "scryfall_uri": "https://scryfall.com/card/thou/5/proven-combatant?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879",
+      "normal": "https://cards.scryfall.io/normal/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879",
+      "large": "https://cards.scryfall.io/large/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879",
+      "png": "https://cards.scryfall.io/png/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.png?1562639879",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Human Warrior",
+    "oracle_text": "",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19",
+        "component": "token",
+        "name": "Proven Combatant",
+        "type_line": "Token Creature — Zombie Human Warrior",
+        "uri": "https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19"
+      },
+      {
+        "object": "related_card",
+        "id": "d83fd08a-c87b-4e29-bd1d-31dea3732156",
+        "component": "combo_piece",
+        "name": "Proven Combatant",
+        "type_line": "Creature — Human Warrior",
+        "uri": "https://api.scryfall.com/cards/d83fd08a-c87b-4e29-bd1d-31dea3732156"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1dea6957-aa6b-42b4-be21-8dc5e01d68e2&unique=prints",
+    "collector_number": "5",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Clint Cearley",
+    "artist_ids": [
+      "03b75350-d5a0-4e3a-b3b4-8d4a5554385b"
+    ],
+    "illustration_id": "2abcec18-f4a0-4eca-b7b9-7ea6729a29a5",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.06",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProven%2BCombatant",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProven%2BCombatant",
+      "edhrec": "https://edhrec.com/route/?cc=Proven+Combatant"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136737%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Proven+Combatant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Proven+Combatant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "c1326c5d-b5a5-4942-b15d-37830ac62c7d",
+    "oracle_id": "5bbd780b-cc80-4000-a357-7c341a9d45f1",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136739,
+    "name": "Resilient Khenra",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/c1326c5d-b5a5-4942-b15d-37830ac62c7d",
+    "scryfall_uri": "https://scryfall.com/card/thou/6/resilient-khenra?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.jpg?1562640026",
+      "normal": "https://cards.scryfall.io/normal/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.jpg?1562640026",
+      "large": "https://cards.scryfall.io/large/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.jpg?1562640026",
+      "png": "https://cards.scryfall.io/png/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.png?1562640026",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.jpg?1562640026",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1326c5d-b5a5-4942-b15d-37830ac62c7d.jpg?1562640026"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Jackal Wizard",
+    "oracle_text": "When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "c1326c5d-b5a5-4942-b15d-37830ac62c7d",
+        "component": "token",
+        "name": "Resilient Khenra",
+        "type_line": "Token Creature — Zombie Jackal Wizard",
+        "uri": "https://api.scryfall.com/cards/c1326c5d-b5a5-4942-b15d-37830ac62c7d"
+      },
+      {
+        "object": "related_card",
+        "id": "36a0893f-c767-4351-91e4-3c1b98eb30e7",
+        "component": "combo_piece",
+        "name": "Resilient Khenra",
+        "type_line": "Creature — Jackal Wizard",
+        "uri": "https://api.scryfall.com/cards/36a0893f-c767-4351-91e4-3c1b98eb30e7"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/c1326c5d-b5a5-4942-b15d-37830ac62c7d/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5bbd780b-cc80-4000-a357-7c341a9d45f1&unique=prints",
+    "collector_number": "6",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Svetlin Velinov",
+    "artist_ids": [
+      "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+    ],
+    "illustration_id": "e87c9dc8-c98f-484b-b0ef-3c93267317fd",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.10",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DResilient%2BKhenra",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DResilient%2BKhenra",
+      "edhrec": "https://edhrec.com/route/?cc=Resilient+Khenra"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136739%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Resilient+Khenra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Resilient+Khenra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "513f2ce9-0127-4479-b37a-a835fbada8f8",
+    "oracle_id": "e1aad66e-6db6-4032-9c93-0f1db1f14cf2",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136738,
+    "name": "Sinuous Striker",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/513f2ce9-0127-4479-b37a-a835fbada8f8",
+    "scryfall_uri": "https://scryfall.com/card/thou/7/sinuous-striker?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735",
+      "normal": "https://cards.scryfall.io/normal/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735",
+      "large": "https://cards.scryfall.io/large/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735",
+      "png": "https://cards.scryfall.io/png/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.png?1746945735",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/513f2ce9-0127-4479-b37a-a835fbada8f8.jpg?1746945735"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Naga Warrior",
+    "oracle_text": "{U}: Sinuous Striker gets +1/-1 until end of turn.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "ed2b97d1-3e69-4305-b1df-947ff64c5043",
+        "component": "combo_piece",
+        "name": "Sinuous Striker",
+        "type_line": "Creature — Snake Warrior",
+        "uri": "https://api.scryfall.com/cards/ed2b97d1-3e69-4305-b1df-947ff64c5043"
+      },
+      {
+        "object": "related_card",
+        "id": "513f2ce9-0127-4479-b37a-a835fbada8f8",
+        "component": "token",
+        "name": "Sinuous Striker",
+        "type_line": "Token Creature — Zombie Naga Warrior",
+        "uri": "https://api.scryfall.com/cards/513f2ce9-0127-4479-b37a-a835fbada8f8"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/513f2ce9-0127-4479-b37a-a835fbada8f8/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1aad66e-6db6-4032-9c93-0f1db1f14cf2&unique=prints",
+    "collector_number": "7",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Svetlin Velinov",
+    "artist_ids": [
+      "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+    ],
+    "illustration_id": "a6d5ea11-92d0-4b9e-be17-cf58a4902f6b",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.04",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSinuous%2BStriker",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSinuous%2BStriker",
+      "edhrec": "https://edhrec.com/route/?cc=Sinuous+Striker"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136738%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sinuous+Striker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sinuous+Striker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "872694ba-0666-43c1-8884-47a2e92a127c",
+    "oracle_id": "bf666b41-603d-4b0f-850d-81d7a4de06e4",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136741,
+    "name": "Steadfast Sentinel",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/872694ba-0666-43c1-8884-47a2e92a127c",
+    "scryfall_uri": "https://scryfall.com/card/thou/8/steadfast-sentinel?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897",
+      "normal": "https://cards.scryfall.io/normal/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897",
+      "large": "https://cards.scryfall.io/large/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897",
+      "png": "https://cards.scryfall.io/png/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.png?1562639897",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/872694ba-0666-43c1-8884-47a2e92a127c.jpg?1562639897"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Human Cleric",
+    "oracle_text": "Vigilance",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "707a30d2-0fca-4b39-91fb-9b03152705ba",
+        "component": "combo_piece",
+        "name": "Steadfast Sentinel",
+        "type_line": "Creature — Human Cleric",
+        "uri": "https://api.scryfall.com/cards/707a30d2-0fca-4b39-91fb-9b03152705ba"
+      },
+      {
+        "object": "related_card",
+        "id": "872694ba-0666-43c1-8884-47a2e92a127c",
+        "component": "token",
+        "name": "Steadfast Sentinel",
+        "type_line": "Token Creature — Zombie Human Cleric",
+        "uri": "https://api.scryfall.com/cards/872694ba-0666-43c1-8884-47a2e92a127c"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/872694ba-0666-43c1-8884-47a2e92a127c/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abf666b41-603d-4b0f-850d-81d7a4de06e4&unique=prints",
+    "collector_number": "8",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Karl Kopinski",
+    "artist_ids": [
+      "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+    ],
+    "illustration_id": "6da7d953-07d4-4974-a4c5-b9ba7de25809",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.10",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSteadfast%2BSentinel",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSteadfast%2BSentinel",
+      "edhrec": "https://edhrec.com/route/?cc=Steadfast+Sentinel"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136741%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Steadfast+Sentinel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Steadfast+Sentinel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "289a9593-151e-47d0-b0de-5eb9f061515a",
+    "oracle_id": "caf97aba-584f-436d-9f3e-7aecefc96b89",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136742,
+    "name": "Sunscourge Champion",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/289a9593-151e-47d0-b0de-5eb9f061515a",
+    "scryfall_uri": "https://scryfall.com/card/thou/9/sunscourge-champion?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.jpg?1562639722",
+      "normal": "https://cards.scryfall.io/normal/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.jpg?1562639722",
+      "large": "https://cards.scryfall.io/large/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.jpg?1562639722",
+      "png": "https://cards.scryfall.io/png/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.png?1562639722",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.jpg?1562639722",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/289a9593-151e-47d0-b0de-5eb9f061515a.jpg?1562639722"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Zombie Human Wizard",
+    "oracle_text": "When Sunscourge Champion enters the battlefield, you gain life equal to its power.",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "289a9593-151e-47d0-b0de-5eb9f061515a",
+        "component": "token",
+        "name": "Sunscourge Champion",
+        "type_line": "Token Creature — Zombie Human Wizard",
+        "uri": "https://api.scryfall.com/cards/289a9593-151e-47d0-b0de-5eb9f061515a"
+      },
+      {
+        "object": "related_card",
+        "id": "f0bb41cc-6edb-4a31-92cb-b17850b49432",
+        "component": "combo_piece",
+        "name": "Sunscourge Champion",
+        "type_line": "Creature — Human Wizard",
+        "uri": "https://api.scryfall.com/cards/f0bb41cc-6edb-4a31-92cb-b17850b49432"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/289a9593-151e-47d0-b0de-5eb9f061515a/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acaf97aba-584f-436d-9f3e-7aecefc96b89&unique=prints",
+    "collector_number": "9",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Josu Hernaiz",
+    "artist_ids": [
+      "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+    ],
+    "illustration_id": "81abae89-6c27-4b7c-b72b-71fc09a3e080",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.08",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSunscourge%2BChampion",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSunscourge%2BChampion",
+      "edhrec": "https://edhrec.com/route/?cc=Sunscourge+Champion"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136742%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sunscourge+Champion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sunscourge+Champion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b",
+    "oracle_id": "e8ca1b87-27c4-41a7-ba45-ee1873712019",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136735,
+    "name": "Horse",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b",
+    "scryfall_uri": "https://scryfall.com/card/thou/10/horse?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.jpg?1562640130",
+      "normal": "https://cards.scryfall.io/normal/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.jpg?1562640130",
+      "large": "https://cards.scryfall.io/large/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.jpg?1562640130",
+      "png": "https://cards.scryfall.io/png/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.png?1562640130",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.jpg?1562640130",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b.jpg?1562640130"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Horse",
+    "oracle_text": "",
+    "power": "5",
+    "toughness": "5",
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "be89891e-c9c5-4c49-a6c6-8b5ee68e2efa",
+        "component": "combo_piece",
+        "name": "Crested Sunmare",
+        "type_line": "Creature — Horse",
+        "uri": "https://api.scryfall.com/cards/be89891e-c9c5-4c49-a6c6-8b5ee68e2efa"
+      },
+      {
+        "object": "related_card",
+        "id": "f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b",
+        "component": "token",
+        "name": "Horse",
+        "type_line": "Token Creature — Horse",
+        "uri": "https://api.scryfall.com/cards/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f3dd4d92-6471-4f4b-9c70-cbd2196e8c7b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8ca1b87-27c4-41a7-ba45-ee1873712019&unique=prints",
+    "collector_number": "10",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lucas Graciano",
+    "artist_ids": [
+      "ce98f39c-7cdd-47e6-a520-6c50443bb4c2"
+    ],
+    "illustration_id": "322d9e38-b829-4123-a6d0-85b7690d5ab4",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "1.23",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHorse",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHorse",
+      "edhrec": "https://edhrec.com/route/?cc=Horse"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136735%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Horse&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Horse&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "57708b3d-ddfb-4924-b5c9-123aa9e967ad",
+    "oracle_id": "db9b6c56-b4bd-4d6c-abfe-4771e53ce072",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136740,
+    "name": "Snake",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/57708b3d-ddfb-4924-b5c9-123aa9e967ad",
+    "scryfall_uri": "https://scryfall.com/card/thou/11/snake?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813",
+      "normal": "https://cards.scryfall.io/normal/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813",
+      "large": "https://cards.scryfall.io/large/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813",
+      "png": "https://cards.scryfall.io/png/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.png?1562639813",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57708b3d-ddfb-4924-b5c9-123aa9e967ad.jpg?1562639813"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Snake",
+    "oracle_text": "",
+    "power": "5",
+    "toughness": "4",
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "ad17d302-0fe3-448f-8420-b7712f9ac164",
+        "component": "combo_piece",
+        "name": "Rhonas's Last Stand",
+        "type_line": "Sorcery",
+        "uri": "https://api.scryfall.com/cards/ad17d302-0fe3-448f-8420-b7712f9ac164"
+      },
+      {
+        "object": "related_card",
+        "id": "57708b3d-ddfb-4924-b5c9-123aa9e967ad",
+        "component": "token",
+        "name": "Snake",
+        "type_line": "Token Creature — Snake",
+        "uri": "https://api.scryfall.com/cards/57708b3d-ddfb-4924-b5c9-123aa9e967ad"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/57708b3d-ddfb-4924-b5c9-123aa9e967ad/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adb9b6c56-b4bd-4d6c-abfe-4771e53ce072&unique=prints",
+    "collector_number": "11",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Winona Nelson",
+    "artist_ids": [
+      "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+    ],
+    "illustration_id": "3b287df1-4d1d-4ee9-947a-b6e644ed68b4",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.32",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnake",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnake",
+      "edhrec": "https://edhrec.com/route/?cc=Snake"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136740%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Snake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Snake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "ae56d9e8-de05-456b-af32-b5992992ee15",
+    "oracle_id": "6f80811b-fdc7-4fb9-ac61-d8b51c28fe7f",
+    "multiverse_ids": [],
+    "tcgplayer_id": 136736,
+    "name": "Insect",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/ae56d9e8-de05-456b-af32-b5992992ee15",
+    "scryfall_uri": "https://scryfall.com/card/thou/12/insect?utm_source=api",
+    "layout": "token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.jpg?1562639978",
+      "normal": "https://cards.scryfall.io/normal/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.jpg?1562639978",
+      "large": "https://cards.scryfall.io/large/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.jpg?1562639978",
+      "png": "https://cards.scryfall.io/png/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.png?1562639978",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.jpg?1562639978",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/e/ae56d9e8-de05-456b-af32-b5992992ee15.jpg?1562639978"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Token Creature — Insect",
+    "oracle_text": "Flying, haste",
+    "power": "1",
+    "toughness": "1",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Haste"
+    ],
+    "all_parts": [
+      {
+        "object": "related_card",
+        "id": "ae56d9e8-de05-456b-af32-b5992992ee15",
+        "component": "token",
+        "name": "Insect",
+        "type_line": "Token Creature — Insect",
+        "uri": "https://api.scryfall.com/cards/ae56d9e8-de05-456b-af32-b5992992ee15"
+      },
+      {
+        "object": "related_card",
+        "id": "b398f212-62c3-40fa-acee-ccb4233b4954",
+        "component": "combo_piece",
+        "name": "The Locust God",
+        "type_line": "Legendary Creature — God",
+        "uri": "https://api.scryfall.com/cards/b398f212-62c3-40fa-acee-ccb4233b4954"
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/ae56d9e8-de05-456b-af32-b5992992ee15/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f80811b-fdc7-4fb9-ac61-d8b51c28fe7f&unique=prints",
+    "collector_number": "12",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Lius Lasahido",
+    "artist_ids": [
+      "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+    ],
+    "illustration_id": "4abb4063-b670-44cc-a07c-b4ecfa2a4793",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "1.57",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInsect",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInsect",
+      "edhrec": "https://edhrec.com/route/?cc=Insect"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F136736%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Insect&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Insect&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+  {
+    "object": "card",
+    "id": "37022fc1-6a13-4873-9eaf-b827da73328e",
+    "oracle_id": "96247b92-0c7a-4410-85a4-598916541b1d",
+    "multiverse_ids": [],
+    "tcgplayer_id": 138070,
+    "name": "Punchcard // Punchcard",
+    "lang": "en",
+    "released_at": "2017-07-14",
+    "uri": "https://api.scryfall.com/cards/37022fc1-6a13-4873-9eaf-b827da73328e",
+    "scryfall_uri": "https://scryfall.com/card/thou/13/punchcard-punchcard?utm_source=api",
+    "layout": "double_faced_token",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "cmc": 0.0,
+    "type_line": "Card // Card",
+    "color_identity": [],
+    "keywords": [],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Punchcard",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "normal": "https://cards.scryfall.io/normal/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "large": "https://cards.scryfall.io/large/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "png": "https://cards.scryfall.io/png/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.png?1752344264",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Punchcard",
+        "mana_cost": "",
+        "type_line": "Card",
+        "oracle_text": "",
+        "colors": [],
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "normal": "https://cards.scryfall.io/normal/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "large": "https://cards.scryfall.io/large/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "png": "https://cards.scryfall.io/png/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.png?1752344264",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1752344264"
+        }
+      }
+    ],
+    "legalities": {
+      "standard": "not_legal",
+      "future": "not_legal",
+      "historic": "not_legal",
+      "timeless": "not_legal",
+      "gladiator": "not_legal",
+      "pioneer": "not_legal",
+      "modern": "not_legal",
+      "legacy": "not_legal",
+      "pauper": "not_legal",
+      "vintage": "not_legal",
+      "penny": "not_legal",
+      "commander": "not_legal",
+      "oathbreaker": "not_legal",
+      "standardbrawl": "not_legal",
+      "brawl": "not_legal",
+      "alchemy": "not_legal",
+      "paupercommander": "not_legal",
+      "duel": "not_legal",
+      "oldschool": "not_legal",
+      "premodern": "not_legal",
+      "predh": "not_legal"
+    },
+    "games": [
+      "paper"
+    ],
+    "reserved": false,
+    "game_changer": false,
+    "foil": false,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set": "thou",
+    "set_name": "Hour of Devastation Tokens",
+    "set_type": "token",
+    "set_uri": "https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/thou?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/37022fc1-6a13-4873-9eaf-b827da73328e/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96247b92-0c7a-4410-85a4-598916541b1d&unique=prints",
+    "collector_number": "13",
+    "digital": false,
+    "rarity": "common",
+    "artist": "",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "promo_types": [
+      "setpromo"
+    ],
+    "prices": {
+      "usd": "0.06",
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    },
+    "related_uris": {
+      "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPunchcard%2B%252F%252F%2BPunchcard",
+      "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPunchcard%2B%252F%252F%2BPunchcard",
+      "edhrec": "https://edhrec.com/route/?cc=Punchcard+%2F%2F+Punchcard"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F138070%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Punchcard+%2F%2F+Punchcard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Punchcard+%2F%2F+Punchcard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]
