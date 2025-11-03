@@ -14,7 +14,8 @@ This repository contains comprehensive Magic: The Gathering reference materials 
 - `formats/formats.md` - ✅ Complete format specifications and rules
 - `formats/banned-restricted.md` - ✅ Current banned/restricted lists 
 - `formats/commander-color-identity.md` - ✅ Comprehensive Commander color identity guide
-- `card-library/` - ✅ Comprehensive card database by set (44+ sets)
+- `card-library/` - ✅ Comprehensive card database with 970 paper-playable MTG sets
+- `card-library/mtg_sets.txt` - ✅ Complete list of all 971 paper set codes for reference
 - `scripts/fetch_set_cards.py` - ✅ Tool to fetch new sets from Scryfall API
 - `scripts/search_cards.py` - ✅ Efficient card search with ASCII display
 - `rules/comprehensive-rules-summary.md` - 📋 Key rules and interactions (planned)
@@ -128,11 +129,12 @@ Comprehensive Commander/EDH deck legality validator
 - Time procedures
 
 ### Card Legality
-- **Current as of September 2025**
+- **Current as of November 2025**
 - Format-specific banned/restricted lists
-- Set legality by format
-- Promo card legality
+- Set legality by format (970 paper-playable sets)
+- Promo card legality across all formats
 - Un-set and specialty product rules
+- Excludes digital-only Arena cards (Alchemy rebalances, Historic Anthology)
 
 ## Key Features for Claude Code
 
@@ -160,12 +162,16 @@ All files are organized with clear headers, consistent formatting, and searchabl
 - **As needed**: Add new common rulings and interactions
 
 ## Version Information
-- **Last Updated**: September 12, 2025
+- **Last Updated**: November 3, 2025
 - **Rules Version**: Comprehensive Rules effective July 25, 2025
-- **Card Database**: ~13,100+ cards across 48 complete sets
-- **Format Coverage**: Complete Modern (2003+), extensive Legacy, current Standard
+- **Card Database**: 970 paper-playable sets from Limited Edition Alpha (1993) through Edge of Eternities (2025)
+- **Database Coverage**: Complete Modern, Legacy, Vintage, Pioneer, Standard, plus all Commander products, tokens, promos, and supplemental releases
+- **Excluded**: Digital-only Arena sets (Alchemy, Historic Anthology, Arena Anthology)
+- **Format Coverage**: Complete Modern (2003+), extensive Legacy/Vintage, current Standard, all Commander products
 
 ## Complete Set Database with Release Dates
+
+**Note**: This repository contains **970 complete paper-playable MTG sets** spanning from Limited Edition Alpha (1993) through Edge of Eternities (2025). Below are highlighted examples of major sets included. For the complete list, see `card-library/mtg_sets.txt`.
 
 ### Current Standard Sets (2025):
 - **Edge of Eternities (EOE)** - August 1, 2025
@@ -224,12 +230,20 @@ All files are organized with clear headers, consistent formatting, and searchabl
 - **Time Spiral Remastered (TSR)** - March 19, 2021
 - **Modern Masters (MMA)** - June 7, 2013
 - **Eternal Masters (EMA)** - June 10, 2016
-- **Historic Sets Available**:
-  - Modern cornerstones: Mirrodin, Time Spiral, Lorwyn, Scars of Mirrodin
-  - Classic blocks: Zendikar, Innistrad, Return to Ravnica, Theros, Khans
-  - Recent Standard: Dominaria, Guilds of Ravnica, War of the Spark, Throne of Eldraine
-  - Master sets: Modern Masters, Eternal Masters, Time Spiral Remastered
-  - Commander staples: Alara block, New Phyrexia, supplemental sets
+- **Amonkhet Remastered (AKR)**, **Kaladesh Remastered (KLR)**, **Dominaria Remastered (DMR)**
+
+### Comprehensive Database Coverage:
+The card library includes **all paper Magic sets**, including:
+- **All Standard-legal sets** from Alpha through current releases
+- **All Modern-legal sets** (2003-present): Complete Mirrodin through Edge of Eternities
+- **Legacy/Vintage staples**: Power Nine, Reserved List cards, dual lands, and classic sets
+- **Commander products**: Every Commander precon release, Anthology sets, and Commander Legends
+- **Supplemental sets**: Conspiracy, Battlebond, Modern Horizons series, Universes Beyond
+- **Tokens and emblems**: Complete token sets for every major release
+- **Promotional cards**: Judge Gifts, FNM Promos, Arena League, Grand Prix, MagicFest
+- **Special editions**: Secret Lair, Collector's Edition, 30th Anniversary
+- **Historic releases**: Chronicles, Anthologies, Duel Decks, From the Vault
+- **Crossover sets**: Lord of the Rings, Doctor Who, Fallout, Warhammer 40K, Assassin's Creed, Marvel, TMNT, Avatar
 
 ## Contributing
 When updating this repository:
